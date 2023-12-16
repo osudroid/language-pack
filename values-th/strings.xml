@@ -18,7 +18,7 @@
 
     <string name="message_error_mapmode">โหมดของ beatmap ไม่ถูกต้อง: %s</string>
 
-    <string name="message_error_connect">ไม่สามารถเชื่อมต่อกับเซอร์เวอร์</string>
+    <string name="message_error_connect">ไม่สามารถเชื่อมต่อกับเซิฟเวอร์</string>
 
     <string name="message_error_connectlimit">ไม่สามารถเชื่อมต่อได้ภายในจำนวนครั้งที่กำหนดไว้</string>
 
