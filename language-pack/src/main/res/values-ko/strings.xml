@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="message_error">에러: %s</string>
+
+    <string name="message_error">오류: %s</string>
     <string name="message_error_createdir">%s 를 만들 수 없습니다.</string>
     <string name="message_error_multitouch">해당 기기에서는 멀티터치를 지원하지 않습니다.</string>
     <string name="message_error_audio">오디오 설정에 실패하였습니다. 노래를 다시 시작해 주세요.</string>
     <string name="message_error_sdcard">외부 저장소가 마운트되지 않았습니다.</string>
-    <string name="message_error_sdcardread">외부 저장소가 읽기전용으로 되어있습니다.</string>
+    <string name="message_error_sdcardread">외부 저장소가 읽기 전용으로 되어있습니다.</string>
     <string name="message_error_open">%s 를 열 수 없습니다.</string>
     <string name="message_error_mapmode">인식 불가능한 맵 모드: %s</string>
     <string name="message_error_connect">서버에 연결할 수 없습니다.</string>
     <string name="message_error_connectlimit">연결 수 제한에 도달하여 오류가 발생하였습니다.</string>
     <string name="message_error_download">%s 를 다운로드 할 수 없습니다.</string>
     
-    <string name="message_standardplayer">기본 플레이어로 전환</string>
+    <string name="message_standardplayer">Standard 플레이어로 전환</string>
     <string name="message_connecting">서버에 연결중...</string>
     <string name="message_downloaded">%s 다운로드 완료!</string>
 
@@ -22,17 +23,30 @@
     <string name="message_lib_cleared">캐시 초기화 완료</string>
     <string name="message_lib_importing">비트맵 추출 중...</string>
     <string name="message_lib_importing_several">%s 만큼의 압축 된 비트맵이 발견되었습니다. 추출 중...</string>
-    <string name="message_lib_imported">\"%s\" 이 추출되었습니다!</string>
-  <string name="message_loading_skin">새로운 스킨 적용</string>
-    
+    <string name="message_lib_imported">\"%s\" 이(가) 추출되었습니다!</string>
     
     <string name="dialog_playername_title">플레이어 이름을 입력해주세요.</string>
-    <string name="dialog_playername_message">이 이름은 오프라인 점수 기록을 위해 사용됩니다.</string>
+    <string name="dialog_playername_message">당신의 플레이어 점수 기록을 위해 사용됩니다.</string>
     <string name="dialog_ok">확인</string>
     <string name="dialog_cancel">취소</string>
     <string name="dialog_search_title">검색</string>
     <string name="dialog_search_message">검색어를 입력해 주세요.</string>
     <string name="dialog_register">회원가입</string>
+
+    <string name="dialog_delete_pp_title">PP를 초기화 하시겠습니까??</string>
+	<string name="dialog_delete_pp_make_sure">정말로?</string>
+	<string name="dialog_delete_pp_deleted">PP가 초기화 되었습니다.</string>
+
+    <string name="favorite_folder">풀더:</string>
+	<string name="favorite_default">기본</string>
+	<string name="favorite_select">선택</string>
+	<string name="favorite_delete">파일 삭제</string>
+	<string name="favorite_add">추가</string>
+	<string name="favorite_remove">삭제</string>
+	<string name="favorite_new_folder">새 풀더 만들기</string>
+	<string name="favorite_warning_on_delete_default">기본 풀더는 삭제 할 수 없습니다.</string>
+	<string name="favorite_ensure">정말로 지우시겠습니까?</string>
+	<string name="favorite_manage">비트맵 풀더 관리</string>
     
    	<string name="menu_score" formatted="false">점수: %s (%dx)</string>
    	<string name="menu_creator">제작자: %s</string>
@@ -44,10 +58,15 @@
    	<string name="menu_properties_title">노래 정보</string>
    	<string name="menu_properties_offset">노래 오프셋:</string>
    	<string name="menu_properties_tofavs">즐겨찾기에 추가</string>
-   	<string name="menu_properties_fromfavs">즐겨찾기에서 제거</string>
-   	<string name="menu_properties_delete">비트맵 제거</string>
+   	<string name="menu_properties_fromfavs">즐겨찾기에서 삭제</string>
+   	<string name="menu_properties_delete">비트맵 삭제</string>
    	<string name="menu_properties_delete_confirm">정말로 지우시겠습니까?</string>
    	
+	<string name="menu_deletescore_title">선택한 점수 삭제</string>
+	<string name="menu_deletescore_delete">삭제</string>
+	<string name="menu_deletescore_delete_confirm">정말로 지우시겠습니까?</string>
+	<string name="menu_deletescore_delete_success">점수가 삭제 되었습니다!</string>
+
    	<string name="menu_search_title">검색 옵션</string>
    	<string name="menu_search_filter">검색어:</string>
    	<string name="menu_search_sort">분류:</string>
@@ -58,21 +77,10 @@
    	<string name="menu_search_favsenabled">즐겨찾기만 검색: 활성화</string>
    	<string name="menu_search_favsdisabled">즐겨찾기만 검색: 비활성화</string>
    	
-   	<string name="downloader_page" formatted="false">%d 페이지 %d 페이지 중</string>
+   	<string name="downloader_page" formatted="false">페이지 %d 중 %d </string>
    	<string name="downloader_nomaps">비트맵이 발견되지 않았습니다.</string>
 
-    <string name="favorite_folder">폴더:</string>
-    <string name="favorite_default">기본</string>
-    <string name="favorite_select">선택</string>
-    <string name="favorite_delete">폴더 삭제</string>
-    <string name="favorite_add">추가</string>
-    <string name="favorite_remove">제거</string>
-    <string name="favorite_new_folder">새 폴더 만들기</string>
-    <string name="favorite_warning_on_delete_default">기본 폴더는 삭제할 수 없습니다.</string>
-    <string name="favorite_ensure">정말로 삭제하시겠습니까?</string>
-    <string name="favorite_manage">비트맵 폴더 관리</string>
-
-    <string name="hint_login">아이디</string>
+    <string name="hint_login">로그인</string>
     <string name="hint_password">비밀번호</string>
     <string name="hint_confirm">비밀번호 확인</string>
     <string name="hint_email">이메일</string>
@@ -83,45 +91,67 @@
     <string name="replay_wrongmap">리플레이와 현재 비트맵이 일치하지 않습니다.</string>
     <string name="replay_corrupted">리플레이 파일 손상</string>
 
+
     <string name="online_registration">회원가입</string>
-    <string name="online_registration_process">가입 처리중...</string>
-    <string name="online_loadrecord">Loading record details...</string>
+    <string name="online_registration_process">가입 처리 중...</string>
+    <string name="online_loadrecord">기록 세부정보 로딩 중...</string>
     <string name="online_invlogin">아이디 사용불가</string>
     <string name="online_invpassword">비밀번호는  4-32 자리만 가능합니다.</string>
     <string name="online_invconfirm">비밀번호가 일치하지 않습니다.</string>
     <string name="online_invemail">잘못된 이메일</string>
-    <string name="online_regcomplete">가입 성공. 로그인하려면 재시작하세요.</string>
+    <string name="online_regcomplete">가입에 성공하였습니다. 로그인하려면 앱을 재시작하세요.</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">색상 선택기</string>
     <string name="press_color_to_apply">색상을 눌러 선택하세요.</string>
 
+    <string name="network_not_connected">네트워크 연결에 실패했습니다. 네트워크 설정을 확인하세요.</string>
+	<string name="xml_parser_failed">데이터 구문 분석이 다릅니다. 데이터 구문을 확인하세요.</string>
+	<string name="io_exception_error">파일 스트림 예외</string>
+	<string name="http_status_code_error">네트워크 이상, 오류 코드：%d</string>
+	<string name="http_exception_error">네트워크 이상, 요청 시간 초과</string>
+	<string name="socket_exception_error">네트워크 이상, 데이터 읽기 시간 초과</string>
+
+	<string name="binfoStr1" formatted="false">길이: %s BPM: %s 콤보: %d</string>
+	<string name="binfoStr2" formatted="false">서클: %d 슬라이더: %d 스피너: %d (맵ID: %d)</string>
+
+	<!-- Color -->
+	<color name="notify_title_color">#fff</color>
+
     <!-- Crash -->
+    <string name="crash">죄송합니다. 비정상적인 프로그램이 종료됩니다.</string>
     <string name="app_run_code_error">치명적 오류 발생</string>
     <string name="osu_parser_error">맵 해석 오류</string>
-    <string name="require_storage_permission">저장소 권한이 필요합니다, 직접 허가한 후 재시작해주세요.</string>
+    <string name="require_storage_permission">저장소 권한이 없으면 게임이 실행되지 않습니다. 수동으로 활성화해 주세요.</string>
 
-    <string name="update_dialog_title">업데이트 가능</string>
+    <string name="update_dialog_title">새로운 버전 출시</string>
     <string name="update_dialog_button_confirm">지금 업데이트</string>
     <string name="update_dialog_button_later">나중에</string>
     <string name="update_info_checking">새로운 업데이트를 확인중, 잠시만 기다려주세요.</string>
     <string name="update_info_runs_latest">최신 버전을 사용중입니다.</string>
-    <string name="menu_deletescore_title">점수 삭제</string>
-    <string name="menu_deletescore_delete">삭제</string>
-    <string name="menu_deletescore_delete_confirm">정말로 삭제하시겠습니까?</string>
-    <string name="menu_deletescore_delete_success">점수가 삭제되었습니다.</string>
-    <string name="beta_check_upgrade_error">새 버전 확인 실패, 잠시 후 다시 시도하세요.</string>
+
+    <string name="test_ed_storyboard">스토리보드 보기 (실험)</string>
+
+	<!-- new data after 1.6.7(beta1) -->
     <string name="beta_checking_upgrade">업데이트 확인중...</string>
-    <string name="beta_click_to_continue">계속</string>
+    <string name="beta_check_upgrade_error">새 버전 확인 실패, 잠시 후 다시 시도하세요.</string>
+    <string name="beta_you_are_the_latest_version">최신 버전을 사용중입니다.</string>
+    <string name="beta_downloading">다운로드중</string>
+    <string name="beta_click_to_view">눌러서 확인</string>
     <string name="beta_click_to_install">설치</string>
     <string name="beta_click_to_retry">재시도</string>
-    <string name="beta_click_to_view">눌러서 확인</string>
-    <string name="beta_download_error">다운로드 실패</string>
+    <string name="beta_click_to_continue">계속</string>
     <string name="beta_download_success">다운로드 성공</string>
-    <string name="beta_downloading">다운로드중</string>
-    <string name="beta_have_new_version">새 버전 업데이트 가능</string>
-    <string name="beta_you_are_the_latest_version">이미 최신 버전을 사용중입니다.</string>
+    <string name="beta_download_error">다운로드 실패</string>
+    <string name="beta_have_new_version">새로운 버전 출시</string>
+    <string name="menu_map_updatable">비트맵 업데이트</string>
+    <string name="message_loading_skin">새로운 스킨 적용</string>
+
+  	<string name="message_error_dir_not_found">경로를 찾을 수 없습니다</string>
+
+	<string name="message_update_hint">길게 눌러 업데이트</string>
+	<string name="message_update_download_success">업데이트 성공!</string>
+	<string name="message_update_download_fail">업데이트 실패, 잠시 후 다시 시도하세요/</string>
+	<string name="message_update_ppy_unavailable">이 맵은 ppy에서 다운로드 할 수 없습니다. ppy\n\n</string>
 
 </resources>
-
-
