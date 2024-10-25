@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--NOTE: these strings are in the same order as game settings! -->
+<!-- these strings are in the same order as game settings! -->
 
     <string-array name="placeholder_array">
         <item>placeholder</item>
