@@ -169,8 +169,8 @@
     <string name="opt_animate_combo_text_title">コンボテキストのアニメーション</string>
     <string name="opt_animate_combo_text_summary">comboが更新されるたび、comboテキストのアニメーションをオンにします。</string>
 
-    <string name="opt_snakingInSliders_title">Use snaking in sliders</string>
-    <string name="opt_snakingInSliders_summary">Enable sliders gradually snaking from start</string>
+    <string name="opt_snakingInSliders_title">動くスライダー</string>
+    <string name="opt_snakingInSliders_summary">スライダーの生成に、軌道にあわせて始点と終点を繋ぐアニメーションをオンにします。</string>
 
     <string name="opt_noChangeDimInBreaks_title">休憩中背景の明るさ維持</string>
     <string name="opt_noChangeDimInBreaks_summary">プレイ中、休憩中に背景の明るさを変更しません。</string>
@@ -257,11 +257,11 @@
 <!-- Input -->
     <!-- Playfield -->
     <string name="opt_category_playfield">プレイ領域</string>
-    <string name="opt_setplayfield_title">プレイ領域のサイズ調整</string>
-    <string name="opt_setplayfield_summary">プレイ領域のサイズを調整します。</string>
+    <string name="opt_setplayfield_title">プレイ領域の調整</string>
+    <string name="opt_setplayfield_summary">プレイ領域の調整します。</string>
 
-    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
-    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <string name="opt_shrink_playfield_downwards_title">プレイ領域のサイズ調整</string>
+    <string name="opt_shrink_playfield_downwards_summary">プレイ領域のサイズを調整します。</string>
 
     <string name="block_area_preference_title">入力無視エリア</string>
     <string name="block_area_preference_summary">プレイ中タッチ入力を無視するエリアを設定します。</string>
