@@ -154,8 +154,8 @@
 
     <!-- Animations and Effects -->
     <string name="opt_category_animations">애니메이션 및 효과</string>
-    <string name="opt_dim_hit_objects_title">Enable hit objects dim</string>
-    <string name="opt_dim_hit_objects_summary">Dim hit objects when they are ready to be hit.</string>
+    <string name="opt_dim_hit_objects_title">히트 오브젝트 밝기 활성화</string>
+    <string name="opt_dim_hit_objects_summary">히트 오브젝트들을 맞출때 밝기를 내립니다.</string>
 
     <string name="opt_combo_burst_title">콤보 버스트</string>
     <string name="opt_combo_burst_summary">콤보 버스트를 표시합니다.</string>
