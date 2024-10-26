@@ -127,8 +127,8 @@
     <string name="opt_averageoffset_title">평균 오프셋</string>
     <string name="opt_averageoffset_summary">게임 플레이 중 히트의 평균 오프셋을 표시합니다. 값이 높을수록 히트가 더 많이 오프셋됩니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
 
-    <string name="opt_unstablerate_title">불안정한 비율</string>
-    <string name="opt_unstablerate_summary">게임 플레이 중 불안정한 비율을 표시합니다. 값이 높을수록 타격이 더 일관되지 않음을 의미합니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
+    <string name="opt_unstablerate_title">불안정한 비율(UR)</string>
+    <string name="opt_unstablerate_summary">게임 플레이 중 불안정한 비율(UR)을 표시합니다. 값이 높을수록 타격이 더 일관되지 않음을 의미합니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
 
     <string name="opt_display_score_statistics_title">점수 통계 표시</string>
     <string name="opt_display_score_statistics_summary">결과 화면에 점수 통계를(별점, PP 등) 표시합니다.</string>
