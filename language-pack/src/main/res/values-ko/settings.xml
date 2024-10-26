@@ -268,8 +268,8 @@
 
     <!-- Gameplay -->
     <string name="opt_category_gameplay">게임플레이</string>
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">슬라이더 및 스피너 잠금 해제(언랭크)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">슬라이더 및 스피너 잠금을 해제합니다. 2B 스타일 플레이가 가능합니다.</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">동기화</string>
