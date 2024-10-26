@@ -12,8 +12,8 @@
     <string name="opt_stayonline_title">自動ログイン</string>
     <string name="opt_stayonline_summary">登録されたアカウントで自動ログインします。</string>
 
-    <string name="opt_loadavatar_title">アバターの読み込み</string>
-    <string name="opt_loadavatar_summary">Wi‐Fiを利用していなくてもアバターを読み込みます。</string>
+    <string name="opt_loadavatar_title">他のプレイヤーのアバター表示</string>
+    <string name="opt_loadavatar_summary">オンラインリーダーボードに他のプレイヤーのアバターを表示します。</string>
 
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">グローバルビートマップリーダーボードの並び順</string>
     <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">グローバルビートマップリーダーボードの並び順を選択します。</string>
