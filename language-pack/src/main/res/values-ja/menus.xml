@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Song Select -->
-    <string name="menu_score" formatted="false">Score: %s (%dx)</string>
-    <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
-    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_score" formatted="false">スコア: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">パフォーマンス: %spp (%dx)</string>
+    <string name="menu_creator">製作者: %s</string>
 
-    <string name="menu_mod_back">Back</string>
-    <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
-    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_mod_back">戻る</string>
+    <string name="menu_mod_multiplier" formatted="false">スコア %.2fx</string>
+    <string name="menu_mod_reset">全Mod初期化</string>
 
-    <string name="menu_properties_title">Song properties</string>
-    <string name="menu_properties_offset">Song offset:</string>
-    <string name="menu_properties_tofavs">Add to favorites</string>
-    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_properties_title">曲の詳細</string>
+    <string name="menu_properties_offset">オフセット:</string>
+    <string name="menu_properties_tofavs">お気に入りに追加</string>
+    <string name="menu_properties_delete">ビートマップ削除</string>
 
-    <string name="menu_deletescore_delete">Delete</string>
-    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_deletescore_delete">削除</string>
+    <string name="menu_deletescore_delete_success">スコアが削除されました。</string>
 
-    <string name="menu_search_filter">Search for...</string>
-    <string name="menu_search_sort_title">Title</string>
-    <string name="menu_search_sort_date">Date</string>
-    <string name="menu_search_sort_creator">Creator</string>
-    <string name="menu_search_sort_artist">Artist</string>
+    <string name="menu_search_filter">検索...</string>
+    <string name="menu_search_sort_title">タイトル</string>
+    <string name="menu_search_sort_date">日時</string>
+    <string name="menu_search_sort_creator">製作者</string>
+    <string name="menu_search_sort_artist">アーティスト</string>
     <string name="menu_search_sort_bpm">Bpm</string>
-    <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
-    <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Length</string>
-    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
-    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="menu_search_sort_droid_stars">osu!droid 難易度</string>
+    <string name="menu_search_sort_standard_stars">osu!standard 難易度</string>
+    <string name="menu_search_sort_length">長さ</string>
+    <string name="binfoStr1" formatted="false">長さ: %s BPM: %s コンボ: %d</string>
+    <string name="binfoStr2" formatted="false">サークル: %d スライダー: %d スピナー: %d (マップID: %d)</string>
     <!-- End Song Select -->
 
     <!-- Filter Menu -->
-    <string name="favorite_default">Default</string>
-    <string name="favorite_new_folder">Create new folder</string>
-    <string name="favorite_ensure">Are you sure?</string>
-    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="favorite_default">デフォルト</string>
+    <string name="favorite_new_folder">フォルダーを追加</string>
+    <string name="favorite_ensure">本当によろしいですか。</string>
+    <string name="favorite_manage">フォルダーを管理する</string>
 
 
 <!-- Score Export/Import -->
-    <string name="frg_score_menu_title">Score</string>
-    <string name="frg_score_menu_export_score">Export Score</string>
-    <string name="frg_score_menu_export_failed">Failed to export replay!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">Replay is saved to %s</string>
+    <string name="frg_score_menu_title">スコア</string>
+    <string name="frg_score_menu_export_score">スコアを保存する</string>
+    <string name="frg_score_menu_export_failed">リプレイ保存に失敗しました！</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">リプレイが保存されました。ファイル名: %s</string>
 
 <!-- Mod Menu Customizations -->
     <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">Show Scoreboard</string>
+    <string name="opt_show_scoreboard_title">スコアボード表示</string>
     <!-- Speed -->
-    <string name="opt_changespeed_title">Speed Modify</string>
-    <string name="opt_enablenc_whenspeedchange_title">Enable pitch shift in speed modify</string>
+    <string name="opt_changespeed_title">速度調整</string>
+    <string name="opt_enablenc_whenspeedchange_title">速度調整の際、ピッチシフトを適用します。</string>
     <!-- Difficulty-->
-    <string name="opt_forcear_title">Force AR</string>
-    <string name="opt_forceod_title">Force OD</string>
-    <string name="opt_forcehp_title">Force HP</string>
-    <string name="opt_forcecs_title">Force CS</string>
+    <string name="opt_forcear_title">強制 AR</string>
+    <string name="opt_forceod_title">強制 OD</string>
+    <string name="opt_forcehp_title">強制 HP</string>
+    <string name="opt_forcecs_title">強制 CS</string>
     <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">FL Follow delay</string>
+    <string name="opt_flashlight_follow_delay_title">FL遅延</string>
 
     <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Some mods have been disabled as all forced difficulty statistics are enabled.</string>
+    <string name="force_diffstat_mod_unpickable">すべての難易度パラメーターが強制適用されたため、いくつかのmodがオフになりました。</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
