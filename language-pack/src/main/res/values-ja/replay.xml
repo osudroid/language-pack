@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Import -->
-    <string name="act_import_replay">Import replay into osu!droid</string>
-    <string name="invalid_edr_file">Invalid repay!</string>
-    <string name="failed_to_import_edr">Failed to import replay!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
-    <string name="import_edr_successfully">Import replay successfully!</string>
+    <string name="act_import_replay">osu!droidリプレイを読み込む</string>
+    <string name="invalid_edr_file">リプレイファイルに不具合があります！</string>
+    <string name="failed_to_import_edr">リプレイの読み込みに失敗しました。</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">リプレイの読み込みに失敗しました。: %s</string>
+    <string name="import_edr_successfully">リプレイ読み込みに成功しました。</string>
 
-    <string name="replay_import_success">Replay imported successfully!</string>
-    <string name="replay_import_failed">Replay import failed: %s</string>
+    <string name="replay_import_success">リプレイ読み込みに成功しました。</string>
+    <string name="replay_import_failed">リプレイの読み込みに失敗しました。: %s</string>
 
     <!-- Save -->
-    <string name="message_save_replay_successful">Save failed replay success!</string>
-    <string name="message_save_replay_failed">Save replay failed</string>
+    <string name="message_save_replay_successful">失敗リプレイの保存に成功しました！</string>
+    <string name="message_save_replay_failed">リプレイの保存に失敗しました。</string>
 
-    <string name="replay_invalid">Cannot load replay</string>
-    <string name="replay_cantdownload">Cannot download replay</string>
-    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
-    <string name="replay_corrupted">Replay file is corrupted</string>
+    <string name="replay_invalid">リプレイのロードに失敗しました。</string>
+    <string name="replay_cantdownload">リプレイのダウンロードに失敗しました。</string>
+    <string name="replay_wrongmap">現在選択しているマップに対応するリプレイではありません。</string>
+    <string name="replay_corrupted">リプレイファイルに不具合があります。</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
