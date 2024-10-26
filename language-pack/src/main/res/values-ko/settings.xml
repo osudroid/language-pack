@@ -13,7 +13,7 @@
     <string name="opt_stayonline_summary">osu!droid 서버로 연결합니다.</string>
 
     <string name="opt_loadavatar_title">아바타 불러오기</string>
-    <string name="opt_loadavatar_summary">온라인 리더보드 아바타를 불러오기</string>
+    <string name="opt_loadavatar_summary">온라인 리더보드 아바타를 불러옵니다.</string>
 
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">글로벌 비트맵 리더보드 스코어링 모드</string>
     <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">글로벌 비트맵 리더보드의 스코어링 모드를 선택하세요.</string>
@@ -188,12 +188,12 @@
 
 <!-- Audio -->
     <!-- Volume -->
-    <string name="opt_category_volume">불륨</string>
+    <string name="opt_category_volume">볼륨</string>
     <string name="opt_bgm_volume_title">음악 볼륨</string>
     <string name="opt_bgm_volume_summary">배경음악 볼륨을 조정합니다. </string>
 
-    <string name="opt_sound_volume_title">사운드 불륨</string>
-    <string name="opt_sound_volume_summary">효과음이나 타격음의 음량을 조정합니다.</string>
+    <string name="opt_sound_volume_title">사운드 볼륨</string>
+    <string name="opt_sound_volume_summary">효과음이나 타격음의 볼륨을 조정합니다.</string>
 
     <!-- Offset-->
     <string name="opt_category_offset">오프셋</string>
