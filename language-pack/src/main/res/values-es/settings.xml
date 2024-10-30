@@ -292,6 +292,9 @@
     <string name="opt_directory_summary">(Por defecto: /sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Intenta forzar la máxima tasa de refresco que el dispositivo utiliza. Desactivar si experimenta parpadeos de pantalla.</string>
+
     <string name="opt_safe_beatmap_bg_title">Usar el fondo de la skin</string>
     <string name="opt_safe_beatmap_bg_summary">Esto hará que siempre se use el fondo de la skin que estés utilizando mientras juegas</string>
 
