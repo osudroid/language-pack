@@ -292,6 +292,9 @@
     <string name="opt_directory_summary">비트맵이 포함된 디렉토리 경로를 설정합니다. (기본: /mnt/sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+
     <string name="opt_safe_beatmap_bg_title">안전한 비트맵 배경화면</string>
     <string name="opt_safe_beatmap_bg_summary">모든 비트맵 배경을 스킨의 메뉴 배경 이미지로 변경됩니다.</string>
 

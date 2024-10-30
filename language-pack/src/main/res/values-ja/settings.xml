@@ -292,6 +292,9 @@
     <string name="opt_directory_summary">ビートマップが含まれたディレクトリを設定してください。 (デフォルト: /sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+
     <string name="opt_safe_beatmap_bg_title">ビートマップ背景画像削除</string>
     <string name="opt_safe_beatmap_bg_summary">全ビートマップの背景画像を適用中のスキンのmenu-backgroundに統一します。</string>
 
