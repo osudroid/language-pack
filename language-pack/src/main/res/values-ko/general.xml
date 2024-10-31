@@ -55,7 +55,7 @@
     <string name="ranked_status_graveyard"><font color="#FFFFFF">무덤에 감</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">캐시가 지워졌습니다.</string>
+    <string name="library_cleared">캐시가 삭제되었습니다.</string>
     <string name="library_importing">비트맵 가져오는 중...</string>
     <string name="library_importing_several">%개의 보관된 비트맵을 찾았습니다. 가져오는 중...</string>
     <string name="library_skin_importing_several">%s개의 보관된 스킨을 찾았습니다. 가져오는 중...</string>
