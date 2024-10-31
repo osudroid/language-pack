@@ -59,8 +59,8 @@
     <string name="mp_room_category_teams_title">팀</string>
     <string name="mp_room_category_teams_summary">팀을 변경합니다.</string>
     <string-array name="mp_team_names">
-        <item>Red</item>
-        <item>Blue</item>
+        <item>레드(Red)</item>
+        <item>블루(Blue)</item>
     </string-array>
     <string-array name="mp_team_values">
         <item>0</item>
