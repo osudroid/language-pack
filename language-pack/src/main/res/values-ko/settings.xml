@@ -260,8 +260,8 @@
     <string name="opt_setplayfield_title">플레이영역 크기 설정</string>
     <string name="opt_setplayfield_summary">플레이영역 크기를 변경합니다.</string>
 
-    <string name="opt_shrink_playfield_downwards_title">플레이영역를 아래로 축소</string>
-    <string name="opt_shrink_playfield_downwards_summary">플레이영역를 아래로 축소합니다.</string>
+    <string name="opt_shrink_playfield_downwards_title">플레이영역을 아래로 축소</string>
+    <string name="opt_shrink_playfield_downwards_summary">플레이영역을 아래로 축소합니다.</string>
 
     <string name="block_area_preference_title">입력 블록 영역 관리</string>
     <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
@@ -292,8 +292,8 @@
     <string name="opt_directory_summary">비트맵이 포함된 디렉터리 경로를 설정합니다. (기본: /mnt/sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
-    <string name="opt_force_max_refresh_rate_title">최대 새로 고침 빈도 강제적용</string>
-    <string name="opt_force_max_refresh_rate_summary">사용할 기기의 최대 새로 고침 빈도를 강제로 적용합니다. 화면 깜박임이 발생하면 비활성화하세요.</string>
+    <string name="opt_force_max_refresh_rate_title">최대 주사율 강제적용</string>
+    <string name="opt_force_max_refresh_rate_summary">사용할 기기의 최대 주사율을 강제로 적용합니다. 화면 깜박임이 발생하면 비활성화하세요.</string>
 
     <string name="opt_safe_beatmap_bg_title">안전한 비트맵 배경화면</string>
     <string name="opt_safe_beatmap_bg_summary">모든 비트맵 배경을 스킨의 메뉴 배경 이미지로 변경됩니다.</string>
