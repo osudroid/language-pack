@@ -244,7 +244,7 @@
     <!-- Metadata -->
     <string name="opt_category_metadata">메타데이터</string>
     <string name="force_romanized">로마자 표기</string>
-    <string name="force_romanized_summary">일본어 또는 중국어 제목을 읽을 수 없는 경우 메타데이터에 로마자만 사용하도록 강제합니다.</string>
+    <string name="force_romanized_summary">일본어 또는 중국어 제목을 읽을 수 없는 경우 강제로 메타데이터에 로마자만 사용하도록 합니다.</string>
 
     <!-- Storage -->
     <string name="opt_category_storage">저장</string>
@@ -256,12 +256,12 @@
 
 <!-- Input -->
     <!-- Playfield -->
-    <string name="opt_category_playfield">플레이필드</string>
-    <string name="opt_setplayfield_title">플레이필드 크기 설정</string>
-    <string name="opt_setplayfield_summary">플레이필드 크기를 변경합니다.</string>
+    <string name="opt_category_playfield">플레이영역</string>
+    <string name="opt_setplayfield_title">플레이영역 크기 설정</string>
+    <string name="opt_setplayfield_summary">플레이영역 크기를 변경합니다.</string>
 
-    <string name="opt_shrink_playfield_downwards_title">플레이필드를 아래로 축소</string>
-    <string name="opt_shrink_playfield_downwards_summary">플레이필드를 아래로 축소합니다.</string>
+    <string name="opt_shrink_playfield_downwards_title">플레이영역를 아래로 축소</string>
+    <string name="opt_shrink_playfield_downwards_summary">플레이영역를 아래로 축소합니다.</string>
 
     <string name="block_area_preference_title">입력 블록 영역 관리</string>
     <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
@@ -288,7 +288,7 @@
     <string name="opt_skin_top_path_title">스킨 디렉터리</string>
     <string name="opt_skin_top_path_summary">스킨을 포함하는 디렉터리 경로를 설정합니다. (기본: /sdcard/osu!droid/Skin)</string>
 
-    <string name="opt_directory_title">비트맵 경로</string>
+    <string name="opt_directory_title">비트맵 디렉터리</string>
     <string name="opt_directory_summary">비트맵이 포함된 디렉터리 경로를 설정합니다. (기본: /mnt/sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
