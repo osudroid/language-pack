@@ -39,8 +39,8 @@
 
     <!-- Community-->
     <string name="opt_category_community">Сообщество</string>
-    <string name="opt_receive_announcements_title">Получать объявления</string>
-    <string name="opt_receive_announcements_summary">Получайте уведомления об объявлениях, событиях и т. д.</string>
+    <string name="opt_receive_announcements_title">Получать анонсы</string>
+    <string name="opt_receive_announcements_summary">Получайте уведомления о анонсах, событиях и т. д.</string>
 
     <!-- Updates -->
     <string name="opt_category_updates">Обновления</string>
