@@ -63,7 +63,7 @@
     <string name="block_area_editor_fragment_done">Готово</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">Доступно ново обновление</string>
+    <string name="update_dialog_message">Доступно новое обновление</string>
     <string name="update_dialog_button_update">Обновить</string>
     <string name="update_info_checking">Проверка обновлений...</string>
     <string name="update_info_check_failed">Не удалось проверить обновления. Сервер может быть недоступен или что-то не так с вашим соединением.</string>
