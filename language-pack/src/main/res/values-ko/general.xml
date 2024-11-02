@@ -38,14 +38,14 @@
     <!-- Ranked status -->
     <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
     <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
-    <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">퀄리파이 됨</font></string>
     <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
-    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
-    <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
-    <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">대기 중</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">제작 중(WIP)</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">무덤에 감</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">캐시가 지워졌습니다.</string>
+    <string name="library_cleared">캐시가 삭제되었습니다.</string>
     <string name="library_importing">비트맵 가져오는 중...</string>
     <string name="library_importing_several">%개의 보관된 비트맵을 찾았습니다. 가져오는 중...</string>
     <string name="library_skin_importing_several">%s개의 보관된 스킨을 찾았습니다. 가져오는 중...</string>
