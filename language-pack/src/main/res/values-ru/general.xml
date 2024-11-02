@@ -66,7 +66,7 @@
     <string name="update_dialog_message">Доступно ново обновление</string>
     <string name="update_dialog_button_update">Обновить</string>
     <string name="update_info_checking">Проверка обновлений...</string>
-    <string name="update_info_check_failed">Не удалосб проверить обновления. Сервер может быть недоступен или что-то не так с вашим соединением.</string>
+    <string name="update_info_check_failed">Не удалось проверить обновления. Сервер может быть недоступен или что-то не так с вашим соединением.</string>
     <string name="update_info_downloading">Загружаются обновления... %d%%</string>
     <string name="update_info_download_canceled">Загрузка отменена.</string>
     <string name="update_info_download_failed">Загрузка отменена, проверьте свое подключение к сети.</string>
