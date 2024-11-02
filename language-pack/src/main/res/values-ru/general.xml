@@ -14,7 +14,7 @@
     <string name="message_error_sdcardread">Внешнее хранилище доступно только для чтения</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>
 
     <!-- Accessibility -->
     <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(потенциальный автокликер)</string>

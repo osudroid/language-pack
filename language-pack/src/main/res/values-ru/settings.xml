@@ -257,19 +257,19 @@
 <!-- Input -->
     <!-- Playfield -->
     <string name="opt_category_playfield">Игровое поле</string>
-    <string name="opt_setplayfield_title">Set playfield size</string>
-    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+    <string name="opt_setplayfield_title">Изменить размер поля</string>
+    <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
 
-    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
-    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <string name="opt_shrink_playfield_downwards_title">Перенести уменьшенную игровую область вниз</string>
+    <string name="opt_shrink_playfield_downwards_summary">Перенести уменьшенную игровую область вниз</string>
 
-    <string name="block_area_preference_title">Manage input block areas</string>
-    <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+    <string name="block_area_preference_title">Настроить область с блокировкой нажатий</string>
+    <string name="block_area_preference_summary">Управлять определенными областями экрана, нажатия на которые будут игнорироваться во время игры</string>
 
     <!-- Gameplay -->
     <string name="opt_category_gameplay">Геймплей</string>
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">Отключить блокировку слайдера и спиннера(рейтинг недоступен)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Отклюить блокировку слайдера и спиннера. 2B стиль(например ноты во время слайдера или спиннера) теперь играбелен</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>
