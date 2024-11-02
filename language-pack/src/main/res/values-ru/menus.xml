@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Song Select -->
-    <string name="menu_score" formatted="false">Score: %s (%dx)</string>
-    <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
-    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_score" formatted="false">Очки: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">ПП: %spp (%dx)</string>
+    <string name="menu_creator">Создатель: %s</string>
 
-    <string name="menu_mod_back">Back</string>
-    <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
-    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_mod_back">Назад</string>
+    <string name="menu_mod_multiplier" formatted="false">Множитель %.2fx</string>
+    <string name="menu_mod_reset">Сбросить выбор модов</string>
 
-    <string name="menu_properties_title">Song properties</string>
-    <string name="menu_properties_offset">Song offset:</string>
-    <string name="menu_properties_tofavs">Add to favorites</string>
-    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_properties_title">Свойства песни</string>
+    <string name="menu_properties_offset">Смещение песни:</string>
+    <string name="menu_properties_tofavs">Добавить в избранные</string>
+    <string name="menu_properties_delete">Удалить карту</string>
 
-    <string name="menu_deletescore_delete">Delete</string>
-    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_deletescore_delete">Удалить результат</string>
+    <string name="menu_deletescore_delete_success">Результат успешно удален</string>
 
-    <string name="menu_search_filter">Search for...</string>
-    <string name="menu_search_sort_title">Title</string>
-    <string name="menu_search_sort_date">Date</string>
-    <string name="menu_search_sort_creator">Creator</string>
-    <string name="menu_search_sort_artist">Artist</string>
-    <string name="menu_search_sort_bpm">Bpm</string>
+    <string name="menu_search_filter">Искать: </string>
+    <string name="menu_search_sort_title">Название</string>
+    <string name="menu_search_sort_date">Дата</string>
+    <string name="menu_search_sort_creator">Создатель</string>
+    <string name="menu_search_sort_artist">Артист</string>
+    <string name="menu_search_sort_bpm">БПМ</string>
     <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
     <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Length</string>
-    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
-    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="menu_search_sort_length">Длительность</string>
+    <string name="binfoStr1" formatted="false">Длительность: %s БПМ: %s Комбо: %d</string>
+    <string name="binfoStr2" formatted="false">Ноты: %d Слайдеры: %d Спиннеры: %d (ID карты: %d)</string>
     <!-- End Song Select -->
 
     <!-- Filter Menu -->
-    <string name="favorite_default">Default</string>
-    <string name="favorite_new_folder">Create new folder</string>
-    <string name="favorite_ensure">Are you sure?</string>
-    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="favorite_default">Стандартная</string>
+    <string name="favorite_new_folder">Создать новую папку</string>
+    <string name="favorite_ensure">Вы уверены?</string>
+    <string name="favorite_manage">Управление папкой карт</string>
 
 
 <!-- Score Export/Import -->
-    <string name="frg_score_menu_title">Score</string>
-    <string name="frg_score_menu_export_score">Export Score</string>
-    <string name="frg_score_menu_export_failed">Failed to export replay!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">Replay is saved to %s</string>
+    <string name="frg_score_menu_title">Результат</string>
+    <string name="frg_score_menu_export_score">Экспортировать</string>
+    <string name="frg_score_menu_export_failed">Не удалось экспортировать запись игры!</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">Запись игры сохранена по пути %s</string>
 
 <!-- Mod Menu Customizations -->
     <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">Show Scoreboard</string>
+    <string name="opt_show_scoreboard_title">Показывать таблицу рекордов</string>
     <!-- Speed -->
-    <string name="opt_changespeed_title">Speed Modify</string>
-    <string name="opt_enablenc_whenspeedchange_title">Enable pitch shift in speed modify</string>
+    <string name="opt_changespeed_title">Изменение скорости карты</string>
+    <string name="opt_enablenc_whenspeedchange_title">Включить сдвиг тона при изменении скорости карты</string>
     <!-- Difficulty-->
-    <string name="opt_forcear_title">Force AR</string>
-    <string name="opt_forceod_title">Force OD</string>
-    <string name="opt_forcehp_title">Force HP</string>
-    <string name="opt_forcecs_title">Force CS</string>
+    <string name="opt_forcear_title">Изменение AR</string>
+    <string name="opt_forceod_title">Изменение OD</string>
+    <string name="opt_forcehp_title">Изменение HP</string>
+    <string name="opt_forcecs_title">Изменение CS</string>
     <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">FL Follow delay</string>
+    <string name="opt_flashlight_follow_delay_title">Задержка перемещения области FL</string>
 
     <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Some mods have been disabled as all forced difficulty statistics are enabled.</string>
+    <string name="force_diffstat_mod_unpickable">Некоторые моды были отключены, так как все принудительные модификаторы сложности включены.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

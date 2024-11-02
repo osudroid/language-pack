@@ -4,23 +4,23 @@
 <!-- Details -->
     <string name="mp_room_category_details">Details</string>
 
-    <string name="mp_room_name_title">Room name</string>
-    <string name="mp_room_name_summary">Change the room\'s name.</string>
+    <string name="mp_room_name_title">Название комнаты</string>
+    <string name="mp_room_name_summary">Изменить название комнаты.</string>
 
-    <string name="mp_room_password_title">Room password</string>
-    <string name="mp_room_password_summary">Change the room\'s password. If empty, the room will be public.</string>
+    <string name="mp_room_password_title">Пароль комнаты</string>
+    <string name="mp_room_password_summary">Изменить пароль комнаты. Если поле пустое, комната станет публичной</string>
 
     <!-- Variables -->
     <string name="mp_room_category_variables">Variables</string>
 
-    <string name="mp_room_free_mods_title">Enable free mods</string>
-    <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
+    <string name="mp_room_free_mods_title">Включить свободный выбор модов</string>
+    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды, за исключением модов, влияющих на скорость карты</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">Allow force difficulty statistics in free mod</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">Allow players to use forced difficulty statistics in free mod.</string>
+    <string name="mp_room_allowForceDifficultyStatistics_title">Включить изменение параметров карты</string>
+    <string name="mp_room_allowForceDifficultyStatistics_summary">Разрешить пользователям менять параметры карты при включенном свободном выборе модов</string>
 
-    <string name="mp_room_versus_mode_title">Team mode</string>
-    <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
+    <string name="mp_room_versus_mode_title">Командный режим</string>
+    <string name="mp_room_versus_mode_summary">Изменить соревновательный режим в комнате.</string>
     <string-array name="mp_team_versus_names">
         <item>Head to Head</item>
         <item>Team vs Team</item>
@@ -30,12 +30,12 @@
         <item>1</item>
     </string-array>
 
-    <string name="mp_room_win_condition_title">Win condition</string>
-    <string name="mp_room_win_condition_summary">Change the room win condition.</string>
+    <string name="mp_room_win_condition_title">Условие победы</string>
+    <string name="mp_room_win_condition_summary">Изменить условие победы в комнате.</string>
     <string-array name="mp_win_condition_names">
         <item>Score V1</item>
-        <item>Accuracy</item>
-        <item>Max combo</item>
+        <item>Точность</item>
+        <item>Комбо</item>
         <item>Score V2</item>
     </string-array>
     <string-array name="mp_win_condition_values">
@@ -46,21 +46,21 @@
     </string-array>
 
     <!-- Share -->
-    <string name="mp_room_category_share">Share</string>
+    <string name="mp_room_category_share">Поделиться</string>
 
-    <string name="mp_room_link_title">Get invite link</string>
-    <string name="mp_room_link_summary">Copy invite link to clipboard</string>
+    <string name="mp_room_link_title">Получить пригласительную ссылку</string>
+    <string name="mp_room_link_summary">Скопировать пригласительную ссылку</string>
 
 
 <!-- Multiplayer Player Settings -->
     <!-- Team -->
-    <string name="mp_room_category_teams">Team</string>
+    <string name="mp_room_category_teams">Команда</string>
 
-    <string name="mp_room_category_teams_title">Team</string>
-    <string name="mp_room_category_teams_summary">Change your team.</string>
+    <string name="mp_room_category_teams_title">Команда</string>
+    <string name="mp_room_category_teams_summary">Смените свою команду.</string>
     <string-array name="mp_team_names">
-        <item>Red</item>
-        <item>Blue</item>
+        <item>Красная</item>
+        <item>Синяя</item>
     </string-array>
     <string-array name="mp_team_values">
         <item>0</item>
@@ -68,13 +68,14 @@
     </string-array>
 
     <!-- In Game -->
-    <string name="mp_room_category_in_game">In-game</string>
+    <string name="mp_room_category_in_game">В игре</string>
 
-    <string name="mp_room_enable_score_submission_title">Enable score submission</string>
-    <string name="mp_room_enable_score_submission_summary">Submit your score at the end of the round if you did not fail</string>
+    <string name="mp_room_enable_score_submission_title">Включить отправку результатов на сервер</string>
+    <!-- это надо поменять -->
+    <string name="mp_room_enable_score_submission_summary">Отправить ваш результат на сервер в конце раунда, если вы пасснули карту</string>
 
-    <string name="mp_room_nightcore_title">Use NightCore</string>
-    <string name="mp_room_nightcore_summary">Enable NightCore mod instead when DoubleTime is enabled</string>
+    <string name="mp_room_nightcore_title">Использовать NightCore</string>
+    <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
