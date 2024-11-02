@@ -16,15 +16,6 @@
     <!-- Crash -->
     <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
 
-    <!-- Errors -->
-    <string name="network_not_connected">Network connection failed, please check network settings</string>
-    <string name="xml_parser_failed">Data parsing failed</string>
-    <string name="io_exception_error">File Stream Exception</string>
-    <string name="http_status_code_error">Network exception, error code: %d</string>
-    <string name="http_exception_error">Network exception, request timeout</string>
-    <string name="socket_exception_error">Network exception, read data timeout</string>
-
-
     <!-- Accessibility -->
     <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(потенциальный автокликер)</string>
     <string name="accessibility_detector_message">Следующие сервисы должны быть отключены для того, чтобы играть:</string>
