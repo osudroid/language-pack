@@ -109,7 +109,7 @@
     <string name="opt_show_leaderboard_summary">Показывать таблицу лидеров во время игры</string>
 
     <string name="opt_error_meter_display_title">Шкала точности</string>
-    <string name="opt_error_meter_display_summary">Показывать шкалу точноость во время игры</string>
+    <string name="opt_error_meter_display_summary">Показывать шкалу точности во время игры</string>
     <string-array name="error_meter_display_names">
         <item>Включить</item>
         <item>Только во время реплея</item>
