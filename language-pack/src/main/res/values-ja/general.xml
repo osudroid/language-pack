@@ -15,16 +15,6 @@
 
     <!-- Crash -->
     <string name="crash">予期しないエラーが発生しました。ゲームが終了します。</string>
-    <string name="app_run_code_error">深刻なエラーが発生しました。</string>
-
-    <!-- Errors -->
-    <string name="network_not_connected">ネットワークとの接続に失敗しました。 ネットワーク設定を確認してください。</string>
-    <string name="xml_parser_failed">Data Parsing エラー</string>
-    <string name="io_exception_error">File Stream エラー</string>
-    <string name="http_status_code_error">ネットワークエラー: %d</string>
-    <string name="http_exception_error">ネットワークエラー: request timeout</string>
-    <string name="socket_exception_error">ネットワークエラー: read data timeout</string>
-
 
     <!-- Accessibility -->
     <string name="accessibility_detector_title">補助サービスをオフにしてください。</string>

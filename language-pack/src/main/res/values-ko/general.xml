@@ -15,16 +15,6 @@
 
     <!-- Crash -->
     <string name="crash">죄송합니다, 게임에서 예상치 못한 오류가 발생하여 게임을 종료합니다.</string>
-    <string name="app_run_code_error">치명적인 오류가 발생했습니다.</string>
-
-    <!-- Errors -->
-    <string name="network_not_connected">네트워크 연결에 실패했습니다. 네트워크 설정을 확인하세요.</string>
-    <string name="xml_parser_failed">데이터 분석에 실패했습니다.</string>
-    <string name="io_exception_error">파일 스트림 예외</string>
-    <string name="http_status_code_error">네트워크 이상, 오류 코드：%d</string>
-    <string name="http_exception_error">네트워크 이상, 요청 시간 초과</string>
-    <string name="socket_exception_error">네트워크 이상, 데이터 읽기 시간 초과</string>
-
 
     <!-- Accessibility -->
     <string name="accessibility_detector_title">접근성 서비스 비활성화</string>
