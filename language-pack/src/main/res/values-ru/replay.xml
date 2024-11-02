@@ -15,7 +15,7 @@
     <string name="message_save_replay_failed">Сохранение записи игры не удалось</string>
 
     <string name="replay_invalid">Не удалось запустить запись игры</string>
-    <string name="replay_cantdownload">Не удалосб скачать запись игры</string>
+    <string name="replay_cantdownload">Не удалось скачать запись игры</string>
     <string name="replay_wrongmap">Запись игры не соответствует карте</string>
     <string name="replay_corrupted">Запись игры повреждена</string>
 
