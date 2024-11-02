@@ -8,18 +8,18 @@
 
 <!-- General -->
     <!-- Online-->
-    <string name="opt_category_online">Online</string>
+    <string name="opt_category_online">オンライン</string>
     <string name="opt_stayonline_title">自動ログイン</string>
-    <string name="opt_stayonline_summary">登録されたアカウントで自動ログイン</string>
+    <string name="opt_stayonline_summary">登録されたアカウントで自動ログインします。</string>
 
-    <string name="opt_loadavatar_title">アバターの読み込み</string>
-    <string name="opt_loadavatar_summary">Wi‐Fiを利用していなくてもアバターを読み込みます</string>
+    <string name="opt_loadavatar_title">他のプレイヤーのアバター表示</string>
+    <string name="opt_loadavatar_summary">オンラインリーダーボードに他のプレイヤーのアバターを表示します。</string>
 
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Global beatmap leaderboard scoring mode</string>
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Choose the scoring mode for global beatmap leaderboards</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">グローバルビートマップリーダーボードの並び順</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">グローバルビートマップリーダーボードの並び順を選択します。</string>
     <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>Score</item>
-        <item>Performance Points</item>
+        <item>スコア</item>
+        <item>パフォーマンス(PP)</item>
     </string-array>
     <string-array name="global_beatmap_leaderboard_scoring_mode_values">
         <item>0</item>
@@ -27,7 +27,7 @@
     </string-array>
 
     <!-- Account -->
-    <string name="opt_category_account">Account</string>
+    <string name="opt_category_account">アカウント</string>
     <string name="opt_login_title">ユーザーネーム</string>
     <string name="opt_login_summary">アカウントのユーザーネーム</string>
 
@@ -38,23 +38,23 @@
     <string name="opt_register_summary">オンライン新規登録 (新規登録はデバイス一つで一度しかできません!)</string>
 
     <!-- Community-->
-    <string name="opt_category_community">Community</string>
-    <string name="opt_receive_announcements_title">Receive announcements</string>
-    <string name="opt_receive_announcements_summary">Receive notifications of announcements, events, etc.</string>
+    <string name="opt_category_community">コミュニティ</string>
+    <string name="opt_receive_announcements_title">告知お知らせ</string>
+    <string name="opt_receive_announcements_summary">イベント、告知に関わるお知らせをオンにします。</string>
 
     <!-- Updates -->
-    <string name="opt_category_updates">Updates</string>
-    <string name="opt_update_title">更新を確認</string>
-    <string name="opt_update_summary">アップデートがあるか確かめます</string>
+    <string name="opt_category_updates">アップデート</string>
+    <string name="opt_update_title">アップデートの確認</string>
+    <string name="opt_update_summary">アップデートがあるか確認します。</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
-    <string name="opt_category_skin">Skin</string>
+    <string name="opt_category_skin">スキン</string>
     <string name="opt_skinpath_title">スキン選択</string>
-    <string name="opt_skinpath_summary">スキンディレクトリからスキンを選択します</string>
+    <string name="opt_skinpath_summary">スキンディレクトリからスキンを選択します。</string>
 
     <string name="opt_spinner_style_title">スピナースタイル</string>
-    <string name="opt_spinner_style_summary">スピナースタイルを変更します</string>
+    <string name="opt_spinner_style_summary">スピナースタイルを変更します。</string>
     <string-array name="spinner_style_names">
         <item>モダン</item>
         <item>クラシック</item>
@@ -65,51 +65,51 @@
     </string-array>
 
     <string name="opt_skin_title">ビートマップ付属のスキン</string>
-    <string name="opt_skin_summary">ビートマップ付属のスキンのエレメントなどを使用します</string>
+    <string name="opt_skin_summary">ビートマップ付属のスキンのエレメントを使用します。</string>
 
     <!-- Hit Objects-->
-    <string name="opt_category_hit_objects">Hit objects</string>
-    <string name="opt_show_first_approach_circle_title">最初nのノートのアプローチサークル表示</string>
-    <string name="opt_show_first_approach_circle_summary">Hidden Modでも一番最初のヒットオブジェクトのサークルが表示されます</string>
+    <string name="opt_category_hit_objects">ヒットオブジェクト</string>
+    <string name="opt_show_first_approach_circle_title">最初ノートのアプローチサークルを表示</string>
+    <string name="opt_show_first_approach_circle_summary">Hidden Modでも一番最初のヒットオブジェクトのサークルが表示されます。</string>
 
     <!-- Background -->
-    <string name="opt_category_background">Background</string>
+    <string name="opt_category_background">背景画像</string>
     <string name="opt_bgbrightness_title">背景の明るさ</string>
-    <string name="opt_bgbrightness_summary">背景イメージの明るさを変更します</string>
+    <string name="opt_bgbrightness_summary">背景イメージの明るさを調整します。</string>
 
-    <string name="opt_keep_background_aspect_ratio_title">Keep background aspect ratio</string>
-    <string name="opt_keep_background_aspect_ratio_summary">When enabled, the background (and storyboard) will not be scaled to fill screen bounds during gameplay</string>
+    <string name="opt_keep_background_aspect_ratio_title">背景画像の比率を維持する</string>
+    <string name="opt_keep_background_aspect_ratio_summary">背景の画像やストーリーボードを画面の長さに合わせて引き延ばさないようにします。</string>
 
     <string name="opt_enableStoryboard_title">ストーリボード表示</string>
 
-    <string name="opt_video_title">Background Video</string>
-    <string name="opt_video_summary">Display video playback during gameplay. Only supports .3gp, .mp4, .mkv, and .webm video formats</string>
+    <string name="opt_video_title">背景動画</string>
+    <string name="opt_video_summary">ゲーム中、背景動画を再生します。対応ビデオフォーマット: .3gp, .mp4, .mkv, and .webm</string>
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">Progress display</string>
-    <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
+    <string name="opt_progress_indicator_title">進行度UI</string>
+    <string name="opt_progress_indicator_summary">進行度UIを選択します。</string>
 
     <string-array name="opt_progress_indicator_names">
-        <item>Top-right (Pie)</item>
-        <item>Bottom (Long)</item>
+        <item>右上 (パイ型)</item>
+        <item>下 (バー型)</item>
     </string-array>
     <string-array name="opt_progress_indicator_values">
         <item>0</item>
         <item>1</item>
     </string-array>
 
-    <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
-    <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
+    <string name="opt_hide_ingame_ui_title">ゲームUI非表示</string>
+    <string name="opt_hide_ingame_ui_summary">カウンター等各種UIを非表示にします。</string>
 
-    <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
-    <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
+    <string name="opt_hide_replay_marquee_title">リプレイ詳細非表示</string>
+    <string name="opt_hide_replay_marquee_summary">リプレイの再生中、詳細テキストを非表示にします。</string>
 
-    <string name="opt_show_leaderboard_title">Show leaderboard</string>
-    <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
+    <string name="opt_show_leaderboard_title">リーダーボード表示</string>
+    <string name="opt_show_leaderboard_summary">プレイ中、リアルタイムでリーダーボードを表示します。</string>
 
     <string name="opt_error_meter_display_title">スコアメーター</string>
-    <string name="opt_error_meter_display_summary">画面の下部に表示されます</string>
+    <string name="opt_error_meter_display_summary">画面の下部に表示されます。</string>
     <string-array name="error_meter_display_names">
         <item>常に</item>
         <item>リプレイのみ</item>
@@ -122,73 +122,73 @@
     </string-array>
 
     <string name="opt_fps_title">FPS表示</string>
-    <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます</string>
+    <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます。</string>
 
-    <string name="opt_averageoffset_title">Average offset</string>
-    <string name="opt_averageoffset_summary">Display average offset of hits during gameplay. Higher value means hits are more offset. Will not display when Auto mod is enabled</string>
+    <string name="opt_averageoffset_title">平均オフセット</string>
+    <string name="opt_averageoffset_summary">プレイ中タッチオフセットの平均値を表示します。Auto modでは非表示になります。</string>
 
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Display unstable rate during gameplay. Higher value means hits are more inconsistent. Will not display when Auto mod is enabled</string>
+    <string name="opt_unstablerate_title">不安程度</string>
+    <string name="opt_unstablerate_summary">プレイ中タッチ不安程度を表示します。Auto modでは非表示になります。</string>
 
-    <string name="opt_display_score_statistics_title">Display score statistics</string>
-    <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
+    <string name="opt_display_score_statistics_title">スコア詳細</string>
+    <string name="opt_display_score_statistics_summary">結果画面に難易度、パフォーマンス等スコアの詳細を表示します。</string>
 
-    <string name="opt_display_realtime_pp_counter_title">Display real-time PP counter</string>
-    <string name="opt_display_realtime_pp_counter_summary">Displays a real-time PP counter during gameplay. May increase loading time significantly, especially in long beatmaps</string>
+    <string name="opt_display_realtime_pp_counter_title">リアルタイムパフォーマンスカウンター</string>
+    <string name="opt_display_realtime_pp_counter_summary">プレイ中リアルタイムでパフォーマンスカウンターを表示します。長いビートマップをプレイする場合、ローディングに時間がかかる可能性があります。</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">コンボカラー</string>
-    <string name="opt_combo_colors_summary">カスタムコンボカラーを使用します</string>
+    <string name="opt_combo_colors_summary">カスタムコンボカラーを使用します。</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
-    <string name="opt_category_cursor">Cursor</string>
+    <string name="opt_category_cursor">カーソル</string>
     <string name="opt_showcursor_title">カーソル表示</string>
-    <string name="opt_showcursor_summary">ゲームプレイ中に指の下にカーソルが表示されます</string>
+    <string name="opt_showcursor_summary">ゲームプレイ中に指の下にカーソルが表示されます。</string>
 
     <string name="opt_cursor_size">カーソルサイズ</string>
-    <string name="opt_cursor_size_summary">カーソルサイズを調整します (25 - 300, デフォルト: 50)</string>
+    <string name="opt_cursor_size_summary">カーソルサイズを調整します。(25 - 300, デフォルト: 50)</string>
 
     <string name="opt_particles_title">パーティクル</string>
-    <string name="opt_particles_summary">Cursortailなどのパーティクルが表示されます</string>
+    <string name="opt_particles_summary">Cursortail等のパーティクルが表示されます。</string>
 
     <!-- Animations and Effects -->
-    <string name="opt_category_animations">Animations and effects</string>
-    <string name="opt_dim_hit_objects_title">Enable hit objects dim</string>
-    <string name="opt_dim_hit_objects_summary">Dim hit objects when they are ready to be hit.</string>
+    <string name="opt_category_animations">アニメーション・エフェクト</string>
+    <string name="opt_dim_hit_objects_title">ヒットオブジェクト強調</string>
+    <string name="opt_dim_hit_objects_summary">ヒット対象のオブジェクトを暗くします。</string>
 
-    <string name="opt_combo_burst_title">コンボ バースト</string>
-    <string name="opt_combo_burst_summary">コンボ バーストが表示されます</string>
+    <string name="opt_combo_burst_title">コンボバースト</string>
+    <string name="opt_combo_burst_summary">コンボバーストが表示されます。</string>
 
     <string name="opt_largeimages_title">カウントダウン</string>
-    <string name="opt_largeimages_summary">導入部でカウントダウンが表示されます</string>
+    <string name="opt_largeimages_summary">導入部にカウントダウンが表示されます。</string>
 
-    <string name="opt_animate_follow_circle_title">Animate follow circle</string>
-    <string name="opt_animate_follow_circle_summary">Enable slider follow circle animations when hitting/releasing follow circle.</string>
+    <string name="opt_animate_follow_circle_title">フォローサークル表示</string>
+    <string name="opt_animate_follow_circle_summary">スライダーのフォローサークルを表示します。</string>
 
-    <string name="opt_animate_combo_text_title">Animate combo text</string>
-    <string name="opt_animate_combo_text_summary">Enable combo text shadow animation when increasing combo.</string>
+    <string name="opt_animate_combo_text_title">コンボテキストのアニメーション</string>
+    <string name="opt_animate_combo_text_summary">comboが更新されるたび、comboテキストのアニメーションをオンにします。</string>
 
-    <string name="opt_snakingInSliders_title">Use snaking in sliders</string>
-    <string name="opt_snakingInSliders_summary">Enable sliders gradually snaking from start</string>
+    <string name="opt_snakingInSliders_title">動くスライダー</string>
+    <string name="opt_snakingInSliders_summary">スライダーの生成に、軌道にあわせて始点と終点を繋ぐアニメーションをオンにします。</string>
 
-    <string name="opt_noChangeDimInBreaks_title">Don\'t change background dim level during breaks</string>
-    <string name="opt_noChangeDimInBreaks_summary">When enabled, background dim level will not change during breaks.</string>
+    <string name="opt_noChangeDimInBreaks_title">休憩中背景の明るさ維持</string>
+    <string name="opt_noChangeDimInBreaks_summary">プレイ中、休憩中に背景の明るさを変更しません。</string>
 
     <string name="opt_bursts_title">バースト効果</string>
-    <string name="opt_bursts_summary">サークルやスライダーを押すたびにバースト効果が表示されます</string>
+    <string name="opt_bursts_summary">サークルやスライダーを押すたびにバースト効果が表示されます。</string>
 
     <string name="opt_hitlighting_title">ヒットライティング</string>
     <string name="opt_hitlighting_summary">ヒットした場所を光らせます</string>
 
     <!-- Display -->
-    <string name="opt_category_display">Display</string>
+    <string name="opt_category_display">ディスプレイ</string>
     <string name="opt_hide_navibar_title">ナビゲーションバー</string>
-    <string name="opt_hide_navibar_summary">プレイ中にナビゲーションバーを隠します</string>
+    <string name="opt_hide_navibar_summary">プレイ中にナビゲーションバーを隠します。</string>
 
 <!-- Audio -->
     <!-- Volume -->
-    <string name="opt_category_volume">Volume</string>
+    <string name="opt_category_volume">音量</string>
     <string name="opt_bgm_volume_title">楽曲</string>
     <string name="opt_bgm_volume_summary">楽曲の音量 (0-100)</string>
 
@@ -196,14 +196,14 @@
     <string name="opt_sound_volume_summary">効果音の音量 (0-100)</string>
 
     <!-- Offset-->
-    <string name="opt_category_offset">Offset</string>
+    <string name="opt_category_offset">オフセット</string>
     <string name="opt_offset_title">全体的なオフセット</string>
-    <string name="opt_offset_summary">オフセット単位:ms (この時間だけ曲がノートより早く始まります)</string>
+    <string name="opt_offset_summary">オフセット単位:ms (この時間だけ曲がノートより早く始まります。)</string>
 
     <!-- Metronome -->
-    <string name="opt_category_metronome">Metronome</string>
+    <string name="opt_category_metronome">メトロノーム</string>
     <string name="opt_metronome_switch_title">メトロノーム</string>
-    <string name="opt_metronome_switch_summary">メトロノーム効果音を発生させます</string>
+    <string name="opt_metronome_switch_summary">メトロノーム効果音を発生させます。</string>
     <string-array name="metronome_switch_names">
         <item>無し</item>
         <item>ナイトコアのみ</item>
@@ -216,72 +216,72 @@
     </string-array>
 
     <!-- Miscellaneous -->
-    <string name="opt_category_miscellaneous">Miscellaneous</string>
+    <string name="opt_category_miscellaneous">その他</string>
     <string name="opt_sound_title">付属ヒットサウンドを使用</string>
-    <string name="opt_sound_summary">可能な場合、ビートマップ付属のヒットサウンドを使用します</string>
+    <string name="opt_sound_summary">可能な場合、ビートマップ付属のヒットサウンドを使用します。</string>
 
     <string name="opt_musicpreview_title">曲プレビュー</string>
-    <string name="opt_musicpreview_summary">ビートマップを選択すると、そのマップの曲を再生します</string>
+    <string name="opt_musicpreview_summary">ビートマップを選択すると、そのマップの曲を再生します。</string>
 
 <!-- Library -->
     <!-- Import -->
     <string name="opt_category_import">Import</string>
     <string name="opt_deleteosz_title">.osz ファイル削除</string>
-    <string name="opt_deleteosz_summary">ダウンロードされた.oszファイルから抽出が終わった後、 .oszファイルを削除します</string>
+    <string name="opt_deleteosz_summary">ダウンロードされた.oszファイルから抽出が終わった後、 .oszファイルを削除します。</string>
 
     <string name="opt_scandownload_title">Download スキャン</string>
-    <string name="opt_scandownload_summary">Downloadフォルダからビートマップを検出します</string>
+    <string name="opt_scandownload_summary">Downloadフォルダからビートマップを検出します。</string>
 
-    <string name="opt_deleteUnimportedBeatmaps_title">Delete Unimported Beatmaps</string>
-    <string name="opt_deleteUnimportedBeatmaps_summary">Delete beatmaps that cannot be imported. Will apply in future beatmap import operations.</string>
+    <string name="opt_deleteUnimportedBeatmaps_title">読み込みに失敗したビートマップ削除</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">今後読み込みに失敗したビートマップを削除します。</string>
 
-    <string name="opt_delete_unsupported_videos_title">Delete unsupported videos</string>
-    <string name="opt_delete_unsupported_videos_summary">Delete videos with unsupported formats (.avi and .flv)</string>
+    <string name="opt_delete_unsupported_videos_title">対応しないビデオ削除</string>
+    <string name="opt_delete_unsupported_videos_summary">読み込んだビートマップに含まれた対応外のビデオを削除 (.avi、.flv等)</string>
 
-    <string name="opt_import_replay_title">Import replay</string>
-    <string name="opt_import_replay_summary">Import a replay file (.odr) or an exported replay file (.edr). Only .odr files from osu!droid version 1.6.7 onwards are supported</string>
+    <string name="opt_import_replay_title">リプレイ読み込み</string>
+    <string name="opt_import_replay_summary">リプレイ(.odr)、若しくは保存されたリプレイファイル(.edr)を読み込みます。osu!droid バージョン1.6.7以降の.odrファイルのみ対応できます。</string>
 
     <!-- Metadata -->
-    <string name="opt_category_metadata">Metadata</string>
+    <string name="opt_category_metadata">メタデータ</string>
     <string name="force_romanized">ローマ字表示</string>
-    <string name="force_romanized_summary">エンコードエラーによって内容が読めない場合、ローマ字で表示されます</string>
+    <string name="force_romanized_summary">エンコードエラーによって内容が読めない場合、ローマ字で表示されます。</string>
 
     <!-- Storage -->
-    <string name="opt_category_storage">Storage</string>
+    <string name="opt_category_storage">ストレージ</string>
     <string name="opt_clear_title">ライブラリキャッシュリセット</string>
-    <string name="opt_clear_summary">ライブラリキャッシュをリセットします</string>
+    <string name="opt_clear_summary">ライブラリキャッシュをリセットします。</string>
 
     <string name="opt_clearprops_title">マップ専用データリセット</string>
-    <string name="opt_clearprops_summary">マップ専用データをリセットします (例： マップのオフセット)</string>
+    <string name="opt_clearprops_summary">マップ専用データをリセットします。(例： マップのオフセット)</string>
 
 <!-- Input -->
     <!-- Playfield -->
-    <string name="opt_category_playfield">Playfield</string>
-    <string name="opt_setplayfield_title">Set playfield size</string>
-    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+    <string name="opt_category_playfield">プレイ領域</string>
+    <string name="opt_setplayfield_title">プレイ領域の調整</string>
+    <string name="opt_setplayfield_summary">プレイ領域の調整します。</string>
 
-    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
-    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <string name="opt_shrink_playfield_downwards_title">プレイ領域のサイズ調整</string>
+    <string name="opt_shrink_playfield_downwards_summary">プレイ領域のサイズを調整します。</string>
 
-    <string name="block_area_preference_title">Manage input block areas</string>
-    <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+    <string name="block_area_preference_title">入力無視エリア</string>
+    <string name="block_area_preference_summary">プレイ中タッチ入力を無視するエリアを設定します。</string>
 
     <!-- Gameplay -->
-    <string name="opt_category_gameplay">Gameplay</string>
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+    <string name="opt_category_gameplay">ゲームプレイ</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">スライダー・スピナーロックの解除 (ランク無効)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">スライダー・スピナーロックを解除します。</string>
 
     <!-- Synchronisation  -->
-    <string name="opt_category_synchronization">Synchronization</string>
+    <string name="opt_category_synchronization">シンクロ</string>
     <string name="opt_syncmusic_title">低レイテンシ</string>
-    <string name="opt_syncmusic_summary">デバイスが低レイテンシオーディオをサポートしていない場合、解除してください</string>
+    <string name="opt_syncmusic_summary">デバイスが低レイテンシオーディオをサポートしていない場合、解除してください。</string>
 
     <string name="opt_fix_frame_offset_title">オフセット固定</string>
-    <string name="opt_fix_frame_offset_summary">可能な限り、入力とフレームの間にオフセットを固定します</string>
+    <string name="opt_fix_frame_offset_summary">可能な限り、入力とフレームの間にオフセットを固定します。</string>
 
 <!-- Advanced -->
     <!-- Directories -->
-    <string name="opt_category_directories">Directories</string>
+    <string name="opt_category_directories">ディレクトリ</string>
     <string name="opt_corepath_title">デフォルトディレクトリ</string>
     <string name="opt_corepath_summary">osu!droidのデフォルトのディレクトリ (デフォルト: /sdcard/osu!droid)</string>
 
@@ -289,11 +289,14 @@
     <string name="opt_skin_top_path_summary">スキンファイルを保存するディレクトリ (デフォルト: /sdcard/osu!droid/Skin)</string>
 
     <string name="opt_directory_title">ビートマップディレクトリ</string>
-    <string name="opt_directory_summary">ビートマップが含まれたディレクトリを設定してください (デフォルト: /sdcard/osu!droid/Songs)</string>
+    <string name="opt_directory_summary">ビートマップが含まれたディレクトリを設定してください。 (デフォルト: /sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
-    <string name="opt_safe_beatmap_bg_title">Safe beatmap background</string>
-    <string name="opt_safe_beatmap_bg_summary">Change all of the beatmaps\' background to the menu-background image from your skin</string>
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+
+    <string name="opt_safe_beatmap_bg_title">ビートマップ背景画像削除</string>
+    <string name="opt_safe_beatmap_bg_summary">全ビートマップの背景画像を適用中のスキンのmenu-backgroundに統一します。</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

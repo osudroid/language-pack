@@ -8,18 +8,18 @@
 
 <!-- General -->
     <!-- Online-->
-    <string name="opt_category_online">Online</string>
-    <string name="opt_stayonline_title">자동 로그인</string>
-    <string name="opt_stayonline_summary">등록된 계정으로 자동 로그인 합니다.</string>
+    <string name="opt_category_online">온라인</string>
+    <string name="opt_stayonline_title">서버 연결</string>
+    <string name="opt_stayonline_summary">osu!droid 서버로 연결합니다.</string>
 
     <string name="opt_loadavatar_title">아바타 불러오기</string>
-    <string name="opt_loadavatar_summary">Wi-Fi에 연결되어있지 않아도 아바타를 불러옵니다.</string>
+    <string name="opt_loadavatar_summary">온라인 리더보드 아바타를 불러옵니다.</string>
 
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Global beatmap leaderboard scoring mode</string>
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Choose the scoring mode for global beatmap leaderboards</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">글로벌 비트맵 리더보드 스코어링 모드</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">글로벌 비트맵 리더보드의 스코어링 모드를 선택하세요.</string>
     <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>Score</item>
-        <item>Performance Points</item>
+        <item>점수</item>
+        <item>퍼포먼스 포인트(PP)</item>
     </string-array>
     <string-array name="global_beatmap_leaderboard_scoring_mode_values">
         <item>0</item>
@@ -27,29 +27,29 @@
     </string-array>
 
     <!-- Account -->
-    <string name="opt_category_account">Account</string>
-    <string name="opt_login_title">아이디</string>
-    <string name="opt_login_summary">계정 아이디</string>
+    <string name="opt_category_account">계정</string>
+    <string name="opt_login_title">로그인</string>
+    <string name="opt_login_summary">계정 이름</string>
 
     <string name="opt_password_title">비밀번호</string>
     <string name="opt_password_summary">계정 비밀번호</string>
 
     <string name="opt_register_title">회원가입</string>
-    <string name="opt_register_summary">온라인 회원가입 (한 기기당 하나의 계정만 생성 가능합니다!)</string>
+    <string name="opt_register_summary">온라인 회원가입</string>
 
     <!-- Community-->
-    <string name="opt_category_community">Community</string>
-    <string name="opt_receive_announcements_title">Receive announcements</string>
-    <string name="opt_receive_announcements_summary">Receive notifications of announcements, events, etc.</string>
+    <string name="opt_category_community">커뮤니티</string>
+    <string name="opt_receive_announcements_title">공지사항 수신</string>
+    <string name="opt_receive_announcements_summary">공지사항, 이벤트 등에 대한 알림을 받습니다.</string>
 
     <!-- Updates -->
-    <string name="opt_category_updates">Updates</string>
+    <string name="opt_category_updates">업데이트</string>
     <string name="opt_update_title">새 버전 확인</string>
     <string name="opt_update_summary">새로운 업데이트가 있는지 확인합니다.</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
-    <string name="opt_category_skin">Skin</string>
+    <string name="opt_category_skin">스킨</string>
     <string name="opt_skinpath_title">스킨 선택</string>
     <string name="opt_skinpath_summary">스킨 디렉토리에서 스킨을 선택합니다.</string>
 
@@ -68,52 +68,52 @@
     <string name="opt_skin_summary">가능한 한 비트맵 고유 스킨을 사용합니다.</string>
 
     <!-- Hit Objects-->
-    <string name="opt_category_hit_objects">Hit objects</string>
+    <string name="opt_category_hit_objects">히트 오브젝트</string>
     <string name="opt_show_first_approach_circle_title">첫 노트의 어프로치 서클 표시</string>
     <string name="opt_show_first_approach_circle_summary">히든 모드에서도 첫번째 노트는 어프로치 서클을 표시합니다.</string>
 
     <!-- Background -->
-    <string name="opt_category_background">Background</string>
+    <string name="opt_category_background">배경화면</string>
     <string name="opt_bgbrightness_title">배경화면 밝기</string>
     <string name="opt_bgbrightness_summary">배경화면 이미지의 밝기를 변경합니다.</string>
 
-    <string name="opt_keep_background_aspect_ratio_title">Keep background aspect ratio</string>
-    <string name="opt_keep_background_aspect_ratio_summary">When enabled, the background (and storyboard) will not be scaled to fill screen bounds during gameplay</string>
+    <string name="opt_keep_background_aspect_ratio_title">배경화면 종횡비 유지</string>
+    <string name="opt_keep_background_aspect_ratio_summary">이 기능을 활성화하면 게임 플레이 중에 배경(및 스토리보드)이 화면 경계를 채우도록 크기가 조정되지 않습니다.</string>
 
-    <string name="opt_enableStoryboard_title">스토리 보드 보기</string>
+    <string name="opt_enableStoryboard_title">스토리보드 활성화</string>
 
-    <string name="opt_video_title">Background Video</string>
-    <string name="opt_video_summary">Display video playback during gameplay. Only supports .3gp, .mp4, .mkv, and .webm video formats</string>
+    <string name="opt_video_title">배경화면 영상</string>
+    <string name="opt_video_summary">게임 플레이 중 비디오 재생을 표시합니다. .3gp, .mp4, .mkv 및 .webm 비디오 형식만 지원합니다.</string>
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">Progress display</string>
-    <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
+    <string name="opt_progress_indicator_title">진행률 표시</string>
+    <string name="opt_progress_indicator_summary">진행률 표시기 유형을 선택하세요</string>
 
     <string-array name="opt_progress_indicator_names">
-        <item>Top-right (Pie)</item>
-        <item>Bottom (Long)</item>
+        <item>오른쪽 위 (파이)</item>
+        <item>맨 아래 (길게)</item>
     </string-array>
     <string-array name="opt_progress_indicator_values">
         <item>0</item>
         <item>1</item>
     </string-array>
 
-    <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
-    <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
+    <string name="opt_hide_ingame_ui_title">게임 플레이 UI 숨기기</string>
+    <string name="opt_hide_ingame_ui_summary">게임 플레이 중 카운터 및 기타 UI를 숨깁니다.</string>
 
-    <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
-    <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
+    <string name="opt_hide_replay_marquee_title">리플레이 마키 숨기기</string>
+    <string name="opt_hide_replay_marquee_summary">리플레이를 볼 때 스크롤되는 텍스트를 숨깁니다.</string>
 
-    <string name="opt_show_leaderboard_title">Show leaderboard</string>
-    <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
+    <string name="opt_show_leaderboard_title">리더보드 표시</string>
+    <string name="opt_show_leaderboard_summary">플레이하는 동안 라이브 리더보드를 표시합니다</string>
 
     <string name="opt_error_meter_display_title">판정 오차</string>
-    <string name="opt_error_meter_display_summary">화면 하단에 표시합니다.</string>
+    <string name="opt_error_meter_display_summary">화면 하단에 판정 오차가 표시합니다.</string>
     <string-array name="error_meter_display_names">
         <item>항상</item>
-        <item>리플레이 재생시에만</item>
-        <item>해제</item>
+        <item>리플레이시에만</item>
+        <item>비활성화</item>
     </string-array>
     <string-array name="error_meter_display_values">
         <item>1</item>
@@ -121,20 +121,20 @@
         <item>0</item>
     </string-array>
 
-    <string name="opt_fps_title">프레임 표시</string>
-    <string name="opt_fps_summary">게임 플레이를 하는동안 프레임을 표시합니다.</string>
+    <string name="opt_fps_title">FPS(프레임 표시)</string>
+    <string name="opt_fps_summary">게임 플레이 중 프레임이(초당 프레임) 표시됩니다.</string>
 
-    <string name="opt_averageoffset_title">Average offset</string>
-    <string name="opt_averageoffset_summary">Display average offset of hits during gameplay. Higher value means hits are more offset. Will not display when Auto mod is enabled</string>
+    <string name="opt_averageoffset_title">평균 오프셋</string>
+    <string name="opt_averageoffset_summary">게임 플레이 중 히트의 평균 오프셋을 표시합니다. 값이 높을수록 히트가 더 많이 오프셋됩니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
 
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Display unstable rate during gameplay. Higher value means hits are more inconsistent. Will not display when Auto mod is enabled</string>
+    <string name="opt_unstablerate_title">불안정한 비율(UR)</string>
+    <string name="opt_unstablerate_summary">게임 플레이 중 불안정한 비율(UR)을 표시합니다. 값이 높을수록 타격이 더 일관되지 않음을 의미합니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
 
-    <string name="opt_display_score_statistics_title">Display score statistics</string>
-    <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
+    <string name="opt_display_score_statistics_title">점수 통계 표시</string>
+    <string name="opt_display_score_statistics_summary">결과 화면에 점수 통계를(별점, PP 등) 표시합니다.</string>
 
-    <string name="opt_display_realtime_pp_counter_title">Display real-time PP counter</string>
-    <string name="opt_display_realtime_pp_counter_summary">Displays a real-time PP counter during gameplay. May increase loading time significantly, especially in long beatmaps</string>
+    <string name="opt_display_realtime_pp_counter_title">실시간 PP 카운터 표시</string>
+    <string name="opt_display_realtime_pp_counter_summary">게임 플레이 중 실시간 PP 카운터를 표시합니다. 특히 긴 비트맵에서 로딩 시간이 상당히 증가할 수 있습니다.</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">콤보 색상</string>
@@ -142,20 +142,20 @@
 
 <!-- Graphics -->
     <!-- Cursor -->
-    <string name="opt_category_cursor">Cursor</string>
-    <string name="opt_showcursor_title">커서 보이기</string>
-    <string name="opt_showcursor_summary">게임플레이를 하는동안 손가락 아래에 커서를 보이게 합니다.</string>
+    <string name="opt_category_cursor">커서</string>
+    <string name="opt_showcursor_title">커서</string>
+    <string name="opt_showcursor_summary">게임플레이를 하는동안 손가락 아래에 커서를 표시합니다.</string>
 
     <string name="opt_cursor_size">커서 사이즈</string>
-    <string name="opt_cursor_size_summary">커서 사이즈를 조정합니다. (25 - 300, 기본: 100)</string>
+    <string name="opt_cursor_size_summary">커서 사이즈를 조정합니다.</string>
 
     <string name="opt_particles_title">파티클 효과</string>
     <string name="opt_particles_summary">커서 꼬리와 같은 파티클 효과를 표시합니다.</string>
 
     <!-- Animations and Effects -->
-    <string name="opt_category_animations">Animations and effects</string>
-    <string name="opt_dim_hit_objects_title">Enable hit objects dim</string>
-    <string name="opt_dim_hit_objects_summary">Dim hit objects when they are ready to be hit.</string>
+    <string name="opt_category_animations">애니메이션 및 효과</string>
+    <string name="opt_dim_hit_objects_title">히트 오브젝트 밝기 활성화</string>
+    <string name="opt_dim_hit_objects_summary">히트 오브젝트들을 맞출때 밝기를 내립니다.</string>
 
     <string name="opt_combo_burst_title">콤보 버스트</string>
     <string name="opt_combo_burst_summary">콤보 버스트를 표시합니다.</string>
@@ -163,17 +163,17 @@
     <string name="opt_largeimages_title">카운트다운</string>
     <string name="opt_largeimages_summary">활성화시 맵의 시작부분에서 카운트다운을 표시합니다.</string>
 
-    <string name="opt_animate_follow_circle_title">Animate follow circle</string>
-    <string name="opt_animate_follow_circle_summary">Enable slider follow circle animations when hitting/releasing follow circle.</string>
+    <string name="opt_animate_follow_circle_title">팔로우 서클 애니메이트</string>
+    <string name="opt_animate_follow_circle_summary">팔로우 서클을 치거나 놓치면 슬라이더 팔로우 서클 애니메이션이 활성화됩니다.</string>
 
-    <string name="opt_animate_combo_text_title">Animate combo text</string>
-    <string name="opt_animate_combo_text_summary">Enable combo text shadow animation when increasing combo.</string>
+    <string name="opt_animate_combo_text_title">콤보 텍스트 애니메이트</string>
+    <string name="opt_animate_combo_text_summary">콤보를 늘릴 때 콤보 텍스트 그림자 애니메이션을 활성화합니다.</string>
 
-    <string name="opt_snakingInSliders_title">Use snaking in sliders</string>
-    <string name="opt_snakingInSliders_summary">Enable sliders gradually snaking from start</string>
+    <string name="opt_snakingInSliders_title">움직이는 슬라이더 사용</string>
+    <string name="opt_snakingInSliders_summary">움직이는 슬라이더를 활성화합니다.</string>
 
-    <string name="opt_noChangeDimInBreaks_title">Don\'t change background dim level during breaks</string>
-    <string name="opt_noChangeDimInBreaks_summary">When enabled, background dim level will not change during breaks.</string>
+    <string name="opt_noChangeDimInBreaks_title">브레이크 타임시 배경화면 밝기조정 금지</string>
+    <string name="opt_noChangeDimInBreaks_summary">이 기능을 활성화하면 브레이크 타임에도 배경화면 밝기가 변경되지 않습니다.</string>
 
     <string name="opt_bursts_title">버스트 효과</string>
     <string name="opt_bursts_summary">서클이나 슬라이더를 누를 때 버스트 효과를 표시합니다.</string>
@@ -182,31 +182,31 @@
     <string name="opt_hitlighting_summary">친 노트 뒤에 게임 필드를 밝게 비추는 희미한 빛을 넣습니다.</string>
 
     <!-- Display -->
-    <string name="opt_category_display">Display</string>
+    <string name="opt_category_display">디스플레이</string>
     <string name="opt_hide_navibar_title">네비게이션 바</string>
     <string name="opt_hide_navibar_summary">플레이 중에 하단 네비게이션 바를 숨깁니다.</string>
 
 <!-- Audio -->
     <!-- Volume -->
-    <string name="opt_category_volume">Volume</string>
+    <string name="opt_category_volume">볼륨</string>
     <string name="opt_bgm_volume_title">음악 볼륨</string>
-    <string name="opt_bgm_volume_summary">음악의 볼륨 (0-100).</string>
+    <string name="opt_bgm_volume_summary">배경음악 볼륨을 조정합니다. </string>
 
-    <string name="opt_sound_volume_title">타격음 음량</string>
-    <string name="opt_sound_volume_summary">타격음의 음량 (0-100)</string>
+    <string name="opt_sound_volume_title">사운드 볼륨</string>
+    <string name="opt_sound_volume_summary">효과음이나 타격음의 볼륨을 조정합니다.</string>
 
     <!-- Offset-->
-    <string name="opt_category_offset">Offset</string>
-    <string name="opt_offset_title">전체적인 오프셋</string>
+    <string name="opt_category_offset">오프셋</string>
+    <string name="opt_offset_title">글로벌 오프셋</string>
     <string name="opt_offset_summary">노래 오프셋 단위:ms (클수록 노래가 맵보다 빨리 시작됩니다.)</string>
 
     <!-- Metronome -->
-    <string name="opt_category_metronome">Metronome</string>
+    <string name="opt_category_metronome">메트로놈</string>
     <string name="opt_metronome_switch_title">메트로놈</string>
-    <string name="opt_metronome_switch_summary">메트로놈 효과음을 추가합니다.</string>
+    <string name="opt_metronome_switch_summary">메트로놈 효과음을 활성화합니다.</string>
     <string-array name="metronome_switch_names">
-        <item>해제</item>
-        <item>나이트코어일 때만</item>
+        <item>끄기</item>
+        <item>NightCore(NC)일 때만</item>
         <item>항상</item>
     </string-array>
     <string-array name="metronome_switch_values">
@@ -216,84 +216,87 @@
     </string-array>
 
     <!-- Miscellaneous -->
-    <string name="opt_category_miscellaneous">Miscellaneous</string>
-    <string name="opt_sound_title">비트맵 고유 히트 사운드 사용</string>
-    <string name="opt_sound_summary">가능한 한 비트맵 고유 히트 사운드를 사용합니다.</string>
+    <string name="opt_category_miscellaneous">여러가지 잡다</string>
+    <string name="opt_sound_title">비트맵 사운드</string>
+    <string name="opt_sound_summary">가능한 한 비트맵 고유 사운드를 사용합니다.</string>
 
     <string name="opt_musicpreview_title">음악 미리 듣기</string>
     <string name="opt_musicpreview_summary">비트맵을 선택할 시, 해당 비트맵 음악을 미리 듣습니다.</string>
 
 <!-- Library -->
     <!-- Import -->
-    <string name="opt_category_import">Import</string>
-    <string name="opt_deleteosz_title">.osz 파일 삭제</string>
-    <string name="opt_deleteosz_summary">다운받은 .osz파일에서 파일들 추출이 끝난 뒤 .osz 파일을 삭제합니다.</string>
+    <string name="opt_category_import">가져오기</string>
+    <string name="opt_deleteosz_title">.osz 삭제</string>
+    <string name="opt_deleteosz_summary">가져오기 한 후에 .osz 파일을 삭제합니다.</string>
 
     <string name="opt_scandownload_title">Download 스캔</string>
-    <string name="opt_scandownload_summary">Download 폴더에서 비트맵을 스캔합니다.</string>
+    <string name="opt_scandownload_summary">Download 폴더에서 새 비트맵 또는 스킨을 스캔합니다.(SD 카드로는 작동하지 않을 수 있습니다.)</string>
 
-    <string name="opt_deleteUnimportedBeatmaps_title">Delete Unimported Beatmaps</string>
-    <string name="opt_deleteUnimportedBeatmaps_summary">Delete beatmaps that cannot be imported. Will apply in future beatmap import operations.</string>
+    <string name="opt_deleteUnimportedBeatmaps_title">가져오지 않은 비트맵 삭제</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">가져올 수 없는 비트맵을 삭제합니다. 향후 비트맵 가져오기 작업에 적용됩니다.</string>
 
-    <string name="opt_delete_unsupported_videos_title">Delete unsupported videos</string>
-    <string name="opt_delete_unsupported_videos_summary">Delete videos with unsupported formats (.avi and .flv)</string>
+    <string name="opt_delete_unsupported_videos_title">지원되지 않는 비디오 삭제</string>
+    <string name="opt_delete_unsupported_videos_summary">지원되지 않는 형식(.avi 및 .flv)의 비디오를 삭제합니다.</string>
 
-    <string name="opt_import_replay_title">Import replay</string>
-    <string name="opt_import_replay_summary">Import a replay file (.odr) or an exported replay file (.edr). Only .odr files from osu!droid version 1.6.7 onwards are supported</string>
+    <string name="opt_import_replay_title">리플레이 가져오기</string>
+    <string name="opt_import_replay_summary">리플레이 파일(.odr) 또는 내보낸 리플레이 파일(.edr)을 가져옵니다. osu!droid의 버전이 1.6.7 이상의 .odr 파일만 지원됩니다.</string>
 
     <!-- Metadata -->
-    <string name="opt_category_metadata">Metadata</string>
+    <string name="opt_category_metadata">메타데이터</string>
     <string name="force_romanized">로마자 표기</string>
-    <string name="force_romanized_summary">인코딩 오류로 내용을 읽을 수 없는 경우, 로마자로 표기합니다.</string>
+    <string name="force_romanized_summary">일본어 또는 중국어 제목을 읽을 수 없는 경우 메타데이터에 로마자만 사용하도록 강제합니다.</string>
 
     <!-- Storage -->
-    <string name="opt_category_storage">Storage</string>
-    <string name="opt_clear_title">라이브러리 캐시 초기화</string>
-    <string name="opt_clear_summary">라이브러리 캐시를 강제로 초기화합니다.</string>
+    <string name="opt_category_storage">저장</string>
+    <string name="opt_clear_title">비트맵 캐시 초기화</string>
+    <string name="opt_clear_summary">캐시된 비트맵을 강제로 초기화합니다.</string>
 
     <string name="opt_clearprops_title">맵 전용 데이터 초기화</string>
-    <string name="opt_clearprops_summary">맵 전용 데이터를 초기화합니다. (예. 각맵들의 오프셋)</string>
+    <string name="opt_clearprops_summary">모든 맵 전용 데이터(예: 맵별 오프셋)를 강제로 초기화합니다.</string>
 
 <!-- Input -->
     <!-- Playfield -->
-    <string name="opt_category_playfield">Playfield</string>
-    <string name="opt_setplayfield_title">Set playfield size</string>
-    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+    <string name="opt_category_playfield">플레이필드</string>
+    <string name="opt_setplayfield_title">플레이필드 크기 설정</string>
+    <string name="opt_setplayfield_summary">플레이필드 크기를 변경합니다.</string>
 
-    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
-    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <string name="opt_shrink_playfield_downwards_title">플레이필드를 아래로 축소</string>
+    <string name="opt_shrink_playfield_downwards_summary">플레이필드를 아래로 축소합니다.</string>
 
-    <string name="block_area_preference_title">Manage input block areas</string>
-    <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+    <string name="block_area_preference_title">입력 블록 영역 관리</string>
+    <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
 
     <!-- Gameplay -->
-    <string name="opt_category_gameplay">Gameplay</string>
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+    <string name="opt_category_gameplay">게임플레이</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">슬라이더 및 스피너 잠금 해제(언랭크)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">슬라이더 및 스피너 잠금을 해제합니다. 2B 스타일 플레이가 가능합니다.</string>
 
     <!-- Synchronisation  -->
-    <string name="opt_category_synchronization">Synchronization</string>
-    <string name="opt_syncmusic_title">저지연 동기화 (Low-latency)</string>
-    <string name="opt_syncmusic_summary">기기가 저지연 오디오를 지원하지 않는다면 해제하십시오.</string>
+    <string name="opt_category_synchronization">동기화</string>
+    <string name="opt_syncmusic_title">저지연 동기화</string>
+    <string name="opt_syncmusic_summary">기기가 저지연 오디오를 지원하지 않는다면 비활성화 하세요..</string>
 
-    <string name="opt_fix_frame_offset_title">오프셋 고정</string>
-    <string name="opt_fix_frame_offset_summary">가능한 한 입력과 프레임 사이에 오프셋을 고정합니다.</string>
+    <string name="opt_fix_frame_offset_title">무작위 오프셋 수정</string>
+    <string name="opt_fix_frame_offset_summary">입력 시간과 프레임 시간 사이의 오프셋을 수정합니다.</string>
 
 <!-- Advanced -->
     <!-- Directories -->
-    <string name="opt_category_directories">Directories</string>
+    <string name="opt_category_directories">경로</string>
     <string name="opt_corepath_title">기본 경로</string>
-    <string name="opt_corepath_summary">osu!droid 기본 경로(기본: /sdcard/osu!droid)</string>
+    <string name="opt_corepath_summary">osu!droid 기본 경로를 설정합니다.</string>
 
     <string name="opt_skin_top_path_title">스킨 경로</string>
-    <string name="opt_skin_top_path_summary">스킨을 포함하는 경로 (기본: /sdcard/osu!droid/Skin)</string>
+    <string name="opt_skin_top_path_summary">스킨을 포함하는 경로를 설정합니다. (기본: /sdcard/osu!droid/Skin)</string>
 
     <string name="opt_directory_title">비트맵 경로</string>
-    <string name="opt_directory_summary">비트맵을 포함하고 있는 폴더 경로를 설정해주세요. (기본: /sdcard/osu!droid/Songs)</string>
+    <string name="opt_directory_summary">비트맵이 포함된 디렉토리 경로를 설정합니다. (기본: /mnt/sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
-    <string name="opt_safe_beatmap_bg_title">Safe beatmap background</string>
-    <string name="opt_safe_beatmap_bg_summary">Change all of the beatmaps\' background to the menu-background image from your skin</string>
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+
+    <string name="opt_safe_beatmap_bg_title">안전한 비트맵 배경화면</string>
+    <string name="opt_safe_beatmap_bg_summary">모든 비트맵 배경을 스킨의 메뉴 배경 이미지로 변경됩니다.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

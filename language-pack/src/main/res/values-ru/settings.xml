@@ -292,6 +292,9 @@
     <string name="opt_directory_summary">По умолчанию: /storage/emulated/0/osu!droid/Skin/</string>
 
     <!-- Miscellaneous -->
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+
     <string name="opt_safe_beatmap_bg_title">Использовать фон скина как задний фон</string>
     <string name="opt_safe_beatmap_bg_summary">Изменить фон карт на menu-background из скина</string>
 

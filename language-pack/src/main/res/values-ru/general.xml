@@ -14,16 +14,15 @@
     <string name="message_error_sdcardread">Внешнее хранилище доступно только для чтения</string>
 
     <!-- Crash -->
-    <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>
-    <string name="app_run_code_error">Критическая ошибка</string>
+    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
 
     <!-- Errors -->
-    <string name="network_not_connected">Подключение к сети не удалось, проверьте настройки сети</string>
-    <string name="xml_parser_failed">Не удалось обработать данные</string>
-    <string name="io_exception_error">Исключение файлового потока</string>
-    <string name="http_status_code_error">Исключение сети, код ошибки: %d</string>
-    <string name="http_exception_error">Исключение сети, время ожидания запроса истекло</string>
-    <string name="socket_exception_error">Исключение сети, время чтения данных истекло</string>
+    <string name="network_not_connected">Network connection failed, please check network settings</string>
+    <string name="xml_parser_failed">Data parsing failed</string>
+    <string name="io_exception_error">File Stream Exception</string>
+    <string name="http_status_code_error">Network exception, error code: %d</string>
+    <string name="http_exception_error">Network exception, request timeout</string>
+    <string name="socket_exception_error">Network exception, read data timeout</string>
 
 
     <!-- Accessibility -->

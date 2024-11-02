@@ -1,49 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="markdown_title">Markdown Title</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="markdown_title">마크다운 제목</string>
+    <string name="changelog_title">변경사항</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">해당 디바이스 기기에서는 멀티터치를 지원하지 않습니다.</string>
+    <string name="message_low_storage_space">저장 공간이 부족합니다. 사용 가능한 저장 공간: %s GB. 이로 인해 리플레이/점수 제출에 버그가 발생할 수 있습니다.</string>
 
-    <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_error">오류: %s</string>
+    <string name="message_error_open">%s 를 열 수 없습니다.</string>
+    <string name="message_error_createdir">%s 를 만들 수 없습니다.</string>
+    <string name="message_error_sdcard">외부 저장소가 마운트되지 않았습니다.</string>
+    <string name="message_error_sdcardread">외부 저장소가 읽기 전용으로 되어있습니다.</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
-    <string name="app_run_code_error">Fatal error encountered</string>
-
-    <!-- Errors -->
-    <string name="network_not_connected">Network connection failed, please check network settings</string>
-    <string name="xml_parser_failed">Data parsing failed</string>
-    <string name="io_exception_error">File Stream Exception</string>
-    <string name="http_status_code_error">Network exception, error code: %d</string>
-    <string name="http_exception_error">Network exception, request timeout</string>
-    <string name="socket_exception_error">Network exception, read data timeout</string>
-
+    <string name="crash">죄송합니다, 게임에서 예상치 못한 오류가 발생하여 게임을 종료합니다.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">접근성 서비스 비활성화</string>
+    <string name="accessibility_detector_message">플레이하려면 다음 접근성 서비스를 비활성화해야 합니다:</string>
+    <string name="accessibility_detector_settings">접근성 설정으로 이동</string>
+    <string name="accessibility_detector_exit">게임 나가기</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">기록 세부정보 로딩 중...</string>
+    <string name="multiplayer_not_online">멀티플레이어를 플레이하려면 서버에 로그인해야 합니다!</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">색상을 눌러 선택하세요.</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">취소</string>
+    <string name="beatmap_downloader_connecting">서버에 연결 중...</string>
+    <string name="beatmap_downloader_downloading">비트맵 %s 다운로드 중...</string>
+    <string name="beatmap_downloader_importing">비트맵 %s 가져오는 중...</string>
 
     <!-- Ranked status -->
     <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
@@ -55,33 +45,33 @@
     <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_cleared">캐시가 지워졌습니다.</string>
+    <string name="library_importing">비트맵 가져오는 중...</string>
+    <string name="library_importing_several">%개의 보관된 비트맵을 찾았습니다. 가져오는 중...</string>
+    <string name="library_skin_importing_several">%s개의 보관된 스킨을 찾았습니다. 가져오는 중...</string>
+    <string name="library_imported">\"%s\"(을)를 가져왔습니다!</string>
+    <string name="message_loaded_skin">새로운 스킨이 성공적으로 적용되었습니다!</string>
+    <string name="message_error_dir_not_found">경로를 찾을 수 없습니다</string>
+    <string name="file_integrity_tampered">파일 무결성 검사에 실패했습니다. 게임 플레이를 중단합니다.</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">%s 로딩 실패: 비트맵 파일을 열 수 없습니다.</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">영역 추가</string>
+    <string name="block_area_editor_fragment_reset">초기화</string>
+    <string name="block_area_editor_fragment_done">완료</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">새로운 업데이트가 있습니다.</string>
+    <string name="update_dialog_button_update">지금 업데이트 하기</string>
+    <string name="update_info_checking">새로운 업데이트를 확인하는 중...</string>
+    <string name="update_info_check_failed">업데이트를 확인하지 못했습니다. 서버 또는 인터넷 연결이 불가능할 수 있습니다.</string>
+    <string name="update_info_downloading">업데이트 다운로드 중... %d%%</string>
+    <string name="update_info_download_canceled">다운로드가 취소되었습니다.</string>
+    <string name="update_info_download_failed">다운로드 실패, 인터넷 연결을 확인하세요.</string>
+    <string name="update_info_updated">업데이트가 성공적으로 설치되었습니다!</string>
+    <string name="update_info_latest">새로운 업데이트가 없습니다.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

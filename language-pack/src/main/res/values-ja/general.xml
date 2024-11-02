@@ -1,87 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="markdown_title">Markdown Title</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="markdown_title">マークダウンタイトル</string>
+    <string name="changelog_title">更新内容</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">このデバイスはマルチタッチに対応していない恐れがあります。</string>
+    <string name="message_low_storage_space">ストレージがいっぱいです。 使用可能: %s GB. リプレイ、スコアレポートの際、エラーが発生する恐れがあります。</string>
 
-    <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_error">エラー: %s</string>
+    <string name="message_error_open">%sの読み込みに失敗しました。</string>
+    <string name="message_error_createdir">%sの生成に失敗しました。</string>
+    <string name="message_error_sdcard">外部ストレージがマウントされていません。</string>
+    <string name="message_error_sdcardread">外部ストレージが読み専用となっています。</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
-    <string name="app_run_code_error">Fatal error encountered</string>
-
-    <!-- Errors -->
-    <string name="network_not_connected">Network connection failed, please check network settings</string>
-    <string name="xml_parser_failed">Data parsing failed</string>
-    <string name="io_exception_error">File Stream Exception</string>
-    <string name="http_status_code_error">Network exception, error code: %d</string>
-    <string name="http_exception_error">Network exception, request timeout</string>
-    <string name="socket_exception_error">Network exception, read data timeout</string>
-
+    <string name="crash">予期しないエラーが発生しました。ゲームが終了します。</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">補助サービスをオフにしてください。</string>
+    <string name="accessibility_detector_message">ゲーム進行のため、次の補助サービスをオフにしてください。</string>
+    <string name="accessibility_detector_settings">補助サービス設定に進む</string>
+    <string name="accessibility_detector_exit">ゲーム終了</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">読み込み中...</string>
+    <string name="multiplayer_not_online">ログインしていない場合、マルチプレイ</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">使用する色を選択</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">キャンセル</string>
+    <string name="beatmap_downloader_connecting">通信中...</string>
+    <string name="beatmap_downloader_downloading">ビートマップダウンロード中 %s...</string>
+    <string name="beatmap_downloader_importing">ビートマップ読み込み中 %s...</string>
 
     <!-- Ranked status -->
     <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
     <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
     <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
     <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
-    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">Pengind</font></string>
     <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
     <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
 
     <!-- Library -->
     <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_importing">ビートマップ読み込み中...</string>
+    <string name="library_importing_several">%sのビートマップを発見しました. 読み込み中...</string>
+    <string name="library_skin_importing_several">%sのスキンを発見しました. 読み込み中...</string>
+    <string name="library_imported">「%s」をロードしました！</string>
+    <string name="message_loaded_skin">スキンの適用が完了しました!</string>
+    <string name="message_error_dir_not_found">ディレクトリが見つかりませんでした。</string>
+    <string name="file_integrity_tampered">ファイル検証に失敗しました. ゲームプレイを中断します。</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">読み込み失敗 %s: ビートマップファイルが開けませんでした。</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">追加エリア</string>
+    <string name="block_area_editor_fragment_reset">初期化</string>
+    <string name="block_area_editor_fragment_done">終了</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">アップデートがあります。</string>
+    <string name="update_dialog_button_update">今すぐアップデート</string>
+    <string name="update_info_checking">アップデートの確認中...</string>
+    <string name="update_info_check_failed">アップデート確認に失敗しました。サーバー若しくはネットワークに問題がある可能性があります。</string>
+    <string name="update_info_downloading">アップデートダウンロード中... %d%%</string>
+    <string name="update_info_download_canceled">ダウンロードがキャンセルされました。</string>
+    <string name="update_info_download_failed">ダウンロード失敗、ネットワークの接続を確認してください。</string>
+    <string name="update_info_updated">アップデートのインストールに成功しました！</string>
+    <string name="update_info_latest">更新できるアップデートがありません。</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

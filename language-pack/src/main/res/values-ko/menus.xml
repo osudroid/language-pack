@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Song Select -->
-    <string name="menu_score" formatted="false">Score: %s (%dx)</string>
-    <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
-    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_score" formatted="false">점수: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">퍼포먼스(PP): %spp (%dx)</string>
+    <string name="menu_creator">제작자: %s</string>
 
-    <string name="menu_mod_back">Back</string>
-    <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
-    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_mod_back">뒤로</string>
+    <string name="menu_mod_multiplier" formatted="false">점수 %.2fx 배</string>
+    <string name="menu_mod_reset">모든 모드 초기화</string>
 
-    <string name="menu_properties_title">Song properties</string>
-    <string name="menu_properties_offset">Song offset:</string>
-    <string name="menu_properties_tofavs">Add to favorites</string>
-    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_properties_title">노래 속성</string>
+    <string name="menu_properties_offset">노래 오프셋:</string>
+    <string name="menu_properties_tofavs">즐겨찾기에 추가</string>
+    <string name="menu_properties_delete">비트맵 삭제</string>
 
-    <string name="menu_deletescore_delete">Delete</string>
-    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_deletescore_delete">삭제</string>
+    <string name="menu_deletescore_delete_success">점수 삭제를 성공하였습니다!</string>
 
-    <string name="menu_search_filter">Search for...</string>
-    <string name="menu_search_sort_title">Title</string>
-    <string name="menu_search_sort_date">Date</string>
-    <string name="menu_search_sort_creator">Creator</string>
-    <string name="menu_search_sort_artist">Artist</string>
+    <string name="menu_search_filter">검색어...</string>
+    <string name="menu_search_sort_title">제목</string>
+    <string name="menu_search_sort_date">날짜</string>
+    <string name="menu_search_sort_creator">제작자</string>
+    <string name="menu_search_sort_artist">아티스트</string>
     <string name="menu_search_sort_bpm">Bpm</string>
-    <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
-    <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Length</string>
-    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
-    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="menu_search_sort_droid_stars">osu!droid 난이도</string>
+    <string name="menu_search_sort_standard_stars">osu!standard 난이도</string>
+    <string name="menu_search_sort_length">길이</string>
+    <string name="binfoStr1" formatted="false">길이: %s BPM: %s 콤보: %d</string>
+    <string name="binfoStr2" formatted="false">서클: %d 슬라이더: %d 스피너: %d (맵Id: %d)</string>
     <!-- End Song Select -->
 
     <!-- Filter Menu -->
-    <string name="favorite_default">Default</string>
-    <string name="favorite_new_folder">Create new folder</string>
-    <string name="favorite_ensure">Are you sure?</string>
-    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="favorite_default">기본</string>
+    <string name="favorite_new_folder">새 폴더 만들기</string>
+    <string name="favorite_ensure">확실합니까?</string>
+    <string name="favorite_manage">비트맵 폴더 관리</string>
 
 
 <!-- Score Export/Import -->
-    <string name="frg_score_menu_title">Score</string>
-    <string name="frg_score_menu_export_score">Export Score</string>
-    <string name="frg_score_menu_export_failed">Failed to export replay!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">Replay is saved to %s</string>
+    <string name="frg_score_menu_title">점수</string>
+    <string name="frg_score_menu_export_score">점수 내보내기</string>
+    <string name="frg_score_menu_export_failed">리플레이를 내보내는 데 실패했습니다!</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">리플레이가 저장되었습니다. (저장 경로 : %s)</string>
 
 <!-- Mod Menu Customizations -->
     <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">Show Scoreboard</string>
+    <string name="opt_show_scoreboard_title">스코어보드 표시</string>
     <!-- Speed -->
-    <string name="opt_changespeed_title">Speed Modify</string>
-    <string name="opt_enablenc_whenspeedchange_title">Enable pitch shift in speed modify</string>
+    <string name="opt_changespeed_title">속도 조절</string>
+    <string name="opt_enablenc_whenspeedchange_title">속도 조절에서 피치 이동을 활성화합니다.</string>
     <!-- Difficulty-->
-    <string name="opt_forcear_title">Force AR</string>
-    <string name="opt_forceod_title">Force OD</string>
-    <string name="opt_forcehp_title">Force HP</string>
-    <string name="opt_forcecs_title">Force CS</string>
+    <string name="opt_forcear_title">강제 AR</string>
+    <string name="opt_forceod_title">강제 OD</string>
+    <string name="opt_forcehp_title">강제 HP</string>
+    <string name="opt_forcecs_title">강제 CS</string>
     <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">FL Follow delay</string>
+    <string name="opt_flashlight_follow_delay_title">FL 따라오기 지연</string>
 
     <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Some mods have been disabled as all forced difficulty statistics are enabled.</string>
+    <string name="force_diffstat_mod_unpickable">모든 강제 난이도 통계가 활성화되어 있기 때문에 일부 모드가 비활성화되었습니다.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
