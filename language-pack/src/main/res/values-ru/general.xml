@@ -2,76 +2,76 @@
 <resources>
 
     <string name="markdown_title">Markdown Title</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="changelog_title">Список изменений</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">Мультитач может не поддерживаться вашим устройством</string>
+    <string name="message_low_storage_space">Недостаточно памяти на устройстве. Свободно памяти: %s ГБ. Это может вызвать ошибки при сохранении и отправке результатов на сервер.</string>
 
-    <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_error">Ошибка: %s</string>
+    <string name="message_error_open">Не удалось открыть %s</string>
+    <string name="message_error_createdir">Не удалось создать %s</string>
+    <string name="message_error_sdcard">Внешнее хранилище не смонтировано</string>
+    <string name="message_error_sdcardread">Внешнее хранилище доступно только для чтения</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(например автокликер)</string>
+    <string name="accessibility_detector_message">Следующие сервисы должны быть отключены для того, чтобы играть:</string>
+    <string name="accessibility_detector_settings">К настройкам спец. возможностей</string>
+    <string name="accessibility_detector_exit">Выйти из игры</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">Загрузка результатов...</string>
+    <string name="multiplayer_not_online">Вы должны войти в аккаунт для игры в многопользовательском режиме!</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">Нажмите на цвет для применения</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">Отменить</string>
+    <string name="beatmap_downloader_connecting">Подключение к серверу...</string>
+    <string name="beatmap_downloader_downloading">Скачивается карта %s...</string>
+    <string name="beatmap_downloader_importing">Импортируется карта %s...</string>
 
     <!-- Ranked status -->
-    <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
-    <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
-    <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
-    <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
-    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
-    <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
-    <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
+    <string name="ranked_status_ranked"><font color="#41FF64">Рейтинговая</font></string>
+    <string name="ranked_status_approved"><font color="#41FF64">Одобренная</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">Квалифицированная</font></string>
+    <string name="ranked_status_loved"><font color="#FA64FF">Любимая</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">На рассмотрении</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">В разработке</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">Заброшенная</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_cleared">Кэш игры очищен</string>
+    <string name="library_importing">Импортируется карта...</string>
+    <string name="library_importing_several">Найдено %s запакованных карт. Начат импорт...</string>
+    <string name="library_skin_importing_several">Найдено %s запакованных скинов. Начат импорт...</string>
+    <string name="library_imported">\"%s\" успешно импортирован(а)!</string>
+    <string name="message_loaded_skin">Применен новый скин!</string>
+    <string name="message_error_dir_not_found">Директория не найдена</string>
+    <string name="file_integrity_tampered">Проверка целостности файла не удалась. Прерывание игрового процесса.</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Не удалось обработать %s: Не удалось открыть файл</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">Добавить область</string>
+    <string name="block_area_editor_fragment_reset">Сбросить</string>
+    <string name="block_area_editor_fragment_done">Готово</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">Доступно новое обновление</string>
+    <string name="update_dialog_button_update">Обновить</string>
+    <string name="update_info_checking">Проверка обновлений...</string>
+    <string name="update_info_check_failed">Не удалось проверить обновления. Сервер может быть недоступен или что-то не так с вашим соединением.</string>
+    <string name="update_info_downloading">Загружаются обновления... %d%%</string>
+    <string name="update_info_download_canceled">Загрузка отменена.</string>
+    <string name="update_info_download_failed">Загрузка отменена, проверьте свое подключение к сети.</string>
+    <string name="update_info_updated">Обновление успешно установлено!</string>
+    <string name="update_info_latest">Используется новейшая версия игры</string>
 
 
     <!-- All new strings should present below for better managing locals... -->

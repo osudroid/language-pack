@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="dialog_exit_yes">Yes</string>
-    <string name="dialog_exit_no">No</string>
-    <string name="dialog_exit_message">Are you sure you want to exit the game?</string>
+    <string name="dialog_exit_yes">Да</string>
+    <string name="dialog_exit_no">Нет</string>
+    <string name="dialog_exit_message">Вы точно хотите выйти из игры?</string>
 
-    <string name="dialog_visit_osu_website">Do you want to visit the official osu! website?</string>
-    <string name="dialog_visit_osudroid_profile_page">Do you want to visit your profile page?</string>
-    <string name="dialog_visit_osudroid_website">Do you want to visit the official osu!droid website?</string>
+    <string name="dialog_visit_osu_website">Хотите ли вы посетить сайт оригинальной игры?</string>
+    <string name="dialog_visit_osudroid_profile_page">Хотите ли вы посетить ваш профиль?</string>
+    <string name="dialog_visit_osudroid_website">Хотите ли вы посетить сайт osu!droid?</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

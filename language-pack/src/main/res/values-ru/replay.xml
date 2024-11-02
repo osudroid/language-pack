@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Import -->
-    <string name="act_import_replay">Import replay into osu!droid</string>
-    <string name="invalid_edr_file">Invalid repay!</string>
-    <string name="failed_to_import_edr">Failed to import replay!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
-    <string name="import_edr_successfully">Import replay successfully!</string>
+    <string name="act_import_replay">Импортировать результат и запись игры в osu!droid</string>
+    <string name="invalid_edr_file">Файл записи повержден</string>
+    <string name="failed_to_import_edr">Не удалось импортировать результат!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Не удалось импортировать результат: %s</string>
+    <string name="import_edr_successfully">Результат успешно импортирован!</string>
 
-    <string name="replay_import_success">Replay imported successfully!</string>
-    <string name="replay_import_failed">Replay import failed: %s</string>
+    <string name="replay_import_success">Запись игры успешно импортирована!</string>
+    <string name="replay_import_failed">Не удалось импортировать запись игры: %s</string>
 
     <!-- Save -->
-    <string name="message_save_replay_successful">Save failed replay success!</string>
-    <string name="message_save_replay_failed">Save replay failed</string>
+    <string name="message_save_replay_successful">Запись игры сохранена!</string>
+    <string name="message_save_replay_failed">Сохранение записи игры не удалось</string>
 
-    <string name="replay_invalid">Cannot load replay</string>
-    <string name="replay_cantdownload">Cannot download replay</string>
-    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
-    <string name="replay_corrupted">Replay file is corrupted</string>
+    <string name="replay_invalid">Не удалось запустить запись игры</string>
+    <string name="replay_cantdownload">Не удалось скачать запись игры</string>
+    <string name="replay_wrongmap">Запись игры не соответствует карте</string>
+    <string name="replay_corrupted">Запись игры повреждена</string>
 
     <!-- All new strings should present below for better managing locals... -->
 
