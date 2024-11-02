@@ -17,7 +17,7 @@
     <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(потенциальный автокликер)</string>
+    <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(например автокликер)</string>
     <string name="accessibility_detector_message">Следующие сервисы должны быть отключены для того, чтобы играть:</string>
     <string name="accessibility_detector_settings">К настройкам спец. возможностей</string>
     <string name="accessibility_detector_exit">Выйти из игры</string>
