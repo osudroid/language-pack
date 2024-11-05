@@ -51,7 +51,7 @@
     <!-- Skin -->
     <string name="opt_category_skin">스킨</string>
     <string name="opt_skinpath_title">스킨 선택</string>
-    <string name="opt_skinpath_summary">스킨 디렉토리에서 스킨을 선택합니다.</string>
+    <string name="opt_skinpath_summary">스킨 디렉터리에서 스킨을 선택합니다.</string>
 
     <string name="opt_spinner_style_title">스피너 스타일</string>
     <string name="opt_spinner_style_summary">스피너 스타일을 변경합니다.</string>
