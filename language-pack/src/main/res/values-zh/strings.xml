@@ -15,14 +15,10 @@
     <string name="opt_update_summary">检查是否有更新版本的osu!droid</string>
     <string name="opt_skinpath_title">选择一个皮肤</string>
     <string name="opt_skinpath_summary">从主皮肤目录里选择一个皮肤</string>
-
     <string name="opt_spinner_style_title">转盘样式</string>
     <string name="opt_spinner_style_summary">改变转盘的样式</string>
-    <string-array name="spinner_style_names">
-        <item>PC样式</item>
-        <item>经典样式</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">PC样式</string>
+    <string name="opt_spinner_style_classical">经典样式</string>
     <string name="opt_skin_title">地图皮肤</string>
     <string name="opt_skin_summary">可用时加载地图自带皮肤</string>
     <string name="opt_category_hit_objects">Hit objects</string>
@@ -32,15 +28,11 @@
     <string name="opt_bgbrightness_summary">背景图片的亮度</string>
     <string name="opt_enableStoryboard_title">开启Storyboard</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_error_meter_display_title">击打误差指示器</string>
     <string name="opt_error_meter_display_summary">决定是否或在何时显示指示器</string>
-    <string-array name="error_meter_display_names">
-        <item>总是开启</item>
-        <item>仅重放</item>
-        <item>禁用</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">总是开启</string>
+    <string name="opt_error_meter_display_replay">仅重放</string>
+    <string name="opt_error_meter_display_disable">禁用</string>
     <string name="opt_fps_title">显示帧每秒</string>
     <string name="opt_fps_summary">显示游戏过程中每秒帧数</string>
     <string name="opt_combo_colors_title">Combo颜色</string>
@@ -67,15 +59,11 @@
     <string name="opt_sound_volume_summary">音效音量，设置范围0–100，需重新启动游戏后生效</string>
     <string name="opt_offset_title">全局延时</string>
     <string name="opt_offset_summary">毫秒计音乐延时 (负值则为提前)</string>
-
     <string name="opt_metronome_switch_title">节拍器</string>
     <string name="opt_metronome_switch_summary">启用节拍器音效</string>
-    <string-array name="metronome_switch_names">
-        <item>关闭</item>
-        <item>仅 NightCore 模式开启</item>
-        <item>总是开启</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">关闭</string>
+    <string name="opt_metronome_switch_nightcore">仅 NightCore 模式开启</string>
+    <string name="opt_metronome_switch_always">总是开启</string>
     <string name="opt_sound_title">地图音效</string>
     <string name="opt_sound_summary">可用时加载地图自带音效</string>
     <string name="opt_musicpreview_title">音乐预览</string>

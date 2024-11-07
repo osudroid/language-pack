@@ -109,27 +109,18 @@
     <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
     <string name="mp_room_allowForceDifficultyStatistics_title">Allow force difficulty statistics in free mod</string>
     <string name="mp_room_allowForceDifficultyStatistics_summary">Allow players to use forced difficulty statistics in free mod.</string>
-
     <string name="mp_room_versus_mode_title">Team mode</string>
     <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
-    <string-array name="mp_team_versus_names">
-        <item>Head to Head</item>
-        <item>Team vs Team</item>
-    </string-array>
-    <string-array name="mp_team_names">
-        <item>Red</item>
-        <item>Blue</item>
-    </string-array>
-
+    <string name="mp_room_versus_mode_head_to_head">Head to Head</string>
+    <string name="mp_room_versus_mode_team_vs_team">Team vs Team</string>
+    <string name="mp_team_names_red">Red</string>
+    <string name="mp_team_names_blue">Blue</string>
     <string name="mp_room_win_condition_title">Win condition</string>
     <string name="mp_room_win_condition_summary">Change the room win condition.</string>
-    <string-array name="mp_win_condition_names">
-        <item>Score V1</item>
-        <item>Accuracy</item>
-        <item>Max combo</item>
-        <item>Score V2</item>
-    </string-array>
-
+    <string name="mp_room_win_condition_scoreV1">Score V1</string>
+    <string name="mp_room_win_condition_accuracy">Accuracy</string>
+    <string name="mp_room_win_condition_maxCombo">Max combo</string>
+    <string name="mp_room_win_condition_scoreV2">Score V2</string>
     <string name="mp_room_category_share">Share</string>
     <string name="mp_room_link_title">Get invite link</string>
     <string name="mp_room_link_summary">Copy invite link to clipboard</string>
@@ -159,21 +150,14 @@
     <string name="opt_stayonline_summary">Connect to osu!droid server</string>
     <string name="opt_loadavatar_title">Load Avatar</string>
     <string name="opt_loadavatar_summary">Load avatar in online leaderboard</string>
-
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Global beatmap leaderboard scoring mode</string>
     <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Choose the scoring mode for global beatmap leaderboards</string>
-    <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>Score</item>
-        <item>Performance Points</item>
-    </string-array>
-
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_score">Score</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_pp">Performance Points</string>
     <string name="difficulty_algorithm_title">Difficulty algorithm</string>
     <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
-    <string-array name="difficulty_algorithm_names">
-        <item>osu!droid</item>
-        <item>osu!standard</item>
-    </string-array>
-
+    <string name="difficulty_algorithm_droid">osu!droid</string>
+    <string name="difficulty_algorithm_standard">osu!standard</string>
     <string name="opt_category_account">Account</string>
     <string name="opt_login_title">Login</string>
     <string name="opt_login_summary">Your online name</string>
@@ -190,14 +174,10 @@
     <string name="opt_category_skin">Skin</string>
     <string name="opt_skinpath_title">Select skin</string>
     <string name="opt_skinpath_summary">Select skin from top skin directory</string>
-
     <string name="opt_spinner_style_title">Spinner style</string>
     <string name="opt_spinner_style_summary">Change the spinner style</string>
-    <string-array name="spinner_style_names">
-        <item>Modern</item>
-        <item>Classical</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">Modern</string>
+    <string name="opt_spinner_style_classical">Classical</string>
     <string name="opt_skin_title">Beatmap skins</string>
     <string name="opt_skin_summary">Load beatmap-specific skin if available</string>
     <string name="opt_category_hit_objects">Hit objects</string>
@@ -212,29 +192,21 @@
     <string name="opt_video_title">Background Video</string>
     <string name="opt_video_summary">Display video playback during gameplay. Only supports .3gp, .mp4, .mkv, and .webm video formats</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_progress_indicator_title">Progress display</string>
     <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
-    <string-array name="opt_progress_indicator_names">
-        <item>Top-right (Pie)</item>
-        <item>Bottom (Long)</item>
-    </string-array>
-
+    <string name="opt_progress_indicator_pie">Top-right (Pie)</string>
+    <string name="opt_progress_indicator_long">Bottom (Long)</string>
     <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
     <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
     <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
     <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
     <string name="opt_show_leaderboard_title">Show leaderboard</string>
     <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
-
     <string name="opt_error_meter_display_title">Hit error meter</string>
     <string name="opt_error_meter_display_summary">Display hit error meter</string>
-    <string-array name="error_meter_display_names">
-        <item>Always</item>
-        <item>Replay Only</item>
-        <item>Disable</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">Always</string>
+    <string name="opt_error_meter_display_replay">Replay Only</string>
+    <string name="opt_error_meter_display_disable">Disable</string>
     <string name="opt_fps_title">FPS</string>
     <string name="opt_fps_summary">Display (frames per second) during gameplay</string>
     <string name="opt_averageoffset_title">Average offset</string>
@@ -285,15 +257,11 @@
     <string name="opt_offset_title">Global offset</string>
     <string name="opt_offset_summary">Music offset in ms (positive values mean objects appear earlier)</string>
     <string name="opt_category_metronome">Metronome</string>
-
     <string name="opt_metronome_switch_title">Metronome switch</string>
     <string name="opt_metronome_switch_summary">Enable metronome sound effect</string>
-    <string-array name="metronome_switch_names">
-        <item>Off</item>
-        <item>NightCore Mode Only</item>
-        <item>Always</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">Off</string>
+    <string name="opt_metronome_switch_nightcore">Only NightCore mode</string>
+    <string name="opt_metronome_switch_always">Always</string>
     <string name="opt_category_miscellaneous">Miscellaneous</string>
     <string name="opt_sound_title">Beatmap sounds</string>
     <string name="opt_sound_summary">Load beatmap-specific sounds if available</string>

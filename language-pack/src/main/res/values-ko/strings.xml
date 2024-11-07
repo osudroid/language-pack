@@ -103,35 +103,24 @@
     <string name="mp_room_free_mods_summary">속도 변경 모드(DT, NC)를 제외한 모든 모드를 플레이어가 선택할 수 있도록 허용합니다.</string>
     <string name="mp_room_allowForceDifficultyStatistics_title">프리 모드에서 강제 난이도 통계 허용</string>
     <string name="mp_room_allowForceDifficultyStatistics_summary">플레이어가 프리 모드에서 강제적인 난이도 통계를 사용할 수 있도록 허용합니다.</string>
-
     <string name="mp_room_versus_mode_title">팀 모드</string>
     <string name="mp_room_versus_mode_summary">방 대결 모드를 변경합니다.</string>
-    <string-array name="mp_team_versus_names">
-        <item>1 vs 1(Head to Head)</item>
-        <item>팀 vs 팀(Team vs Team)</item>
-    </string-array>
-
+    <string name="mp_room_versus_mode_head_to_head">1 vs 1(Head to Head)</string>
+    <string name="mp_room_versus_mode_team_vs_team">팀 vs 팀(Team vs Team)</string>
     <string name="mp_room_win_condition_title">승리 조건</string>
     <string name="mp_room_win_condition_summary">방의 승리 조건을 변경합니다.</string>
-    <string-array name="mp_win_condition_names">
-        <item>Score V1</item>
-        <item>정확도</item>
-        <item>최대 콤보</item>
-        <item>Score V2</item>
-    </string-array>
-
+    <string name="mp_room_win_condition_scoreV1">Score V1</string>
+    <string name="mp_room_win_condition_accuracy">정확도</string>
+    <string name="mp_room_win_condition_maxCombo">최대 콤보</string>
+    <string name="mp_room_win_condition_scoreV2">Score V2</string>
     <string name="mp_room_category_share">공유</string>
     <string name="mp_room_link_title">초대 링크 받기</string>
     <string name="mp_room_link_summary">초대 링크를 클립보드에 복사합니다.</string>
     <string name="mp_room_category_teams">팀</string>
-
     <string name="mp_room_category_teams_title">팀</string>
     <string name="mp_room_category_teams_summary">팀을 변경합니다.</string>
-    <string-array name="mp_team_names">
-        <item>레드(Red)</item>
-        <item>블루(Blue)</item>
-    </string-array>
-
+    <string name="mp_team_names_red">레드(Red)</string>
+    <string name="mp_team_names_blue">블루(Blue)</string>
     <string name="mp_room_category_in_game">인게임</string>
     <string name="mp_room_enable_score_submission_title">점수 제출 활성화</string>
     <string name="mp_room_enable_score_submission_summary">실패하지 않았다면 라운드가 끝난 후 점수를 제출합니다.</string>
@@ -155,14 +144,10 @@
     <string name="opt_stayonline_summary">osu!droid 서버로 연결합니다.</string>
     <string name="opt_loadavatar_title">아바타 불러오기</string>
     <string name="opt_loadavatar_summary">온라인 리더보드 아바타를 불러옵니다.</string>
-
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">글로벌 비트맵 리더보드 스코어링 모드</string>
     <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">글로벌 비트맵 리더보드의 스코어링 모드를 선택하세요.</string>
-    <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>점수</item>
-        <item>퍼포먼스 포인트(PP)</item>
-    </string-array>
-
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_score">점수</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_pp">퍼포먼스 포인트(PP)</string>
     <string name="opt_category_account">계정</string>
     <string name="opt_login_title">로그인</string>
     <string name="opt_login_summary">계정 이름</string>
@@ -179,14 +164,10 @@
     <string name="opt_category_skin">스킨</string>
     <string name="opt_skinpath_title">스킨 선택</string>
     <string name="opt_skinpath_summary">스킨 디렉토리에서 스킨을 선택합니다.</string>
-
     <string name="opt_spinner_style_title">스피너 스타일</string>
     <string name="opt_spinner_style_summary">스피너 스타일을 변경합니다.</string>
-    <string-array name="spinner_style_names">
-        <item>모던</item>
-        <item>클래식</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">모던</string>
+    <string name="opt_spinner_style_classical">클래식</string>
     <string name="opt_skin_title">비트맵 스킨</string>
     <string name="opt_skin_summary">가능한 한 비트맵 고유 스킨을 사용합니다.</string>
     <string name="opt_category_hit_objects">히트 오브젝트</string>
@@ -201,29 +182,21 @@
     <string name="opt_video_title">배경화면 영상</string>
     <string name="opt_video_summary">게임 플레이 중 비디오 재생을 표시합니다. .3gp, .mp4, .mkv 및 .webm 비디오 형식만 지원합니다.</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_progress_indicator_title">진행률 표시</string>
     <string name="opt_progress_indicator_summary">진행률 표시기 유형을 선택하세요</string>
-    <string-array name="opt_progress_indicator_names">
-        <item>오른쪽 위 (파이)</item>
-        <item>맨 아래 (길게)</item>
-    </string-array>
-
+    <string name="opt_progress_indicator_pie">오른쪽 위 (파이)</string>
+    <string name="opt_progress_indicator_long">맨 아래 (길게)</string>
     <string name="opt_hide_ingame_ui_title">게임 플레이 UI 숨기기</string>
     <string name="opt_hide_ingame_ui_summary">게임 플레이 중 카운터 및 기타 UI를 숨깁니다.</string>
     <string name="opt_hide_replay_marquee_title">리플레이 마키 숨기기</string>
     <string name="opt_hide_replay_marquee_summary">리플레이를 볼 때 스크롤되는 텍스트를 숨깁니다.</string>
     <string name="opt_show_leaderboard_title">리더보드 표시</string>
     <string name="opt_show_leaderboard_summary">플레이하는 동안 라이브 리더보드를 표시합니다</string>
-
     <string name="opt_error_meter_display_title">판정 오차</string>
     <string name="opt_error_meter_display_summary">화면 하단에 판정 오차가 표시합니다.</string>
-    <string-array name="error_meter_display_names">
-        <item>항상</item>
-        <item>리플레이시에만</item>
-        <item>비활성화</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">항상</string>
+    <string name="opt_error_meter_display_replay">리플레이시에만</string>
+    <string name="opt_error_meter_display_disable">비활성화</string>
     <string name="opt_fps_title">FPS(프레임 표시)</string>
     <string name="opt_fps_summary">게임 플레이 중 프레임이(초당 프레임) 표시됩니다.</string>
     <string name="opt_averageoffset_title">평균 오프셋</string>
@@ -274,15 +247,11 @@
     <string name="opt_offset_title">글로벌 오프셋</string>
     <string name="opt_offset_summary">노래 오프셋 단위:ms (클수록 노래가 맵보다 빨리 시작됩니다.)</string>
     <string name="opt_category_metronome">메트로놈</string>
-
     <string name="opt_metronome_switch_title">메트로놈</string>
     <string name="opt_metronome_switch_summary">메트로놈 효과음을 활성화합니다.</string>
-    <string-array name="metronome_switch_names">
-        <item>끄기</item>
-        <item>NightCore(NC)일 때만</item>
-        <item>항상</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">끄기</string>
+    <string name="opt_metronome_switch_nightcore">NightCore(NC)일 때만</string>
+    <string name="opt_metronome_switch_always">항상</string>
     <string name="opt_category_miscellaneous">여러가지 잡다</string>
     <string name="opt_sound_title">비트맵 사운드</string>
     <string name="opt_sound_summary">가능한 한 비트맵 고유 사운드를 사용합니다.</string>
@@ -333,6 +302,5 @@
     <string name="opt_force_max_refresh_rate_summary">사용할 기기의 최대 주사율을 강제로 적용합니다. 화면 깜박임이 발생하면 비활성화하세요.</string>
     <string name="opt_safe_beatmap_bg_title">안전한 비트맵 배경화면</string>
     <string name="opt_safe_beatmap_bg_summary">모든 비트맵 배경을 스킨의 메뉴 배경 이미지로 변경됩니다.</string>
-
 
 </resources>

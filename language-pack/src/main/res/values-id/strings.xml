@@ -15,14 +15,10 @@
     <string name="opt_update_summary">Cek untuk pembaruan yang ada</string>
     <string name="opt_skinpath_title">Pilih tema</string>
     <string name="opt_skinpath_summary">Pilih tema dari direktori tema di atas</string>
-
     <string name="opt_spinner_style_title">Model spinner</string>
     <string name="opt_spinner_style_summary">Ubah model spinner</string>
-    <string-array name="spinner_style_names">
-        <item>Modern</item>
-        <item>Klasik</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">Modern</string>
+    <string name="opt_spinner_style_classical">Klasik</string>
     <string name="opt_skin_title">Tema beatmap</string>
     <string name="opt_skin_summary">Muat tema spesifik dalam beatmap jika ada</string>
     <string name="opt_show_first_approach_circle_title">Perlihatkan approach circle pertama</string>
@@ -31,15 +27,11 @@
     <string name="opt_bgbrightness_summary">Ubah kecerahan gambar latar belakang</string>
     <string name="opt_enableStoryboard_title">Aktifkan storyboard</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_error_meter_display_title">Bilah kesalahan hit</string>
     <string name="opt_error_meter_display_summary">Perlihatkan bilah kesalahan hit</string>
-    <string-array name="error_meter_display_names">
-        <item>Selalu</item>
-        <item>Hanya replay</item>
-        <item>Tidak aktif</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">Selalu</string>
+    <string name="opt_error_meter_display_replay">Hanya replay</string>
+    <string name="opt_error_meter_display_disable">Tidak aktif</string>
     <string name="opt_fps_title">FPS</string>
     <string name="opt_fps_summary">Tampilkan FPS sewaktu bermain</string>
     <string name="opt_combo_colors_title">Warna kombo</string>
@@ -65,13 +57,9 @@
     <string name="opt_category_offset">Offset</string>
     <string name="opt_offset_title">Global offset</string>
     <string name="opt_offset_summary">Offset musik dari ms (nilai positif berarti lebih awal)</string>
-
-    <string-array name="metronome_switch_names">
-        <item>Tidak aktif</item>
-        <item>Hanya untuk mod NightCore</item>
-        <item>Selalu</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">Tidak aktif</string>
+    <string name="opt_metronome_switch_nightcore">Hanya untuk mod NightCore</string>
+    <string name="opt_metronome_switch_always">Selalu</string>
     <string name="opt_musicpreview_title">Tinjauan lagu</string>
     <string name="opt_musicpreview_summary">Mainkan lagu ketika beatmap dipilih</string>
     <string name="opt_deleteosz_title">Hapus .osz</string>

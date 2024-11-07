@@ -157,15 +157,11 @@
     <string name="opt_update_summary">Comprobar actualizaciones</string>
     <string name="opt_category_skin">Skin</string>
     <string name="opt_skinpath_title">Seleccionar Skin</string>
-
     <string name="opt_skinpath_summary">Seleccione una skin</string>
     <string name="opt_spinner_style_title">Estilo del spinner</string>
     <string name="opt_spinner_style_summary">Cambia el estilo del spinner</string>
-    <string-array name="spinner_style_names">
-        <item>Moderno</item>
-        <item>Clásico</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">Moderno</string>
+    <string name="opt_spinner_style_classical">Clásico</string>
     <string name="opt_skin_title">Usar las skins de los mapas</string>
     <string name="opt_skin_summary">Cargar las skins de los mapas si es posible</string>
     <string name="opt_category_hit_objects">Objetos de golpe</string>
@@ -186,17 +182,13 @@
     <string name="opt_hide_ingame_ui_summary">Oculta toda la interfaz mientras juegas (ej: vida, scoreboard, combo, accuracy, etc..)</string>
     <string name="opt_hide_replay_marquee_title">Ocultar mensaje de repetición</string>
     <string name="opt_hide_replay_marquee_summary">Oculta el mensaje con movimiento cuando ves una repetición</string>
-
     <string name="opt_show_leaderboard_title">Mostrar tabla de puntaje</string>
     <string name="opt_show_leaderboard_summary">Muestra la tabla de puntaje en tiempo real mientras se juega</string>
     <string name="opt_error_meter_display_title">Barra de errores</string>
     <string name="opt_error_meter_display_summary">Muestra una barra que analiza como vas en un mapa mientras juegas.</string>
-    <string-array name="error_meter_display_names">
-        <item>Siempre</item>
-        <item>Solo en repeticiones</item>
-        <item>Desactivado</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">Siempre</string>
+    <string name="opt_error_meter_display_replay">Solo en repeticiones</string>
+    <string name="opt_error_meter_display_disable">Desactivado</string>
     <string name="opt_fps_title">Mostrar FPS</string>
     <string name="opt_fps_summary">Muestra un contador de FPS mientras juegas</string>
     <string name="opt_averageoffset_title">Contador de offset promedio</string>
@@ -246,16 +238,12 @@
     <string name="opt_category_offset">Offset</string>
     <string name="opt_offset_title">Configurar offset</string>
     <string name="opt_offset_summary">Offset de la música en ms (valores positivos indican golpes más tempranos)</string>
-
     <string name="opt_category_metronome">Metrónomo</string>
     <string name="opt_metronome_switch_title">Tipo de metrónomo</string>
     <string name="opt_metronome_switch_summary">Activa el sonido de un metrónomo mientras juegas</string>
-    <string-array name="metronome_switch_names">
-        <item>Desactivado</item>
-        <item>Solo con NC mod (Nightcore)</item>
-        <item>Siempre activado</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">Desactivado</string>
+    <string name="opt_metronome_switch_nightcore">Solo con NC mod (Nightcore)</string>
+    <string name="opt_metronome_switch_always">Siempre activado</string>
     <string name="opt_category_miscellaneous">Misceláneo</string>
     <string name="opt_sound_title">Sonidos de mapas</string>
     <string name="opt_sound_summary">Utiliza los sonidos específicos de los mapas si están disponibles.</string>

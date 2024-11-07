@@ -17,27 +17,19 @@
     <string name="opt_category_skin">Skin</string>
     <string name="opt_skinpath_title">Đường dẫn skin</string>
     <string name="opt_skinpath_summary">Địa điểm lưu trữ tệp skin</string>
-
     <string name="opt_spinner_style_title">Chế độ nốt xoay</string>
     <string name="opt_spinner_style_summary">Thay đổi kiểu nốt xoay</string>
-    <string-array name="spinner_style_names">
-        <item>Mới</item>
-        <item>Cũ</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">Mới</string>
+    <string name="opt_spinner_style_classical">Cũ</string>
     <string name="opt_skin_title">Skin riêng cho beatmap</string>
     <string name="opt_skin_summary">Sử dụng skin riêng của beatmap nếu có</string>
     <string name="opt_bgbrightness_title">Độ sáng hình nền</string>
     <string name="opt_bgbrightness_summary">Thay đổi độ sáng của hình nền</string>
-
     <string name="opt_error_meter_display_title">Thanh hit error</string>
     <string name="opt_error_meter_display_summary">Hiển thị hoặc không hiển thị thanh hit error</string>
-    <string-array name="error_meter_display_names">
-        <item>Luôn luôn</item>
-        <item>Chỉ trong replay</item>
-        <item>Tắt</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">Luôn luôn</string>
+    <string name="opt_error_meter_display_replay">Chỉ trong replay</string>
+    <string name="opt_error_meter_display_disable">Tắt</string>
     <string name="opt_fps_title">Hiển thị FPS</string>
     <string name="opt_fps_summary">Hiển thị số khung hình trên giây khi đang chơi</string>
     <string name="opt_combo_colors_title">Màu combo</string>
@@ -62,15 +54,11 @@
     <string name="opt_sound_volume_summary">Âm lượng của hitsound (0-100), cần khởi động lại game để có hiệu lực</string>
     <string name="opt_offset_title">Độ lệch âm thanh chung</string>
     <string name="opt_offset_summary">Độ lệch chung của nhạc (giá trị dương cho âm thanh sớm hơn)</string>
-
     <string name="opt_metronome_switch_title">Công tắc phách kế</string>
     <string name="opt_metronome_switch_summary">Bật hiệu ứng phách kế</string>
-    <string-array name="metronome_switch_names">
-        <item>Tắt</item>
-        <item>Chỉ dùng với Nightcore</item>
-        <item>Always</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">Tắt</string>
+    <string name="opt_metronome_switch_nightcore">Chỉ dùng với Nightcore</string>
+    <string name="opt_metronome_switch_always">Always</string>
     <string name="opt_sound_title">Âm thanh riêng cho beatmap</string>
     <string name="opt_sound_summary">Sử dụng âm thanh riêng của beatmap (ví dụ hitsound) nếu có</string>
     <string name="opt_musicpreview_title">Xem trước nhạc</string>

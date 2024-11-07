@@ -11,18 +11,13 @@
     <string name="opt_register_summary">Registrar uma nova conta (Você só pode criar uma conta por dispositivo!)</string>
     <string name="opt_update_title">Procurar atualizações</string>
     <string name="opt_update_summary">Procura por atualizações disponiveis</string>
-
     <string name="opt_category_skin">Skin</string>
     <string name="opt_skinpath_title">Selecionar skin</string>
     <string name="opt_skinpath_summary">Seleciona uma skin do diretório de skin</string>
-
     <string name="opt_spinner_style_title">Estilo do spinner</string>
     <string name="opt_spinner_style_summary">Muda o estilo do spinner</string>
-    <string-array name="spinner_style_names">
-        <item>Moderno</item>
-        <item>Clássico</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">Moderno</string>
+    <string name="opt_spinner_style_classical">Clássico</string>
     <string name="opt_skin_title">Skins de beatmaps</string>
     <string name="opt_skin_summary">Carregará skins de certos beatmaps caso disponível</string>
     <string name="opt_show_first_approach_circle_title">Forçar a aparição do primeiro círculo de aproximação</string>
@@ -31,15 +26,11 @@
     <string name="opt_bgbrightness_summary">Muda o brilho de fundo</string>
     <string name="opt_enableStoryboard_title">Ativa os storyboards</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_error_meter_display_title">Medidor de erro e acerto</string>
     <string name="opt_error_meter_display_summary">Mostra o medidor de erro e acerto</string>
-    <string-array name="error_meter_display_names">
-        <item>Sempre</item>
-        <item>Apenas nos replays</item>
-        <item>Desativado</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">Sempre</string>
+    <string name="opt_error_meter_display_replay">Apenas nos replays</string>
+    <string name="opt_error_meter_display_disable">Desativado</string>
     <string name="opt_fps_title">Mostrar o FPS</string>
     <string name="opt_fps_summary">Mostra o FPS (Frames Por Segundo) durante a gameplay</string>
     <string name="opt_combo_colors_title">Cores dos hitcircles</string>
@@ -70,15 +61,11 @@
     <string name="opt_offset_title">Offset global</string>
     <string name="opt_offset_summary">Offset da música em ms. (Valores positivos indicam clicks mais adiantados)</string>
     <string name="opt_category_metronome">Metronome</string>
-
     <string name="opt_metronome_switch_title">Switch de metrônomo</string>
     <string name="opt_metronome_switch_summary">Ativa o efeito sonoro de metrônomo (Apenas no mod nightcore)</string>
-    <string-array name="metronome_switch_names">
-        <item>Desativado</item>
-        <item>Apenas no mod nightcore</item>
-        <item>Sempre</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">Desativado</string>
+    <string name="opt_metronome_switch_nightcore">Apenas no mod nightcore</string>
+    <string name="opt_metronome_switch_always">Sempre</string>
     <string name="opt_sound_title">Sons de beatmaps</string>
     <string name="opt_sound_summary">Carregará sons de certos beatmaps caso disponível</string>
     <string name="opt_musicpreview_title">Pré-visualização musical</string>

@@ -98,35 +98,24 @@
     <string name="mp_room_free_mods_summary">各プレイヤーが速度に影響がある以外のmodを自由に適用することができます。</string>
     <string name="mp_room_allowForceDifficultyStatistics_title">自由mod時、難易度パラメーターの強制を許可する</string>
     <string name="mp_room_allowForceDifficultyStatistics_summary">自由modの際、各プレイヤーが難易度パラメーターの強制適用を許可します。</string>
-
     <string name="mp_room_versus_mode_title">チームモード</string>
     <string name="mp_room_versus_mode_summary">チームモードを設定します。</string>
-    <string-array name="mp_team_versus_names">
-        <item>ソロ</item>
-        <item>チーム対抗</item>
-    </string-array>
-
+    <string name="mp_room_versus_mode_head_to_head">ソロ</string>
+    <string name="mp_room_versus_mode_team_vs_team">チーム対抗</string>
     <string name="mp_room_win_condition_title">勝利条件</string>
     <string name="mp_room_win_condition_summary">このルームの勝利条件を設定します。</string>
-    <string-array name="mp_win_condition_names">
-        <item>Score V1</item>
-        <item>正確度</item>
-        <item>最大combo</item>
-        <item>Score V2</item>
-    </string-array>
-
+    <string name="mp_room_win_condition_scoreV1">Score V1</string>
+    <string name="mp_room_win_condition_accuracy">正確度</string>
+    <string name="mp_room_win_condition_maxCombo">最大combo</string>
+    <string name="mp_room_win_condition_scoreV2">Score V2</string>
     <string name="mp_room_category_share">共有</string>
     <string name="mp_room_link_title">招待リンクをコピーする</string>
     <string name="mp_room_link_summary">クリップボードにコピーされました。</string>
     <string name="mp_room_category_teams">チーム</string>
-
     <string name="mp_room_category_teams_title">チーム</string>
     <string name="mp_room_category_teams_summary">チーム変更</string>
-    <string-array name="mp_team_names">
-        <item>赤</item>
-        <item>青</item>
-    </string-array>
-
+    <string name="mp_team_names_red">赤</string>
+    <string name="mp_team_names_blue">青</string>
     <string name="mp_room_category_in_game">ゲーム設定</string>
     <string name="mp_room_enable_score_submission_title">スコアをサーバーに登録する</string>
     <string name="mp_room_enable_score_submission_summary">ラウンドのクリアに成功した場合、スコアを個人記録としてサーバーに登録します。</string>
@@ -150,14 +139,10 @@
     <string name="opt_stayonline_summary">登録されたアカウントで自動ログインします。</string>
     <string name="opt_loadavatar_title">他のプレイヤーのアバター表示</string>
     <string name="opt_loadavatar_summary">オンラインリーダーボードに他のプレイヤーのアバターを表示します。</string>
-
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">グローバルビートマップリーダーボードの並び順</string>
     <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">グローバルビートマップリーダーボードの並び順を選択します。</string>
-    <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>スコア</item>
-        <item>パフォーマンス(PP)</item>
-    </string-array>
-
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_score">スコア</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_pp">パフォーマンス(PP)</string>
     <string name="opt_category_account">アカウント</string>
     <string name="opt_login_title">ユーザーネーム</string>
     <string name="opt_login_summary">アカウントのユーザーネーム</string>
@@ -174,14 +159,10 @@
     <string name="opt_category_skin">スキン</string>
     <string name="opt_skinpath_title">スキン選択</string>
     <string name="opt_skinpath_summary">スキンディレクトリからスキンを選択します。</string>
-
     <string name="opt_spinner_style_title">スピナースタイル</string>
     <string name="opt_spinner_style_summary">スピナースタイルを変更します。</string>
-    <string-array name="spinner_style_names">
-        <item>モダン</item>
-        <item>クラシック</item>
-    </string-array>
-
+    <string name="opt_spinner_style_modern">モダン</string>
+    <string name="opt_spinner_style_classical">クラシック</string>
     <string name="opt_skin_title">ビートマップ付属のスキン</string>
     <string name="opt_skin_summary">ビートマップ付属のスキンのエレメントを使用します。</string>
     <string name="opt_category_hit_objects">ヒットオブジェクト</string>
@@ -196,29 +177,21 @@
     <string name="opt_video_title">背景動画</string>
     <string name="opt_video_summary">ゲーム中、背景動画を再生します。対応ビデオフォーマット: .3gp, .mp4, .mkv, and .webm</string>
     <string name="opt_category_hud">HUD</string>
-
     <string name="opt_progress_indicator_title">進行度UI</string>
     <string name="opt_progress_indicator_summary">進行度UIを選択します。</string>
-    <string-array name="opt_progress_indicator_names">
-        <item>右上 (パイ型)</item>
-        <item>下 (バー型)</item>
-    </string-array>
-
+    <string name="opt_progress_indicator_pie">右上 (パイ型)</string>
+    <string name="opt_progress_indicator_long">下 (バー型)</string>
     <string name="opt_hide_ingame_ui_title">ゲームUI非表示</string>
     <string name="opt_hide_ingame_ui_summary">カウンター等各種UIを非表示にします。</string>
     <string name="opt_hide_replay_marquee_title">リプレイ詳細非表示</string>
     <string name="opt_hide_replay_marquee_summary">リプレイの再生中、詳細テキストを非表示にします。</string>
     <string name="opt_show_leaderboard_title">リーダーボード表示</string>
     <string name="opt_show_leaderboard_summary">プレイ中、リアルタイムでリーダーボードを表示します。</string>
-
     <string name="opt_error_meter_display_title">スコアメーター</string>
     <string name="opt_error_meter_display_summary">画面の下部に表示されます。</string>
-    <string-array name="error_meter_display_names">
-        <item>常に</item>
-        <item>リプレイのみ</item>
-        <item>無し</item>
-    </string-array>
-
+    <string name="opt_error_meter_display_always">常に</string>
+    <string name="opt_error_meter_display_replay">リプレイのみ</string>
+    <string name="opt_error_meter_display_disable">無し</string>
     <string name="opt_fps_title">FPS表示</string>
     <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます。</string>
     <string name="opt_averageoffset_title">平均オフセット</string>
@@ -269,15 +242,11 @@
     <string name="opt_offset_title">全体的なオフセット</string>
     <string name="opt_offset_summary">オフセット単位:ms (この時間だけ曲がノートより早く始まります。)</string>
     <string name="opt_category_metronome">メトロノーム</string>
-
     <string name="opt_metronome_switch_title">メトロノーム</string>
     <string name="opt_metronome_switch_summary">メトロノーム効果音を発生させます。</string>
-    <string-array name="metronome_switch_names">
-        <item>無し</item>
-        <item>ナイトコアのみ</item>
-        <item>常に</item>
-    </string-array>
-
+    <string name="opt_metronome_switch_off">無し</string>
+    <string name="opt_metronome_switch_nightcore">ナイトコアのみ</string>
+    <string name="opt_metronome_switch_always">常に</string>
     <string name="opt_category_miscellaneous">その他</string>
     <string name="opt_sound_title">付属ヒットサウンドを使用</string>
     <string name="opt_sound_summary">可能な場合、ビートマップ付属のヒットサウンドを使用します。</string>
