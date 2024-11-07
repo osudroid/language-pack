@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="opt_skin_title">ใช้สกินของ beatmap</string>
+    <string name="opt_skin_summary">ใช้สกินประจำ beatmap (ถ้ามี)</string>
+    <string name="opt_bgbrightness_title">ความสว่างของภาพพื้นหลัง</string>
+    <string name="opt_bgbrightness_summary">ปรับความสว่างของภาพพื้นหลัง</string>
+    <string name="opt_fps_title">แสดงค่า FPS</string>
+    <string name="opt_fps_summary">แสดงค่าเฟรมต่อวินาที (Frames Per Second) ในระหว่างเล่น</string>
+    <string name="opt_showcursor_title">แสดงเคอร์เซอร์</string>
+    <string name="opt_showcursor_summary">แสดงเคอร์เซอร์ข้างใต้นิ้วในระหว่างเล่น</string>
+    <string name="opt_largeimages_title">นับถอยหลัง</string>
+    <string name="opt_largeimages_summary">แสดงการนับถอยหลังตอนเริ่มต้นเพลงสำหรับเพลงที่เปิดใช้</string>
+    <string name="opt_sound_volume_title">เสียงเอฟเฟคต์</string>
+    <string name="opt_sound_volume_summary">ปรับความดังของเสียงเอฟเฟคต์ (0-100)</string>
+    <string name="opt_category_offset">Offset</string>
+    <string name="opt_offset_title">ค่า offset พื้นฐาน</string>
+    <string name="opt_offset_summary">ค่า offset ของเพลงในหน่วยมิลลิวินาที (ค่าบวกหมายถึงต้องกดให้เร็วขึ้น)</string>
+    <string name="opt_musicpreview_title">เล่นตัวอย่างเพลง</string>
+    <string name="opt_musicpreview_summary">เล่นตัวอย่างเพลงของ beatmap ที่คุณเลือก</string>
+    <string name="opt_category_import">Import</string>
+    <string name="opt_deleteosz_title">ลบไฟล์ .osz</string>
+    <string name="opt_deleteosz_summary">ลบไฟล์ .osz ทิ้งหลัง import เรียบร้อยแล้ว</string>
+    <string name="opt_clear_title">ลบ cache รายชื่อ beatmap</string>
+    <string name="opt_clear_summary">บังคับลบ cache ของรายชื่อ beatmap</string>
+    <string name="opt_clearprops_title">ล้างการตั้งค่าเฉพาะ beatmap</string>
+    <string name="opt_clearprops_summary">บังคับล้างการตั้งค่าเฉพาะของแต่ละ beatmap (เช่น ค่า offset เฉพาะ beatmap)</string>
+    <string name="opt_directory_title">ตำแหน่งไฟล์ beatmap</string>
+    <string name="opt_directory_summary">ตำแหน่งของโฟลเดอร์ที่ใช้เก็บ beatmap (ค่าเริ่มต้น: /mnt/sdcard/osu!droid/Songs)</string>
+
+</resources>

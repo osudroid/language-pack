@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="opt_stayonline_title">Conectarse</string>
+    <string name="opt_stayonline_summary">Conéctate a los servidores de osu!Droid para subir tus mejores jugadas y más!</string>
+    <string name="opt_loadavatar_title">Cargar avatar sin conexión</string>
+    <string name="opt_loadavatar_summary">Carga el avatar de tu cuenta sin estar conectado</string>
+    <string name="opt_login_title">Nombre de usuario</string>
+    <string name="opt_password_title">Contraseña</string>
+    <string name="opt_register_title">Registrarse</string>
+    <string name="opt_register_summary">Crea una cuenta para enviar scores, y más!</string>
+    <string name="opt_receive_announcements_title">Recibir notificaciones</string>
+    <string name="opt_receive_announcements_summary">Activa las notificaciones de anuncios sobre el juego, eventos, etc.</string>
+    <string name="opt_update_title">Buscar actualizaciones</string>
+    <string name="opt_category_skin">Skin</string>
+    <string name="opt_skinpath_title">Seleccionar Skin</string>
+
+    <string name="opt_spinner_style_title">Estilo del spinner</string>
+    <string name="opt_spinner_style_summary">Cambia el estilo del spinner</string>
+    <string-array name="spinner_style_names">
+        <item>Moderno</item>
+        <item>Clásico</item>
+    </string-array>
+
+    <string name="opt_skin_title">Usar las skins de los mapas</string>
+    <string name="opt_skin_summary">Cargar las skins de los mapas si es posible</string>
+    <string name="opt_show_first_approach_circle_title">Mostrar el primer circulo de aproximación con HD mod</string>
+    <string name="opt_show_first_approach_circle_summary">El primer circulo de aproximacion no se ocultará mientras se use el mod HD</string>
+    <string name="opt_bgbrightness_title">Brillo del fondo</string>
+    <string name="opt_enableStoryboard_title">Activar Storyboard</string>
+    <string name="opt_category_hud">HUD</string>
+    <string name="opt_hide_ingame_ui_title">Ocultar UI</string>
+    <string name="opt_hide_ingame_ui_summary">Oculta toda la interfaz mientras juegas (ej: vida, scoreboard, combo, accuracy, etc..)</string>
+    <string name="opt_hide_replay_marquee_title">Ocultar mensaje de repetición</string>
+    <string name="opt_hide_replay_marquee_summary">Oculta el mensaje con movimiento cuando ves una repetición</string>
+
+    <string name="opt_error_meter_display_title">Barra de errores</string>
+    <string name="opt_error_meter_display_summary">Muestra una barra que analiza como vas en un mapa mientras juegas.</string>
+    <string-array name="error_meter_display_names">
+        <item>Siempre</item>
+        <item>Solo en repeticiones</item>
+        <item>Desactivado</item>
+    </string-array>
+
+    <string name="opt_fps_title">Mostrar FPS</string>
+    <string name="opt_fps_summary">Muestra un contador de FPS mientras juegas</string>
+    <string name="opt_combo_colors_title">Colores de combo</string>
+    <string name="opt_combo_colors_summary">Personaliza los colores de cada combo</string>
+    <string name="opt_category_cursor">Cursor</string>
+    <string name="opt_showcursor_title">Mostrar cursor</string>
+    <string name="opt_showcursor_summary">Muestra un cursor debajo de tus dedos muentras juegas</string>
+    <string name="opt_cursor_size">Tamaño del cursor</string>
+    <string name="opt_cursor_size_summary">Adjust cursor size</string>
+    <string name="opt_particles_title">Efectos de partículas</string>
+    <string name="opt_particles_summary">Muestra efectos de partículas como el trail del cursor</string>
+    <string name="opt_combo_burst_title">Imágenes de combo</string>
+    <string name="opt_combo_burst_summary">Muestra unas imágenes cada vez que aumentas tu combo durante el juego</string>
+    <string name="opt_largeimages_title">Contador</string>
+    <string name="opt_largeimages_summary">Muestra un contador al principio del mapa si está disponible</string>
+    <string name="opt_bursts_title">Explosiones al golpear</string>
+    <string name="opt_bursts_summary">Muestra efectos de explosiones al golpear los hitcircles y los sliders</string>
+    <string name="opt_hitlighting_title">Luz al golpear</string>
+    <string name="opt_hitlighting_summary">Agrega una luz sutil detrás de las explosiones de los golpes que ilumina el campo de juego</string>
+    <string name="opt_hide_navibar_title">Barra de navegación</string>
+    <string name="opt_hide_navibar_summary">Oculta la barra de navegación de Android</string>
+    <string name="opt_bgm_volume_title">Volumen de la música</string>
+    <string name="opt_sound_volume_title">Volumen de los golpes</string>
+    <string name="opt_category_offset">Offset</string>
+    <string name="opt_offset_title">Configurar offset</string>
+    <string name="opt_offset_summary">Offset de la música en ms (valores positivos indican golpes más tempranos)</string>
+
+    <string name="opt_metronome_switch_title">Metrónomo</string>
+    <string name="opt_metronome_switch_summary">Activa el sonido de un metrónomo mientras juegas</string>
+    <string-array name="metronome_switch_names">
+        <item>Desactivado</item>
+        <item>Solo con NC mod (Nightcore)</item>
+        <item>Siempre activado</item>
+    </string-array>
+
+    <string name="opt_musicpreview_title">Preview de las canciones</string>
+    <string name="opt_musicpreview_summary">Reproducir música en el menú de mapas</string>
+    <string name="opt_deleteosz_title">Borrar archivos (.osz)</string>
+    <string name="opt_deleteosz_summary">Borra automáticamente los archivos (.osz) después de importar los mapas</string>
+    <string name="opt_scandownload_title">Escanear mapas</string>
+    <string name="opt_scandownload_summary">Escanea automáticamente el directorio de Descargas para nuevos mapas (.osz) (Puede no funcionar si el directorio de mapas está en la tarjeta SD)</string>
+    <string name="force_romanized">Forzar caracteres romanos</string>
+    <string name="force_romanized_summary">Forzar el uso de caracteres romanos para los metadatos, en caso de que los títulos en japonés o chino no se puedan leer</string>
+    <string name="opt_clear_title">Borrar caché</string>
+    <string name="opt_clear_summary">Elimina la caché del juego</string>
+    <string name="opt_clearprops_title">Borrar datos de los mapas</string>
+    <string name="opt_clearprops_summary">Elimina todos los datos de cada mapa (ej: offset, carpeta guardada, favs...)</string>
+    <string name="opt_setplayfield_title">Tamaño del campo de juego</string>
+    <string name="opt_shrink_playfield_downwards_title">Mover el campo de juego hacia abajo</string>
+    <string name="opt_shrink_playfield_downwards_summary">Hace que el campo de juego se mueva a la parte inferior de la pantalla</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">Eliminar el bloqueo de slider y spiner (unranked)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Intenta quitar el bloqueo del slider y del spinner. Ahora puedes jugar mapas de estilo 2b.</string>
+    <string name="opt_syncmusic_title">Sincronización de baja latencia</string>
+    <string name="opt_syncmusic_summary">Desactivalo si tu dispositivo no tiene soporte para audio de baja latencia</string>
+    <string name="opt_fix_frame_offset_title">Arreglar problema de offset</string>
+    <string name="opt_fix_frame_offset_summary">Se intentará corregir el offset entre el input y el frame.</string>
+    <string name="opt_category_directories">Directories</string>
+    <string name="opt_corepath_title">Directorio principal</string>
+    <string name="opt_corepath_summary">El directorio principal de osu!Droid</string>
+    <string name="opt_skin_top_path_title">Directorio de las skins</string>
+    <string name="opt_skin_top_path_summary">Path to directory containing skin files. (default: /sdcard/osu!droid/Skin)</string>
+    <string name="opt_directory_title">Directorio de los mapas</string>
+    <string name="opt_directory_summary">(Por defecto: /sdcard/osu!droid/Songs)</string>
+    <string name="opt_force_max_refresh_rate_summary">Intenta forzar la máxima tasa de refresco que el dispositivo utiliza. Desactivar si experimenta parpadeos de pantalla.</string>
+    <string name="opt_safe_beatmap_bg_title">Usar el fondo de la skin</string>
+    <string name="opt_safe_beatmap_bg_summary">Esto hará que siempre se use el fondo de la skin que estés utilizando mientras juegas</string>
+
+</resources>

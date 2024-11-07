@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="opt_skin_summary">Utiliser le skin de la beatmap si disponible.</string>
+    <string name="opt_bgbrightness_title">Lumiosité du fond</string>
+    <string name="opt_bgbrightness_summary">Change la luminosité de l\'image de fond.</string>
+    <string name="opt_category_hud">HUD</string>
+    <string name="opt_fps_title">Afficher les IPS</string>
+    <string name="opt_fps_summary">Afficher le taux d\'images par secondes en jeu.</string>
+    <string name="opt_showcursor_title">Montrer le curseur</string>
+    <string name="opt_showcursor_summary">Montrer le curseur en-dessous du doigt pendant le jeu.</string>
+    <string name="opt_largeimages_title">Compte-à-Rebours</string>
+    <string name="opt_largeimages_summary">Montre le compte-à-rebours au début de la beatmap si disponible.</string>
+    <string name="opt_sound_volume_title">Volume des clics</string>
+    <string name="opt_sound_volume_summary">Volume des clics (0-100)</string>
+    <string name="opt_offset_title">Compensation globale</string>
+    <string name="opt_offset_summary">Décalage musical en ms (valeur positive signifie plus tot)</string>
+    <string name="opt_musicpreview_title">Préentendre la musique</string>
+    <string name="opt_musicpreview_summary">Joue la musique de la beatmap sélectionnée</string>
+    <string name="opt_deleteosz_title">Supprimer .osz</string>
+    <string name="opt_deleteosz_summary">Supprimer les fichiers .osz après importation</string>
+    <string name="opt_clear_title">Vider le cache de la librairie</string>
+    <string name="opt_clear_summary">Forcer le vidage du cache de la librairie.</string>
+    <string name="opt_clearprops_title">Effacer les données spécifiques des maps.</string>
+    <string name="opt_clearprops_summary">Forcer l\'effacements des données des maps (ex: décalage de la musique)</string>
+    <string name="opt_directory_title">Emplacement des beatmaps</string>
+    <string name="opt_directory_summary">Chemin vers l\'emplacement des beatmaps (default: /mnt/sdcard/osu!droid/Songs)</string>
+
+</resources>

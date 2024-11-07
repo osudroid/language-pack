@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="opt_skin_title">Skin della beatmap</string>
+    <string name="opt_skin_summary">Carica la skin dalla cartella della beatmap se disponibile</string>
+    <string name="opt_bgbrightness_title">Lunimosita\' sfondo</string>
+    <string name="opt_bgbrightness_summary">Imposta la luminosita dell\'immagine di sfondo</string>
+    <string name="opt_category_hud">HUD</string>
+    <string name="opt_fps_title">Visualizza FPS</string>
+    <string name="opt_fps_summary">Mostra i frame per secondo durante il gioco</string>
+    <string name="opt_showcursor_title">Mostra cursore</string>
+    <string name="opt_showcursor_summary">Mostra dei cursori sotto le dita durante il gameplay</string>
+    <string name="opt_largeimages_title">Conteggio</string>
+    <string name="opt_largeimages_summary">Mostra il conteggio alla rovescia per le beatmap che ne fanno uso</string>
+    <string name="opt_sound_volume_title">Volume hitsound</string>
+    <string name="opt_sound_volume_summary">Imposta il volume globale degli hitsound</string>
+    <string name="opt_category_offset">Offset</string>
+    <string name="opt_offset_title">Offset globale</string>
+    <string name="opt_offset_summary">Imposta un ritardo globale (valori positivi creano un anticipo)</string>
+    <string name="opt_musicpreview_title">Anteprima della canzone</string>
+    <string name="opt_musicpreview_summary">Avvia la musica quando selezioni una beatmap</string>
+    <string name="opt_deleteosz_title">Cancella .osz</string>
+    <string name="opt_deleteosz_summary">Cancella l\'archivio .osz dopo l\'importazione</string>
+    <string name="opt_clear_title">Resetta la Libreria</string>
+    <string name="opt_clear_summary">Riporta a zero l\'indicizzazione della libreria.</string>
+    <string name="opt_clearprops_title">Cancella impostazioni beatmap</string>
+    <string name="opt_clearprops_summary">Cancellazione forzata di tutti i dati opzionali aggiunti alle beatmap (come gli offset)</string>
+    <string name="opt_directory_title">Cartella beatmap</string>
+    <string name="opt_directory_summary">Il percorso della cartella contenente le beatmap (default: /mnt/sdcard/osu!droid/Songs)</string>
+
+</resources>

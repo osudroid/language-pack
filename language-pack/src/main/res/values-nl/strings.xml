@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="opt_skin_title">Beatmap thema\'s</string>
+    <string name="opt_skin_summary">Laad beatmap-specifieke thema\'s indien beschikbaar</string>
+    <string name="opt_bgbrightness_title">Achtergrond helderheid</string>
+    <string name="opt_bgbrightness_summary">Verander de helderheid van achtergrond afbeeldingen</string>
+    <string name="opt_fps_title">Toon FPS</string>
+    <string name="opt_fps_summary">Toon de frames per seconde tijdens het spelen</string>
+    <string name="opt_category_cursor">Cursor</string>
+    <string name="opt_showcursor_title">Toon cursor</string>
+    <string name="opt_showcursor_summary">Toon een cursor onder je vingers tijdens het spelen</string>
+    <string name="opt_largeimages_title">Aftellen</string>
+    <string name="opt_largeimages_summary">Tel af voor een indeling die dit ingeschakeld heeft</string>
+    <string name="opt_sound_volume_title">Noot geluid volume</string>
+    <string name="opt_sound_volume_summary">Volume van geraakte noten (0-100)</string>
+    <string name="opt_category_offset">Offset</string>
+    <string name="opt_offset_title">Globale tijdsverschil</string>
+    <string name="opt_offset_summary">Tijdsverschil voor muziek in ms (Positieve waarde is eerder)</string>
+    <string name="opt_musicpreview_title">Preview muziek</string>
+    <string name="opt_musicpreview_summary">Speel muziek wanneer je een beatmap selecteert</string>
+    <string name="opt_deleteosz_title">Verwijder .osz</string>
+    <string name="opt_deleteosz_summary">Verwijder .osz bestanden na importeren</string>
+    <string name="opt_clear_title">Verwijder de bibliotheek cache</string>
+    <string name="opt_clear_summary">Geforceerd verwijderen van de bibliotheek cache</string>
+    <string name="opt_clearprops_title"> Verwijder beatmap-specifieke data</string>
+    <string name="opt_clearprops_summary">Forceer het verwijderen van alle beatmap-specifieke gegevens (bv. per-beatmap tijdsverschillen)</string>
+    <string name="opt_directory_summary">Pad naar de map met beatmaps (standaard: /mnt/sdcard/osu!droid/Songs)</string>
+
+</resources>

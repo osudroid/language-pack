@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <!--Missing translations should be added through the Translations editor-->
+    <!--If you wanna know which translations are missing you can remove the warning suppression-->
+
+    <string name="dialog_exit_yes">Yes</string>
+    <string name="dialog_exit_no">No</string>
+    <string name="dialog_exit_message">Are you sure you want to exit the game?</string>
+    <string name="dialog_visit_osu_website">Do you want to visit the official osu! website?</string>
+    <string name="dialog_visit_osudroid_profile_page">Do you want to visit your profile page?</string>
+    <string name="dialog_visit_osudroid_website">Do you want to visit the official osu!droid website?</string>
+    <string name="markdown_title">Markdown Title</string>
+    <string name="changelog_title">Changelog</string>
+    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
+    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_error">Error: %s</string>
+    <string name="message_error_open">Cannot open %s</string>
+    <string name="message_error_createdir">Cannot create %s</string>
+    <string name="message_error_sdcard">External storage is not mounted</string>
+    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_loaded_skin">Successfully applied new skin!</string>
+    <string name="message_error_dir_not_found">Directory is not found</string>
+    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="accessibility_detector_title">Disable Accessibility Services</string>
+    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
+    <string name="accessibility_detector_settings">Go to accessibility settings</string>
+    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="online_loadrecord">Loading record details...</string>
+    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="beatmap_downloader_cancel">Cancel</string>
+    <string name="beatmap_downloader_connecting">Connecting to server...</string>
+    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
+    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
+    <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
+    <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
+    <string name="library_cleared">Cache cleared</string>
+    <string name="library_importing">Importing beatmap...</string>
+    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
+    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
+    <string name="library_imported">\"%s\" has been imported!</string>
+    <string name="block_area_editor_fragment_add">Add area</string>
+    <string name="block_area_editor_fragment_reset">Reset</string>
+    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="update_dialog_message">There is a new update available</string>
+    <string name="update_dialog_button_update">Update Now</string>
+    <string name="update_info_checking">Checking for new updates...</string>
+    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
+    <string name="update_info_downloading">Downloading updates... %d%%</string>
+    <string name="update_info_download_canceled">Download cancelled.</string>
+    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
+    <string name="update_info_updated">Update successfully installed!</string>
+    <string name="update_info_latest">No new updates available</string>
+    <string name="menu_score" formatted="false">Score: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
+    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_mod_back">Back</string>
+    <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
+    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_properties_title">Song properties</string>
+    <string name="menu_properties_offset">Song offset:</string>
+    <string name="menu_properties_tofavs">Add to favorites</string>
+    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_deletescore_delete">Delete</string>
+    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_search_filter">Search for...</string>
+    <string name="menu_search_sort_title">Title</string>
+    <string name="menu_search_sort_date">Date</string>
+    <string name="menu_search_sort_creator">Creator</string>
+    <string name="menu_search_sort_artist">Artist</string>
+    <string name="menu_search_sort_bpm">Bpm</string>
+    <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
+    <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
+    <string name="menu_search_sort_length">Length</string>
+    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
+    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="favorite_default">Default</string>
+    <string name="favorite_new_folder">Create new folder</string>
+    <string name="favorite_ensure">Are you sure?</string>
+    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="frg_score_menu_title">Score</string>
+    <string name="frg_score_menu_export_score">Export Score</string>
+    <string name="frg_score_menu_export_failed">Failed to export replay!</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">Replay is saved to %s</string>
+    <string name="opt_show_scoreboard_title">Show Scoreboard</string>
+    <string name="opt_changespeed_title">Speed Modify</string>
+    <string name="opt_enablenc_whenspeedchange_title">Enable pitch shift in speed modify</string>
+    <string name="opt_forcear_title">Force AR</string>
+    <string name="opt_forceod_title">Force OD</string>
+    <string name="opt_forcehp_title">Force HP</string>
+    <string name="opt_forcecs_title">Force CS</string>
+    <string name="opt_flashlight_follow_delay_title">FL Follow delay</string>
+    <string name="force_diffstat_mod_unpickable">Some mods have been disabled as all forced difficulty statistics are enabled.</string>
+    <string name="mp_room_category_details">Details</string>
+    <string name="mp_room_name_title">Room name</string>
+    <string name="mp_room_name_summary">Change the room\'s name.</string>
+    <string name="mp_room_password_title">Room password</string>
+    <string name="mp_room_password_summary">Change the room\'s password. If empty, the room will be public.</string>
+    <string name="mp_room_category_variables">Variables</string>
+    <string name="mp_room_free_mods_title">Enable free mods</string>
+    <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
+    <string name="mp_room_allowForceDifficultyStatistics_title">Allow force difficulty statistics in free mod</string>
+    <string name="mp_room_allowForceDifficultyStatistics_summary">Allow players to use forced difficulty statistics in free mod.</string>
+
+    <string name="mp_room_versus_mode_title">Team mode</string>
+    <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
+    <string-array name="mp_team_versus_names">
+        <item>Head to Head</item>
+        <item>Team vs Team</item>
+    </string-array>
+    <string-array name="mp_team_names">
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string name="mp_room_win_condition_title">Win condition</string>
+    <string name="mp_room_win_condition_summary">Change the room win condition.</string>
+    <string-array name="mp_win_condition_names">
+        <item>Score V1</item>
+        <item>Accuracy</item>
+        <item>Max combo</item>
+        <item>Score V2</item>
+    </string-array>
+
+    <string name="mp_room_category_share">Share</string>
+    <string name="mp_room_link_title">Get invite link</string>
+    <string name="mp_room_link_summary">Copy invite link to clipboard</string>
+    <string name="mp_room_category_teams">Team</string>
+    <string name="mp_room_category_teams_title">Team</string>
+    <string name="mp_room_category_teams_summary">Change your team.</string>
+    <string name="mp_room_category_in_game">In-game</string>
+    <string name="mp_room_enable_score_submission_title">Enable score submission</string>
+    <string name="mp_room_enable_score_submission_summary">Submit your score at the end of the round if you did not fail</string>
+    <string name="mp_room_nightcore_title">Use NightCore</string>
+    <string name="mp_room_nightcore_summary">Enable NightCore mod instead when DoubleTime is enabled</string>
+    <string name="act_import_replay">Import replay into osu!droid</string>
+    <string name="invalid_edr_file">Invalid repay!</string>
+    <string name="failed_to_import_edr">Failed to import replay!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
+    <string name="import_edr_successfully">Import replay successfully!</string>
+    <string name="replay_import_success">Replay imported successfully!</string>
+    <string name="replay_import_failed">Replay import failed: %s</string>
+    <string name="message_save_replay_successful">Save failed replay success!</string>
+    <string name="message_save_replay_failed">Save replay failed</string>
+    <string name="replay_invalid">Cannot load replay</string>
+    <string name="replay_cantdownload">Cannot download replay</string>
+    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
+    <string name="replay_corrupted">Replay file is corrupted</string>
+    <string name="opt_category_online">Online</string>
+    <string name="opt_stayonline_title">Server Connection</string>
+    <string name="opt_stayonline_summary">Connect to osu!droid server</string>
+    <string name="opt_loadavatar_title">Load Avatar</string>
+    <string name="opt_loadavatar_summary">Load avatar in online leaderboard</string>
+
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Global beatmap leaderboard scoring mode</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Choose the scoring mode for global beatmap leaderboards</string>
+    <string-array name="global_beatmap_leaderboard_scoring_mode_names">
+        <item>Score</item>
+        <item>Performance Points</item>
+    </string-array>
+
+    <string name="difficulty_algorithm_title">Difficulty algorithm</string>
+    <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string-array name="difficulty_algorithm_names">
+        <item>osu!droid</item>
+        <item>osu!standard</item>
+    </string-array>
+
+    <string name="opt_category_account">Account</string>
+    <string name="opt_login_title">Login</string>
+    <string name="opt_login_summary">Your online name</string>
+    <string name="opt_password_title">Password</string>
+    <string name="opt_password_summary">Password of your account</string>
+    <string name="opt_register_title">Register</string>
+    <string name="opt_register_summary">Register a new account</string>
+    <string name="opt_category_community">Community</string>
+    <string name="opt_receive_announcements_title">Receive announcements</string>
+    <string name="opt_receive_announcements_summary">Receive notifications of announcements, events, etc.</string>
+    <string name="opt_category_updates">Updates</string>
+    <string name="opt_update_title">Check for updates</string>
+    <string name="opt_update_summary">Check for available updates</string>
+    <string name="opt_category_skin">Skin</string>
+    <string name="opt_skinpath_title">Select skin</string>
+    <string name="opt_skinpath_summary">Select skin from top skin directory</string>
+
+    <string name="opt_spinner_style_title">Spinner style</string>
+    <string name="opt_spinner_style_summary">Change the spinner style</string>
+    <string-array name="spinner_style_names">
+        <item>Modern</item>
+        <item>Classical</item>
+    </string-array>
+
+    <string name="opt_skin_title">Beatmap skins</string>
+    <string name="opt_skin_summary">Load beatmap-specific skin if available</string>
+    <string name="opt_category_hit_objects">Hit objects</string>
+    <string name="opt_show_first_approach_circle_title">Force show first approach circle</string>
+    <string name="opt_show_first_approach_circle_summary">Do not hide the first approach circle in hidden mods</string>
+    <string name="opt_category_background">Background</string>
+    <string name="opt_bgbrightness_title">Background brightness</string>
+    <string name="opt_bgbrightness_summary">Change the brightness of the background image</string>
+    <string name="opt_keep_background_aspect_ratio_title">Keep background aspect ratio</string>
+    <string name="opt_keep_background_aspect_ratio_summary">When enabled, the background (and storyboard) will not be scaled to fill screen bounds during gameplay</string>
+    <string name="opt_enableStoryboard_title">Enable Storyboard</string>
+    <string name="opt_video_title">Background Video</string>
+    <string name="opt_video_summary">Display video playback during gameplay. Only supports .3gp, .mp4, .mkv, and .webm video formats</string>
+    <string name="opt_category_hud">HUD</string>
+
+    <string name="opt_progress_indicator_title">Progress display</string>
+    <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
+    <string-array name="opt_progress_indicator_names">
+        <item>Top-right (Pie)</item>
+        <item>Bottom (Long)</item>
+    </string-array>
+
+    <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
+    <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
+    <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
+    <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
+    <string name="opt_show_leaderboard_title">Show leaderboard</string>
+    <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
+
+    <string name="opt_error_meter_display_title">Hit error meter</string>
+    <string name="opt_error_meter_display_summary">Display hit error meter</string>
+    <string-array name="error_meter_display_names">
+        <item>Always</item>
+        <item>Replay Only</item>
+        <item>Disable</item>
+    </string-array>
+
+    <string name="opt_fps_title">FPS</string>
+    <string name="opt_fps_summary">Display (frames per second) during gameplay</string>
+    <string name="opt_averageoffset_title">Average offset</string>
+    <string name="opt_averageoffset_summary">Display average offset of hits during gameplay. Higher value means hits are more offset. Will not display when Auto mod is enabled</string>
+    <string name="opt_unstablerate_title">Unstable rate</string>
+    <string name="opt_unstablerate_summary">Display unstable rate during gameplay. Higher value means hits are more inconsistent. Will not display when Auto mod is enabled</string>
+    <string name="opt_display_score_statistics_title">Display score statistics</string>
+    <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
+    <string name="opt_display_realtime_pp_counter_title">Display real-time PP counter</string>
+    <string name="opt_display_realtime_pp_counter_summary">Displays a real-time PP counter during gameplay. May increase loading time significantly, especially in long beatmaps</string>
+    <string name="opt_combo_colors_title">Combo Colors</string>
+    <string name="opt_combo_colors_summary">Use custom combo\'s color</string>
+    <string name="opt_category_cursor">Cursor</string>
+    <string name="opt_showcursor_title">Cursor</string>
+    <string name="opt_showcursor_summary">Show cursor under fingers during gameplay</string>
+    <string name="opt_cursor_size">Cursor Size</string>
+    <string name="opt_cursor_size_summary">Adjust cursor size</string>
+    <string name="opt_particles_title">Particle effects</string>
+    <string name="opt_particles_summary">Show particle-based effects like cursor trail</string>
+    <string name="opt_category_animations">Animations and effects</string>
+    <string name="opt_dim_hit_objects_title">Enable hit objects dim</string>
+    <string name="opt_dim_hit_objects_summary">Dim hit objects when they are ready to be hit.</string>
+    <string name="opt_combo_burst_title">Combo Burst</string>
+    <string name="opt_combo_burst_summary">Toggle combo burst on/off</string>
+    <string name="opt_largeimages_title">Countdown</string>
+    <string name="opt_largeimages_summary">Show countdown at the beginning of a map that has it enabled</string>
+    <string name="opt_animate_follow_circle_title">Animate follow circle</string>
+    <string name="opt_animate_follow_circle_summary">Enable slider follow circle animations when hitting/releasing follow circle.</string>
+    <string name="opt_animate_combo_text_title">Animate combo text</string>
+    <string name="opt_animate_combo_text_summary">Enable combo text shadow animation when increasing combo.</string>
+    <string name="opt_snakingInSliders_title">Use snaking in sliders</string>
+    <string name="opt_snakingInSliders_summary">Enable sliders gradually snaking from start</string>
+    <string name="opt_noChangeDimInBreaks_title">Don\'t change background dim level during breaks</string>
+    <string name="opt_noChangeDimInBreaks_summary">When enabled, background dim level will not change during breaks.</string>
+    <string name="opt_bursts_title">Burst effects</string>
+    <string name="opt_bursts_summary">Show burst effects when hitting circles or sliders</string>
+    <string name="opt_hitlighting_title">Hit Lighting</string>
+    <string name="opt_hitlighting_summary">Adds a subtle glow behind hit explosions which lights the playfield</string>
+    <string name="opt_category_display">Display</string>
+    <string name="opt_hide_navibar_title">Navigation Bar</string>
+    <string name="opt_hide_navibar_summary">Hide the navigation bar while playing</string>
+    <string name="opt_category_volume">Volume</string>
+    <string name="opt_bgm_volume_title">BGM volume</string>
+    <string name="opt_bgm_volume_summary">Volume of the background music</string>
+    <string name="opt_sound_volume_title">Sound volume</string>
+    <string name="opt_sound_volume_summary">Volume of sound effects or hit sounds</string>
+    <string name="opt_category_offset">Offset</string>
+    <string name="opt_offset_title">Global offset</string>
+    <string name="opt_offset_summary">Music offset in ms (positive values mean objects appear earlier)</string>
+    <string name="opt_category_metronome">Metronome</string>
+
+    <string name="opt_metronome_switch_title">Metronome switch</string>
+    <string name="opt_metronome_switch_summary">Enable metronome sound effect</string>
+    <string-array name="metronome_switch_names">
+        <item>Off</item>
+        <item>NightCore Mode Only</item>
+        <item>Always</item>
+    </string-array>
+
+    <string name="opt_category_miscellaneous">Miscellaneous</string>
+    <string name="opt_sound_title">Beatmap sounds</string>
+    <string name="opt_sound_summary">Load beatmap-specific sounds if available</string>
+    <string name="opt_musicpreview_title">Preview music</string>
+    <string name="opt_musicpreview_summary">Play music when you select a beatmap</string>
+    <string name="opt_category_import">Import</string>
+    <string name="opt_deleteosz_title">Delete .osz</string>
+    <string name="opt_deleteosz_summary">Delete .osz files after importing</string>
+    <string name="opt_scandownload_title">Scan Download</string>
+    <string name="opt_scandownload_summary">Scan /Download directory for new beatmaps and skins (might not work with SD card)</string>
+    <string name="opt_deleteUnimportedBeatmaps_title">Delete Unimported Beatmaps</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">Delete beatmaps that cannot be imported. Will apply in future beatmap import operations.</string>
+    <string name="opt_delete_unsupported_videos_title">Delete unsupported videos</string>
+    <string name="opt_delete_unsupported_videos_summary">Delete videos with unsupported formats (.avi and .flv)</string>
+    <string name="opt_import_replay_title">Import replay</string>
+    <string name="opt_import_replay_summary">Import a replay file (.odr) or an exported replay file (.edr). Only .odr files from osu!droid version 1.6.7 onwards are supported</string>
+    <string name="opt_category_metadata">Metadata</string>
+    <string name="force_romanized">Force romanized metadata</string>
+    <string name="force_romanized_summary">Force using only roman character for metadata, in case titles in japanese or chinese are unreadable</string>
+    <string name="opt_category_storage">Storage</string>
+    <string name="opt_clear_title">Clear beatmap cache</string>
+    <string name="opt_clear_summary">Clear all cached beatmaps</string>
+    <string name="opt_clearprops_title">Clear map-specific data</string>
+    <string name="opt_clearprops_summary">Forced clear of all map-specific data (eg. per-map offsets)</string>
+    <string name="opt_category_playfield">Playfield</string>
+    <string name="opt_setplayfield_title">Set playfield size</string>
+    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
+    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <string name="block_area_preference_title">Manage input block areas</string>
+    <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+    <string name="opt_category_gameplay">Gameplay</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+    <string name="opt_category_synchronization">Synchronization</string>
+    <string name="opt_syncmusic_title">Low-latency synchronisation</string>
+    <string name="opt_syncmusic_summary">"Disable if your device doesn't support low-latency audio"</string>
+    <string name="opt_fix_frame_offset_title">Fix a random offset.</string>
+    <string name="opt_fix_frame_offset_summary">Try to fix the offset between input time and frame time.</string>
+    <string name="opt_category_directories">Directories</string>
+    <string name="opt_corepath_title">Main directory</string>
+    <string name="opt_corepath_summary">osu!droid main directory</string>
+    <string name="opt_skin_top_path_title">Skin directory</string>
+    <string name="opt_skin_top_path_summary">Path to directory containing skin files. (default: /sdcard/osu!droid/Skin)</string>
+    <string name="opt_directory_title">Beatmap location</string>
+    <string name="opt_directory_summary">Path to directory containing beatmaps (default: /mnt/sdcard/osu!droid/Songs)</string>
+    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
+    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+    <string name="opt_safe_beatmap_bg_title">Safe beatmap background</string>
+    <string name="opt_safe_beatmap_bg_summary">Change all of the beatmaps\' background to the menu-background image from your skin</string>
+
+</resources>

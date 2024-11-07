@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dialog_exit_yes">Да</string>
+    <string name="dialog_exit_no">Нет</string>
+    <string name="dialog_exit_message">Вы точно хотите выйти из игры?</string>
+    <string name="dialog_visit_osu_website">Хотите ли вы посетить сайт оригинальной игры?</string>
+    <string name="dialog_visit_osudroid_profile_page">Хотите ли вы посетить ваш профиль?</string>
+    <string name="dialog_visit_osudroid_website">Хотите ли вы посетить сайт osu!droid?</string>
+    <string name="changelog_title">Список изменений</string>
+    <string name="message_info_multitouch">Мультитач может не поддерживаться вашим устройством</string>
+    <string name="message_low_storage_space">Недостаточно памяти на устройстве. Свободно памяти: %s ГБ. Это может вызвать ошибки при сохранении и отправке результатов на сервер.</string>
+    <string name="message_error">Ошибка: %s</string>
+    <string name="message_error_open">Не удалось открыть %s</string>
+    <string name="message_error_createdir">Не удалось создать %s</string>
+    <string name="message_error_sdcard">Внешнее хранилище не смонтировано</string>
+    <string name="message_error_sdcardread">Внешнее хранилище доступно только для чтения</string>
+    <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>
+    <string name="accessibility_detector_title">Отключите сервисы, использующие спец. возможности(например автокликер)</string>
+    <string name="accessibility_detector_message">Следующие сервисы должны быть отключены для того, чтобы играть:</string>
+    <string name="accessibility_detector_settings">К настройкам спец. возможностей</string>
+    <string name="accessibility_detector_exit">Выйти из игры</string>
+    <string name="online_loadrecord">Загрузка результатов...</string>
+    <string name="multiplayer_not_online">Вы должны войти в аккаунт для игры в многопользовательском режиме!</string>
+    <string name="press_color_to_apply">Нажмите на цвет для применения</string>
+    <string name="beatmap_downloader_cancel">Отменить</string>
+    <string name="beatmap_downloader_connecting">Подключение к серверу...</string>
+    <string name="beatmap_downloader_downloading">Скачивается карта %s...</string>
+    <string name="beatmap_downloader_importing">Импортируется карта %s...</string>
+    <string name="ranked_status_ranked"><font color="#41FF64">Рейтинговая</font></string>
+    <string name="ranked_status_approved"><font color="#41FF64">Одобренная</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">Квалифицированная</font></string>
+    <string name="ranked_status_loved"><font color="#FA64FF">Любимая</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">На рассмотрении</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">В разработке</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">Заброшенная</font></string>
+    <string name="library_cleared">Кэш игры очищен</string>
+    <string name="library_importing">Импортируется карта...</string>
+    <string name="library_importing_several">Найдено %s запакованных карт. Начат импорт...</string>
+    <string name="library_skin_importing_several">Найдено %s запакованных скинов. Начат импорт...</string>
+    <string name="library_imported">\"%s\" успешно импортирован(а)!</string>
+    <string name="message_loaded_skin">Применен новый скин!</string>
+    <string name="message_error_dir_not_found">Директория не найдена</string>
+    <string name="file_integrity_tampered">Проверка целостности файла не удалась. Прерывание игрового процесса.</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Не удалось обработать %s: Не удалось открыть файл</string>
+    <string name="block_area_editor_fragment_add">Добавить область</string>
+    <string name="block_area_editor_fragment_reset">Сбросить</string>
+    <string name="block_area_editor_fragment_done">Готово</string>
+    <string name="update_dialog_message">Доступно новое обновление</string>
+    <string name="update_dialog_button_update">Обновить</string>
+    <string name="update_info_checking">Проверка обновлений...</string>
+    <string name="update_info_check_failed">Не удалось проверить обновления. Сервер может быть недоступен или что-то не так с вашим соединением.</string>
+    <string name="update_info_downloading">Загружаются обновления... %d%%</string>
+    <string name="update_info_download_canceled">Загрузка отменена.</string>
+    <string name="update_info_download_failed">Загрузка отменена, проверьте свое подключение к сети.</string>
+    <string name="update_info_updated">Обновление успешно установлено!</string>
+    <string name="update_info_latest">Используется новейшая версия игры</string>
+    <string name="menu_score" formatted="false">Очки: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">ПП: %spp (%dx)</string>
+    <string name="menu_creator">Создатель: %s</string>
+    <string name="menu_mod_back">Назад</string>
+    <string name="menu_mod_multiplier" formatted="false">Множитель %.2fx</string>
+    <string name="menu_mod_reset">Сбросить выбор модов</string>
+    <string name="menu_properties_title">Свойства песни</string>
+    <string name="menu_properties_offset">Смещение песни:</string>
+    <string name="menu_properties_tofavs">Добавить в избранные</string>
+    <string name="menu_properties_delete">Удалить карту</string>
+    <string name="menu_deletescore_delete">Удалить результат</string>
+    <string name="menu_deletescore_delete_success">Результат успешно удален</string>
+    <string name="menu_search_filter">Искать: </string>
+    <string name="menu_search_sort_title">Название</string>
+    <string name="menu_search_sort_date">Дата</string>
+    <string name="menu_search_sort_creator">Создатель</string>
+    <string name="menu_search_sort_artist">Артист</string>
+    <string name="menu_search_sort_bpm">БПМ</string>
+    <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
+    <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
+    <string name="menu_search_sort_length">Длительность</string>
+    <string name="binfoStr1" formatted="false">Длительность: %s БПМ: %s Комбо: %d</string>
+    <string name="binfoStr2" formatted="false">Ноты: %d Слайдеры: %d Спиннеры: %d (ID карты: %d)</string>
+    <string name="favorite_default">Стандартная</string>
+    <string name="favorite_new_folder">Создать новую папку</string>
+    <string name="favorite_ensure">Вы уверены?</string>
+    <string name="favorite_manage">Управление папкой карт</string>
+    <string name="frg_score_menu_title">Результат</string>
+    <string name="frg_score_menu_export_score">Экспортировать</string>
+    <string name="frg_score_menu_export_failed">Не удалось экспортировать запись игры!</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">Запись игры сохранена по пути %s</string>
+    <string name="opt_show_scoreboard_title">Показывать таблицу рекордов</string>
+    <string name="opt_changespeed_title">Изменение скорости карты</string>
+    <string name="opt_enablenc_whenspeedchange_title">Включить сдвиг тона при изменении скорости карты</string>
+    <string name="opt_forcear_title">Изменение AR</string>
+    <string name="opt_forceod_title">Изменение OD</string>
+    <string name="opt_forcehp_title">Изменение HP</string>
+    <string name="opt_forcecs_title">Изменение CS</string>
+    <string name="opt_flashlight_follow_delay_title">Задержка перемещения области FL</string>
+    <string name="force_diffstat_mod_unpickable">Некоторые моды были отключены, так как все принудительные модификаторы сложности включены.</string>
+    <string name="mp_room_name_title">Название комнаты</string>
+    <string name="mp_room_name_summary">Изменить название комнаты.</string>
+    <string name="mp_room_password_title">Пароль комнаты</string>
+    <string name="mp_room_password_summary">Изменить пароль комнаты. Если поле пустое, комната станет публичной</string>
+    <string name="mp_room_category_variables">Variables</string>
+    <string name="mp_room_free_mods_title">Включить свободный выбор модов</string>
+    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды, за исключением модов, влияющих на скорость карты</string>
+    <string name="mp_room_allowForceDifficultyStatistics_title">Включить изменение параметров карты</string>
+    <string name="mp_room_allowForceDifficultyStatistics_summary">Разрешить пользователям менять параметры карты при включенном свободном выборе модов</string>
+
+    <string name="mp_room_versus_mode_title">Командный режим</string>
+    <string name="mp_room_versus_mode_summary">Изменить соревновательный режим в комнате.</string>
+    <string-array name="mp_team_versus_names">
+        <item>Head to Head</item>
+        <item>Team vs Team</item>
+    </string-array>
+
+    <string name="mp_room_win_condition_title">Условие победы</string>
+    <string name="mp_room_win_condition_summary">Изменить условие победы в комнате.</string>
+    <string-array name="mp_win_condition_names">
+        <item>Score V1</item>
+        <item>Точность</item>
+        <item>Комбо</item>
+        <item>Score V2</item>
+    </string-array>
+
+    <string name="mp_room_category_share">Поделиться</string>
+    <string name="mp_room_link_title">Получить пригласительную ссылку</string>
+    <string name="mp_room_link_summary">Скопировать пригласительную ссылку</string>
+    <string name="mp_room_category_teams">Команда</string>
+
+    <string name="mp_room_category_teams_title">Команда</string>
+    <string name="mp_room_category_teams_summary">Смените свою команду.</string>
+    <string-array name="mp_team_names">
+        <item>Красная</item>
+        <item>Синяя</item>
+    </string-array>
+
+    <string name="mp_room_category_in_game">В игре</string>
+    <string name="mp_room_enable_score_submission_title">Включить отправку результатов на сервер</string>
+    <string name="mp_room_enable_score_submission_summary">Отправить ваш результат на сервер в конце раунда, если вы пасснули карту</string>
+    <string name="mp_room_nightcore_title">Использовать NightCore</string>
+    <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>
+    <string name="act_import_replay">Импортировать результат и запись игры в osu!droid</string>
+    <string name="invalid_edr_file">Файл записи повержден</string>
+    <string name="failed_to_import_edr">Не удалось импортировать результат!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Не удалось импортировать результат: %s</string>
+    <string name="import_edr_successfully">Результат успешно импортирован!</string>
+    <string name="replay_import_success">Запись игры успешно импортирована!</string>
+    <string name="replay_import_failed">Не удалось импортировать запись игры: %s</string>
+    <string name="message_save_replay_successful">Запись игры сохранена!</string>
+    <string name="message_save_replay_failed">Сохранение записи игры не удалось</string>
+    <string name="replay_invalid">Не удалось запустить запись игры</string>
+    <string name="replay_cantdownload">Не удалось скачать запись игры</string>
+    <string name="replay_wrongmap">Запись игры не соответствует карте</string>
+    <string name="replay_corrupted">Запись игры повреждена</string>
+    <string name="opt_category_online">Сеть</string>
+    <string name="opt_stayonline_title">Подключение к серверу</string>
+    <string name="opt_stayonline_summary">Подключиться к серверу osu!droid</string>
+    <string name="opt_loadavatar_title">Загрузка аватаров в таблице лидеров</string>
+    <string name="opt_loadavatar_summary">Загружать аватары игроков в таблице лидеров карты</string>
+
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Режим сортировки таблицы лидеров карты</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Выбрать режим сортировки результатов в таблице лидеров карты</string>
+    <string-array name="global_beatmap_leaderboard_scoring_mode_names">
+        <item>Очки</item>
+        <item>ПП</item>
+    </string-array>
+
+    <string name="opt_category_account">Аккаунт</string>
+    <string name="opt_login_title">Логин</string>
+    <string name="opt_login_summary">Ваш игровой псевдоним</string>
+    <string name="opt_password_title">Пароль</string>
+    <string name="opt_password_summary">Пароль от вашего аккаунта</string>
+    <string name="opt_register_title">Регистрация</string>
+    <string name="opt_register_summary">Зарегистрируйте новый аккаунт</string>
+    <string name="opt_category_community">Сообщество</string>
+    <string name="opt_receive_announcements_title">Получать анонсы</string>
+    <string name="opt_receive_announcements_summary">Получайте уведомления о анонсах, событиях и т. д.</string>
+    <string name="opt_category_updates">Обновления</string>
+    <string name="opt_update_title">Проверить наличие обновлений</string>
+    <string name="opt_update_summary">Проверка на доступные обновления</string>
+    <string name="opt_category_skin">Скин</string>
+    <string name="opt_skinpath_title">Скин</string>
+    <string name="opt_skinpath_summary">Выбор скина</string>
+
+    <string name="opt_spinner_style_title">Стиль спиннера</string>
+    <string name="opt_spinner_style_summary">Сменить стиль спиннера</string>
+    <string-array name="spinner_style_names">
+        <item>Современный</item>
+        <item>Классический</item>
+    </string-array>
+
+    <string name="opt_skin_title">Использовать скин карты</string>
+    <string name="opt_skin_summary">Использовать скин карты, если доступен</string>
+    <string name="opt_category_hit_objects">Объекты</string>
+    <string name="opt_show_first_approach_circle_title">Первый круг сужения при игре в Hidden</string>
+    <string name="opt_show_first_approach_circle_summary">Не скрывать круг сужения первого обьекта на карте при игре с HD</string>
+    <string name="opt_category_background">Задний фон</string>
+    <string name="opt_bgbrightness_title">Яркость заднего фона</string>
+    <string name="opt_bgbrightness_summary">Настроить яркость заднего фона карты</string>
+    <string name="opt_keep_background_aspect_ratio_title">Учитывать соотношение сторон фона</string>
+    <string name="opt_keep_background_aspect_ratio_summary">Если эта функция включена, фон (и сториборд) не будут масштабироваться, чтобы заполнить границы экрана во время игры</string>
+    <string name="opt_enableStoryboard_title">Включить сториборды</string>
+    <string name="opt_video_title">Видео</string>
+    <string name="opt_video_summary">Проигрывать видео карты во время игры. Поддерживаются форматы .3gp, .mp4, .mkv и .webm</string>
+    <string name="opt_category_hud">Интерфейс</string>
+
+    <string name="opt_progress_indicator_title">Индикатор прогресса</string>
+    <string name="opt_progress_indicator_summary">Выбрать вид индикатора прогресса на карте</string>
+    <string-array name="opt_progress_indicator_names">
+        <item>Круговой(справа-сверху)</item>
+        <item>Линейный(снизу)</item>
+    </string-array>
+
+    <string name="opt_hide_ingame_ui_title">Не показывать игровой интерфейс</string>
+    <string name="opt_hide_ingame_ui_summary">Не показывать счетчики и другие элементы интерфейса во время игры</string>
+    <string name="opt_hide_replay_marquee_title">Не показывать вотермарку записи игры</string>
+    <string name="opt_hide_replay_marquee_summary">Скрыть прокручивающийся текст при просмотре записей игры</string>
+    <string name="opt_show_leaderboard_title">Показывать таблицу лидеров</string>
+    <string name="opt_show_leaderboard_summary">Показывать таблицу лидеров во время игры</string>
+
+    <string name="opt_error_meter_display_title">Шкала точности</string>
+    <string name="opt_error_meter_display_summary">Показывать шкалу точности во время игры</string>
+    <string-array name="error_meter_display_names">
+        <item>Включить</item>
+        <item>Только во время реплея</item>
+        <item>Отключить</item>
+    </string-array>
+
+    <string name="opt_fps_title">Показывать FPS</string>
+    <string name="opt_fps_summary">Показывать счетчик FPS во время игры</string>
+    <string name="opt_averageoffset_title">Смещение</string>
+    <string name="opt_averageoffset_summary">Показывать счетчик среднего смещения попаданий во время игры. Более высокое значение означает, что попадания смещены сильнее. Не будет отображаться, если включен мод Auto</string>
+    <string name="opt_unstablerate_summary">Показывать счетчик UR во время игры. Более высокое значение означает, что попадания непостоянны. Не показывается, когда включен Auto</string>
+    <string name="opt_display_score_statistics_title">Показывать статистику результата</string>
+    <string name="opt_display_score_statistics_summary">Показывать статистику результатов (сложность, PP и многое другое) на экране результатов</string>
+    <string name="opt_display_realtime_pp_counter_title">Показывать счетчик ПП</string>
+    <string name="opt_display_realtime_pp_counter_summary">Показывать счетчик ПП в реальном времени во время игры. Может значительно увеличить время загрузки, особенно на длинных картах</string>
+    <string name="opt_combo_colors_title">Цвета комбо</string>
+    <string name="opt_combo_colors_summary">Использовать пользовательский цвет комбо</string>
+    <string name="opt_category_cursor">Курсор</string>
+    <string name="opt_showcursor_title">Включить курсор</string>
+    <string name="opt_showcursor_summary">Показывать курсор в месте нажатия</string>
+    <string name="opt_cursor_size">Размер курсора</string>
+    <string name="opt_cursor_size_summary">Изменить размер курсора</string>
+    <string name="opt_particles_title">След курсора</string>
+    <string name="opt_particles_summary">Показывать эффекты на основе частиц, такие как cursor-trail</string>
+    <string name="opt_category_animations">Анимации и эффекты</string>
+    <string name="opt_dim_hit_objects_title">Включить осветление нот</string>
+    <string name="opt_dim_hit_objects_summary">Осветлять ноты в момент, когда их можно нажать</string>
+    <string name="opt_combo_burst_title">Комбо-всплески</string>
+    <string name="opt_combo_burst_summary">Включить Комбо-всплески</string>
+    <string name="opt_largeimages_title">Обратный отсчет</string>
+    <string name="opt_largeimages_summary">Показывать обратный отсчет в начале карты, на которой он включен</string>
+    <string name="opt_animate_follow_circle_title">Анимировать круг следования(sliderfollowcircle)</string>
+    <string name="opt_animate_follow_circle_summary">Показывать анимации круга следования в момент нажатия или отжатия слайдера</string>
+    <string name="opt_animate_combo_text_title">Анимировать текст комбо</string>
+    <string name="opt_animate_combo_text_summary">Включить анимации текста комбо при росте счетчика комбо</string>
+    <string name="opt_snakingInSliders_title">Включить плавное появление слайдеров</string>
+    <string name="opt_snakingInSliders_summary">Слайдеры будут постепенно "выползать" вместо обычного появления</string>
+    <string name="opt_noChangeDimInBreaks_title">Не изменять уровеня яркости фона во время перерывов</string>
+    <string name="opt_noChangeDimInBreaks_summary">Уровень яркости фона карты во время перерывов не будет изменяться</string>
+    <string name="opt_bursts_title">Эффект попадания</string>
+    <string name="opt_bursts_summary">Показывать эффект взрыва после попадания по обьекту</string>
+    <string name="opt_hitlighting_title">Освещение попадания</string>
+    <string name="opt_hitlighting_summary">Показывать небольшое свечение после успешного попадания по обьекту</string>
+    <string name="opt_category_display">Дисплей</string>
+    <string name="opt_hide_navibar_title">Скрыть панель навигации</string>
+    <string name="opt_hide_navibar_summary">Скрыть системную панель навигации, пока вы в игре</string>
+    <string name="opt_category_volume">Громкость</string>
+    <string name="opt_bgm_volume_title">Громкость музыки</string>
+    <string name="opt_bgm_volume_summary">Изменить громкость фоновой музыки</string>
+    <string name="opt_sound_volume_title">Громкость хитсаундов</string>
+    <string name="opt_sound_volume_summary">Изменить громкость звуковых эффектов</string>
+    <string name="opt_category_offset">Смещение</string>
+    <string name="opt_offset_title">Глобальное смещение</string>
+    <string name="opt_offset_summary">Сместить музыку относительно карты</string>
+    <string name="opt_category_metronome">Метроном</string>
+
+    <string name="opt_metronome_switch_title">Метроном</string>
+    <string name="opt_metronome_switch_summary">Включить метроном</string>
+    <string-array name="metronome_switch_names">
+        <item>Включить</item>
+        <item>Только в NightCore</item>
+        <item>Выключить</item>
+    </string-array>
+
+    <string name="opt_category_miscellaneous">Дополнительно</string>
+    <string name="opt_sound_title">Использовать звуковые эффекты карты</string>
+    <string name="opt_sound_summary">Использовать звуковые эффекты из карты, если они доступны</string>
+    <string name="opt_musicpreview_title">Включить музыку во время выбора карты</string>
+    <string name="opt_musicpreview_summary">Включить превью музыки в меню выбора карты</string>
+    <string name="opt_category_import">Импорт</string>
+    <string name="opt_deleteosz_title">Удалять .osz после импорта</string>
+    <string name="opt_deleteosz_summary">Удалять архивы карт после их успешного импорта</string>
+    <string name="opt_scandownload_title">Сканировать загрузки</string>
+    <string name="opt_scandownload_summary">Сканировать папку загрузок на наличие неимпортированных карт и скинов</string>
+    <string name="opt_deleteUnimportedBeatmaps_title">Удалять неимпортируемые карты</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">Удалять архивы карты, которые не могут быть импортированны</string>
+    <string name="opt_delete_unsupported_videos_title">Удалять неподдерживаемые видео</string>
+    <string name="opt_delete_unsupported_videos_summary">Удалить видео неподдерживаемых форматов(.avi, .flv)</string>
+    <string name="opt_import_replay_title">Импортировать реплей</string>
+    <string name="opt_import_replay_summary">Импортировать .odr или .edr файлы реплеев. Поддерживается импорт реплеев с версии 1.6.7</string>
+    <string name="opt_category_metadata">Метаданные</string>
+    <string name="force_romanized">Названия на английском</string>
+    <string name="force_romanized_summary">Принудительно использовать только латинские символы для метаданных, в случае если названия на японском или китайском языке нечитаемы</string>
+    <string name="opt_category_storage">Хранилище</string>
+    <string name="opt_clear_title">Очистить кэш библиотеки</string>
+    <string name="opt_clear_summary">Очистить </string>
+    <string name="opt_clearprops_title">Очистить настройки карт</string>
+    <string name="opt_clearprops_summary">Принудительно очистить все настройки карт(например, смещение карты)</string>
+    <string name="opt_category_playfield">Игровое поле</string>
+    <string name="opt_setplayfield_title">Изменить размер поля</string>
+    <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
+    <string name="opt_shrink_playfield_downwards_title">Перенести уменьшенную игровую область вниз</string>
+    <string name="opt_shrink_playfield_downwards_summary">Перенести уменьшенную игровую область вниз</string>
+    <string name="block_area_preference_title">Настроить область с блокировкой нажатий</string>
+    <string name="block_area_preference_summary">Управлять определенными областями экрана, нажатия на которые будут игнорироваться во время игры</string>
+    <string name="opt_category_gameplay">Геймплей</string>
+    <string name="opt_remove_sliderlock_spinnerlock_title">Отключить блокировку слайдера и спиннера(рейтинг недоступен)</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Отклюить блокировку слайдера и спиннера. 2B стиль(например ноты во время слайдера или спиннера) теперь играбелен</string>
+    <string name="opt_category_synchronization">Синхронизация</string>
+    <string name="opt_syncmusic_title">Синхронизация с низкой задержкой</string>
+    <string name="opt_syncmusic_summary">"Отключите, если ваше устройство не поддерживает аудио с низкой задержкой."</string>
+    <string name="opt_fix_frame_offset_title">Исправить случайное смещение</string>
+    <string name="opt_fix_frame_offset_summary">Попробовать исправить смещение между временем ввода и временем кадра.</string>
+    <string name="opt_category_directories">Каталоги</string>
+    <string name="opt_corepath_title">Главный каталог</string>
+    <string name="opt_corepath_summary">Главный каталог osu!droid </string>
+    <string name="opt_skin_top_path_title">Директория скинов</string>
+    <string name="opt_skin_top_path_summary">По умолчанию: /storage/emulated/0/osu!droid/</string>
+    <string name="opt_directory_title">Каталог карт</string>
+    <string name="opt_directory_summary">По умолчанию: /storage/emulated/0/osu!droid/Skin/</string>
+    <string name="opt_force_max_refresh_rate_title">Выставлять максимальную частоту обновления экрана</string>
+    <string name="opt_force_max_refresh_rate_summary">Попытаться использовать максимальную доступную частоту обновления экрана. Отключите, если у вас наблюдается мерцание экрана.</string>
+    <string name="opt_safe_beatmap_bg_title">Использовать фон скина как задний фон</string>
+    <string name="opt_safe_beatmap_bg_summary">Изменить фон карт на menu-background из скина</string>
+
+</resources>
