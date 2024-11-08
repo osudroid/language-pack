@@ -26,8 +26,8 @@
         <item>1</item>
     </string-array>
 
-    <string name="difficulty_algorithm_title">Difficulty algorithm</string>
-    <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string name="difficulty_algorithm_title">난이도 알고리즘</string>
+    <string name="difficulty_algorithm_summary">난이도와 퍼포먼스 포인트(PP)를 계산하는 데 사용되는 알고리즘을 선택하세요.</string>
 
     <!-- Account -->
     <string name="opt_category_account">계정</string>
@@ -54,7 +54,7 @@
     <!-- Skin -->
     <string name="opt_category_skin">스킨</string>
     <string name="opt_skinpath_title">스킨 선택</string>
-    <string name="opt_skinpath_summary">스킨 디렉토리에서 스킨을 선택합니다.</string>
+    <string name="opt_skinpath_summary">스킨 디렉터리에서 스킨을 선택합니다.</string>
 
     <string name="opt_spinner_style_title">스피너 스타일</string>
     <string name="opt_spinner_style_summary">스피너 스타일을 변경합니다.</string>
