@@ -26,6 +26,9 @@
         <item>1</item>
     </string-array>
 
+    <string name="difficulty_algorithm_title">Difficulty algorithm</string>
+    <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+
     <!-- Account -->
     <string name="opt_category_account">Account</string>
     <string name="opt_login_title">登录</string>
