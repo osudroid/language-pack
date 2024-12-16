@@ -2,38 +2,38 @@
 <resources>
 
     <string name="markdown_title">Markdown Title</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="changelog_title">Lista de cambios</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">Puede que su dispositivo no soporte multitouch.</string>
+    <string name="message_low_storage_space">No tiene suficiente espacio de almacenamiento. Almacenamiento libre: %s GB. Esto puede causar bugs a la hora de subir jugadas.</string>
 
     <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_error_open">No se ha podido abrir %s</string>
+    <string name="message_error_createdir">No se ha podido crear %s</string>
+    <string name="message_error_sdcard">El almacenamiento externo no esta montado</string>
+    <string name="message_error_sdcardread">El almacenamiento externo es de solo lectura</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="crash">Lo sentimos, ha ocurrido un error inexperado y el juego tiene que cerrarse.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">Deshabilita los servicios de accesibilidad</string>
+    <string name="accessibility_detector_message">Los siguientes servicios de accesibilidad necesitan ser deshabilitados:</string>
+    <string name="accessibility_detector_settings">Ir a las configuraciones de accesibilidad</string>
+    <string name="accessibility_detector_exit">Salir del juego</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">Cargando jugada...</string>
+    <string name="multiplayer_not_online">Necesitas iniciar sesion para jugar multijugador!</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">Presione en un color para aplicar</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">Cancelar</string>
+    <string name="beatmap_downloader_connecting">Conectando al servidor...</string>
+    <string name="beatmap_downloader_downloading">Descargando mapa %s...</string>
+    <string name="beatmap_downloader_importing">Importando mapa %s...</string>
 
     <!-- Ranked status -->
     <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
@@ -45,8 +45,8 @@
     <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
+    <string name="library_cleared">Se ha limpiado la cache</string>
+    <string name="library_importing">Importando mapas...</string>
     <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
     <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
     <string name="library_imported">\"%s\" has been imported!</string>
