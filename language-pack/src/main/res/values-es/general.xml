@@ -47,31 +47,31 @@
     <!-- Library -->
     <string name="library_cleared">Se ha limpiado la cache</string>
     <string name="library_importing">Importando mapas...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_importing_several">Se han encontrado %s mapas. Importando los mapas...</string>
+    <string name="library_skin_importing_several">Se han encontrado %s skins. Importando las skins...</string>
+    <string name="library_imported">¡\"%s\" ha sido importado!</string>
+    <string name="message_loaded_skin">¡Se ha aplicado la nueva skin correctamente!</string>
+    <string name="message_error_dir_not_found">El directorio no se ha podido encontrar.</string>
+    <string name="file_integrity_tampered">La comprobación de la integridad del archivo no se ha podido realizar correctamente. Abortando gameplay.</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Fallo al cargar %s: No se ha podido abrir el archivo del mapa.</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">Añadir area</string>
+    <string name="block_area_editor_fragment_reset">Reiniciar</string>
+    <string name="block_area_editor_fragment_done">Confirmar</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">¡Hay una nueva actualización disponible!</string>
+    <string name="update_dialog_button_update">Actualizar ahora</string>
+    <string name="update_info_checking">Comprobando actualizaciones...</string>
+    <string name="update_info_check_failed">No se ha podido buscar actualizaciones. Puede que el servidor no este disponible o tu conexión no funcione bien.</string>
+    <string name="update_info_downloading">Descargando actualizaciones... %d%%</string>
+    <string name="update_info_download_canceled">Descarga cancelada.</string>
+    <string name="update_info_download_failed">Ha fallado la descarga, revise su conexión a internet.</string>
+    <string name="update_info_updated">¡Actualización descargada!</string>
+    <string name="update_info_latest">Estas en la ultima versión disponible</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
