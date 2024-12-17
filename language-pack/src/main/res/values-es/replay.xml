@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Import -->
-    <string name="act_import_replay">Importar jugada a osu!droid</string>
-    <string name="invalid_edr_file">¡Jugada invalida!</string>
-    <string name="failed_to_import_edr">¡Fallo al importar jugada!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Fallo al importar jugada: %s</string>
-    <string name="import_edr_successfully">¡Se ha importado la jugada correctamente!</string>
+    <string name="act_import_replay">Importar repetición a osu!droid</string>
+    <string name="invalid_edr_file">¡Repetición invalida!</string>
+    <string name="failed_to_import_edr">¡Fallo al importar la repetición!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Fallo al importar repetición: %s</string>
+    <string name="import_edr_successfully">¡Se ha importado la repetición correctamente!</string>
 
-    <string name="replay_import_success">¡Se ha importado la jugada correctamente!</string>
-    <string name="replay_import_failed">Fallo al importar jugada: %s</string>
+    <string name="replay_import_success">¡Se ha importado la repetición correctamente!</string>
+    <string name="replay_import_failed">Fallo al importar repetición: %s</string>
 
     <!-- Save -->
-    <string name="message_save_replay_successful">¡Jugada guardada correctamente!</string>
-    <string name="message_save_replay_failed">El guardado de la jugada ha fallado</string>
+    <string name="message_save_replay_successful">¡Repetición guardada correctamente!</string>
+    <string name="message_save_replay_failed">El guardado de la repetición ha fallado</string>
 
-    <string name="replay_invalid">No se puede cargar la jugada</string>
-    <string name="replay_cantdownload">No se pudo descargar la jugada</string>
-    <string name="replay_wrongmap">La jugada no coincide con el mapa</string>
-    <string name="replay_corrupted">Archivo de jugada corrupto</string>
+    <string name="replay_invalid">No se puede cargar la repetición</string>
+    <string name="replay_cantdownload">No se pudo descargar la repetición</string>
+    <string name="replay_wrongmap">La repetición no coincide con el mapa</string>
+    <string name="replay_corrupted">Archivo de repetición corrupto</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
