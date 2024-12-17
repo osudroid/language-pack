@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Song Select -->
-    <string name="menu_score" formatted="false">Score: %s (%dx)</string>
-    <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
-    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_score" formatted="false">Puntuación: %s (%dx)</string>
+    <string name="menu_performance" formatted="false">Rendimiento: %spp (%dx)</string>
+    <string name="menu_creator">Creador: %s</string>
 
-    <string name="menu_mod_back">Back</string>
-    <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
-    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_mod_back">Atras</string>
+    <string name="menu_mod_multiplier" formatted="false">Multiplicador de puntuación %.2fx</string>
+    <string name="menu_mod_reset">Reiniciar selección</string>
 
-    <string name="menu_properties_title">Song properties</string>
-    <string name="menu_properties_offset">Song offset:</string>
-    <string name="menu_properties_tofavs">Add to favorites</string>
-    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_properties_title">Propiedades de la cancion</string>
+    <string name="menu_properties_offset">Offset de la canción:</string>
+    <string name="menu_properties_tofavs">Añadir a favoritos</string>
+    <string name="menu_properties_delete">Eliminar mapa</string>
 
-    <string name="menu_deletescore_delete">Delete</string>
-    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_deletescore_delete">Eliminar</string>
+    <string name="menu_deletescore_delete_success">¡Se ha eliminado esa puntuación!</string>
 
-    <string name="menu_search_filter">Search for...</string>
-    <string name="menu_search_sort_title">Title</string>
-    <string name="menu_search_sort_date">Date</string>
-    <string name="menu_search_sort_creator">Creator</string>
-    <string name="menu_search_sort_artist">Artist</string>
+    <string name="menu_search_filter">Buscar...</string>
+    <string name="menu_search_sort_title">Titulo</string>
+    <string name="menu_search_sort_date">Fecha</string>
+    <string name="menu_search_sort_creator">Creador</string>
+    <string name="menu_search_sort_artist">Artista</string>
     <string name="menu_search_sort_bpm">Bpm</string>
     <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
     <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Length</string>
-    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
-    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="menu_search_sort_length">Duración</string>
+    <string name="binfoStr1" formatted="false">Duración: %s BPM: %s Combo: %d</string>
+    <string name="binfoStr2" formatted="false">Circulos: %d Sliders: %d Spinners: %d (MapId: %d)</string>
     <!-- End Song Select -->
 
     <!-- Filter Menu -->
-    <string name="favorite_default">Default</string>
-    <string name="favorite_new_folder">Create new folder</string>
-    <string name="favorite_ensure">Are you sure?</string>
-    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="favorite_default">Por defecto</string>
+    <string name="favorite_new_folder">Crear nueva carpeta</string>
+    <string name="favorite_ensure">¿Estás seguro?</string>
+    <string name="favorite_manage">Administrar carpeta</string>
 
 
 <!-- Score Export/Import -->
