@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Import -->
-    <string name="act_import_replay">Import replay into osu!droid</string>
-    <string name="invalid_edr_file">Invalid repay!</string>
-    <string name="failed_to_import_edr">Failed to import replay!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
-    <string name="import_edr_successfully">Import replay successfully!</string>
+    <string name="act_import_replay">Importar jugada a osu!droid</string>
+    <string name="invalid_edr_file">¡Jugada invalida!</string>
+    <string name="failed_to_import_edr">¡Fallo al importar jugada!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Fallo al importar jugada: %s</string>
+    <string name="import_edr_successfully">¡Se ha importado la jugada correctamente!</string>
 
-    <string name="replay_import_success">Replay imported successfully!</string>
-    <string name="replay_import_failed">Replay import failed: %s</string>
+    <string name="replay_import_success">¡Se ha importado la jugada correctamente!</string>
+    <string name="replay_import_failed">Fallo al importar jugada: %s</string>
 
     <!-- Save -->
-    <string name="message_save_replay_successful">Save failed replay success!</string>
-    <string name="message_save_replay_failed">Save replay failed</string>
+    <string name="message_save_replay_successful">¡Jugada guardada correctamente!</string>
+    <string name="message_save_replay_failed">El guardado de la jugada ha fallado</string>
 
-    <string name="replay_invalid">Cannot load replay</string>
-    <string name="replay_cantdownload">Cannot download replay</string>
-    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
-    <string name="replay_corrupted">Replay file is corrupted</string>
+    <string name="replay_invalid">No se puede cargar la jugada</string>
+    <string name="replay_cantdownload">No se pudo descargar la jugada</string>
+    <string name="replay_wrongmap">La jugada no coincide con el mapa</string>
+    <string name="replay_corrupted">Archivo de jugada corrupto</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
