@@ -111,9 +111,6 @@
     <string name="opt_fps_title">FPS表示</string>
     <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます。</string>
 
-    <string name="opt_averageoffset_title">平均オフセット</string>
-    <string name="opt_averageoffset_summary">プレイ中タッチオフセットの平均値を表示します。Auto modでは非表示になります。</string>
-
     <string name="opt_unstablerate_title">不安程度</string>
     <string name="opt_unstablerate_summary">プレイ中タッチ不安程度を表示します。Auto modでは非表示になります。</string>
 

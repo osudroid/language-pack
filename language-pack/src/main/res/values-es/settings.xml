@@ -111,9 +111,6 @@
     <string name="opt_fps_title">Mostrar FPS</string>
     <string name="opt_fps_summary">Muestra un contador de FPS mientras juegas</string>
 
-    <string name="opt_averageoffset_title">Average offset</string>
-    <string name="opt_averageoffset_summary">Muestra la sincronización media de los golpes durante el juego. Un valor más alto significa que los golpes están más desincronizados. No se mostrará cuando Auto mod esté activado.</string>
-
     <string name="opt_unstablerate_title">UR</string>
     <string name="opt_unstablerate_summary">Muestra el UR mientras juegas. Cuanto mayor es el valor, más inestable estas jugando. No se mostrará cuando el Auto mod está activado.</string>
 
