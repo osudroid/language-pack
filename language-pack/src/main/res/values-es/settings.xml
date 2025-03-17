@@ -111,6 +111,9 @@
     <!-- Cursor -->
     <string name="opt_category_cursor">Cursor</string>
     <string name="opt_showcursor_title">Mostrar cursor</string>
+    <string name="opt_hudEditor_title">Editor de interfaz</string>
+    <string name="opt_hudEditor_summary">Edita el layout de la interfaz como tu quieras</string>
+
     <string name="opt_showcursor_summary">Muestra un cursor debajo de tus dedos muentras juegas</string>
 
     <string name="opt_cursor_size">Tamaño del cursor</string>
@@ -184,6 +187,9 @@
 
     <!-- Miscellaneous -->
     <string name="opt_category_miscellaneous">Miscelaneo</string>
+    <string name="opt_snakingOutSliders_title">Utilizar deslizadores serpenteantes</string>
+    <string name="opt_snakingOutSliders_summary">Permitir que los deslizadores desaparezcan gradualmente</string>
+
     <string name="opt_sound_title">Sonido del mapa</string>
     <string name="opt_sound_summary">Carga sonidos específicos del mapa como hitsounds o sonidos de miss.</string>
 
@@ -237,6 +243,11 @@
     <string name="opt_category_gameplay">Gameplay</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Eliminar el bloqueo de slider y spinner (unranked)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Intenta quitar el bloqueo del slider y del spinner. Ahora puedes jugar mapas de estilo 2b.</string>
+
+    <string name="opt_backButtonPressTime_title">Tiempo de presion del boton de retroceso</string>
+    <string name="opt_backButtonPressTime_summary">Tiempo necesario en milisegundos para accionar el botón de retroceso en pantalla</string>
+    <string name="opt_seekBarVibrateIntensity_title">Fijar intensidad</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Cambia la intensidad de la vibracion</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Sincronizacion</string>
