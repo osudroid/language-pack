@@ -90,17 +90,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">進行度UI</string>
-    <string name="opt_progress_indicator_summary">進行度UIを選択します。</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>右上 (パイ型)</item>
-        <item>下 (バー型)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">ゲームUI非表示</string>
     <string name="opt_hide_ingame_ui_summary">カウンター等各種UIを非表示にします。</string>

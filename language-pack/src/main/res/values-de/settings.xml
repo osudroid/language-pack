@@ -99,17 +99,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">Progress display</string>
-    <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>Top-right (Pie)</item>
-        <item>Bottom (Long)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
     <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>

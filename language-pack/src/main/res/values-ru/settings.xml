@@ -90,17 +90,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">Интерфейс</string>
-    <string name="opt_progress_indicator_title">Индикатор прогресса</string>
-    <string name="opt_progress_indicator_summary">Выбрать вид индикатора прогресса на карте</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>Круговой(справа-сверху)</item>
-        <item>Линейный(снизу)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">Не показывать игровой интерфейс</string>
     <string name="opt_hide_ingame_ui_summary">Не показывать счетчики и другие элементы интерфейса во время игры</string>

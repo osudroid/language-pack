@@ -90,17 +90,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">진행률 표시</string>
-    <string name="opt_progress_indicator_summary">진행률 표시기 유형을 선택하세요</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>오른쪽 위 (파이)</item>
-        <item>맨 아래 (길게)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">게임 플레이 UI 숨기기</string>
     <string name="opt_hide_ingame_ui_summary">게임 플레이 중 카운터 및 기타 UI를 숨깁니다.</string>
