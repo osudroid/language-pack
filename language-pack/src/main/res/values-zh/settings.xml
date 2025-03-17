@@ -90,17 +90,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">Progress display</string>
-    <string name="opt_progress_indicator_summary">Choose the progress indicator type</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>Top-right (Pie)</item>
-        <item>Bottom (Long)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
     <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
@@ -108,36 +97,11 @@
     <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
     <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
 
-    <string name="opt_show_leaderboard_title">Show leaderboard</string>
-    <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
-
-    <string name="opt_error_meter_display_title">击打误差指示器</string>
-    <string name="opt_error_meter_display_summary">决定是否或在何时显示指示器</string>
-    <string-array name="error_meter_display_names">
-        <item>总是开启</item>
-        <item>仅重放</item>
-        <item>禁用</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">显示帧每秒</string>
     <string name="opt_fps_summary">显示游戏过程中每秒帧数</string>
 
-    <string name="opt_averageoffset_title">Average offset</string>
-    <string name="opt_averageoffset_summary">Display average offset of hits during gameplay. Higher value means hits are more offset. Will not display when Auto mod is enabled</string>
-
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Display unstable rate during gameplay. Higher value means hits are more inconsistent. Will not display when Auto mod is enabled</string>
-
     <string name="opt_display_score_statistics_title">Display score statistics</string>
     <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
-
-    <string name="opt_display_realtime_pp_counter_title">Display real-time PP counter</string>
-    <string name="opt_display_realtime_pp_counter_summary">Displays a real-time PP counter during gameplay. May increase loading time significantly, especially in long beatmaps</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Combo颜色</string>

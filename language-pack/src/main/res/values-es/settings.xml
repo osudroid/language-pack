@@ -90,17 +90,6 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">Interfaz</string>
-    <string name="opt_progress_indicator_title">Indicador de progreso en el mapa</string>
-    <string name="opt_progress_indicator_summary">Elige el tipo de indicador de progreso</string>
-
-    <string-array name="opt_progress_indicator_names">
-        <item>Arriba a la derecha (Forma circular)</item>
-        <item>Abajo (Barra)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
 
     <string name="opt_hide_ingame_ui_title">Ocultar Interfaz</string>
     <string name="opt_hide_ingame_ui_summary">Oculta toda la interfaz mientras juegas (ej: vida, tabla de puntuaciones, combo, precision, etc..)</string>
@@ -108,36 +97,11 @@
     <string name="opt_hide_replay_marquee_title">Ocultar mensaje de repetición</string>
     <string name="opt_hide_replay_marquee_summary">Oculta el mensaje con movimiento cuando ves una repetición</string>
 
-    <string name="opt_show_leaderboard_title">Mostrar tabla de puntuaciones</string>
-    <string name="opt_show_leaderboard_summary">Muestra la tabla de puntuaciones mientras juegas.</string>
-
-    <string name="opt_error_meter_display_title">Medidor de hit-error</string>
-    <string name="opt_error_meter_display_summary">Muestra una barra que analiza como vas en un mapa mientras juegas.</string>
-    <string-array name="error_meter_display_names">
-        <item>Siempre</item>
-        <item>Solo en repeticiones</item>
-        <item>Desactivado</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">Mostrar FPS</string>
     <string name="opt_fps_summary">Muestra un contador de FPS mientras juegas</string>
 
-    <string name="opt_averageoffset_title">Average offset</string>
-    <string name="opt_averageoffset_summary">Muestra la sincronización media de los golpes durante el juego. Un valor más alto significa que los golpes están más desincronizados. No se mostrará cuando Auto mod esté activado.</string>
-
-    <string name="opt_unstablerate_title">UR</string>
-    <string name="opt_unstablerate_summary">Muestra el UR mientras juegas. Cuanto mayor es el valor, más inestable estas jugando. No se mostrará cuando el Auto mod está activado.</string>
-
     <string name="opt_display_score_statistics_title">Mostrar estadísticas sobre la puntuación </string>
     <string name="opt_display_score_statistics_summary">Muestra estadísticas sobre la puntuacion (SR, PP, y más) en la pantalla al final del mapa</string>
-
-    <string name="opt_display_realtime_pp_counter_title">Mostrar contador de PP en tiempo real</string>
-    <string name="opt_display_realtime_pp_counter_summary">Muestra un contador de PP en tiempo real mientras juegas. Puede hacer que el mapa tarde más en cargar.</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Colores de combo</string>
