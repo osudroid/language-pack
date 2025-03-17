@@ -108,19 +108,6 @@
     <string name="opt_hide_replay_marquee_title">リプレイ詳細非表示</string>
     <string name="opt_hide_replay_marquee_summary">リプレイの再生中、詳細テキストを非表示にします。</string>
 
-    <string name="opt_error_meter_display_title">スコアメーター</string>
-    <string name="opt_error_meter_display_summary">画面の下部に表示されます。</string>
-    <string-array name="error_meter_display_names">
-        <item>常に</item>
-        <item>リプレイのみ</item>
-        <item>無し</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">FPS表示</string>
     <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます。</string>
 

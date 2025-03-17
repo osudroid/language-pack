@@ -108,19 +108,6 @@
     <string name="opt_hide_replay_marquee_title">리플레이 마키 숨기기</string>
     <string name="opt_hide_replay_marquee_summary">리플레이를 볼 때 스크롤되는 텍스트를 숨깁니다.</string>
 
-    <string name="opt_error_meter_display_title">판정 오차</string>
-    <string name="opt_error_meter_display_summary">화면 하단에 판정 오차가 표시합니다.</string>
-    <string-array name="error_meter_display_names">
-        <item>항상</item>
-        <item>리플레이시에만</item>
-        <item>비활성화</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">FPS(프레임 표시)</string>
     <string name="opt_fps_summary">게임 플레이 중 프레임이(초당 프레임) 표시됩니다.</string>
 

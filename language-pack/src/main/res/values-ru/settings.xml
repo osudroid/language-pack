@@ -108,19 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Не показывать вотермарку записи игры</string>
     <string name="opt_hide_replay_marquee_summary">Скрыть прокручивающийся текст при просмотре записей игры</string>
 
-    <string name="opt_error_meter_display_title">Шкала точности</string>
-    <string name="opt_error_meter_display_summary">Показывать шкалу точности во время игры</string>
-    <string-array name="error_meter_display_names">
-        <item>Включить</item>
-        <item>Только во время реплея</item>
-        <item>Отключить</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">Показывать FPS</string>
     <string name="opt_fps_summary">Показывать счетчик FPS во время игры</string>
 

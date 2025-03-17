@@ -108,19 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
     <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
 
-    <string name="opt_error_meter_display_title">Thanh hit error</string>
-    <string name="opt_error_meter_display_summary">Hiển thị hoặc không hiển thị thanh hit error</string>
-    <string-array name="error_meter_display_names">
-        <item>Luôn luôn</item>
-        <item>Chỉ trong replay</item>
-        <item>Tắt</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">Hiển thị FPS</string>
     <string name="opt_fps_summary">Hiển thị số khung hình trên giây khi đang chơi</string>
 

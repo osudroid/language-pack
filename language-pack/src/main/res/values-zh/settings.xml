@@ -108,19 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
     <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
 
-    <string name="opt_error_meter_display_title">击打误差指示器</string>
-    <string name="opt_error_meter_display_summary">决定是否或在何时显示指示器</string>
-    <string-array name="error_meter_display_names">
-        <item>总是开启</item>
-        <item>仅重放</item>
-        <item>禁用</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">显示帧每秒</string>
     <string name="opt_fps_summary">显示游戏过程中每秒帧数</string>
 
