@@ -12,6 +12,7 @@
     <string name="message_error_createdir">Не удалось создать %s</string>
     <string name="message_error_sdcard">Внешнее хранилище не смонтировано</string>
     <string name="message_error_sdcardread">Внешнее хранилище доступно только для чтения</string>
+    <string name="message_video_custom_speed_unsupported">Custom video playback speed is not supported in this device</string>
 
     <!-- Crash -->
     <string name="crash">Игра столкнулась с непредвиденной ошибкой и должна быть закрыта.</string>

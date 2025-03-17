@@ -9,6 +9,17 @@
     <string name="dialog_visit_osudroid_profile_page">자신의 프로필 페이지를 방문하시겠습니까?</string>
     <string name="dialog_visit_osudroid_website">osu!droid 공식 웹사이트를 방문하시겠습니까?</string>
 
+    <string name="hudEditor_modal_title">HUD Editor</string>
+    <string name="hudEditor_modal_save">Exit and save changes</string>
+    <string name="hudEditor_modal_discard">Discard changes</string>
+    <string name="hudEditor_modal_reset">Reset to default</string>
+    <string name="hudEditor_modal_cancel">Cancel</string>
+
+    <string name="hudEditor_saving">Saving changes...</string>
+    <string name="hudEditor_saved">Changes saved!</string>
+    <string name="hudEditor_discarded">Changes discarded!</string>
+    <string name="hudEditor_reset">HUD set to default!</string>
+
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>

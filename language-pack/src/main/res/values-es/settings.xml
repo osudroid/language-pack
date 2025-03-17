@@ -91,6 +91,9 @@
     <!-- HUD -->
     <string name="opt_category_hud">Interfaz</string>
 
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+
     <string name="opt_hide_ingame_ui_title">Ocultar Interfaz</string>
     <string name="opt_hide_ingame_ui_summary">Oculta toda la interfaz mientras juegas (ej: vida, tabla de puntuaciones, combo, precision, etc..)</string>
 

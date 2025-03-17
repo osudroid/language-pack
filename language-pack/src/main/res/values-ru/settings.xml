@@ -91,6 +91,9 @@
     <!-- HUD -->
     <string name="opt_category_hud">Интерфейс</string>
 
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+
     <string name="opt_hide_ingame_ui_title">Не показывать игровой интерфейс</string>
     <string name="opt_hide_ingame_ui_summary">Не показывать счетчики и другие элементы интерфейса во время игры</string>
 

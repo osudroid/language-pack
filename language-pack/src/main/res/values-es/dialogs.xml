@@ -20,7 +20,6 @@
     <string name="hudEditor_discarded">Cambios descartados!</string>
     <string name="hudEditor_reset">Interfaz puesta por defecto!</string>
 
-
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>

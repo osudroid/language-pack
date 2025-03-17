@@ -91,6 +91,9 @@
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
 
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+
     <string name="opt_hide_ingame_ui_title">ゲームUI非表示</string>
     <string name="opt_hide_ingame_ui_summary">カウンター等各種UIを非表示にします。</string>
 

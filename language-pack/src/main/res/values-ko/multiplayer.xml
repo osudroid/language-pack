@@ -10,6 +10,9 @@
     <string name="mp_room_password_title">방 비밀번호</string>
     <string name="mp_room_password_summary">방의 비밀번호를 변경합니다. 비어 있으면 방이 공개됩니다.</string>
 
+    <string name="mp_room_max_players_title">Maximum Players</string>
+    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
+
     <!-- Variables -->
     <string name="mp_room_category_variables">변수</string>
 

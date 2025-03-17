@@ -91,6 +91,9 @@
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
 
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+
     <string name="opt_hide_ingame_ui_title">게임 플레이 UI 숨기기</string>
     <string name="opt_hide_ingame_ui_summary">게임 플레이 중 카운터 및 기타 UI를 숨깁니다.</string>
 
