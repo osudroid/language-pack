@@ -12,6 +12,7 @@
     <string name="message_error_createdir">Cannot create %s</string>
     <string name="message_error_sdcard">External storage is not mounted</string>
     <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_video_custom_speed_unsupported">Custom video playback speed is not supported in this device</string>
 
     <!-- Crash -->
     <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>

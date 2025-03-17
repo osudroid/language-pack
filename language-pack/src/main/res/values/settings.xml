@@ -111,6 +111,9 @@
         <item>1</item>
     </string-array>
 
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+
     <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
     <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
 
@@ -285,6 +288,12 @@
     <string name="opt_category_gameplay">Gameplay</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
+
+    <string name="opt_backButtonPressTime_title">Back button press time</string>
+    <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+
+    <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Synchronization</string>
