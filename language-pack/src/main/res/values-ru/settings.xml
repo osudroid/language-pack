@@ -108,9 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Не показывать вотермарку записи игры</string>
     <string name="opt_hide_replay_marquee_summary">Скрыть прокручивающийся текст при просмотре записей игры</string>
 
-    <string name="opt_show_leaderboard_title">Показывать таблицу лидеров</string>
-    <string name="opt_show_leaderboard_summary">Показывать таблицу лидеров во время игры</string>
-
     <string name="opt_error_meter_display_title">Шкала точности</string>
     <string name="opt_error_meter_display_summary">Показывать шкалу точности во время игры</string>
     <string-array name="error_meter_display_names">

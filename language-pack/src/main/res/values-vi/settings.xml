@@ -108,9 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
     <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
 
-    <string name="opt_show_leaderboard_title">Show leaderboard</string>
-    <string name="opt_show_leaderboard_summary">Show live leaderboard while playing</string>
-
     <string name="opt_error_meter_display_title">Thanh hit error</string>
     <string name="opt_error_meter_display_summary">Hiển thị hoặc không hiển thị thanh hit error</string>
     <string-array name="error_meter_display_names">

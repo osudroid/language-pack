@@ -108,9 +108,6 @@
     <string name="opt_hide_replay_marquee_title">Ocultar mensaje de repetición</string>
     <string name="opt_hide_replay_marquee_summary">Oculta el mensaje con movimiento cuando ves una repetición</string>
 
-    <string name="opt_show_leaderboard_title">Mostrar tabla de puntuaciones</string>
-    <string name="opt_show_leaderboard_summary">Muestra la tabla de puntuaciones mientras juegas.</string>
-
     <string name="opt_error_meter_display_title">Medidor de hit-error</string>
     <string name="opt_error_meter_display_summary">Muestra una barra que analiza como vas en un mapa mientras juegas.</string>
     <string-array name="error_meter_display_names">

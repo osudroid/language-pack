@@ -108,9 +108,6 @@
     <string name="opt_hide_replay_marquee_title">리플레이 마키 숨기기</string>
     <string name="opt_hide_replay_marquee_summary">리플레이를 볼 때 스크롤되는 텍스트를 숨깁니다.</string>
 
-    <string name="opt_show_leaderboard_title">리더보드 표시</string>
-    <string name="opt_show_leaderboard_summary">플레이하는 동안 라이브 리더보드를 표시합니다</string>
-
     <string name="opt_error_meter_display_title">판정 오차</string>
     <string name="opt_error_meter_display_summary">화면 하단에 판정 오차가 표시합니다.</string>
     <string-array name="error_meter_display_names">
