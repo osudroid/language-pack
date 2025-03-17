@@ -111,9 +111,6 @@
     <string name="opt_fps_title">FPS(프레임 표시)</string>
     <string name="opt_fps_summary">게임 플레이 중 프레임이(초당 프레임) 표시됩니다.</string>
 
-    <string name="opt_unstablerate_title">불안정한 비율(UR)</string>
-    <string name="opt_unstablerate_summary">게임 플레이 중 불안정한 비율(UR)을 표시합니다. 값이 높을수록 타격이 더 일관되지 않음을 의미합니다. Auto 모드가 활성화된 경우 표시되지 않습니다.</string>
-
     <string name="opt_display_score_statistics_title">점수 통계 표시</string>
     <string name="opt_display_score_statistics_summary">결과 화면에 점수 통계를(별점, PP 등) 표시합니다.</string>
 

@@ -111,9 +111,6 @@
     <string name="opt_fps_title">Показывать FPS</string>
     <string name="opt_fps_summary">Показывать счетчик FPS во время игры</string>
 
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Показывать счетчик UR во время игры. Более высокое значение означает, что попадания непостоянны. Не показывается, когда включен Auto</string>
-
     <string name="opt_display_score_statistics_title">Показывать статистику результата</string>
     <string name="opt_display_score_statistics_summary">Показывать статистику результатов (сложность, PP и многое другое) на экране результатов</string>
 

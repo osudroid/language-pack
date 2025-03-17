@@ -111,9 +111,6 @@
     <string name="opt_fps_title">Hiển thị FPS</string>
     <string name="opt_fps_summary">Hiển thị số khung hình trên giây khi đang chơi</string>
 
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Display unstable rate during gameplay. Higher value means hits are more inconsistent. Will not display when Auto mod is enabled</string>
-
     <string name="opt_display_score_statistics_title">Display score statistics</string>
     <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
 

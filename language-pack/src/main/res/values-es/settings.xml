@@ -111,9 +111,6 @@
     <string name="opt_fps_title">Mostrar FPS</string>
     <string name="opt_fps_summary">Muestra un contador de FPS mientras juegas</string>
 
-    <string name="opt_unstablerate_title">UR</string>
-    <string name="opt_unstablerate_summary">Muestra el UR mientras juegas. Cuanto mayor es el valor, más inestable estas jugando. No se mostrará cuando el Auto mod está activado.</string>
-
     <string name="opt_display_score_statistics_title">Mostrar estadísticas sobre la puntuación </string>
     <string name="opt_display_score_statistics_summary">Muestra estadísticas sobre la puntuacion (SR, PP, y más) en la pantalla al final del mapa</string>
 
