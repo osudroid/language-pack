@@ -114,9 +114,6 @@
     <string name="opt_display_score_statistics_title">Показывать статистику результата</string>
     <string name="opt_display_score_statistics_summary">Показывать статистику результатов (сложность, PP и многое другое) на экране результатов</string>
 
-    <string name="opt_display_realtime_pp_counter_title">Показывать счетчик ПП</string>
-    <string name="opt_display_realtime_pp_counter_summary">Показывать счетчик ПП в реальном времени во время игры. Может значительно увеличить время загрузки, особенно на длинных картах</string>
-
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Цвета комбо</string>
     <string name="opt_combo_colors_summary">Использовать пользовательский цвет комбо</string>

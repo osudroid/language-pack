@@ -114,9 +114,6 @@
     <string name="opt_display_score_statistics_title">スコア詳細</string>
     <string name="opt_display_score_statistics_summary">結果画面に難易度、パフォーマンス等スコアの詳細を表示します。</string>
 
-    <string name="opt_display_realtime_pp_counter_title">リアルタイムパフォーマンスカウンター</string>
-    <string name="opt_display_realtime_pp_counter_summary">プレイ中リアルタイムでパフォーマンスカウンターを表示します。長いビートマップをプレイする場合、ローディングに時間がかかる可能性があります。</string>
-
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">コンボカラー</string>
     <string name="opt_combo_colors_summary">カスタムコンボカラーを使用します。</string>

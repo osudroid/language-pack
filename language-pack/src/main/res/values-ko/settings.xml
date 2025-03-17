@@ -114,9 +114,6 @@
     <string name="opt_display_score_statistics_title">점수 통계 표시</string>
     <string name="opt_display_score_statistics_summary">결과 화면에 점수 통계를(별점, PP 등) 표시합니다.</string>
 
-    <string name="opt_display_realtime_pp_counter_title">실시간 PP 카운터 표시</string>
-    <string name="opt_display_realtime_pp_counter_summary">게임 플레이 중 실시간 PP 카운터를 표시합니다. 특히 긴 비트맵에서 로딩 시간이 상당히 증가할 수 있습니다.</string>
-
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">콤보 색상</string>
     <string name="opt_combo_colors_summary">사용자 지정 콤보 색상을 사용합니다.</string>

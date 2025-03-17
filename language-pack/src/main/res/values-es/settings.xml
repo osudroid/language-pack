@@ -114,9 +114,6 @@
     <string name="opt_display_score_statistics_title">Mostrar estadísticas sobre la puntuación </string>
     <string name="opt_display_score_statistics_summary">Muestra estadísticas sobre la puntuacion (SR, PP, y más) en la pantalla al final del mapa</string>
 
-    <string name="opt_display_realtime_pp_counter_title">Mostrar contador de PP en tiempo real</string>
-    <string name="opt_display_realtime_pp_counter_summary">Muestra un contador de PP en tiempo real mientras juegas. Puede hacer que el mapa tarde más en cargar.</string>
-
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Colores de combo</string>
     <string name="opt_combo_colors_summary">Personaliza los colores de cada combo</string>
