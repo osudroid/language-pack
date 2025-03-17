@@ -12,6 +12,7 @@
     <string name="message_error_createdir">No se ha podido crear %s</string>
     <string name="message_error_sdcard">El almacenamiento externo no esta montado</string>
     <string name="message_error_sdcardread">El almacenamiento externo es de solo lectura</string>
+    <string name="message_video_custom_speed_unsupported">La velocidad de reproducción de vídeo personalizada no es compatible con este dispositivo</string>
 
     <!-- Crash -->
     <string name="crash">Lo sentimos, ha ocurrido un error inexperado y el juego tiene que cerrarse.</string>

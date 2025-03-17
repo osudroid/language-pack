@@ -9,6 +9,18 @@
     <string name="dialog_visit_osudroid_profile_page">¿Deseas visitar tu perfil?</string>
     <string name="dialog_visit_osudroid_website">¿Deseas visitar la página oficial de osu!droid?</string>
 
+    <string name="hudEditor_modal_title">Editor de interfaz</string>
+    <string name="hudEditor_modal_save">Salir y guardar cambios</string>
+    <string name="hudEditor_modal_discard">Descartar cambios</string>
+    <string name="hudEditor_modal_reset">Dejar por defecto</string>
+    <string name="hudEditor_modal_cancel">Cancelar</string>
+
+    <string name="hudEditor_saving">Guardando cambios...</string>
+    <string name="hudEditor_saved">Cambios guardados!</string>
+    <string name="hudEditor_discarded">Cambios descartados!</string>
+    <string name="hudEditor_reset">Interfaz puesta por defecto!</string>
+
+
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>
