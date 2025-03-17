@@ -4,27 +4,27 @@
     <string name="markdown_title">Markdown Title</string>
     <string name="changelog_title">Changelog</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">Multitouch อาจใช้ไม่ได้กับโทรศัพท์ของคุณ</string>
+    <string name="message_low_storage_space">พื้นที่ของคุณเหลือน้อย. พื้นที่คงเหลือ: %s GB. อาจส่งผลให้ replay/score Submission เกิดบั้กได้</string>
 
     <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
+    <string name="message_error_open">ไม่สามารถเปิดได้%s</string>
     <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
+    <string name="message_error_sdcard">พื้นที่ภายนอกไม่ใด้เสียบใว้</string>
+    <string name="message_error_sdcardread">พื้นที่ภายนอกใช้สำหรับอ่านเท่านั้น</string>
 
     <!-- Crash -->
     <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
+    <string name="accessibility_detector_title">Disable Accessibility Service</string>
     <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
     <string name="accessibility_detector_settings">Go to accessibility settings</string>
     <string name="accessibility_detector_exit">Exit game</string>
 
     <!-- Online -->
     <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="multiplayer_not_online">คุณต้องล็อกอินก่อนถึงจะเข้ามัลติเพลย์เยอร์ได้!</string>
 
     <!-- Color Picker -->
     <string name="press_color_to_apply">Press on Color to apply</string>
@@ -46,11 +46,11 @@
 
     <!-- Library -->
     <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
+    <string name="library_importing">กำลังนำเข้าบีทแมพ...</string>
     <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
     <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
+    <string name="library_imported">\"%s\" นำเข้าแล้ว!</string>
+    <string name="message_loaded_skin">ใช้สกินใหม่ได้แล้ว!</string>
     <string name="message_error_dir_not_found">Directory is not found</string>
     <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
 
@@ -63,10 +63,10 @@
     <string name="block_area_editor_fragment_done">Done</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
+    <string name="update_dialog_message">ตอนนี้มีอัปเดทใหม่</string>
+    <string name="update_dialog_button_update">อัปเดทเดี่ยวนี้</string>
+    <string name="update_info_checking">กำลังตรวจสอบอัปเดทใหม่...</string>
+    <string name="update_info_check_failed">การเช็กอัปเดทล้มเหลว. เซิร์ฟเวอร์ หรือ อินเตอร์เน็ตของคุณอาจใช้การไม่ใด้ขณะนี้.</string>
     <string name="update_info_downloading">Downloading updates... %d%%</string>
     <string name="update_info_download_canceled">Download cancelled.</string>
     <string name="update_info_download_failed">Download failed, check your internet connection.</string>
