@@ -10,13 +10,13 @@
     <string name="mp_room_password_title">방 비밀번호</string>
     <string name="mp_room_password_summary">방의 비밀번호를 변경합니다. 비어 있으면 방이 공개됩니다.</string>
 
-    <string name="mp_room_max_players_title">Maximum Players</string>
-    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
+    <string name="mp_room_max_players_title">최대 플레이어</string>
+    <string name="mp_room_max_players_summary">방에 허용되는 최대 플레이어 수를 설정합니다.</string>
 
     <!-- Variables -->
     <string name="mp_room_category_variables">변수</string>
 
-    <string name="mp_room_free_mods_title">프리 모드 활성화</string>
+    <string name="mp_room_free_mods_title">자유 모드 활성화</string>
     <string name="mp_room_free_mods_summary">속도 변경 모드(DT, NC)를 제외한 모든 모드를 플레이어가 선택할 수 있도록 허용합니다.</string>
 
     <string name="mp_room_allowForceDifficultyStatistics_title">프리 모드에서 강제 난이도 통계 허용</string>
