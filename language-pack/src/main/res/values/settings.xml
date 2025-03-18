@@ -28,8 +28,7 @@
 
     <string name="difficulty_algorithm_title">Difficulty algorithm</string>
     <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
-
-    <string-array name="difficulty_algorithm_names">
+    <string-array name="difficulty_algorithm_names"> <!--TODO-->
         <item>osu!droid</item>
         <item>osu!standard</item>
     </string-array>

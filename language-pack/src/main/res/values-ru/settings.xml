@@ -28,6 +28,14 @@
 
     <string name="difficulty_algorithm_title">Difficulty algorithm</string>
     <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string-array name="difficulty_algorithm_names">
+        <item>osu!droid</item>
+        <item>osu!standard</item>
+    </string-array>
+    <string-array name="difficulty_algorithm_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 
     <!-- Account -->
     <string name="opt_category_account">Аккаунт</string>
@@ -142,6 +150,9 @@
     <string name="opt_snakingInSliders_title">Включить плавное появление слайдеров</string>
     <string name="opt_snakingInSliders_summary">Слайдеры будут постепенно "выползать" вместо обычного появления</string>
 
+    <string name="opt_snakingOutSliders_title">Use snaking out sliders</string>
+    <string name="opt_snakingOutSliders_summary">Enable sliders gradually snaking disappearing from one node</string>
+
     <string name="opt_noChangeDimInBreaks_title">Не изменять уровеня яркости фона во время перерывов</string>
     <string name="opt_noChangeDimInBreaks_summary">Уровень яркости фона карты во время перерывов не будет изменяться</string>
 
@@ -240,6 +251,12 @@
     <string name="opt_category_gameplay">Геймплей</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Отключить блокировку слайдера и спиннера(рейтинг недоступен)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Отклюить блокировку слайдера и спиннера. 2B стиль(например ноты во время слайдера или спиннера) теперь играбелен</string>
+
+    <string name="opt_backButtonPressTime_title">Back button press time</string>
+    <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+
+    <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>

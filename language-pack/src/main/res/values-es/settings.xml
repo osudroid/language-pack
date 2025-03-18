@@ -28,6 +28,14 @@
 
     <string name="difficulty_algorithm_title">Algoritmo de dificultad</string>
     <string name="difficulty_algorithm_summary">Cambia el algoritmo usado para calcular la dificultad y los puntos de rendimiento</string>
+    <string-array name="difficulty_algorithm_names">
+        <item>osu!droid</item>
+        <item>osu!standard</item>
+    </string-array>
+    <string-array name="difficulty_algorithm_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 
     <!-- Account -->
     <string name="opt_category_account">Account</string>
@@ -91,8 +99,8 @@
     <!-- HUD -->
     <string name="opt_category_hud">Interfaz</string>
 
-    <string name="opt_hudEditor_title">HUD Editor</string>
-    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+    <string name="opt_hudEditor_title">Editor de interfaz</string>
+    <string name="opt_hudEditor_summary">Edita el layout de la interfaz como tu quieras</string>
 
     <string name="opt_hide_ingame_ui_title">Ocultar Interfaz</string>
     <string name="opt_hide_ingame_ui_summary">Oculta toda la interfaz mientras juegas (ej: vida, tabla de puntuaciones, combo, precision, etc..)</string>
@@ -114,9 +122,6 @@
     <!-- Cursor -->
     <string name="opt_category_cursor">Cursor</string>
     <string name="opt_showcursor_title">Mostrar cursor</string>
-    <string name="opt_hudEditor_title">Editor de interfaz</string>
-    <string name="opt_hudEditor_summary">Edita el layout de la interfaz como tu quieras</string>
-
     <string name="opt_showcursor_summary">Muestra un cursor debajo de tus dedos muentras juegas</string>
 
     <string name="opt_cursor_size">Tamaño del cursor</string>
@@ -144,6 +149,9 @@
 
     <string name="opt_snakingInSliders_title">Usar sliders serpenteantes (Snaking in sliders)</string>
     <string name="opt_snakingInSliders_summary">Habilita que los sliders vayan serpenteando lentamente al aparecer. (Basicamente que se vayan formando a medida que aparecen)</string>
+
+    <string name="opt_snakingOutSliders_title">Utilizar deslizadores serpenteantes</string>
+    <string name="opt_snakingOutSliders_summary">Permitir que los deslizadores desaparezcan gradualmente</string>
 
     <string name="opt_noChangeDimInBreaks_title">No cambiar brillo del fondo en descansos</string>
     <string name="opt_noChangeDimInBreaks_summary">Cuando esta activado, el brillo del fondo no cambiará en los descansos del mapa.</string>
@@ -190,9 +198,6 @@
 
     <!-- Miscellaneous -->
     <string name="opt_category_miscellaneous">Miscelaneo</string>
-    <string name="opt_snakingOutSliders_title">Utilizar deslizadores serpenteantes</string>
-    <string name="opt_snakingOutSliders_summary">Permitir que los deslizadores desaparezcan gradualmente</string>
-
     <string name="opt_sound_title">Sonido del mapa</string>
     <string name="opt_sound_summary">Carga sonidos específicos del mapa como hitsounds o sonidos de miss.</string>
 
@@ -249,6 +254,7 @@
 
     <string name="opt_backButtonPressTime_title">Tiempo de presion del boton de retroceso</string>
     <string name="opt_backButtonPressTime_summary">Tiempo necesario en milisegundos para accionar el botón de retroceso en pantalla</string>
+
     <string name="opt_seekBarVibrateIntensity_title">Fijar intensidad</string>
     <string name="opt_seekBarVibrateIntensity_summary">Cambia la intensidad de la vibracion</string>
 
