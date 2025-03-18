@@ -28,6 +28,14 @@
 
     <string name="difficulty_algorithm_title">Difficulty algorithm</string>
     <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string-array name="difficulty_algorithm_names">
+        <item>osu!droid</item>
+        <item>osu!standard</item>
+    </string-array>
+    <string-array name="difficulty_algorithm_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 
     <!-- Account -->
     <string name="opt_category_account">Аккаунт</string>
@@ -90,17 +98,9 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">Интерфейс</string>
-    <string name="opt_progress_indicator_title">Индикатор прогресса</string>
-    <string name="opt_progress_indicator_summary">Выбрать вид индикатора прогресса на карте</string>
 
-    <string-array name="opt_progress_indicator_names">
-        <item>Круговой(справа-сверху)</item>
-        <item>Линейный(снизу)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
 
     <string name="opt_hide_ingame_ui_title">Не показывать игровой интерфейс</string>
     <string name="opt_hide_ingame_ui_summary">Не показывать счетчики и другие элементы интерфейса во время игры</string>
@@ -108,36 +108,11 @@
     <string name="opt_hide_replay_marquee_title">Не показывать вотермарку записи игры</string>
     <string name="opt_hide_replay_marquee_summary">Скрыть прокручивающийся текст при просмотре записей игры</string>
 
-    <string name="opt_show_leaderboard_title">Показывать таблицу лидеров</string>
-    <string name="opt_show_leaderboard_summary">Показывать таблицу лидеров во время игры</string>
-
-    <string name="opt_error_meter_display_title">Шкала точности</string>
-    <string name="opt_error_meter_display_summary">Показывать шкалу точности во время игры</string>
-    <string-array name="error_meter_display_names">
-        <item>Включить</item>
-        <item>Только во время реплея</item>
-        <item>Отключить</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">Показывать FPS</string>
     <string name="opt_fps_summary">Показывать счетчик FPS во время игры</string>
 
-    <string name="opt_averageoffset_title">Смещение</string>
-    <string name="opt_averageoffset_summary">Показывать счетчик среднего смещения попаданий во время игры. Более высокое значение означает, что попадания смещены сильнее. Не будет отображаться, если включен мод Auto</string>
-
-    <string name="opt_unstablerate_title">Unstable rate</string>
-    <string name="opt_unstablerate_summary">Показывать счетчик UR во время игры. Более высокое значение означает, что попадания непостоянны. Не показывается, когда включен Auto</string>
-
     <string name="opt_display_score_statistics_title">Показывать статистику результата</string>
     <string name="opt_display_score_statistics_summary">Показывать статистику результатов (сложность, PP и многое другое) на экране результатов</string>
-
-    <string name="opt_display_realtime_pp_counter_title">Показывать счетчик ПП</string>
-    <string name="opt_display_realtime_pp_counter_summary">Показывать счетчик ПП в реальном времени во время игры. Может значительно увеличить время загрузки, особенно на длинных картах</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Цвета комбо</string>
@@ -174,6 +149,9 @@
 
     <string name="opt_snakingInSliders_title">Включить плавное появление слайдеров</string>
     <string name="opt_snakingInSliders_summary">Слайдеры будут постепенно "выползать" вместо обычного появления</string>
+
+    <string name="opt_snakingOutSliders_title">Use snaking out sliders</string>
+    <string name="opt_snakingOutSliders_summary">Enable sliders gradually snaking disappearing from one node</string>
 
     <string name="opt_noChangeDimInBreaks_title">Не изменять уровеня яркости фона во время перерывов</string>
     <string name="opt_noChangeDimInBreaks_summary">Уровень яркости фона карты во время перерывов не будет изменяться</string>
@@ -273,6 +251,12 @@
     <string name="opt_category_gameplay">Геймплей</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Отключить блокировку слайдера и спиннера(рейтинг недоступен)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Отклюить блокировку слайдера и спиннера. 2B стиль(например ноты во время слайдера или спиннера) теперь играбелен</string>
+
+    <string name="opt_backButtonPressTime_title">Back button press time</string>
+    <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+
+    <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>

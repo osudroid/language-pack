@@ -10,6 +10,9 @@
     <string name="mp_room_password_title">ルームパスワード</string>
     <string name="mp_room_password_summary">ルームパスワードを更新します。空欄の場合、このルームをパブリックにします。</string>
 
+    <string name="mp_room_max_players_title">Maximum Players</string>
+    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
+
     <!-- Variables -->
     <string name="mp_room_category_variables">ルール</string>
 

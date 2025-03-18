@@ -12,6 +12,7 @@
     <string name="message_error_createdir">%s 를 만들 수 없습니다.</string>
     <string name="message_error_sdcard">외부 저장소가 마운트되지 않았습니다.</string>
     <string name="message_error_sdcardread">외부 저장소가 읽기 전용으로 되어있습니다.</string>
+    <string name="message_video_custom_speed_unsupported">Custom video playback speed is not supported in this device</string>
 
     <!-- Crash -->
     <string name="crash">죄송합니다, 게임에서 예상치 못한 오류가 발생하여 게임을 종료합니다.</string>

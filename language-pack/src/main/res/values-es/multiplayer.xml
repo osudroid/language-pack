@@ -10,6 +10,9 @@
     <string name="mp_room_password_title">Contraseña de la sala</string>
     <string name="mp_room_password_summary">Cambia la contraseña de la sala. Si no tiene, cualquiera podrá unirse.</string>
 
+    <string name="mp_room_max_players_title">Jugadores Maximos</string>
+    <string name="mp_room_max_players_summary">Fijar el número máximo de jugadores permitidos en la sala</string>
+
     <!-- Variables -->
     <string name="mp_room_category_variables">Variables</string>
 

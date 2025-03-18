@@ -28,6 +28,14 @@
 
     <string name="difficulty_algorithm_title">Difficulty algorithm</string>
     <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string-array name="difficulty_algorithm_names">
+        <item>osu!droid</item>
+        <item>osu!standard</item>
+    </string-array>
+    <string-array name="difficulty_algorithm_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
 
     <!-- Account -->
     <string name="opt_category_account">アカウント</string>
@@ -90,17 +98,9 @@
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
-    <string name="opt_progress_indicator_title">進行度UI</string>
-    <string name="opt_progress_indicator_summary">進行度UIを選択します。</string>
 
-    <string-array name="opt_progress_indicator_names">
-        <item>右上 (パイ型)</item>
-        <item>下 (バー型)</item>
-    </string-array>
-    <string-array name="opt_progress_indicator_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
+    <string name="opt_hudEditor_title">HUD Editor</string>
+    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
 
     <string name="opt_hide_ingame_ui_title">ゲームUI非表示</string>
     <string name="opt_hide_ingame_ui_summary">カウンター等各種UIを非表示にします。</string>
@@ -108,36 +108,11 @@
     <string name="opt_hide_replay_marquee_title">リプレイ詳細非表示</string>
     <string name="opt_hide_replay_marquee_summary">リプレイの再生中、詳細テキストを非表示にします。</string>
 
-    <string name="opt_show_leaderboard_title">リーダーボード表示</string>
-    <string name="opt_show_leaderboard_summary">プレイ中、リアルタイムでリーダーボードを表示します。</string>
-
-    <string name="opt_error_meter_display_title">スコアメーター</string>
-    <string name="opt_error_meter_display_summary">画面の下部に表示されます。</string>
-    <string-array name="error_meter_display_names">
-        <item>常に</item>
-        <item>リプレイのみ</item>
-        <item>無し</item>
-    </string-array>
-    <string-array name="error_meter_display_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
-
     <string name="opt_fps_title">FPS表示</string>
     <string name="opt_fps_summary">ゲームプレイ中にフレームが表示されます。</string>
 
-    <string name="opt_averageoffset_title">平均オフセット</string>
-    <string name="opt_averageoffset_summary">プレイ中タッチオフセットの平均値を表示します。Auto modでは非表示になります。</string>
-
-    <string name="opt_unstablerate_title">不安程度</string>
-    <string name="opt_unstablerate_summary">プレイ中タッチ不安程度を表示します。Auto modでは非表示になります。</string>
-
     <string name="opt_display_score_statistics_title">スコア詳細</string>
     <string name="opt_display_score_statistics_summary">結果画面に難易度、パフォーマンス等スコアの詳細を表示します。</string>
-
-    <string name="opt_display_realtime_pp_counter_title">リアルタイムパフォーマンスカウンター</string>
-    <string name="opt_display_realtime_pp_counter_summary">プレイ中リアルタイムでパフォーマンスカウンターを表示します。長いビートマップをプレイする場合、ローディングに時間がかかる可能性があります。</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">コンボカラー</string>
@@ -174,6 +149,9 @@
 
     <string name="opt_snakingInSliders_title">動くスライダー</string>
     <string name="opt_snakingInSliders_summary">スライダーの生成に、軌道にあわせて始点と終点を繋ぐアニメーションをオンにします。</string>
+
+    <string name="opt_snakingOutSliders_title">Use snaking out sliders</string>
+    <string name="opt_snakingOutSliders_summary">Enable sliders gradually snaking disappearing from one node</string>
 
     <string name="opt_noChangeDimInBreaks_title">休憩中背景の明るさ維持</string>
     <string name="opt_noChangeDimInBreaks_summary">プレイ中、休憩中に背景の明るさを変更しません。</string>
@@ -273,6 +251,12 @@
     <string name="opt_category_gameplay">ゲームプレイ</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">スライダー・スピナーロックの解除 (ランク無効)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">スライダー・スピナーロックを解除します。</string>
+
+    <string name="opt_backButtonPressTime_title">Back button press time</string>
+    <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+
+    <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">シンクロ</string>
