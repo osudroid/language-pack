@@ -41,7 +41,7 @@
     <string name="frg_score_menu_title">점수</string>
     <string name="frg_score_menu_export_score">점수 내보내기</string>
     <string name="frg_score_menu_export_failed">리플레이를 내보내는 데 실패했습니다!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">리플레이가 저장되었습니다. (저장 경로 : %s)</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">리플레이가 %s 경로로 저장되었습니다.</string>
 
 <!-- Mod Menu Customizations -->
     <!-- Visuals -->
