@@ -3,7 +3,7 @@
     <!-- Song Select -->
     <string name="menu_score" formatted="false">Очки: %s (%dx)</string>
     <string name="menu_performance" formatted="false">ПП: %spp (%dx)</string>
-    <string name="menu_creator">Создатель: %s</string>
+    <string name="menu_creator">Маппер: %s</string>
 
     <string name="menu_mod_back">Назад</string>
     <string name="menu_mod_multiplier" formatted="false">Множитель %.2fx</string>
@@ -11,7 +11,7 @@
 
     <string name="menu_properties_title">Свойства песни</string>
     <string name="menu_properties_offset">Смещение песни:</string>
-    <string name="menu_properties_tofavs">Добавить в избранные</string>
+    <string name="menu_properties_tofavs">Добавить в избранное</string>
     <string name="menu_properties_delete">Удалить карту</string>
 
     <string name="menu_deletescore_delete">Удалить результат</string>
@@ -20,13 +20,13 @@
     <string name="menu_search_filter">Искать: </string>
     <string name="menu_search_sort_title">Название</string>
     <string name="menu_search_sort_date">Дата</string>
-    <string name="menu_search_sort_creator">Создатель</string>
+    <string name="menu_search_sort_creator">Маппер</string>
     <string name="menu_search_sort_artist">Артист</string>
     <string name="menu_search_sort_bpm">БПМ</string>
     <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
     <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Длительность</string>
-    <string name="binfoStr1" formatted="false">Длительность: %s БПМ: %s Комбо: %d</string>
+    <string name="menu_search_sort_length">Длина</string>
+    <string name="binfoStr1" formatted="false">Длина: %s БПМ: %s Комбо: %d</string>
     <string name="binfoStr2" formatted="false">Ноты: %d Слайдеры: %d Спиннеры: %d (ID карты: %d)</string>
     <!-- End Song Select -->
 
@@ -40,8 +40,8 @@
 <!-- Score Export/Import -->
     <string name="frg_score_menu_title">Результат</string>
     <string name="frg_score_menu_export_score">Экспортировать</string>
-    <string name="frg_score_menu_export_failed">Не удалось экспортировать запись игры!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">Запись игры сохранена по пути %s</string>
+    <string name="frg_score_menu_export_failed">Не удалось экспортировать реплей.</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">Реплей сохранен по пути %s</string>
 
 <!-- Mod Menu Customizations -->
     <!-- Visuals -->
@@ -58,7 +58,7 @@
     <string name="opt_flashlight_follow_delay_title">Задержка перемещения области FL</string>
 
     <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Некоторые моды были отключены, так как все принудительные модификаторы сложности включены.</string>
+    <string name="force_diffstat_mod_unpickable">Некоторые моды были отключены, так как включены все принудительные модификаторы сложности.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
