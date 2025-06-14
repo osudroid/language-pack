@@ -48,15 +48,15 @@
     <!-- Library -->
     <string name="library_cleared">Кэш игры очищен</string>
     <string name="library_importing">Импортируется карта...</string>
-    <string name="library_importing_several">Найдено %s запакованных карт. Начат импорт.</string>
-    <string name="library_skin_importing_several">Найдено %s запакованных скинов. Начат импорт.</string>
+    <string name="library_importing_several">Найдено %s новых карт. Начат импорт.</string>
+    <string name="library_skin_importing_several">Найдено %s новых скинов. Начат импорт.</string>
     <string name="library_imported">\"%s\" успешно импортирован(а)!</string>
     <string name="message_loaded_skin">Применен новый скин!</string>
     <string name="message_error_dir_not_found">Директория не найдена</string>
     <string name="file_integrity_tampered">Проверка целостности файла не удалась. Игра остановлена.</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Не удалось обработать %s: Не удалось открыть файл</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Не удалось обработать %s: Не удалось открыть файл.</string>
 
     <!-- Block area manager fragment -->
     <string name="block_area_editor_fragment_add">Добавить область</string>
@@ -64,15 +64,15 @@
     <string name="block_area_editor_fragment_done">Готово</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">Доступно новое обновление</string>
+    <string name="update_dialog_message">Доступно новое обновление!</string>
     <string name="update_dialog_button_update">Обновить</string>
     <string name="update_info_checking">Проверка обновлений...</string>
     <string name="update_info_check_failed">Не удалось проверить обновления. Это может быть связано с проблемами на сервере или с вашим соединением.</string>
     <string name="update_info_downloading">Скачиваем обновление - %d%%</string>
-    <string name="update_info_download_canceled">Загрузка отменена.</string>
+    <string name="update_info_download_canceled">Вы отменили загрузку.</string>
     <string name="update_info_download_failed">Загрузка отменена. Проверьте свое подключение к сети.</string>
     <string name="update_info_updated">Обновление успешно установлено!</string>
-    <string name="update_info_latest">Используется новейшая версия игры</string>
+    <string name="update_info_latest">Вы используете последнюю версию.</string>
 
 
     <!-- All new strings should present below for better managing locals... -->
