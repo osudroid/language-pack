@@ -58,6 +58,13 @@
     <string name="opt_update_title">Check for updates</string>
     <string name="opt_update_summary">Check for available updates</string>
 
+    <!-- Config Backup -->
+    <string name="opt_category_config_backup">Backup</string>
+    <string name="opt_config_backup_title">Export options file</string>
+    <string name="opt_config_backup_summary">Exports non-sensitive options to \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="opt_config_backup_restore_title">Import options file</string>
+    <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">Skin</string>
