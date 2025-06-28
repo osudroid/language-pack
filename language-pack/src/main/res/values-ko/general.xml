@@ -74,6 +74,12 @@
     <string name="update_info_updated">업데이트가 성공적으로 설치되었습니다!</string>
     <string name="update_info_latest">새로운 업데이트가 없습니다.</string>
 
+    <!-- Config Backup/Restore -->
+    <string name="config_backup_info_success">설정 파일을 성공적으로 내보냈습니다.</string>
+    <string name="config_backup_info_fail">설정 파일을 내보내지 못했습니다.</string>
+    <string name="config_backup_restore_info_success">설정 파일을 성공적으로 가져왔습니다.</string>
+    <string name="config_backup_restore_info_fail">설정 파일을 가져오지 못했습니다.</string>
+
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>
