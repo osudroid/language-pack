@@ -57,6 +57,13 @@
     <string name="opt_category_updates">Actualizaciones</string>
     <string name="opt_update_title">Buscar actualizaciones</string>
     <string name="opt_update_summary">Revisa si hay actualizaciones disponibles</string>
+    
+    <!-- Config Backup -->
+    <string name="opt_category_config_backup">Respaldar</string>
+    <string name="opt_config_backup_title">Exportar archivo de configuracion</string>
+    <string name="opt_config_backup_summary">Exporta configuraciones no sensibles al archivo \"osudroid.cfg\" en el directorio principal de osu!droid.</string>
+    <string name="opt_config_backup_restore_title">Importar archivo de configuracion.</string>
+    <string name="opt_config_backup_restore_summary">Importa configuraciones no sensibles desde el archivo \"osudroid.cfg\" en el directorio principal de osu!droid.</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
