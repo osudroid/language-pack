@@ -73,6 +73,12 @@
     <string name="update_info_download_failed">Ha fallado la descarga, revise su conexión a internet.</string>
     <string name="update_info_updated">¡Actualización descargada!</string>
     <string name="update_info_latest">Estas en la ultima versión disponible</string>
+    
+    <!-- Config Backup/Restore -->
+    <string name="config_backup_info_success">Se exportó el archivo de configuración correctamente</string>
+    <string name="config_backup_info_fail">Fallo al exportar el archivo de configuración</string>
+    <string name="config_backup_restore_info_success">Se importó el archivo de configuración correctamente</string>
+    <string name="config_backup_restore_info_fail">Fallo al importar el archivo de configuración</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
