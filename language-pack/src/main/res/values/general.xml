@@ -74,6 +74,12 @@
     <string name="update_info_updated">Update successfully installed!</string>
     <string name="update_info_latest">No new updates available</string>
 
+    <!-- Config Backup/Restore -->
+    <string name="config_backup_info_success">Successfully exported the options file</string>
+    <string name="config_backup_info_fail">Failed to export the options file</string>
+    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
+    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>
