@@ -7,8 +7,8 @@
     <string name="failed_to_import_edr_with_err" formatted="true">リプレイの読み込みに失敗しました。: %s</string>
     <string name="import_edr_successfully">リプレイ読み込みに成功しました。</string>
 
-    <string name="replay_import_success">リプレイ読み込みに成功しました。</string>
-    <string name="replay_import_failed">リプレイの読み込みに失敗しました。: %s</string>
+    <string name="replay_import_result">Imported %d out of %d replay(s)!</string>
+    <string name="replay_import_error">Unable to import %s: %s</string>
 
     <!-- Save -->
     <string name="message_save_replay_successful">失敗リプレイの保存に成功しました！</string>
