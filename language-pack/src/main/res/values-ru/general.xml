@@ -25,7 +25,7 @@
 
     <!-- Online -->
     <string name="online_loadrecord">Загружаем рекорд</string>
-    <string name="multiplayer_not_online">Чтобы играть в мультиплеере, вы должны войти в аккаунт.</string>
+    <string name="multiplayer_not_online">Чтобы играть в мультиплеере, войдите в аккаунт.</string>
 
     <!-- Color Picker -->
     <string name="press_color_to_apply">Нажмите на цвет для применения</string>

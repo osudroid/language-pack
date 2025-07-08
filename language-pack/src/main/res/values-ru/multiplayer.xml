@@ -11,13 +11,13 @@
     <string name="mp_room_password_summary">Установите пароль для входа в комнату.</string>
 
     <string name="mp_room_max_players_title">Максимум игроков</string>
-    <string name="mp_room_max_players_summary">Ограничьте количество игроков, которые могут зайти к вам в комнату</string>
+    <string name="mp_room_max_players_summary">Ограничьте количество игроков, которые могут зайти к вам в комнату.</string>
 
     <!-- Variables -->
     <string name="mp_room_category_variables">Настройки</string>
 
-    <string name="mp_room_free_mods_title">Включить свободный выбор модов (фримод)</string>
-    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды, за исключением модов, влияющих на скорость карты</string>
+    <string name="mp_room_free_mods_title">Свободный выбор модов (фримод)</string>
+    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды за исключением модов, влияющих на скорость карты</string>
 
     <string name="mp_room_allowForceDifficultyStatistics_title">Включить изменение параметров карты</string>
     <string name="mp_room_allowForceDifficultyStatistics_summary">Если включен фримод, то игроки смогут менять параметры карты для себя (AR, OD, CS и HP)</string>
@@ -73,9 +73,9 @@
     <!-- In Game -->
     <string name="mp_room_category_in_game">В игре</string>
 
-    <string name="mp_room_enable_score_submission_title">Включить отправку результатов на сервер</string>
+    <string name="mp_room_enable_score_submission_title">Отправка результатов на сервер</string>
     <!-- это надо поменять -->
-    <string name="mp_room_enable_score_submission_summary">Если включено, после прохождения карты ваш скор отправится на сервер.</string>
+    <string name="mp_room_enable_score_submission_summary">После прохождения карты ваш скор отправится на сервер.</string>
 
     <string name="mp_room_nightcore_title">Использовать NightCore</string>
     <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>

@@ -2,7 +2,7 @@
 <resources>
     <!-- Import -->
     <string name="act_import_replay">Импортировать реплей в osu!droid</string>
-    <string name="invalid_edr_file">Реплей, который вы попытались импортировать, повреждён.</string>
+    <string name="invalid_edr_file">Файл реплея, который вы попытались импортировать, повреждён.</string>
     <string name="failed_to_import_edr">Не удалось импортировать реплей.</string>
     <string name="failed_to_import_edr_with_err" formatted="true">Не удалось импортировать реплей %s</string>
     <string name="import_edr_successfully">Реплей успешно импортирован!</string>
@@ -14,10 +14,10 @@
     <string name="message_save_replay_successful">Реплей успешно сохранен!</string>
     <string name="message_save_replay_failed">Не удалось сохранить реплей.</string>
 
-    <string name="replay_invalid">Не удалось запустить реплей</string>
+    <string name="replay_invalid">Реплей не найден на сервере.</string>
     <string name="replay_cantdownload">Не удалось скачать реплей.</string>
     <string name="replay_wrongmap">Карта не соответствует той, что находится в реплее.</string>
-    <string name="replay_corrupted">Реплей отсутствует в базе данных или повреждён.</string>
+    <string name="replay_corrupted">Файл реплея повреждён.</string>
 
     <!-- All new strings should present below for better managing locals... -->
 

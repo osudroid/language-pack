@@ -15,8 +15,8 @@
     <string name="opt_loadavatar_title">Загрузка аватаров в таблице лидеров</string>
     <string name="opt_loadavatar_summary">Если включено, вы сможете видеть аватарки игроков в лидерборде карты.</string>
 
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Режим сортировки таблицы лидеров карты</string>
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Выбрать режим сортировки результатов в таблице лидеров карты</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Режим таблицы лидеров карты</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Выберите режим отображения результатов в таблице лидеров карты.</string>
     <string-array name="global_beatmap_leaderboard_scoring_mode_names">
         <item>Очки</item>
         <item>ПП</item>
@@ -27,7 +27,7 @@
     </string-array>
 
     <string name="difficulty_algorithm_title">Алгоритм сложности</string>
-    <string name="difficulty_algorithm_summary">Выберите режим, в котором будет отображаться старрейт карты и получаемое за неё PP (не влияет на профиль)</string>
+    <string name="difficulty_algorithm_summary">Выберите режим, в котором будет отображаться старрейт и PP карты</string>
     <string-array name="difficulty_algorithm_names">
         <item>osu!droid</item>
         <item>osu!standard</item>
@@ -51,7 +51,7 @@
     <!-- Community-->
     <string name="opt_category_community">Сообщество</string>
     <string name="opt_receive_announcements_title">Получать анонсы</string>
-    <string name="opt_receive_announcements_summary">Получайте уведомления о анонсах, событиях и т. д.</string>
+    <string name="opt_receive_announcements_summary">Получайте уведомления о анонсах, событиях и т.д.</string>
 
     <!-- Updates -->
     <string name="opt_category_updates">Обновления</string>
@@ -65,7 +65,7 @@
     <string name="opt_skinpath_summary">Выбор скина</string>
 
     <string name="opt_spinner_style_title">Стиль спиннера</string>
-    <string name="opt_spinner_style_summary">Смена стиля спиннера. Если у вас некорректно отображается спиннер, смените стиль на противоположный текущему.</string>
+    <string name="opt_spinner_style_summary">Смена стиля спиннера. При некорректном отображении смените стиль на противоположный.</string>
     <string-array name="spinner_style_names">
         <item>Современный</item>
         <item>Классический</item>
@@ -89,7 +89,7 @@
     <string name="opt_bgbrightness_summary">Настройте яркость заднего фона во время игры</string>
 
     <string name="opt_keep_background_aspect_ratio_title">Учитывать соотношение сторон фона</string>
-    <string name="opt_keep_background_aspect_ratio_summary">Если эта функция включена, фон и сториборд не будут масштабироваться, чтобы заполнить границы экрана во время игры</string>
+    <string name="opt_keep_background_aspect_ratio_summary">Если эта функция включена, фон и сториборд не будут масштабироваться для заполнения границ экрана во время игры</string>
 
     <string name="opt_enableStoryboard_title">Включить сториборды</string>
     <string name="opt_enableStoryboard_summary">Отключите, если столкнулись с низкой производительностью.</string>
@@ -103,16 +103,16 @@
     <string name="opt_hudEditor_summary">Сделайте интерфейс таким, какой вам захочется</string>
 
     <string name="opt_hide_ingame_ui_title">Не показывать игровой интерфейс</string>
-    <string name="opt_hide_ingame_ui_summary">Если включено, HUD будет полностью отключен во время игры.</string>
+    <string name="opt_hide_ingame_ui_summary">HUD будет полностью отключен во время игры.</string>
 
     <string name="opt_hide_replay_marquee_title">Не показывать вотермарку реплея</string>
-    <string name="opt_hide_replay_marquee_summary">Если включено, во время просмотра реплея будет отключена плавающая надпись.</string>
+    <string name="opt_hide_replay_marquee_summary">Во время просмотра реплея будет отключена плавающая надпись.</string>
 
     <string name="opt_fps_title">Показывать FPS</string>
-    <string name="opt_fps_summary">Показывать счетчик FPS во время игры</string>
+    <string name="opt_fps_summary">FPS будет отображён в нижнем правом углу.</string>
 
     <string name="opt_display_score_statistics_title">Показать детальную информацию о скоре</string>
-    <string name="opt_display_score_statistics_summary">Показывать сложность, PP и Unstable Rate на экране результатов</string>
+    <string name="opt_display_score_statistics_summary">Показать сложность, PP и Unstable Rate после прохождения карты</string>
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Цвета комбо</string>
@@ -133,25 +133,25 @@
     <!-- Animations and Effects -->
     <string name="opt_category_animations">Анимации и эффекты</string>
     <string name="opt_dim_hit_objects_title">Включить осветление нот</string>
-    <string name="opt_dim_hit_objects_summary">Ноты будут осветляться в тот момент, когда их можно нажимать.</string>
+    <string name="opt_dim_hit_objects_summary">Ноты будут осветляться в тот момент, когда их можно нажать</string>
 
     <string name="opt_combo_burst_title">Комбо-всплески</string>
-    <string name="opt_combo_burst_summary">Включить Комбо-всплески (в стандартном скине это всплески звёзд)</string>
+    <string name="opt_combo_burst_summary">Включить Комбо-всплески (всплески звёзд)</string>
 
     <string name="opt_largeimages_title">Обратный отсчет</string>
-    <string name="opt_largeimages_summary">Показывать обратный отсчет в начале карты, если включен маппером (создателем карты)</string>
+    <string name="opt_largeimages_summary">Показывать обратный отсчет в начале карты, если включен</string>
 
     <string name="opt_animate_follow_circle_title">Анимировать круг следования (followcircle) на слайдерах</string>
     <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать.</string>
 
     <string name="opt_animate_combo_text_title">Анимировать текст комбо</string>
-    <string name="opt_animate_combo_text_summary">Включить анимацию текста комбо при росте счетчика комбо</string>
+    <string name="opt_animate_combo_text_summary">Комбо будет изменяться с анимацией.</string>
 
     <string name="opt_snakingInSliders_title">Выдвигающиеся слайдеры</string>
     <string name="opt_snakingInSliders_summary">Слайдеры будут "выползать" вместо обычного появления.</string>
 
     <string name="opt_snakingOutSliders_title">Задвигающиеся слайдеры</string>
-    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться, пока вы их проводите (в данный момент функция не привязана к sliderball, поэтому неправильно работает на Aspire-картах)</string>
+    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться, пока вы их проводите.</string>
 
     <string name="opt_noChangeDimInBreaks_title">Зафиксировать яркость фона</string>
     <string name="opt_noChangeDimInBreaks_summary">Яркость заднего фона не будет изменяться во время перерывов.</string>
@@ -199,10 +199,10 @@
     <!-- Miscellaneous -->
     <string name="opt_category_miscellaneous">Дополнительно</string>
     <string name="opt_sound_title">Хитсаунды карты</string>
-    <string name="opt_sound_summary">Использовать звуковые эффекты из карты, если добавлены маппером (создателем карты)</string>
+    <string name="opt_sound_summary">Использовать звуковые эффекты из карты, если доступны</string>
 
     <string name="opt_musicpreview_title">Включить музыку во время выбора карты</string>
-    <string name="opt_musicpreview_summary">Если включено, то при выборе карты у вас будет играть её саундтрек.</string>
+    <string name="opt_musicpreview_summary">При выборе карты у вас будет играть её саундтрек.</string>
 
 <!-- Library -->
     <!-- Import -->
@@ -214,7 +214,7 @@
     <string name="opt_scandownload_summary">При запуске игры будут импортироваться скины и карты, находящиеся в корне загрузок.</string>
 
     <string name="opt_deleteUnimportedBeatmaps_title">Удалять неимпортируемые карты</string>
-    <string name="opt_deleteUnimportedBeatmaps_summary">Карты, которые не удалось импортировать, будут удалены из загрузок.</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">Карты, которые не удалось импортировать, будут удалены.</string>
 
     <string name="opt_delete_unsupported_videos_title">Удалять неподдерживаемые видео</string>
     <string name="opt_delete_unsupported_videos_summary">Видео, форматы которых не поддерживаются игрой (.avi и .flv), удалятся.</string>
@@ -225,7 +225,7 @@
     <!-- Metadata -->
     <string name="opt_category_metadata">Метаданные</string>
     <string name="force_romanized">Названия на английском</string>
-    <string name="force_romanized_summary">Принудительно использовать только латинские символы для названий карт в случае, если названия из иероглифов нечитаемы</string>
+    <string name="force_romanized_summary">Использовать только латинские символы для названий карт в случае, если названия из иероглифов нечитаемы</string>
 
     <!-- Storage -->
     <string name="opt_category_storage">Хранилище</string>
@@ -242,18 +242,18 @@
     <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
 
     <string name="opt_shrink_playfield_downwards_title">Перенести уменьшенную игровую область вниз</string>
-    <string name="opt_shrink_playfield_downwards_summary">Перенести уменьшенную игровую область вниз</string>
+    <string name="opt_shrink_playfield_downwards_summary">Если область уменьшена, то она будет сдвинута вниз</string>
 
-    <string name="block_area_preference_title">Настроить область с блокировкой нажатий</string>
+    <string name="block_area_preference_title">Настройки области блокировки нажатий</string>
     <string name="block_area_preference_summary">Добавьте область, которая не будет реагировать на нажатия</string>
 
     <!-- Gameplay -->
     <string name="opt_category_gameplay">Геймплей</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">2B Mode</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Отключает блокировку нажатий на слайдеры и спиннеры, пока есть активные слайдеры. Карты стиля 2B и Aspire будут играбельны, но ваш рекорд не будет отправлен на сервер.</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Отключает блокировку нажатий на слайдеры и спиннеры во время активных слайдеров. Карты стиля 2B и Aspire будут играбельны, но ваш рекорд не будет отправлен на сервер.</string>
 
     <string name="opt_backButtonPressTime_title">Задержка кнопки паузы</string>
-    <string name="opt_backButtonPressTime_summary">Настройте время удержания экранной кнопки, после которого вы вернетесь на паузу.</string>
+    <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания.</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Мощность вибрации</string>
     <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундах.</string>
