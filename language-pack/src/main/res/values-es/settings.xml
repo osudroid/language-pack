@@ -212,10 +212,10 @@
     <string name="opt_musicpreview_summary">Reproducir música en el menú de mapas</string>
 
     <!-- Effect -->
-    <string name="opt_category_effect">Effect</string>
+    <string name="opt_category_effect">Efectos</string>
 
-    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
-    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_title">Cambie el tono en los mods que cambian la velocidad</string>
+    <string name="opt_shiftPitchInRateChange_summary">Cambia el tono de la música cuando se utilizan mods que cambian la velocidad</string>
 
 <!-- Library -->
     <!-- Import -->
