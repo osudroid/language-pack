@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">Enable free mods</string>
     <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">Allow force difficulty statistics in free mod</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">Allow players to use forced difficulty statistics in free mod.</string>
-
     <string name="mp_room_versus_mode_title">Team mode</string>
     <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
     <string-array name="mp_team_versus_names">

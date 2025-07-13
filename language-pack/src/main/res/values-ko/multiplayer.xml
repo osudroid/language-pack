@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">자유 모드 활성화</string>
     <string name="mp_room_free_mods_summary">속도 변경 모드(DT, NC)를 제외한 모든 모드를 플레이어가 선택할 수 있도록 허용합니다.</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">프리 모드에서 강제 난이도 통계 허용</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">플레이어가 프리 모드에서 강제적인 난이도 통계를 사용할 수 있도록 허용합니다.</string>
-
     <string name="mp_room_versus_mode_title">팀 모드</string>
     <string name="mp_room_versus_mode_summary">방 대결 모드를 변경합니다.</string>
     <string-array name="mp_team_versus_names">

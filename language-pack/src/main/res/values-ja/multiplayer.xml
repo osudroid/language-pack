@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">mod適用を自由にする</string>
     <string name="mp_room_free_mods_summary">各プレイヤーが速度に影響がある以外のmodを自由に適用することができます。</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">自由mod時、難易度パラメーターの強制を許可する</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">自由modの際、各プレイヤーが難易度パラメーターの強制適用を許可します。</string>
-
     <string name="mp_room_versus_mode_title">チームモード</string>
     <string name="mp_room_versus_mode_summary">チームモードを設定します。</string>
     <string-array name="mp_team_versus_names">

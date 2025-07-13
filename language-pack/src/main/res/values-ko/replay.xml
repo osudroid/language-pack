@@ -7,8 +7,8 @@
     <string name="failed_to_import_edr_with_err" formatted="true">리플레이 가져오기 실패: %s</string>
     <string name="import_edr_successfully">리플레이를 성공적으로 가져왔습니다!</string>
 
-    <string name="replay_import_success">리플레이를 성공적으로 가져왔습니다!</string>
-    <string name="replay_import_failed">리플레이 가져오기 실패: %s</string>
+    <string name="replay_import_result">Imported %d out of %d replay(s)!</string>
+    <string name="replay_import_error">Unable to import %s: %s</string>
 
     <!-- Save -->
     <string name="message_save_replay_successful">실패한 리플레이가 저장되었습니다!</string>

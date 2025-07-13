@@ -58,6 +58,17 @@
     <string name="opt_update_title">アップデートの確認</string>
     <string name="opt_update_summary">アップデートがあるか確認します。</string>
 
+    <!-- Config Backup -->
+    <string name="opt_category_config_backup">Backup</string>
+    <string name="opt_config_backup_title">Export options file</string>
+    <string name="opt_config_backup_summary">Exports non-sensitive options to \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="opt_config_backup_restore_title">Import options file</string>
+    <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="config_backup_info_success">Successfully exported the options file</string>
+    <string name="config_backup_info_fail">Failed to export the options file</string>
+    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
+    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">スキン</string>
@@ -203,6 +214,12 @@
 
     <string name="opt_musicpreview_title">曲プレビュー</string>
     <string name="opt_musicpreview_summary">ビートマップを選択すると、そのマップの曲を再生します。</string>
+
+    <!-- Effect -->
+    <string name="opt_category_effect">Effect</string>
+
+    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
 
 <!-- Library -->
     <!-- Import -->
