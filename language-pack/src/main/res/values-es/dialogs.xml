@@ -15,16 +15,16 @@
     <string name="hudEditor_modal_reset">Dejar por defecto</string>
     <string name="hudEditor_modal_cancel">Cancelar</string>
 
-    <string name="hudEditor_back_for_menu">Press back to show HUD editor menu.</string>
+    <string name="hudEditor_back_for_menu">Presione atras para mostrar el editor de interfaz...</string>
     <string name="hudEditor_saving">Guardando cambios...</string>
     <string name="hudEditor_saved">Cambios guardados!</string>
     <string name="hudEditor_discarded">Cambios descartados!</string>
     <string name="hudEditor_reset">Interfaz puesta por defecto!</string>
 
-    <string name="config_backup_info_success">Successfully exported the options file</string>
-    <string name="config_backup_info_fail">Failed to export the options file</string>
-    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
-    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+    <string name="config_backup_info_success">Se exportó el archivo de configuración</string>
+    <string name="config_backup_info_fail">No se pudo exportar el archivo de configuración</string>
+    <string name="config_backup_restore_info_success">Se importó el archivo de configuración</string>
+    <string name="config_backup_restore_info_fail">No se pudo importar el archivo de configuración</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
