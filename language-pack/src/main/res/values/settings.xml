@@ -211,6 +211,12 @@
     <string name="opt_musicpreview_title">Preview music</string>
     <string name="opt_musicpreview_summary">Play music when you select a beatmap</string>
 
+    <!-- Effect -->
+    <string name="opt_category_effect">Effect</string>
+
+    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
+
 <!-- Library -->
     <!-- Import -->
     <string name="opt_category_import">Import</string>

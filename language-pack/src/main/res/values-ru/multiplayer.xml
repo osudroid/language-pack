@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">Включить свободный выбор модов</string>
     <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды, за исключением модов, влияющих на скорость карты</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">Включить изменение параметров карты</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">Разрешить пользователям менять параметры карты при включенном свободном выборе модов</string>
-
     <string name="mp_room_versus_mode_title">Командный режим</string>
     <string name="mp_room_versus_mode_summary">Изменить соревновательный режим в комнате.</string>
     <string-array name="mp_team_versus_names">

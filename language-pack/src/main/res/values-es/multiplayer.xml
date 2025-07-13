@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">Habilitar FM</string>
     <string name="mp_room_free_mods_summary">Permite a los jugadores usar cualquier mod excepto los que cambien la velocidad.</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">Permitir forzar las estadísticas de dificultad en FM</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">Permitir a los jugadores utilizar estadísticas de dificultad forzada en FM.</string>
-
     <string name="mp_room_versus_mode_title">Modo de equipos</string>
     <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
     <string-array name="mp_team_versus_names">

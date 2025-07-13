@@ -7,8 +7,8 @@
     <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
     <string name="import_edr_successfully">Import replay successfully!</string>
 
-    <string name="replay_import_success">Replay imported successfully!</string>
-    <string name="replay_import_failed">Replay import failed: %s</string>
+    <string name="replay_import_result">Imported %d out of %d replay(s)!</string>
+    <string name="replay_import_error">Unable to import %s: %s</string>
 
     <!-- Save -->
     <string name="message_save_replay_successful">Save failed replay success!</string>

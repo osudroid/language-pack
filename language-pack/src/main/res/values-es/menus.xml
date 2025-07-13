@@ -43,23 +43,17 @@
     <string name="frg_score_menu_export_failed">¡Fallo al exportar la jugada!</string>
     <string name="frg_score_menu_export_succeed" formatted="true">La jugada de ha guardado en %s</string>
 
-<!-- Mod Menu Customizations -->
-    <!-- Visuals -->
+    <!-- Mod Menu -->
+    <string name="mod_section_difficulty_reduction">Difficulty Reduction</string>
+    <string name="mod_section_difficulty_increase">Difficulty Increase</string>
+    <string name="mod_section_difficulty_automation">Automation</string>
+    <string name="mod_section_difficulty_conversion">Conversion</string>
+    <string name="mod_section_fun">Fun</string>
+    <string name="mod_section_system">System</string>
+
+    <!-- Game Loading -->
     <string name="opt_show_scoreboard_title">Mostrar tabla de puntuaciones</string>
-    <!-- Speed -->
-    <string name="opt_changespeed_title">Modificar velocidad</string>
-    <string name="opt_enablenc_whenspeedchange_title">Cambiar tono al modificar velocidad (como el Nightcore)</string>
-    <!-- Difficulty-->
-    <string name="opt_forcear_title">Force AR</string>
-    <string name="opt_forceod_title">Force OD</string>
-    <string name="opt_forcehp_title">Force HP</string>
-    <string name="opt_forcecs_title">Force CS</string>
-    <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">Retraso de seguimiento para el mod FL</string>
-
-    <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Algunos mods han sido deshabilitados por culpa de conflictos con los mods activados actualmente.</string>
-
+    <string name="epilepsy_warning">This beatmap contains scenes with rapidly flashing colors.\nPlease take caution if you are affected by epilepsy.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

@@ -58,6 +58,17 @@
     <string name="opt_update_title">새 버전 확인</string>
     <string name="opt_update_summary">새로운 업데이트가 있는지 확인합니다.</string>
 
+    <!-- Config Backup -->
+    <string name="opt_category_config_backup">Backup</string>
+    <string name="opt_config_backup_title">Export options file</string>
+    <string name="opt_config_backup_summary">Exports non-sensitive options to \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="opt_config_backup_restore_title">Import options file</string>
+    <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="config_backup_info_success">Successfully exported the options file</string>
+    <string name="config_backup_info_fail">Failed to export the options file</string>
+    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
+    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">스킨</string>
@@ -203,6 +214,12 @@
 
     <string name="opt_musicpreview_title">음악 미리 듣기</string>
     <string name="opt_musicpreview_summary">비트맵을 선택할 시, 해당 비트맵 음악을 미리 듣습니다.</string>
+
+    <!-- Effect -->
+    <string name="opt_category_effect">Effect</string>
+
+    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
 
 <!-- Library -->
     <!-- Import -->
