@@ -15,6 +15,7 @@
     <string name="hudEditor_modal_reset">Dejar por defecto</string>
     <string name="hudEditor_modal_cancel">Cancelar</string>
 
+    <string name="hudEditor_back_for_menu">Press back to show HUD editor menu.</string>
     <string name="hudEditor_saving">Guardando cambios...</string>
     <string name="hudEditor_saved">Cambios guardados!</string>
     <string name="hudEditor_discarded">Cambios descartados!</string>
