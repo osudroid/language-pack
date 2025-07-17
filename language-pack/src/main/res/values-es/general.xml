@@ -73,7 +73,7 @@
     <string name="update_info_download_failed">Ha fallado la descarga, revise su conexión a internet.</string>
     <string name="update_info_updated">¡Actualización descargada!</string>
     <string name="update_info_latest">Estas en la ultima versión disponible</string>
-
-<!-- All new strings should present below for better managing locals... -->
+    
+    <!-- All new strings should present below for better managing locals... -->
 
 </resources>
