@@ -5,26 +5,21 @@
     <string name="dialog_exit_no">Нет</string>
     <string name="dialog_exit_message">Вы точно хотите выйти из игры?</string>
 
-    <string name="dialog_visit_osu_website">Хотите ли вы посетить сайт оригинальной игры?</string>
-    <string name="dialog_visit_osudroid_profile_page">Хотите ли вы посетить ваш профиль?</string>
-    <string name="dialog_visit_osudroid_website">Хотите ли вы посетить сайт osu!droid?</string>
+    <string name="dialog_visit_osu_website">Вы хотите перейти на официальный сайт osu!?</string>
+    <string name="dialog_visit_osudroid_profile_page">Вы хотите просмотреть ваш профиль?</string>
+    <string name="dialog_visit_osudroid_website">Вы хотите перейти на сайт osu!droid?</string>
 
-    <string name="hudEditor_modal_title">HUD Editor</string>
-    <string name="hudEditor_modal_save">Exit and save changes</string>
-    <string name="hudEditor_modal_discard">Discard changes</string>
-    <string name="hudEditor_modal_reset">Reset to default</string>
-    <string name="hudEditor_modal_cancel">Cancel</string>
+    <string name="hudEditor_modal_title">Редактор HUD</string>
+    <string name="hudEditor_modal_save">Сохранить и выйти</string>
+    <string name="hudEditor_modal_discard">Отменить изменения</string>
+    <string name="hudEditor_modal_reset">Сбросить</string>
+    <string name="hudEditor_modal_cancel">Вернуться к редактированию</string>
 
     <string name="hudEditor_back_for_menu">Press back to show HUD editor menu.</string>
-    <string name="hudEditor_saving">Saving changes...</string>
-    <string name="hudEditor_saved">Changes saved!</string>
-    <string name="hudEditor_discarded">Changes discarded!</string>
-    <string name="hudEditor_reset">HUD set to default!</string>
-
-    <string name="config_backup_info_success">Successfully exported the options file</string>
-    <string name="config_backup_info_fail">Failed to export the options file</string>
-    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
-    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+    <string name="hudEditor_saving">Сохраняем изменения</string>
+    <string name="hudEditor_saved">Успешно сохранено!</string>
+    <string name="hudEditor_discarded">Изменения отменены.</string>
+    <string name="hudEditor_reset">HUD сброшен к настройкам по умолчанию.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

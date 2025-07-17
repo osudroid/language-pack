@@ -2,25 +2,25 @@
 <resources>
 
 <!-- Details -->
-    <string name="mp_room_category_details">Details</string>
+    <string name="mp_room_category_details">Свойства</string>
 
     <string name="mp_room_name_title">Название комнаты</string>
-    <string name="mp_room_name_summary">Изменить название комнаты.</string>
+    <string name="mp_room_name_summary">Измените название комнаты.</string>
 
     <string name="mp_room_password_title">Пароль комнаты</string>
-    <string name="mp_room_password_summary">Изменить пароль комнаты. Если поле пустое, комната станет публичной</string>
+    <string name="mp_room_password_summary">Установите пароль для входа в комнату.</string>
 
-    <string name="mp_room_max_players_title">Maximum Players</string>
-    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
+    <string name="mp_room_max_players_title">Максимум игроков</string>
+    <string name="mp_room_max_players_summary">Ограничьте количество игроков, которые могут зайти к вам в комнату.</string>
 
     <!-- Variables -->
-    <string name="mp_room_category_variables">Variables</string>
+    <string name="mp_room_category_variables">Настройки</string>
 
-    <string name="mp_room_free_mods_title">Включить свободный выбор модов</string>
-    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды, за исключением модов, влияющих на скорость карты</string>
+    <string name="mp_room_free_mods_title">Свободный выбор модов (фримод)</string>
+    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды за исключением модов, влияющих на скорость карты</string>
 
-    <string name="mp_room_versus_mode_title">Командный режим</string>
-    <string name="mp_room_versus_mode_summary">Изменить соревновательный режим в комнате.</string>
+    <string name="mp_room_versus_mode_title">Режим игры</string>
+    <string name="mp_room_versus_mode_summary">Измените режим игры в комнате.</string>
     <string-array name="mp_team_versus_names">
         <item>Head to Head</item>
         <item>Team vs Team</item>
@@ -31,7 +31,7 @@
     </string-array>
 
     <string name="mp_room_win_condition_title">Условие победы</string>
-    <string name="mp_room_win_condition_summary">Изменить условие победы в комнате.</string>
+    <string name="mp_room_win_condition_summary">Измените условие победы в комнате.</string>
     <string-array name="mp_win_condition_names">
         <item>Score V1</item>
         <item>Точность</item>
@@ -70,9 +70,9 @@
     <!-- In Game -->
     <string name="mp_room_category_in_game">В игре</string>
 
-    <string name="mp_room_enable_score_submission_title">Включить отправку результатов на сервер</string>
+    <string name="mp_room_enable_score_submission_title">Отправка результатов на сервер</string>
     <!-- это надо поменять -->
-    <string name="mp_room_enable_score_submission_summary">Отправить ваш результат на сервер в конце раунда, если вы пасснули карту</string>
+    <string name="mp_room_enable_score_submission_summary">После прохождения карты ваш скор отправится на сервер.</string>
 
     <string name="mp_room_nightcore_title">Использовать NightCore</string>
     <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>
