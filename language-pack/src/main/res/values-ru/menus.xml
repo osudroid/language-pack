@@ -43,22 +43,17 @@
     <string name="frg_score_menu_export_failed">Не удалось экспортировать реплей.</string>
     <string name="frg_score_menu_export_succeed" formatted="true">Реплей сохранен по пути %s</string>
 
-<!-- Mod Menu Customizations -->
-    <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">Показывать таблицу рекордов</string>
-    <!-- Speed -->
-    <string name="opt_changespeed_title">Кастомная скорость карты</string>
-    <string name="opt_enablenc_whenspeedchange_title">Включить сдвиг тона при изменении скорости карты</string>
-    <!-- Difficulty-->
-    <string name="opt_forcear_title">Кастомный AR</string>
-    <string name="opt_forceod_title">Кастомный OD</string>
-    <string name="opt_forcehp_title">Кастомный HP</string>
-    <string name="opt_forcecs_title">Кастомный CS</string>
-    <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">Задержка перемещения области FL</string>
+    <!-- Mod Menu -->
+    <string name="mod_section_difficulty_reduction">Difficulty Reduction</string>
+    <string name="mod_section_difficulty_increase">Difficulty Increase</string>
+    <string name="mod_section_difficulty_automation">Automation</string>
+    <string name="mod_section_difficulty_conversion">Conversion</string>
+    <string name="mod_section_fun">Fun</string>
+    <string name="mod_section_system">System</string>
 
-    <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">Некоторые моды были отключены, так как включены все модификаторы сложности.</string>
+    <!-- Game Loading -->
+    <string name="opt_show_scoreboard_title">Показывать таблицу рекордов</string>
+    <string name="epilepsy_warning">This beatmap contains scenes with rapidly flashing colors.\nPlease take caution if you are affected by epilepsy.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

@@ -19,9 +19,6 @@
     <string name="mp_room_free_mods_title">Свободный выбор модов (фримод)</string>
     <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды за исключением модов, влияющих на скорость карты</string>
 
-    <string name="mp_room_allowForceDifficultyStatistics_title">Включить изменение параметров карты</string>
-    <string name="mp_room_allowForceDifficultyStatistics_summary">Если включен фримод, то игроки смогут менять параметры карты для себя (AR, OD, CS и HP)</string>
-
     <string name="mp_room_versus_mode_title">Режим игры</string>
     <string name="mp_room_versus_mode_summary">Измените режим игры в комнате.</string>
     <string-array name="mp_team_versus_names">

@@ -7,8 +7,8 @@
     <string name="failed_to_import_edr_with_err" formatted="true">Fallo al importar repetición: %s</string>
     <string name="import_edr_successfully">¡Se ha importado la repetición correctamente!</string>
 
-    <string name="replay_import_success">¡Se ha importado la repetición correctamente!</string>
-    <string name="replay_import_failed">Fallo al importar repetición: %s</string>
+    <string name="replay_import_result">Se importaron %d de %d replay(s)!</string>
+    <string name="replay_import_error">No se logró importar %s: %s</string>
 
     <!-- Save -->
     <string name="message_save_replay_successful">¡Repetición guardada correctamente!</string>

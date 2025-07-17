@@ -43,22 +43,17 @@
     <string name="frg_score_menu_export_failed">리플레이를 내보내는 데 실패했습니다!</string>
     <string name="frg_score_menu_export_succeed" formatted="true">리플레이가 %s 경로로 저장되었습니다.</string>
 
-<!-- Mod Menu Customizations -->
-    <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">스코어보드 표시</string>
-    <!-- Speed -->
-    <string name="opt_changespeed_title">속도 조절</string>
-    <string name="opt_enablenc_whenspeedchange_title">속도 조절에서 피치 이동을 활성화합니다.</string>
-    <!-- Difficulty-->
-    <string name="opt_forcear_title">강제 AR</string>
-    <string name="opt_forceod_title">강제 OD</string>
-    <string name="opt_forcehp_title">강제 HP</string>
-    <string name="opt_forcecs_title">강제 CS</string>
-    <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">FL 따라오기 지연</string>
+    <!-- Mod Menu -->
+    <string name="mod_section_difficulty_reduction">난이도 감소</string>
+    <string name="mod_section_difficulty_increase">난이도 증가</string>
+    <string name="mod_section_difficulty_automation">자동화</string>
+    <string name="mod_section_difficulty_conversion">변환</string>
+    <string name="mod_section_fun">재미</string>
+    <string name="mod_section_system">시스템</string>
 
-    <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">모든 강제 난이도 통계가 활성화되어 있기 때문에 일부 모드가 비활성화되었습니다.</string>
+    <!-- Game Loading -->
+    <string name="opt_show_scoreboard_title">스코어보드 표시</string>
+    <string name="epilepsy_warning">이 비트맵에는 색상이 빠르게 깜빡이는 장면이 포함되어 있습니다.\n간질 발작이 있는 경우 주의하시기 바랍니다.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

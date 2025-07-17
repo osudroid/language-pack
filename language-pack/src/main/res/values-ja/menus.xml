@@ -43,22 +43,17 @@
     <string name="frg_score_menu_export_failed">リプレイ保存に失敗しました！</string>
     <string name="frg_score_menu_export_succeed" formatted="true">リプレイが保存されました。ファイル名: %s</string>
 
-<!-- Mod Menu Customizations -->
-    <!-- Visuals -->
-    <string name="opt_show_scoreboard_title">スコアボード表示</string>
-    <!-- Speed -->
-    <string name="opt_changespeed_title">速度調整</string>
-    <string name="opt_enablenc_whenspeedchange_title">速度調整の際、ピッチシフトを適用します。</string>
-    <!-- Difficulty-->
-    <string name="opt_forcear_title">強制 AR</string>
-    <string name="opt_forceod_title">強制 OD</string>
-    <string name="opt_forcehp_title">強制 HP</string>
-    <string name="opt_forcecs_title">強制 CS</string>
-    <!-- FL Follow delay -->
-    <string name="opt_flashlight_follow_delay_title">FL遅延</string>
+    <!-- Mod Menu -->
+    <string name="mod_section_difficulty_reduction">Difficulty Reduction</string>
+    <string name="mod_section_difficulty_increase">Difficulty Increase</string>
+    <string name="mod_section_difficulty_automation">Automation</string>
+    <string name="mod_section_difficulty_conversion">Conversion</string>
+    <string name="mod_section_fun">Fun</string>
+    <string name="mod_section_system">System</string>
 
-    <!-- Notify -->
-    <string name="force_diffstat_mod_unpickable">すべての難易度パラメーターが強制適用されたため、いくつかのmodがオフになりました。</string>
+    <!-- Game Loading -->
+    <string name="opt_show_scoreboard_title">スコアボード表示</string>
+    <string name="epilepsy_warning">This beatmap contains scenes with rapidly flashing colors.\nPlease take caution if you are affected by epilepsy.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
