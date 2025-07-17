@@ -59,15 +59,15 @@
     <string name="opt_update_summary">새로운 업데이트가 있는지 확인합니다.</string>
 
     <!-- Config Backup -->
-    <string name="opt_category_config_backup">Backup</string>
-    <string name="opt_config_backup_title">Export options file</string>
-    <string name="opt_config_backup_summary">Exports non-sensitive options to \"osudroid.cfg\" in osu!droid\'s main directory</string>
-    <string name="opt_config_backup_restore_title">Import options file</string>
-    <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
-    <string name="config_backup_info_success">Successfully exported the options file</string>
-    <string name="config_backup_info_fail">Failed to export the options file</string>
-    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
-    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+    <string name="opt_category_config_backup">백업</string>
+    <string name="opt_config_backup_title">설정 파일 내보내기</string>
+    <string name="opt_config_backup_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 내보냅니다.</string>
+    <string name="opt_config_backup_restore_title">설정 파일 가져오기/string>
+    <string name="opt_config_backup_restore_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 가져옵니다.</string>
+    <string name="config_backup_info_success">설정 파일을 성공적으로 내보냈습니다.</string>
+    <string name="config_backup_info_fail">설정 파일을 내보내는 데에 실패하였습니다.</string>
+    <string name="config_backup_restore_info_success">설정 파일을 성공적으로 가져왔습니다.</string>
+    <string name="config_backup_restore_info_fail">설정 파일을 가져오는 데에 실패하였습니다.</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
@@ -216,10 +216,10 @@
     <string name="opt_musicpreview_summary">비트맵을 선택할 시, 해당 비트맵 음악을 미리 듣습니다.</string>
 
     <!-- Effect -->
-    <string name="opt_category_effect">Effect</string>
+    <string name="opt_category_effect">효과</string>
 
-    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
-    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_title">속도 변경 모드에서 피치 변경</string>
+    <string name="opt_shiftPitchInRateChange_summary">속도 변경 모드를 사용할 때 음악의 피치를 변경합니다.</string>
 
 <!-- Library -->
     <!-- Import -->
