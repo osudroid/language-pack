@@ -8,7 +8,7 @@
     <string name="import_edr_successfully">리플레이를 성공적으로 가져왔습니다!</string>
 
     <string name="replay_import_result">%d개 중 %d개의 리플레이를 가져왔습니다!</string>
-    <string name="replay_import_error"%s(을)를 가져올 수 없습니다: %s</string>
+    <string name="replay_import_error">%s(을)를 가져올 수 없습니다: %s</string>
 
     <!-- Save -->
     <string name="message_save_replay_successful">실패한 리플레이가 저장되었습니다!</string>
