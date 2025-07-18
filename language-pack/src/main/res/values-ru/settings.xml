@@ -103,7 +103,6 @@
     <string name="opt_keep_background_aspect_ratio_summary">Если эта функция включена, фон и сториборд не будут масштабироваться для заполнения границ экрана во время игры</string>
 
     <string name="opt_enableStoryboard_title">Включить сториборды</string>
-    <string name="opt_enableStoryboard_summary">Отключите, если столкнулись с низкой производительностью.</string>
     <string name="opt_video_title">Видео</string>
     <string name="opt_video_summary">Проигрывать видео карты во время игры. Поддерживаются форматы .3gp, .mp4, .mkv и .webm</string>
 
