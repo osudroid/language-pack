@@ -62,7 +62,7 @@
     <string name="opt_category_config_backup">백업</string>
     <string name="opt_config_backup_title">설정 파일 내보내기</string>
     <string name="opt_config_backup_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 내보냅니다.</string>
-    <string name="opt_config_backup_restore_title">설정 파일 가져오기/string>
+    <string name="opt_config_backup_restore_title">설정 파일 가져오기</string>
     <string name="opt_config_backup_restore_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 가져옵니다.</string>
     <string name="config_backup_info_success">설정 파일을 성공적으로 내보냈습니다.</string>
     <string name="config_backup_info_fail">설정 파일을 내보내는 데에 실패하였습니다.</string>
