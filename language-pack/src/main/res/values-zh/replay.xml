@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Import -->
-    <string name="act_import_replay">Import replay into osu!droid</string>
-    <string name="invalid_edr_file">Invalid repay!</string>
-    <string name="failed_to_import_edr">Failed to import replay!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
-    <string name="import_edr_successfully">Import replay successfully!</string>
-
-    <string name="replay_import_result">Imported %d out of %d replay(s)!</string>
-    <string name="replay_import_error">Unable to import %s: %s</string>
-
-    <!-- Save -->
-    <string name="message_save_replay_successful">Save failed replay success!</string>
-    <string name="message_save_replay_failed">Save replay failed</string>
-
-    <string name="replay_invalid">Cannot load replay</string>
-    <string name="replay_cantdownload">Cannot download replay</string>
-    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
-    <string name="replay_corrupted">Replay file is corrupted</string>
-
-<!-- All new strings should present below for better managing locals... -->
-
+  <!-- Import -->
+  <string name="act_import_replay">导入重播至 osu!droid</string>
+  <string name="invalid_edr_file">非法的重播！</string>
+  <string name="failed_to_import_edr">无法导入重播！</string>
+  <string name="failed_to_import_edr_with_err" formatted="true">无法导入重播：%s</string>
+  <string name="import_edr_successfully">成功导入重播！</string>
+  <string name="replay_import_result">已导入 %d/%d 重播！</string>
+  <string name="replay_import_error">无法导入 %s：%s</string>
+  <!-- Save -->
+  <string name="message_save_replay_successful">成功保存重播！</string>
+  <string name="message_save_replay_failed">无法保存重播！</string>
+  <string name="replay_invalid">无法加载重播</string>
+  <string name="replay_cantdownload">无法下载重播</string>
+  <string name="replay_wrongmap">重播与谱面不匹配</string>
+  <string name="replay_corrupted">重播文件已损坏</string>
+  <!-- All new strings should present below for better managing locals... -->
 </resources>
