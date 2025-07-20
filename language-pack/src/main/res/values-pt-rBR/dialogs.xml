@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="dialog_exit_yes">Yes</string>
-    <string name="dialog_exit_no">No</string>
-    <string name="dialog_exit_message">Are you sure you want to exit the game?</string>
+    <string name="dialog_exit_yes">Sim</string>
+    <string name="dialog_exit_no">Não</string>
+    <string name="dialog_exit_message">Você tem certeza de que quer sair do jogo?</string>
 
-    <string name="dialog_visit_osu_website">Do you want to visit the official osu! website?</string>
-    <string name="dialog_visit_osudroid_profile_page">Do you want to visit your profile page?</string>
-    <string name="dialog_visit_osudroid_website">Do you want to visit the official osu!droid website?</string>
+    <string name="dialog_visit_osu_website">Você quer acessar o site oficial do osu!?</string>
+    <string name="dialog_visit_osudroid_profile_page">Você quer acessar sua página do seu perfil?</string>
+    <string name="dialog_visit_osudroid_website">Você quer acessar o site oficial do osu!droid?</string>
 
-    <string name="hudEditor_modal_title">HUD Editor</string>
-    <string name="hudEditor_modal_save">Exit and save changes</string>
-    <string name="hudEditor_modal_discard">Discard changes</string>
-    <string name="hudEditor_modal_reset">Reset to default</string>
-    <string name="hudEditor_modal_cancel">Cancel</string>
+    <string name="hudEditor_modal_title">Editor da HUD</string>
+    <string name="hudEditor_modal_save">Sair e salvar alterações</string>
+    <string name="hudEditor_modal_discard">Descartar alterações</string>
+    <string name="hudEditor_modal_reset">Resetar para a HUD padrão</string>
+    <string name="hudEditor_modal_cancel">Cancelar</string>
 
-    <string name="hudEditor_back_for_menu">Press back to show HUD editor menu.</string>
-    <string name="hudEditor_saving">Saving changes...</string>
-    <string name="hudEditor_saved">Changes saved!</string>
-    <string name="hudEditor_discarded">Changes discarded!</string>
-    <string name="hudEditor_reset">HUD set to default!</string>
+    <string name="hudEditor_back_for_menu">Pressione "Voltar" denovo para sair do Editor de HUD</string>
+    <string name="hudEditor_saving">Salvando alterações...</string>
+    <string name="hudEditor_saved">Mudanças salvas!</string>
+    <string name="hudEditor_discarded">Mudanças descartadas.</string>
+    <string name="hudEditor_reset">HUD resetada para o padrão.</string>
 
-    <string name="config_backup_info_success">Successfully exported the options file</string>
-    <string name="config_backup_info_fail">Failed to export the options file</string>
-    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
-    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
+    <string name="config_backup_info_success">Arquivo de opções exportado com sucesso!</string>
+    <string name="config_backup_info_fail">Falha ao exportar arquivo de opções.</string>
+    <string name="config_backup_restore_info_success">Arquivo de opções importado com sucesso!</string>
+    <string name="config_backup_restore_info_fail">Falha ao importar arquivo de opções.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

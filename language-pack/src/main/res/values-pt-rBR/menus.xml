@@ -3,57 +3,57 @@
     <!-- Song Select -->
     <string name="menu_score" formatted="false">Score: %s (%dx)</string>
     <string name="menu_performance" formatted="false">Performance: %spp (%dx)</string>
-    <string name="menu_creator">Creator: %s</string>
+    <string name="menu_creator">Criador: %s</string>
 
-    <string name="menu_mod_back">Back</string>
+    <string name="menu_mod_back">Voltar</string>
     <string name="menu_mod_multiplier" formatted="false">Score %.2fx</string>
-    <string name="menu_mod_reset">Reset all mods</string>
+    <string name="menu_mod_reset">Resetar mods</string>
 
-    <string name="menu_properties_title">Song properties</string>
-    <string name="menu_properties_offset">Song offset:</string>
-    <string name="menu_properties_tofavs">Add to favorites</string>
-    <string name="menu_properties_delete">Delete beatmap</string>
+    <string name="menu_properties_title">Propriedades da música:</string>
+    <string name="menu_properties_offset">Offset:</string>
+    <string name="menu_properties_tofavs">Adicionar aos favoritos</string>
+    <string name="menu_properties_delete">Deletar beatmap</string>
 
-    <string name="menu_deletescore_delete">Delete</string>
-    <string name="menu_deletescore_delete_success">Delete score success!</string>
+    <string name="menu_deletescore_delete">Deletar</string>
+    <string name="menu_deletescore_delete_success">Score deletado com sucesso!</string>
 
-    <string name="menu_search_filter">Search for...</string>
-    <string name="menu_search_sort_title">Title</string>
-    <string name="menu_search_sort_date">Date</string>
-    <string name="menu_search_sort_creator">Creator</string>
-    <string name="menu_search_sort_artist">Artist</string>
-    <string name="menu_search_sort_bpm">Bpm</string>
+    <string name="menu_search_filter">Procurar por...</string>
+    <string name="menu_search_sort_title">Título</string>
+    <string name="menu_search_sort_date">Data</string>
+    <string name="menu_search_sort_creator">Criadora</string>
+    <string name="menu_search_sort_artist">Artista</string>
+    <string name="menu_search_sort_bpm">BPM</string>
     <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
     <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
-    <string name="menu_search_sort_length">Length</string>
-    <string name="binfoStr1" formatted="false">Length: %s BPM: %s Combo: %d</string>
-    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (MapId: %d)</string>
+    <string name="menu_search_sort_length">Tempo</string>
+    <string name="binfoStr1" formatted="false">Tempo: %s BPM: %s Combo: %d</string>
+    <string name="binfoStr2" formatted="false">Circles: %d Sliders: %d Spinners: %d (ID do Beatmap: %d)</string>
     <!-- End Song Select -->
 
     <!-- Filter Menu -->
-    <string name="favorite_default">Default</string>
-    <string name="favorite_new_folder">Create new folder</string>
-    <string name="favorite_ensure">Are you sure?</string>
-    <string name="favorite_manage">Manage Beatmap folder</string>
+    <string name="favorite_default">Padrão</string>
+    <string name="favorite_new_folder">Criar nova pata</string>
+    <string name="favorite_ensure">Você tem certeza?</string>
+    <string name="favorite_manage">Acessar pasta do beatmap</string>
 
 
 <!-- Score Export/Import -->
     <string name="frg_score_menu_title">Score</string>
-    <string name="frg_score_menu_export_score">Export Score</string>
-    <string name="frg_score_menu_export_failed">Failed to export replay!</string>
-    <string name="frg_score_menu_export_succeed" formatted="true">Replay is saved to %s</string>
+    <string name="frg_score_menu_export_score">Exportar Score</string>
+    <string name="frg_score_menu_export_failed">Falha ao exportar replay!</string>
+    <string name="frg_score_menu_export_succeed" formatted="true">Replay foi salvo para %s</string>
 
     <!-- Mod Menu -->
-    <string name="mod_section_difficulty_reduction">Difficulty Reduction</string>
-    <string name="mod_section_difficulty_increase">Difficulty Increase</string>
-    <string name="mod_section_difficulty_automation">Automation</string>
-    <string name="mod_section_difficulty_conversion">Conversion</string>
-    <string name="mod_section_fun">Fun</string>
-    <string name="mod_section_system">System</string>
+    <string name="mod_section_difficulty_reduction">Redução da Dificuldade</string>
+    <string name="mod_section_difficulty_increase">Aumento da Dificuldade</string>
+    <string name="mod_section_difficulty_automation">Automação</string>
+    <string name="mod_section_difficulty_conversion">Conversão</string>
+    <string name="mod_section_fun">Diversão</string>
+    <string name="mod_section_system">Sistema</string>
 
     <!-- Game Loading -->
-    <string name="opt_show_scoreboard_title">Show Scoreboard</string>
-    <string name="epilepsy_warning">This beatmap contains scenes with rapidly flashing colors.\nPlease take caution if you are affected by epilepsy.</string>
+    <string name="opt_show_scoreboard_title">Mostrar placar dos scores</string>
+    <string name="epilepsy_warning">Esse beatmap contém cenas com luzes e cores rápidas. Tenha atenção caso você tem epilepsia.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
