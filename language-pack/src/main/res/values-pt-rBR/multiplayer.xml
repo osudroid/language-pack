@@ -2,40 +2,40 @@
 <resources>
 
 <!-- Details -->
-    <string name="mp_room_category_details">Details</string>
+    <string name="mp_room_category_details">Detalhes</string>
 
-    <string name="mp_room_name_title">Room name</string>
-    <string name="mp_room_name_summary">Change the room\'s name.</string>
+    <string name="mp_room_name_title">Nome da Room</string>
+    <string name="mp_room_name_summary">Muda o nome da sala.</string>
 
-    <string name="mp_room_password_title">Room password</string>
-    <string name="mp_room_password_summary">Change the room\'s password. If empty, the room will be public.</string>
+    <string name="mp_room_password_title">Senha da Room</string>
+    <string name="mp_room_password_summary">Muda a senha da sala. Caso esteja vazio, a sala será pública.</string>
 
-    <string name="mp_room_max_players_title">Maximum Players</string>
-    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
+    <string name="mp_room_max_players_title">Quantidade de Players</string>
+    <string name="mp_room_max_players_summary">Bota a quantidade máxima de jogadores na room.</string>
 
     <!-- Variables -->
-    <string name="mp_room_category_variables">Variables</string>
+    <string name="mp_room_category_variables">Variáveis</string>
 
-    <string name="mp_room_free_mods_title">Enable free mods</string>
-    <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
+    <string name="mp_room_free_mods_title">Ativar Free Mods</string>
+    <string name="mp_room_free_mods_summary">Permite os jogadores escolherem seus próprios mods, EXCETO mods de speed-changing (mods que mudam a velocidade).</string>
 
-    <string name="mp_room_versus_mode_title">Team mode</string>
-    <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
+    <string name="mp_room_versus_mode_title">Modo Versus</string>
+    <string name="mp_room_versus_mode_summary">Muda o modo de batalha da sala.</string>
     <string-array name="mp_team_versus_names">
         <item>Head to Head</item>
-        <item>Team vs Team</item>
+        <item>Time vs Time</item>
     </string-array>
     <string-array name="mp_team_versus_values">
         <item>0</item>
         <item>1</item>
     </string-array>
 
-    <string name="mp_room_win_condition_title">Win condition</string>
-    <string name="mp_room_win_condition_summary">Change the room win condition.</string>
+    <string name="mp_room_win_condition_title">Condição de vitória</string>
+    <string name="mp_room_win_condition_summary">Muda a condição de vitória da sala.</string>
     <string-array name="mp_win_condition_names">
         <item>Score V1</item>
-        <item>Accuracy</item>
-        <item>Max combo</item>
+        <item>Accuracy (Porcento [%]/Precisão)</item>
+        <item>Combo</item>
         <item>Score V2</item>
     </string-array>
     <string-array name="mp_win_condition_values">
@@ -46,21 +46,21 @@
     </string-array>
 
     <!-- Share -->
-    <string name="mp_room_category_share">Share</string>
+    <string name="mp_room_category_share">Compartilhar</string>
 
     <string name="mp_room_link_title">Get invite link</string>
-    <string name="mp_room_link_summary">Copy invite link to clipboard</string>
+    <string name="mp_room_link_summary">Copia o link de convite da sala para a sua área de transferência (clique para copiar!).</string>
 
 
 <!-- Multiplayer Player Settings -->
     <!-- Team -->
-    <string name="mp_room_category_teams">Team</string>
+    <string name="mp_room_category_teams">Time</string>
 
     <string name="mp_room_category_teams_title">Team</string>
-    <string name="mp_room_category_teams_summary">Change your team.</string>
+    <string name="mp_room_category_teams_summary">Mude seu time de batalha.</string>
     <string-array name="mp_team_names">
-        <item>Red</item>
-        <item>Blue</item>
+        <item>Red (Vermelho)</item>
+        <item>Blue (Azul)</item>
     </string-array>
     <string-array name="mp_team_values">
         <item>0</item>
@@ -68,13 +68,13 @@
     </string-array>
 
     <!-- In Game -->
-    <string name="mp_room_category_in_game">In-game</string>
+    <string name="mp_room_category_in_game">Em jogo</string>
 
-    <string name="mp_room_enable_score_submission_title">Enable score submission</string>
-    <string name="mp_room_enable_score_submission_summary">Submit your score at the end of the round if you did not fail</string>
+    <string name="mp_room_enable_score_submission_title">Ativar postagem do score</string>
+    <string name="mp_room_enable_score_submission_summary">Posta seu score ao placar do beatmap se obviamente você não tiver falhado na gameplay.</string>
 
-    <string name="mp_room_nightcore_title">Use NightCore</string>
-    <string name="mp_room_nightcore_summary">Enable NightCore mod instead when DoubleTime is enabled</string>
+    <string name="mp_room_nightcore_title">Usar NightCore</string>
+    <string name="mp_room_nightcore_summary">Ativa o NightCore, subsituindo o DoubleTime caso esteja ativado.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="markdown_title">Markdown Title</string>
+    <string name="markdown_title">Título do Markdown</string>
     <string name="changelog_title">Changelog</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">Multitouch não é suportado no seu dispositivo</string>
+    <string name="message_low_storage_space">O espaço de armazenamento está baixo. Armazenamento livre: %s GB. Isso pode causar problemas ao postar scores/replays.</string>
 
-    <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
-    <string name="message_video_custom_speed_unsupported">Custom video playback speed is not supported in this device</string>
+    <string name="message_error">Erro: %s</string>
+    <string name="message_error_open">Impossível abrir %s</string>
+    <string name="message_error_createdir">Impossível criar %s</string>
+    <string name="message_error_sdcard">Armazenamento externo não está montado</string>
+    <string name="message_error_sdcardread">Armazenamento externo é apenas para leitura</string>
+    <string name="message_video_custom_speed_unsupported">Diferentes velocidades de vídeo não são suportadas no seu dispositivo</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="crash">Desculpe, mas o jogo encontrou um problema inesperado e necessitou fechar. Erro completo:</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">Desativar serviços de Acessabilidade</string>
+    <string name="accessibility_detector_message">Os seguintes serviços de Acessabilidade precisam ser desativados obrigatoriamente para jogar:</string>
+    <string name="accessibility_detector_settings">Ir para configurações</string>
+    <string name="accessibility_detector_exit">Sair do Jogo</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">Carregando detalhes do recorde...</string>
+    <string name="multiplayer_not_online">Você precisa fazer login para jogar no Multiplayer!</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">Clique em uma cor para aplicar</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">Cancelar</string>
+    <string name="beatmap_downloader_connecting">Conectando ao servidor global...</string>
+    <string name="beatmap_downloader_downloading">Baixando beatmap: %s...</string>
+    <string name="beatmap_downloader_importing">Importando beatmap: %s...</string>
 
     <!-- Ranked status -->
-    <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
-    <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
-    <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
+    <string name="ranked_status_ranked"><font color="#41FF64">Ranqueado</font></string>
+    <string name="ranked_status_approved"><font color="#41FF64">Aprovado</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">Qualificado</font></string>
     <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
-    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
-    <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
-    <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">Pendente</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">Em Progresso</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">Cemitério</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_cleared">Cache limpo com sucesso</string>
+    <string name="library_importing">Importando beatmap...</string>
+    <string name="library_importing_several">Foram encontrados %s beatmaps arquivados. Importando...</string>
+    <string name="library_skin_importing_several">Foram encontrados %s skins arquivadas. Importando...</string>
+    <string name="library_imported">\"%s\" foi importado!</string>
+    <string name="message_loaded_skin">Skin aplicada</string>
+    <string name="message_error_dir_not_found">A pasta não existe</string>
+    <string name="file_integrity_tampered">Checkagem de integridade dos arquivos falhada. Abortando gameplay</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Falha carregando %s: Não foi possível abrir o arquivo do beatmap</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">Adicionar área</string>
+    <string name="block_area_editor_fragment_reset">Resetar</string>
+    <string name="block_area_editor_fragment_done">Pronto</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">Um novo update foi encontrado.</string>
+    <string name="update_dialog_button_update">Baixar e atualizar</string>
+    <string name="update_info_checking">Verificando novos updates...</string>
+    <string name="update_info_check_failed">Falha ao verificar atualizações. O servidor do osu!droid ou sua internet estão offline.</string>
+    <string name="update_info_downloading">Baixando update... %d%%</string>
+    <string name="update_info_download_canceled">Download cancelado</string>
+    <string name="update_info_download_failed">Falha ao baixar, verifique sua conexão</string>
+    <string name="update_info_updated">Update instalado com sucesso!</string>
+    <string name="update_info_latest">Sem updates disponíveis</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
