@@ -3,16 +3,16 @@
   <!-- Song Select -->
   <string name="menu_score" formatted="false">成绩：%s (%dx)</string>
   <string name="menu_performance" formatted="false">表现：%spp (%dx)</string>
-  <string name="menu_creator">作者：%s</string>
+  <string name="menu_creator">谱师：%s</string>
   <string name="menu_mod_back">返回</string>
   <string name="menu_mod_multiplier" formatted="false">成绩 %.2fx</string>
   <string name="menu_mod_reset">重置所有 Mod</string>
   <string name="menu_properties_title">歌曲属性</string>
-  <string name="menu_properties_offset">歌曲偏移：</string>
+  <string name="menu_properties_offset">歌曲偏移量：</string>
   <string name="menu_properties_tofavs">添加至收藏夹</string>
   <string name="menu_properties_delete">删除谱面</string>
-  <string name="menu_deletescore_delete">删除</string>
-  <string name="menu_deletescore_delete_success">已成功删除成绩！</string>
+  <string name="menu_deletescore_delete">删除成绩</string>
+  <string name="menu_deletescore_delete_success">删除成绩成功</string>
   <string name="menu_search_filter">搜索…</string>
   <string name="menu_search_sort_title">标题</string>
   <string name="menu_search_sort_date">日期</string>
@@ -23,27 +23,27 @@
   <string name="menu_search_sort_standard_stars">osu!standard 收藏数</string>
   <string name="menu_search_sort_length">长度</string>
   <string name="binfoStr1" formatted="false">长度：%s BPM：%s 物件数：%d</string>
-  <string name="binfoStr2" formatted="false">饼：%d 长条：%d 转盘：%d（谱面 Id：%d）</string>
+  <string name="binfoStr2" formatted="false">圆圈：%d 滑条：%d 转盘：%d（谱面 ID：%d）</string>
   <!-- End Song Select -->
   <!-- Filter Menu -->
   <string name="favorite_default">默认</string>
-  <string name="favorite_new_folder">新建文件夹</string>
+  <string name="favorite_new_folder">新建收藏夹</string>
   <string name="favorite_ensure">你确认吗？</string>
-  <string name="favorite_manage">管理谱面文件夹</string>
+  <string name="favorite_manage">管理谱面收藏夹</string>
   <!-- Score Export/Import -->
   <string name="frg_score_menu_title">成绩</string>
-  <string name="frg_score_menu_export_score">导出成绩</string>
-  <string name="frg_score_menu_export_failed">无法导出重播！</string>
-  <string name="frg_score_menu_export_succeed" formatted="true">已保存重播至 %s</string>
+  <string name="frg_score_menu_export_score">导出回放</string>
+  <string name="frg_score_menu_export_failed">导出回放失败</string>
+  <string name="frg_score_menu_export_succeed" formatted="true">回放已保存至 %s</string>
   <!-- Mod Menu -->
-  <string name="mod_section_difficulty_reduction">减小难度</string>
-  <string name="mod_section_difficulty_increase">加大难度</string>
+  <string name="mod_section_difficulty_reduction">难度减小</string>
+  <string name="mod_section_difficulty_increase">难度加大</string>
   <string name="mod_section_difficulty_automation">自动</string>
-  <string name="mod_section_difficulty_conversion">转换</string>
+  <string name="mod_section_difficulty_conversion">改造</string>
   <string name="mod_section_fun">趣味</string>
   <string name="mod_section_system">系统</string>
   <!-- Game Loading -->
-  <string name="opt_show_scoreboard_title">显示成绩面板</string>
-  <string name="epilepsy_warning">此谱面包含快速闪烁的颜色的场景\n如果您有癫痫，请小心注意</string>
+  <string name="opt_show_scoreboard_title">显示排行榜</string>
+  <string name="epilepsy_warning">本谱面一些内容包含强烈快速闪烁的场景\n如果您有光敏性癫痫，需小心注意</string>
   <!-- All new strings should present below for better managing locals... -->
 </resources>
