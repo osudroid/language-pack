@@ -9,12 +9,12 @@
   <string name="opt_category_online">在线</string>
   <string name="opt_stayonline_title">保持在线</string>
   <string name="opt_stayonline_summary">连接到 osu!droid 排名服务器</string>
-  <string name="opt_loadavatar_title">使用 2G/3G/4G 网络加载头像</string>
-  <string name="opt_loadavatar_summary">在没有 WIFI 的情况下加载头像</string>
-  <string name="opt_global_beatmap_leaderboard_scoring_mode_title">全球谱面排行榜评分模式</string>
-  <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">选择全球谱面排行榜评分模式</string>
+  <string name="opt_loadavatar_title">使用移动数据网络加载头像</string>
+  <string name="opt_loadavatar_summary">没有 WIFI 的情况下也能加载头像</string>
+  <string name="opt_global_beatmap_leaderboard_scoring_mode_title">全球排行榜显示模式</string>
+  <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">选择全球排行榜将会以什么标准显示</string>
   <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-    <item>成绩</item>
+    <item>分数</item>
     <item>PP</item>
   </string-array>
   <string-array name="global_beatmap_leaderboard_scoring_mode_values">
@@ -22,7 +22,7 @@
     <item>1</item>
   </string-array>
   <string name="difficulty_algorithm_title">难度算法</string>
-  <string name="difficulty_algorithm_summary">选择用于计算难度和 PP 的算法</string>
+  <string name="difficulty_algorithm_summary">选择用于计算难度星级和 PP 的算法</string>
   <string-array name="difficulty_algorithm_names">
     <item>osu!droid</item>
     <item>osu!standard</item>
@@ -42,7 +42,7 @@
   <!-- Community-->
   <string name="opt_category_community">社区</string>
   <string name="opt_receive_announcements_title">获取公告</string>
-  <string name="opt_receive_announcements_summary">获取公告、活动等的通知</string>
+  <string name="opt_receive_announcements_summary">在游戏内获取公告、活动等通知</string>
   <!-- Updates -->
   <string name="opt_category_updates">更新</string>
   <string name="opt_update_title">检查更新</string>
@@ -50,9 +50,9 @@
   <!-- Config Backup -->
   <string name="opt_category_config_backup">备份</string>
   <string name="opt_config_backup_title">导出配置文件</string>
-  <string name="opt_config_backup_summary">将非敏感选项导出至 osu!droid 主文件夹下的 osudroid.cfg 文件内</string>
+  <string name="opt_config_backup_summary">将普通游戏选项导出到 osu!droid 根目录文件夹下的 osudroid.cfg 文件内</string>
   <string name="opt_config_backup_restore_title">导入配置文件</string>
-  <string name="opt_config_backup_restore_summary">将 osu!droid 主文件夹下的 osudroid.cfg 文件内的非敏感选项导入</string>
+  <string name="opt_config_backup_restore_summary">将 osu!droid 根目录文件夹下的 osudroid.cfg 文件记录的普通游戏选项导入至游戏</string>
   <!-- Gameplay -->
   <!-- Skin -->
   <string name="opt_category_skin">皮肤</string>
@@ -72,59 +72,59 @@
   <string name="opt_skin_summary">可用时加载地图自带皮肤</string>
   <!-- Hit Objects-->
   <string name="opt_category_hit_objects">点击物件</string>
-  <string name="opt_show_first_approach_circle_title">强制显示第一个缩圈</string>
-  <string name="opt_show_first_approach_circle_summary">在 Hidden 模式下仍然显示第一个 note 的缩圈</string>
+  <string name="opt_show_first_approach_circle_title">强制显示第一个物件的缩圈</string>
+  <string name="opt_show_first_approach_circle_summary">在 Hidden 模式下仍然显示第一个物件的缩圈</string>
   <!-- Background -->
   <string name="opt_category_background">背景</string>
   <string name="opt_bgbrightness_title">背景亮度</string>
   <string name="opt_bgbrightness_summary">背景图片的亮度</string>
-  <string name="opt_keep_background_aspect_ratio_title">保持背景比例</string>
-  <string name="opt_keep_background_aspect_ratio_summary">启用时，游戏中背景和故事板将不会被缩放以填充屏幕边界</string>
-  <string name="opt_enableStoryboard_title">启用故事板</string>
+  <string name="opt_keep_background_aspect_ratio_title">保持背景图比例</string>
+  <string name="opt_keep_background_aspect_ratio_summary">开启后，游戏中背景图和故事板将不会填充至屏幕边界</string>
+  <string name="opt_enableStoryboard_title">故事板 (storyboard)</string>
   <string name="opt_video_title">背景视频</string>
-  <string name="opt_video_summary">在播放时显示视频，这仅支持 3gp、mp4、mkv 和 webm 视频格式</string>
+  <string name="opt_video_summary">在游玩谱面时显示视频，仅支持 3gp、mp4、mkv 和 webm 视频格式</string>
   <!-- HUD -->
-  <string name="opt_category_hud">HUD</string>
-  <string name="opt_hudEditor_title">HUD 编辑器</string>
-  <string name="opt_hudEditor_summary">按你的喜好编辑 HUD 层</string>
-  <string name="opt_hide_ingame_ui_title">隐藏播放 UI</string>
-  <string name="opt_hide_ingame_ui_summary">在播放时隐藏计算器和其他 UI</string>
-  <string name="opt_hide_replay_marquee_title">隐藏重播提示滚动条</string>
-  <string name="opt_hide_replay_marquee_summary">观看重播时隐藏滚动文字</string>
-  <string name="opt_fps_title">显示 FPS</string>
-  <string name="opt_fps_summary">显示游戏时的 FPS</string>
+  <string name="opt_category_hud">游玩元素</string>
+  <string name="opt_hudEditor_title">皮肤元素编辑器</string>
+  <string name="opt_hudEditor_summary">按你的喜好编辑各类皮肤元素</string>
+  <string name="opt_hide_ingame_ui_title">隐藏游玩元素</string>
+  <string name="opt_hide_ingame_ui_summary">在游玩时隐藏分数和元素</string>
+  <string name="opt_hide_replay_marquee_title">隐藏回放滚动横幅</string>
+  <string name="opt_hide_replay_marquee_summary">观看回放时隐藏滚动横幅</string>
+  <string name="opt_fps_title">显示帧数</string>
+  <string name="opt_fps_summary">显示游戏时的帧数</string>
   <string name="opt_display_score_statistics_title">显示成绩统计数据</string>
-  <string name="opt_display_score_statistics_summary">在结算界面显示成绩统计数据，如星级、PP 等</string>
+  <string name="opt_display_score_statistics_summary">在成绩界面显示成绩统计数据，如星级、PP 等</string>
   <!-- Combo Colors-->
   <string name="opt_combo_colors_title">Combo 颜色</string>
-  <string name="opt_combo_colors_summary">使用自定义的 combo 颜色</string>
+  <string name="opt_combo_colors_summary">使用自定义的 Combo 颜色</string>
   <!-- Graphics -->
   <!-- Cursor -->
   <string name="opt_category_cursor">光标</string>
   <string name="opt_showcursor_title">显示光标</string>
-  <string name="opt_showcursor_summary">游戏中在手指下显示光标</string>
+  <string name="opt_showcursor_summary">游戏中可在手指下显示光标</string>
   <string name="opt_cursor_size">光标大小</string>
   <string name="opt_cursor_size_summary">调整光标大小（25 ~ 300，默认 100）</string>
   <string name="opt_particles_title">细节特效</string>
-  <string name="opt_particles_summary">使用细节特效（如光标拖尾）</string>
+  <string name="opt_particles_summary">开启细节特效（如光标拖尾）</string>
   <!-- Animations and Effects -->
   <string name="opt_category_animations">动画及特效</string>
-  <string name="opt_dim_hit_objects_title">启用点击物件淡出</string>
-  <string name="opt_dim_hit_objects_summary">即将击中时淡出物件</string>
+  <string name="opt_dim_hit_objects_title">打击物件暗化</string>
+  <string name="opt_dim_hit_objects_summary">即将击中打击物件时将物件暗化</string>
   <string name="opt_combo_burst_title">连击特效</string>
   <string name="opt_combo_burst_summary">开启关闭连击特效（轻微影响性能）</string>
   <string name="opt_largeimages_title">倒计时</string>
-  <string name="opt_largeimages_summary">在可用此选项的地图开始前显示倒计时</string>
-  <string name="opt_animate_follow_circle_title">圈跟随动画</string>
-  <string name="opt_animate_follow_circle_summary">启用点击、释放长条时圈的跟随动画</string>
-  <string name="opt_animate_combo_text_title">连击文本动画</string>
-  <string name="opt_animate_combo_text_summary">启用连击增加时连击文本阴影动画</string>
-  <string name="opt_snakingInSliders_title">使用滑条蛇形出现</string>
-  <string name="opt_snakingInSliders_summary">启用滑条从起点逐渐蛇形出现</string>
-  <string name="opt_snakingOutSliders_title">使用滑条蛇形消失</string>
-  <string name="opt_snakingOutSliders_summary">启用滑条从一个节点逐渐蛇形消失</string>
+  <string name="opt_largeimages_summary">可在游玩设置了倒计时的谱面时开始倒数</string>
+  <string name="opt_animate_follow_circle_title">滑条跟随圆圈动画</string>
+  <string name="opt_animate_follow_circle_summary">按住、松开滑条时显示滑条跟随圆圈动画</string>
+  <string name="opt_animate_combo_text_title">连击数缩放动画</string>
+  <string name="opt_animate_combo_text_summary">连击增加时显示连击数缩放动画</string>
+  <string name="opt_snakingInSliders_title">滑条渐出</string>
+  <string name="opt_snakingInSliders_summary">滑条从起点逐渐出现</string>
+  <string name="opt_snakingOutSliders_title">滑条渐隐</string>
+  <string name="opt_snakingOutSliders_summary">滑条从起点逐渐消失</string>
   <string name="opt_noChangeDimInBreaks_title">休息时不改变背景亮度</string>
-  <string name="opt_noChangeDimInBreaks_summary">启用后，休息期间背景亮度不会改变</string>
+  <string name="opt_noChangeDimInBreaks_summary">休息期间背景亮度不会变亮</string>
   <string name="opt_bursts_title">爆裂效果</string>
   <string name="opt_bursts_summary">在命中部件后播放爆裂特效</string>
   <string name="opt_hitlighting_title">击打闪光</string>
@@ -139,7 +139,7 @@
   <string name="opt_bgm_volume_title">音乐音量</string>
   <string name="opt_bgm_volume_summary">音乐音量，设置范围 0 ~ 100</string>
   <string name="opt_sound_volume_title">音效音量</string>
-  <string name="opt_sound_volume_summary">音效音量，设置范围 0 ~ 100，需重新启动游戏后生效</string>
+  <string name="opt_sound_volume_summary">音效音量，设置范围 0 ~ 100</string>
   <!-- Offset-->
   <string name="opt_category_offset">延时</string>
   <string name="opt_offset_title">全局延时</string>
@@ -166,8 +166,8 @@
   <string name="opt_musicpreview_summary">当选中地图时播放音乐</string>
   <!-- Effect -->
   <string name="opt_category_effect">特效</string>
-  <string name="opt_shiftPitchInRateChange_title">启用变速 Mod 时调整音调</string>
-  <string name="opt_shiftPitchInRateChange_summary">启用变速 Mod 时调整音乐的音调</string>
+  <string name="opt_shiftPitchInRateChange_title">变速 Mod 音调调整</string>
+  <string name="opt_shiftPitchInRateChange_summary">开启变速 Mod 时调整音乐的音调</string>
   <!-- Library -->
   <!-- Import -->
   <string name="opt_category_import">导入</string>
@@ -180,7 +180,7 @@
   <string name="opt_delete_unsupported_videos_title">删除不支持的视频</string>
   <string name="opt_delete_unsupported_videos_summary">删除格式不受支持的视频（avi 和 flv）</string>
   <string name="opt_import_replay_title">导入回放</string>
-  <string name="opt_import_replay_summary">导入回放文件（odr）或导出的回放文件（edr）仅支持 osu!droid 1.6.7 及以上版本的 odr 文件</string>
+  <string name="opt_import_replay_summary">导入一个回放文件（odr）或一个已导出的回放文件（edr），仅支持 osu!droid 1.6.7 及以上版本的 odr 文件</string>
   <!-- Metadata -->
   <string name="opt_category_metadata">元数据</string>
   <string name="force_romanized">强制使用罗马音显示铺面数据</string>
@@ -196,16 +196,16 @@
   <string name="opt_category_playfield">游玩区域</string>
   <string name="opt_setplayfield_title">调整游玩区域大小</string>
   <string name="opt_setplayfield_summary">调整游玩区域大小</string>
-  <string name="opt_shrink_playfield_downwards_title">向下缩小游玩区域</string>
-  <string name="opt_shrink_playfield_downwards_summary">向下缩小游玩区域</string>
-  <string name="block_area_preference_title">管理输入屏蔽区域</string>
-  <string name="block_area_preference_summary">管理游戏过程中屏幕内将被忽略按压的特定区域</string>
+  <string name="opt_shrink_playfield_downwards_title">置底游玩区域</string>
+  <string name="opt_shrink_playfield_downwards_summary">把游玩区域往屏幕下方放置</string>
+  <string name="block_area_preference_title">管理屏蔽输入区域</string>
+  <string name="block_area_preference_summary">管理游戏过程中屏幕内将被屏蔽输入的特定区域</string>
   <!-- Gameplay -->
   <string name="opt_category_gameplay">游戏玩法</string>
   <string name="opt_remove_sliderlock_spinnerlock_title">移除滑条锁和转盘锁（不计入排名）</string>
-  <string name="opt_remove_sliderlock_spinnerlock_summary">尝试移除滑条锁和转盘锁，现在可以游玩 2b 风格</string>
-  <string name="opt_backButtonPressTime_title">返回按钮按压时间</string>
-  <string name="opt_backButtonPressTime_summary">触发屏幕返回按钮所需的毫秒数</string>
+  <string name="opt_remove_sliderlock_spinnerlock_summary">尝试移除滑条锁和转盘锁，现在可以游玩 2B 风格</string>
+  <string name="opt_backButtonPressTime_title">退出按钮按压延迟</string>
+  <string name="opt_backButtonPressTime_summary">触发游玩时退出按钮所需的触发毫秒数</string>
   <string name="opt_seekBarVibrateIntensity_title">设置震动强度</string>
   <string name="opt_seekBarVibrateIntensity_summary">更改震动强度</string>
   <!-- Synchronisation  -->
@@ -213,7 +213,7 @@
   <string name="opt_syncmusic_title">低延迟同步</string>
   <string name="opt_syncmusic_summary">在不支持本特性的手机上启用可能导致性能下降</string>
   <string name="opt_fix_frame_offset_title">修复随机延迟</string>
-  <string name="opt_fix_frame_offset_summary">修复一个由点击时间和帧开始时间差造成的延迟不完全保证效果</string>
+  <string name="opt_fix_frame_offset_summary">修复一个由点击时间和帧开始时间差造成的延迟，不完全保证效果</string>
   <!-- Advanced -->
   <!-- Directories -->
   <string name="opt_category_directories">文件夹</string>
@@ -226,7 +226,7 @@
   <!-- Miscellaneous -->
   <string name="opt_force_max_refresh_rate_title">强制最大刷新率</string>
   <string name="opt_force_max_refresh_rate_summary">尝试强制使用设备的最大刷新率。如果出现屏幕闪烁，请关闭此选项</string>
-  <string name="opt_safe_beatmap_bg_title">安全谱面背景</string>
-  <string name="opt_safe_beatmap_bg_summary">将所有谱面的背景更改为皮肤中的菜单背景图片</string>
+  <string name="opt_safe_beatmap_bg_title">健全谱面背景</string>
+  <string name="opt_safe_beatmap_bg_summary">将所有谱面的背景更改为皮肤中的主菜单背景图片</string>
   <!-- All new strings should present below for better managing locals... -->
 </resources>
