@@ -8,7 +8,7 @@
   <string name="menu_mod_multiplier" formatted="false">成绩 %.2fx</string>
   <string name="menu_mod_reset">重置所有 Mod</string>
   <string name="menu_properties_title">歌曲属性</string>
-  <string name="menu_properties_offset">歌曲偏移量：</string>
+  <string name="menu_properties_offset">歌曲延时</string>
   <string name="menu_properties_tofavs">添加至收藏夹</string>
   <string name="menu_properties_delete">删除谱面</string>
   <string name="menu_deletescore_delete">删除成绩</string>
