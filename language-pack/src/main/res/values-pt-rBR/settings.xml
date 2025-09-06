@@ -61,9 +61,9 @@
     <!-- Config Backup -->
     <string name="opt_category_config_backup">Backup</string>
     <string name="opt_config_backup_title">Exportar arquivo de opções</string>
-    <string name="opt_config_backup_summary">Exporta suas configurações não sensitivas para "osudroid.cfg" na pasta principal do osu!droid no seu armazenamento</string>
+    <string name="opt_config_backup_summary">Exporta suas configurações não sensíveis para "osudroid.cfg" na pasta principal do osu!droid no seu armazenamento</string>
     <string name="opt_config_backup_restore_title">Importar arquivo de opções</string>
-    <string name="opt_config_backup_restore_summary">Importa as configurações não sensitivas de "osudroid.cfg" na pasta principal do osu!droid</string>
+    <string name="opt_config_backup_restore_summary">Importa as configurações não sensíveis de "osudroid.cfg" na pasta principal do osu!droid</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
@@ -83,7 +83,7 @@
     </string-array>
 
     <string name="opt_skin_title">Skins de beatmaps</string>
-    <string name="opt_skin_summary">Carrega skins de beatmaps que tem uma skin em seu diretório</string>
+    <string name="opt_skin_summary">Carrega beatmaps que tem uma  skin em seu diretório</string>
 
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Objetos tocáveis</string>
@@ -101,7 +101,7 @@
     <string name="opt_enableStoryboard_title">Ativa os storyboards</string>
 
     <string name="opt_video_title">Vídeo no background</string>
-    <string name="opt_video_summary">Exibe um vídeo do beatmap caso tenha. O osu!droid apenas carrega os formatos de vídeo .3gp, .mp4, .mkv, e .webm.</string>
+    <string name="opt_video_summary">Exibe um vídeo do beatmap caso tenha. O osu!droid apenas carrega os formatos de vídeo .3gp, .mp4, .mkv, e .webm, e carrega corretamente apenas o codec H.264.</string>
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
@@ -123,7 +123,21 @@
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Cores dos hitcircles</string>
-    <string name="opt_combo_colors_summary">Usa 4 cores de hitcircles customizadas (como  você quiser!)</string>
+    <string name="opt_combo_colors_summary">Usa 4 cores de hitcircles customizadas (como você quiser!)</string>
+
+    <!-- Playfield -->
+    <string name="opt_category_playfield">Playfield (Zona de jogo)</string>
+    <string name="opt_setplayfield_title">Selecionar tamanho do playfield</string>
+    <string name="opt_setplayfield_summary">Mude o tamanho do seu playfield</string>
+
+    <string name="opt_display_playfield_border_title">Mostrar bordas do playfield</string>
+    <string name="opt_display_playfield_border_summary">Mostra uma borda em volta do playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Posição horizontal</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Bote a posição horizontal (em porcentagem) do playfield a partir do canto esquerdo da tela</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Bote a posição vertical (Em porcentagem) do playfield a partir do topo da tela</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
@@ -188,6 +202,9 @@
     <string name="opt_offset_title">Offset global</string>
     <string name="opt_offset_summary">Offset da música em ms. (Valores positivos indicam clicks mais adiantados)</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Limite mínimo de sincronização</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">A diferença de tempo mínima (em milissegundos) entre o beatmap e o áudio para a gameplay como uma tentativa de sincronizar o áudio.\n\nUm limite pequeno aumenta a frequência da tentativa de sincronização. Se preferir um offset constante, use um limite alto.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">Metrônomo</string>
     <string name="opt_metronome_switch_title">Switch de metrônomo</string>
@@ -249,19 +266,12 @@
     <string name="opt_clearprops_summary">Força a limpeza de todos os dados relacionados a mapas (ex: offsets de mapas específicos)</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">Playfield (Zona de jogo)</string>
-    <string name="opt_setplayfield_title">Selecionar tamanho do playfield</string>
-    <string name="opt_setplayfield_summary">Mude o tamanho do seu playfield</string>
-
-    <string name="opt_shrink_playfield_downwards_title">Reduzir playfield para baixo</string>
-    <string name="opt_shrink_playfield_downwards_summary">Reduzirá seu playfield um pouco para baixo. (UNRANKED [NÃO RANKEADO])</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">Gameplay</string>
 
     <string name="block_area_preference_title">Gerenciar áreas bloqueadas</string>
     <string name="block_area_preference_summary">Gerencie lugares da sua tela que quando tocados serão ignorados durante sua gameplay</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">Gameplay</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Remover o "slider lock" e o "spinner lock"</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Tenta remover o "Slider Lock" e "Spinner Lock". O estilo 2B é jogável agora. (UNRANKED [NÃO RANKEADO])</string>
 
@@ -273,8 +283,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Sincronização</string>
-    <string name="opt_syncmusic_title">Sincronização de baixa latência</string>
-    <string name="opt_syncmusic_summary">"Desabilite se seu dispositivo não suporta áudio de baixa latência"</string>
 
     <string name="opt_fix_frame_offset_title">Corrigir um offset aleátorio.</string>
     <string name="opt_fix_frame_offset_summary">Tenta corrigir um offset entre tempo de input e o tempo de um frame.</string>
