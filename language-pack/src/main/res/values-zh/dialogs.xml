@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="dialog_exit_yes">确认退出</string>
-  <string name="dialog_exit_no">取消退出</string>
+  <string name="dialog_exit_yes">确定</string>
+  <string name="dialog_exit_no">取消</string>
   <string name="dialog_exit_message">你确定要退出游戏吗？</string>
   <string name="dialog_visit_osu_website">你确定想要访问 osu! 官方网站吗？</string>
-  <string name="dialog_visit_osudroid_profile_page">你确定想要访问你的个人详情页吗？</string>
+  <string name="dialog_visit_osudroid_profile_page">你确定想要访问你的个人主页吗？</string>
   <string name="dialog_visit_osudroid_website">你确定想要访问 osu!droid 官方网站吗？</string>
-  <string name="hudEditor_modal_title">HUD 编辑器</string>
+  <string name="hudEditor_modal_title">皮肤元素编辑器</string>
   <string name="hudEditor_modal_save">退出并保存更改</string>
-  <string name="hudEditor_modal_discard">撤销更改</string>
-  <string name="hudEditor_modal_reset">重设为默认</string>
-  <string name="hudEditor_modal_cancel">取消</string>
-  <string name="hudEditor_back_for_menu">按下返回以显示 HUD 编辑器菜单</string>
-  <string name="hudEditor_saving">保存更改中…</string>
-  <string name="hudEditor_saved">已保存更改！</string>
-  <string name="hudEditor_discarded">已撤销更改！</string>
-  <string name="hudEditor_reset">已重设 HUD 为默认！</string>
-  <string name="config_backup_info_success">已成功导出配置文件</string>
+  <string name="hudEditor_modal_discard">撤销所有更改</string>
+  <string name="hudEditor_modal_reset">还原为默认设置</string>
+  <string name="hudEditor_modal_cancel">返回</string>
+  <string name="hudEditor_back_for_menu">按下返回键以显示皮肤元素编辑器菜单</string>
+  <string name="hudEditor_saving">正在保存</string>
+  <string name="hudEditor_saved">更改已保存</string>
+  <string name="hudEditor_discarded">更改已撤销</string>
+  <string name="hudEditor_reset">已将所有皮肤元素还原为默认设置</string>
+  <string name="config_backup_info_success">导出配置文件成功</string>
   <string name="config_backup_info_fail">导出配置文件失败</string>
-  <string name="config_backup_restore_info_success">已成功导入配置文件</string>
+  <string name="config_backup_restore_info_success">导入配置文件成功</string>
   <string name="config_backup_restore_info_fail">导入配置文件失败</string>
   <!-- All new strings should present below for better managing locals... -->
 </resources>
