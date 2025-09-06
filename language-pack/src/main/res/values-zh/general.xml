@@ -3,28 +3,28 @@
   <string name="markdown_title">Markdown 标题</string>
   <string name="changelog_title">更新日志</string>
   <string name="message_info_multitouch">你的设备可能不支持多指触屏</string>
-  <string name="message_low_storage_space">储存容量低，剩余 %s GB。这可能导致重播、成绩提交的 bug。</string>
+  <string name="message_low_storage_space">储存容量低，剩余 %s GB。这可能导致播放回放或提交成绩时出现 Bug。</string>
   <string name="message_error">错误：%s</string>
   <string name="message_error_open">无法打开 %s</string>
   <string name="message_error_createdir">无法创建 %s</string>
-  <string name="message_error_sdcard">未挂载外部存储</string>
-  <string name="message_error_sdcardread">外部存储只读</string>
-  <string name="message_video_custom_speed_unsupported">此设备不支持自定义播放速度</string>
+  <string name="message_error_sdcard">外部存储未被正确加载</string>
+  <string name="message_error_sdcardread">外部存储为只读状态</string>
+  <string name="message_video_custom_speed_unsupported">此设备不支持自定义视频播放速度</string>
   <!-- Crash -->
-  <string name="crash">非常抱歉，本游戏遇到了未预计的错误且需要关闭</string>
+  <string name="crash">抱歉，游戏发生意外错误且需要关闭</string>
   <!-- Accessibility -->
-  <string name="accessibility_detector_title">禁用辅助功能</string>
-  <string name="accessibility_detector_message">以下辅助功能必须关闭以进行游戏：</string>
-  <string name="accessibility_detector_settings">前往辅助功能设置</string>
+  <string name="accessibility_detector_title">禁用无障碍功能</string>
+  <string name="accessibility_detector_message">必须关闭以下无障碍功能才能进入游戏</string>
+  <string name="accessibility_detector_settings">前往无障碍功能设置</string>
   <string name="accessibility_detector_exit">退出游戏</string>
   <!-- Online -->
-  <string name="online_loadrecord">正在加载记录详情…</string>
-  <string name="multiplayer_not_online">你必须登录至服务器以进行多人游戏！</string>
+  <string name="online_loadrecord">正在加载成绩详情…</string>
+  <string name="multiplayer_not_online">必须连接到服务器之后才能进行多人游戏！</string>
   <!-- Color Picker -->
-  <string name="press_color_to_apply">点击颜色以应用</string>
+  <string name="press_color_to_apply">点击下方颜色应用为 Combo 颜色</string>
   <!-- Beatmap downloader -->
-  <string name="beatmap_downloader_cancel">取消</string>
-  <string name="beatmap_downloader_connecting">正在连接服务器…</string>
+  <string name="beatmap_downloader_cancel">取消下载谱面</string>
+  <string name="beatmap_downloader_connecting">正在连接…</string>
   <string name="beatmap_downloader_downloading">正在下载谱面 %s…</string>
   <string name="beatmap_downloader_importing">正在导入谱面 %s…</string>
   <!-- Ranked status -->
@@ -32,7 +32,7 @@
     <font color="#41FF64">上架</font>
   </string>
   <string name="ranked_status_approved">
-    <font color="#41FF64">已认可</font>
+    <font color="#41FF64">认可</font>
   </string>
   <string name="ranked_status_qualified">
     <font color="#64F2FF">过审</font>
@@ -50,29 +50,29 @@
     <font color="#FFFFFF">坟场</font>
   </string>
   <!-- Library -->
-  <string name="library_cleared">已清除缓存</string>
-  <string name="library_importing">正在导入谱面…</string>
-  <string name="library_importing_several">已找到 %s 个已存档的谱面，导入中…</string>
-  <string name="library_skin_importing_several">已找到 %s 个已存档的皮肤，导入中…</string>
-  <string name="library_imported">“%s”已被导入！</string>
-  <string name="message_loaded_skin">已成功应用新皮肤！</string>
+  <string name="library_cleared">缓存已清除</string>
+  <string name="library_importing">正在导入谱面</string>
+  <string name="library_importing_several">已找到 %s 个谱面文件，正在导入</string>
+  <string name="library_skin_importing_several">已找到 %s 个皮肤文件，正在导入</string>
+  <string name="library_imported">“%s”导入成功</string>
+  <string name="message_loaded_skin">新皮肤应用成功</string>
   <string name="message_error_dir_not_found">未找到文件夹</string>
-  <string name="file_integrity_tampered">文件完整性检查失败，中止游戏</string>
+  <string name="file_integrity_tampered">游戏文件完整性检查失败，游戏中止</string>
   <!-- Parser -->
   <string name="beatmap_parser_cannot_open_file" formatted="false">无法加载 %s：无法打开谱面文件</string>
   <!-- Block area manager fragment -->
-  <string name="block_area_editor_fragment_add">添加区域</string>
-  <string name="block_area_editor_fragment_reset">重置</string>
-  <string name="block_area_editor_fragment_done">完成</string>
+  <string name="block_area_editor_fragment_add">添加屏蔽区域</string>
+  <string name="block_area_editor_fragment_reset">重置区域</string>
+  <string name="block_area_editor_fragment_done">完成并应用</string>
   <!-- Updater -->
-  <string name="update_dialog_message">有新版本可用</string>
+  <string name="update_dialog_message">发现新版本</string>
   <string name="update_dialog_button_update">现在更新</string>
-  <string name="update_info_checking">正在检查更新…</string>
-  <string name="update_info_check_failed">无法检查更新，服务器或你的网络连接可能不可用</string>
-  <string name="update_info_downloading">正在下载更新… %d%%</string>
-  <string name="update_info_download_canceled">已取消下载</string>
+  <string name="update_info_checking">正在检查更新</string>
+  <string name="update_info_check_failed">检查更新失败，可能服务器未响应或无网络连接</string>
+  <string name="update_info_downloading">正在下载最新安装包… %d%%</string>
+  <string name="update_info_download_canceled">下载已取消</string>
   <string name="update_info_download_failed">下载失败，请检查你的网络连接</string>
-  <string name="update_info_updated">已成功安装更新！</string>
+  <string name="update_info_updated">安装更新成功</string>
   <string name="update_info_latest">已是最新版本</string>
   <!-- All new strings should present below for better managing locals… -->
 </resources>
