@@ -125,6 +125,20 @@
     <string name="opt_combo_colors_title">コンボカラー</string>
     <string name="opt_combo_colors_summary">カスタムコンボカラーを使用します。</string>
 
+    <!-- Playfield -->
+    <string name="opt_category_playfield">プレイ領域</string>
+    <string name="opt_setplayfield_title">プレイ領域の調整</string>
+    <string name="opt_setplayfield_summary">プレイ領域の調整します。</string>
+
+    <string name="opt_display_playfield_border_title">Display playfield border</string>
+    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">カーソル</string>
@@ -188,6 +202,9 @@
     <string name="opt_offset_title">全体的なオフセット</string>
     <string name="opt_offset_summary">オフセット単位:ms (この時間だけ曲がノートより早く始まります。)</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">メトロノーム</string>
     <string name="opt_metronome_switch_title">メトロノーム</string>
@@ -249,19 +266,12 @@
     <string name="opt_clearprops_summary">マップ専用データをリセットします。(例： マップのオフセット)</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">プレイ領域</string>
-    <string name="opt_setplayfield_title">プレイ領域の調整</string>
-    <string name="opt_setplayfield_summary">プレイ領域の調整します。</string>
-
-    <string name="opt_shrink_playfield_downwards_title">プレイ領域のサイズ調整</string>
-    <string name="opt_shrink_playfield_downwards_summary">プレイ領域のサイズを調整します。</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">ゲームプレイ</string>
 
     <string name="block_area_preference_title">入力無視エリア</string>
     <string name="block_area_preference_summary">プレイ中タッチ入力を無視するエリアを設定します。</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">ゲームプレイ</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">スライダー・スピナーロックの解除 (ランク無効)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">スライダー・スピナーロックを解除します。</string>
 
@@ -273,8 +283,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">シンクロ</string>
-    <string name="opt_syncmusic_title">低レイテンシ</string>
-    <string name="opt_syncmusic_summary">デバイスが低レイテンシオーディオをサポートしていない場合、解除してください。</string>
 
     <string name="opt_fix_frame_offset_title">オフセット固定</string>
     <string name="opt_fix_frame_offset_summary">可能な限り、入力とフレームの間にオフセットを固定します。</string>

@@ -125,6 +125,20 @@
     <string name="opt_combo_colors_title">콤보 색상</string>
     <string name="opt_combo_colors_summary">사용자 지정 콤보 색상을 사용합니다.</string>
 
+    <!-- Playfield -->
+    <string name="opt_category_playfield">플레이영역</string>
+    <string name="opt_setplayfield_title">플레이영역 크기 설정</string>
+    <string name="opt_setplayfield_summary">플레이영역 크기를 변경합니다.</string>
+
+    <string name="opt_display_playfield_border_title">Display playfield border</string>
+    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">커서</string>
@@ -188,6 +202,9 @@
     <string name="opt_offset_title">글로벌 오프셋</string>
     <string name="opt_offset_summary">노래 오프셋 단위:ms (클수록 노래가 맵보다 빨리 시작됩니다.)</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">메트로놈</string>
     <string name="opt_metronome_switch_title">메트로놈</string>
@@ -249,19 +266,12 @@
     <string name="opt_clearprops_summary">모든 맵 전용 데이터(예: 맵별 오프셋)를 강제로 초기화합니다.</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">플레이영역</string>
-    <string name="opt_setplayfield_title">플레이영역 크기 설정</string>
-    <string name="opt_setplayfield_summary">플레이영역 크기를 변경합니다.</string>
-
-    <string name="opt_shrink_playfield_downwards_title">플레이영역을 아래로 축소</string>
-    <string name="opt_shrink_playfield_downwards_summary">플레이영역을 아래로 축소합니다.</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">게임플레이</string>
 
     <string name="block_area_preference_title">입력 블록 영역 관리</string>
     <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">게임플레이</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">슬라이더 및 스피너 잠금 해제(언랭크)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">슬라이더 및 스피너 잠금을 해제합니다. 2B 스타일 플레이가 가능합니다.</string>
 
@@ -273,8 +283,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">동기화</string>
-    <string name="opt_syncmusic_title">저지연 동기화</string>
-    <string name="opt_syncmusic_summary">기기가 저지연 오디오를 지원하지 않는다면 비활성화 하세요.</string>
 
     <string name="opt_fix_frame_offset_title">무작위 오프셋 수정</string>
     <string name="opt_fix_frame_offset_summary">입력 시간과 프레임 시간 사이의 오프셋을 수정합니다.</string>

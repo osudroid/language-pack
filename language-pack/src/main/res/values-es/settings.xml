@@ -125,6 +125,20 @@
     <string name="opt_combo_colors_title">Colores de combo</string>
     <string name="opt_combo_colors_summary">Personaliza los colores de cada combo</string>
 
+    <!-- Playfield -->
+    <string name="opt_category_playfield">Campo de juego</string>
+    <string name="opt_setplayfield_title">Tamaño del campo de juego</string>
+    <string name="opt_setplayfield_summary">Cambia el tamaño del campo de juego</string>
+
+    <string name="opt_display_playfield_border_title">Display playfield border</string>
+    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">Cursor</string>
@@ -188,6 +202,9 @@
     <string name="opt_offset_title">Configurar offset</string>
     <string name="opt_offset_summary">Offset de la música en ms (valores positivos indican golpes más tempranos)</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">Metronomo</string>
     <string name="opt_metronome_switch_title">Metrónomo</string>
@@ -249,19 +266,12 @@
     <string name="opt_clearprops_summary">Elimina todos los datos de cada mapa (ej: offset, carpeta guardada, favs...)</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">Campo de juego</string>
-    <string name="opt_setplayfield_title">Tamaño del campo de juego</string>
-    <string name="opt_setplayfield_summary">Cambia el tamaño del campo de juego</string>
-
-    <string name="opt_shrink_playfield_downwards_title">Mover el campo de juego hacia abajo</string>
-    <string name="opt_shrink_playfield_downwards_summary">Hace que el campo de juego se mueva a la parte inferior de la pantalla</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">Gameplay</string>
 
     <string name="block_area_preference_title">Administra zonas bloqueadas de la pantalla</string>
     <string name="block_area_preference_summary">Administra ciertas zonas en las que presionar será ignorado por el juego.</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">Gameplay</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Eliminar el bloqueo de slider y spinner (unranked)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Intenta quitar el bloqueo del slider y del spinner. Ahora puedes jugar mapas de estilo 2b.</string>
 
@@ -273,8 +283,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Sincronizacion</string>
-    <string name="opt_syncmusic_title">Sincronización de baja latencia</string>
-    <string name="opt_syncmusic_summary">Desactivalo si tu dispositivo no tiene soporte para audio de baja latencia</string>
 
     <string name="opt_fix_frame_offset_title">Arreglar problema de offset</string>
     <string name="opt_fix_frame_offset_summary">Se intentará corregir el offset entre el input y el frame.</string>

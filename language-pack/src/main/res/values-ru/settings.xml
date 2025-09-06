@@ -128,6 +128,20 @@
     <string name="opt_combo_colors_title">Цвета комбо</string>
     <string name="opt_combo_colors_summary">Установите собственные цвета комбо!</string>
 
+    <!-- Playfield -->
+    <string name="opt_category_playfield">Игровое поле</string>
+    <string name="opt_setplayfield_title">Изменить размер</string>
+    <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
+
+    <string name="opt_display_playfield_border_title">Display playfield border</string>
+    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">Курсор</string>
@@ -191,6 +205,9 @@
     <string name="opt_offset_title">Глобальный оффсет</string>
     <string name="opt_offset_summary">Смещение музыки относительно карты</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">Метроном</string>
     <string name="opt_metronome_switch_title">Метроном</string>
@@ -252,19 +269,12 @@
     <string name="opt_clearprops_summary">Сбросить настройки всех карт (например, смещение трека).</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">Игровое поле</string>
-    <string name="opt_setplayfield_title">Изменить размер</string>
-    <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
-
-    <string name="opt_shrink_playfield_downwards_title">Перенести уменьшенную игровую область вниз</string>
-    <string name="opt_shrink_playfield_downwards_summary">Если область уменьшена, то она будет сдвинута вниз.</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">Геймплей</string>
 
     <string name="block_area_preference_title">Настройки области блокировки нажатий</string>
     <string name="block_area_preference_summary">Добавьте область, которая не будет реагировать на нажатия.</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">Геймплей</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">2B Mode (не на рейтинг)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Блокировка нажатий во время активных слайдеров будет снята. Карты стиля 2B и Aspire будут играбельны, но ваш рекорд не будет отправлен на сервер.</string>
 
@@ -276,8 +286,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>
-    <string name="opt_syncmusic_title">Синхронизация с низкой задержкой</string>
-    <string name="opt_syncmusic_summary">"Отключите, если ваше устройство не поддерживает аудио с низкой задержкой."</string>
 
     <string name="opt_fix_frame_offset_title">Исправить случайное смещение</string>
     <string name="opt_fix_frame_offset_summary">Попытка исправить смещение между временем ввода и временем кадра.</string>

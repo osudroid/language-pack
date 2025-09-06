@@ -98,6 +98,16 @@
   <!-- Combo Colors-->
   <string name="opt_combo_colors_title">Combo 颜色</string>
   <string name="opt_combo_colors_summary">使用自定义的 Combo 颜色</string>
+  <!-- Playfield -->
+  <string name="opt_category_playfield">游玩区域</string>
+  <string name="opt_setplayfield_title">调整游玩区域大小</string>
+  <string name="opt_setplayfield_summary">调整游玩区域大小</string>
+  <string name="opt_display_playfield_border_title">Display playfield border</string>
+  <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+  <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+  <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+  <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+  <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
   <!-- Graphics -->
   <!-- Cursor -->
   <string name="opt_category_cursor">光标</string>
@@ -144,6 +154,8 @@
   <string name="opt_category_offset">延时</string>
   <string name="opt_offset_title">全局延时</string>
   <string name="opt_offset_summary">毫秒计音乐延时（负值则为提前）</string>
+  <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+  <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
   <!-- Metronome -->
   <string name="opt_category_metronome">节拍器</string>
   <string name="opt_metronome_switch_title">节拍器</string>
@@ -192,16 +204,10 @@
   <string name="opt_clearprops_title">清除地图设置</string>
   <string name="opt_clearprops_summary">强制清除所有地图设置信息（例如地图延时）</string>
   <!-- Input -->
-  <!-- Playfield -->
-  <string name="opt_category_playfield">游玩区域</string>
-  <string name="opt_setplayfield_title">调整游玩区域大小</string>
-  <string name="opt_setplayfield_summary">调整游玩区域大小</string>
-  <string name="opt_shrink_playfield_downwards_title">置底游玩区域</string>
-  <string name="opt_shrink_playfield_downwards_summary">把游玩区域往屏幕下方放置</string>
-  <string name="block_area_preference_title">管理屏蔽输入区域</string>
-  <string name="block_area_preference_summary">管理游戏过程中屏幕内将被屏蔽输入的特定区域</string>
   <!-- Gameplay -->
   <string name="opt_category_gameplay">游戏玩法</string>
+  <string name="block_area_preference_title">Manage input block areas</string>
+  <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
   <string name="opt_remove_sliderlock_spinnerlock_title">移除滑条锁和转盘锁（不计入排名）</string>
   <string name="opt_remove_sliderlock_spinnerlock_summary">尝试移除滑条锁和转盘锁，现在可以游玩 2B 风格</string>
   <string name="opt_backButtonPressTime_title">退出按钮按压延迟</string>
@@ -210,8 +216,6 @@
   <string name="opt_seekBarVibrateIntensity_summary">更改震动强度</string>
   <!-- Synchronisation  -->
   <string name="opt_category_synchronization">同步</string>
-  <string name="opt_syncmusic_title">低延迟同步</string>
-  <string name="opt_syncmusic_summary">在不支持本特性的手机上启用可能导致性能下降</string>
   <string name="opt_fix_frame_offset_title">修复随机延迟</string>
   <string name="opt_fix_frame_offset_summary">修复一个由点击时间和帧开始时间差造成的延迟，不完全保证效果</string>
   <!-- Advanced -->

@@ -125,6 +125,20 @@
     <string name="opt_combo_colors_title">Warna kombo</string>
     <string name="opt_combo_colors_summary">Gunakan warna kombo yang telah ditentukan</string>
 
+    <!-- Playfield -->
+    <string name="opt_category_playfield">Playfield</string>
+    <string name="opt_setplayfield_title">Set playfield size</string>
+    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+
+    <string name="opt_display_playfield_border_title">Display playfield border</string>
+    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+
+    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+
+    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">Cursor</string>
@@ -188,6 +202,9 @@
     <string name="opt_offset_title">Global offset</string>
     <string name="opt_offset_summary">Offset musik dari ms (nilai positif berarti lebih awal)</string>
 
+    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+
     <!-- Metronome -->
     <string name="opt_category_metronome">Metronome</string>
     <string name="opt_metronome_switch_title">Metronome switch</string>
@@ -249,19 +266,12 @@
     <string name="opt_clearprops_summary">Bersihkan seluruh map dengan data spesifik secara paksa (seperti offset tiap map)</string>
 
 <!-- Input -->
-    <!-- Playfield -->
-    <string name="opt_category_playfield">Playfield</string>
-    <string name="opt_setplayfield_title">Set playfield size</string>
-    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
-
-    <string name="opt_shrink_playfield_downwards_title">Shrink playfield downwards</string>
-    <string name="opt_shrink_playfield_downwards_summary">Shrink playfield downwards</string>
+    <!-- Gameplay -->
+    <string name="opt_category_gameplay">Gameplay</string>
 
     <string name="block_area_preference_title">Manage input block areas</string>
     <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
 
-    <!-- Gameplay -->
-    <string name="opt_category_gameplay">Gameplay</string>
     <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
     <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
 
@@ -273,8 +283,6 @@
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Synchronization</string>
-    <string name="opt_syncmusic_title">Sinkronisasi latensi rendah</string>
-    <string name="opt_syncmusic_summary">"Nonaktifkan apabila perangkat Anda tidak mendukung audio berlatensi rendah"</string>
 
     <string name="opt_fix_frame_offset_title">Perbaiki offset acak</string>
     <string name="opt_fix_frame_offset_summary">Memperbaiki offset antara waktu input and waktu frame.</string>
