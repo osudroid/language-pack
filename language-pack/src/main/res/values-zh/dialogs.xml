@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="dialog_exit_yes">Yes</string>
-    <string name="dialog_exit_no">No</string>
-    <string name="dialog_exit_message">Are you sure you want to exit the game?</string>
-
-    <string name="dialog_visit_osu_website">Do you want to visit the official osu! website?</string>
-    <string name="dialog_visit_osudroid_profile_page">Do you want to visit your profile page?</string>
-    <string name="dialog_visit_osudroid_website">Do you want to visit the official osu!droid website?</string>
-
-    <string name="hudEditor_modal_title">HUD Editor</string>
-    <string name="hudEditor_modal_save">Exit and save changes</string>
-    <string name="hudEditor_modal_discard">Discard changes</string>
-    <string name="hudEditor_modal_reset">Reset to default</string>
-    <string name="hudEditor_modal_cancel">Cancel</string>
-
-    <string name="hudEditor_back_for_menu">Press back to show HUD editor menu.</string>
-    <string name="hudEditor_saving">Saving changes...</string>
-    <string name="hudEditor_saved">Changes saved!</string>
-    <string name="hudEditor_discarded">Changes discarded!</string>
-    <string name="hudEditor_reset">HUD set to default!</string>
-
-    <string name="config_backup_info_success">Successfully exported the options file</string>
-    <string name="config_backup_info_fail">Failed to export the options file</string>
-    <string name="config_backup_restore_info_success">Successfully imported the options file</string>
-    <string name="config_backup_restore_info_fail">Failed to import the options file</string>
-
-<!-- All new strings should present below for better managing locals... -->
-
+  <string name="dialog_exit_yes">确定</string>
+  <string name="dialog_exit_no">取消</string>
+  <string name="dialog_exit_message">你确定要退出游戏吗？</string>
+  <string name="dialog_visit_osu_website">你确定想要访问 osu! 官方网站吗？</string>
+  <string name="dialog_visit_osudroid_profile_page">你确定想要访问你的个人主页吗？</string>
+  <string name="dialog_visit_osudroid_website">你确定想要访问 osu!droid 官方网站吗？</string>
+  <string name="hudEditor_modal_title">皮肤元素编辑器</string>
+  <string name="hudEditor_modal_save">退出并保存更改</string>
+  <string name="hudEditor_modal_discard">撤销所有更改</string>
+  <string name="hudEditor_modal_reset">还原为默认设置</string>
+  <string name="hudEditor_modal_cancel">返回</string>
+  <string name="hudEditor_back_for_menu">按下返回键以显示皮肤元素编辑器菜单</string>
+  <string name="hudEditor_saving">正在保存</string>
+  <string name="hudEditor_saved">更改已保存</string>
+  <string name="hudEditor_discarded">更改已撤销</string>
+  <string name="hudEditor_reset">已将所有皮肤元素还原为默认设置</string>
+  <string name="config_backup_info_success">导出配置文件成功</string>
+  <string name="config_backup_info_fail">导出配置文件失败</string>
+  <string name="config_backup_restore_info_success">导入配置文件成功</string>
+  <string name="config_backup_restore_info_fail">导入配置文件失败</string>
+  <!-- All new strings should present below for better managing locals... -->
 </resources>

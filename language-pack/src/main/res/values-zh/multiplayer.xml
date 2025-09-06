@@ -1,81 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-<!-- Details -->
-    <string name="mp_room_category_details">Details</string>
-
-    <string name="mp_room_name_title">Room name</string>
-    <string name="mp_room_name_summary">Change the room\'s name.</string>
-
-    <string name="mp_room_password_title">Room password</string>
-    <string name="mp_room_password_summary">Change the room\'s password. If empty, the room will be public.</string>
-
-    <string name="mp_room_max_players_title">Maximum Players</string>
-    <string name="mp_room_max_players_summary">Set the maximum number of players allowed in the room</string>
-
-    <!-- Variables -->
-    <string name="mp_room_category_variables">Variables</string>
-
-    <string name="mp_room_free_mods_title">Enable free mods</string>
-    <string name="mp_room_free_mods_summary">Allow players to choose mods except speed-changing mods.</string>
-
-    <string name="mp_room_versus_mode_title">Team mode</string>
-    <string name="mp_room_versus_mode_summary">Change the room versus mode.</string>
-    <string-array name="mp_team_versus_names">
-        <item>Head to Head</item>
-        <item>Team vs Team</item>
-    </string-array>
-    <string-array name="mp_team_versus_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-
-    <string name="mp_room_win_condition_title">Win condition</string>
-    <string name="mp_room_win_condition_summary">Change the room win condition.</string>
-    <string-array name="mp_win_condition_names">
-        <item>Score V1</item>
-        <item>Accuracy</item>
-        <item>Max combo</item>
-        <item>Score V2</item>
-    </string-array>
-    <string-array name="mp_win_condition_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-
-    <!-- Share -->
-    <string name="mp_room_category_share">Share</string>
-
-    <string name="mp_room_link_title">Get invite link</string>
-    <string name="mp_room_link_summary">Copy invite link to clipboard</string>
-
-
-<!-- Multiplayer Player Settings -->
-    <!-- Team -->
-    <string name="mp_room_category_teams">Team</string>
-
-    <string name="mp_room_category_teams_title">Team</string>
-    <string name="mp_room_category_teams_summary">Change your team.</string>
-    <string-array name="mp_team_names">
-        <item>Red</item>
-        <item>Blue</item>
-    </string-array>
-    <string-array name="mp_team_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-
-    <!-- In Game -->
-    <string name="mp_room_category_in_game">In-game</string>
-
-    <string name="mp_room_enable_score_submission_title">Enable score submission</string>
-    <string name="mp_room_enable_score_submission_summary">Submit your score at the end of the round if you did not fail</string>
-
-    <string name="mp_room_nightcore_title">Use NightCore</string>
-    <string name="mp_room_nightcore_summary">Enable NightCore mod instead when DoubleTime is enabled</string>
-
-<!-- All new strings should present below for better managing locals... -->
-
+  <!-- Details -->
+  <string name="mp_room_category_details">详情</string>
+  <string name="mp_room_name_title">房间名称</string>
+  <string name="mp_room_name_summary">修改房间名称</string>
+  <string name="mp_room_password_title">房间密码</string>
+  <string name="mp_room_password_summary">修改房间密码，若空则公开</string>
+  <string name="mp_room_max_players_title">最大玩家数</string>
+  <string name="mp_room_max_players_summary">设置此房间允许的最大玩家数</string>
+  <!-- Variables -->
+  <string name="mp_room_category_variables">变量</string>
+  <string name="mp_room_free_mods_title">启用自定义 Mod</string>
+  <string name="mp_room_free_mods_summary">允许玩家选择除了影响速度的 Mod</string>
+  <string name="mp_room_versus_mode_title">团队模式</string>
+  <string name="mp_room_versus_mode_summary">修改房间对战模式</string>
+  <string-array name="mp_team_versus_names">
+    <item>各自为营</item>
+    <item>团队对战</item>
+  </string-array>
+  <string-array name="mp_team_versus_values">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string name="mp_room_win_condition_title">获胜条件</string>
+  <string name="mp_room_win_condition_summary">修改房间获胜条件</string>
+  <string-array name="mp_win_condition_names">
+    <item>V1 记分方式</item>
+    <item>准确率</item>
+    <item>最大连击数</item>
+    <item>V2 记分方式</item>
+  </string-array>
+  <string-array name="mp_win_condition_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+  <!-- Share -->
+  <string name="mp_room_category_share">分享</string>
+  <string name="mp_room_link_title">获取邀请链接</string>
+  <string name="mp_room_link_summary">复制邀请链接至剪切板</string>
+  <!-- Multiplayer Player Settings -->
+  <!-- Team -->
+  <string name="mp_room_category_teams">团队</string>
+  <string name="mp_room_category_teams_title">团队</string>
+  <string name="mp_room_category_teams_summary">修改你的团队</string>
+  <string-array name="mp_team_names">
+    <item>红</item>
+    <item>蓝</item>
+  </string-array>
+  <string-array name="mp_team_values">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <!-- In Game -->
+  <string name="mp_room_category_in_game">游戏内</string>
+  <string name="mp_room_enable_score_submission_title">启用成绩提交</string>
+  <string name="mp_room_enable_score_submission_summary">若在回合后未失败，提交你的成绩</string>
+  <string name="mp_room_nightcore_title">使用 NightCore</string>
+  <string name="mp_room_nightcore_summary">当 DoubleTime 启用时启用 NightCore</string>
+<!-- Multiplayer Lobby -->
+  <string name="multiplayer_lobby_back">Back</string>
+  <string name="multiplayer_lobby_create_room">Create room</string>
+  <string name="multiplayer_lobby_create_room_accept">Create</string>
+  <string name="multiplayer_lobby_create_room_cancel">Cancel</string>
+  <string name="multiplayer_lobby_create_room_name_default">%s\'s room</string>
+  <string name="multiplayer_lobby_refresh">Refresh</string>
+  <string name="multiplayer_lobby_no_rooms">No rooms available, create a new one!</string>
+  <string name="multiplayer_lobby_no_results">No results found for the current search.</string>
+  <string name="multiplayer_lobby_fetch_error_toast">Failed to obtain rooms: %s</string>
+  <string name="multiplayer_lobby_fetch_error">Failed to obtain rooms</string>
+  <string name="multiplayer_lobby_room_name">Room name</string>
+  <string name="multiplayer_lobby_room_password">Room password</string>
+  <string name="multiplayer_lobby_room_capacity">Room capacity</string>
+  <string name="multiplayer_lobby_join_room">Join room</string>
+  <string name="multiplayer_lobby_join_room_accept">Join</string>
+  <string name="multiplayer_lobby_join_room_cancel">Cancel</string>
+  <string name="multiplayer_room_head_to_head">Head to head</string>
+  <string name="multiplayer_room_team_versus">Team versus</string>
+  <string name="multiplayer_room_players">Players</string>
+  <string name="multiplayer_room_score_v1">Score V1</string>
+  <string name="multiplayer_room_score_v2">Score V2</string>
+  <string name="multiplayer_room_status_idle">Idle</string>
+  <string name="multiplayer_room_status_changing_beatmap">Changing beatmap</string>
+  <string name="multiplayer_room_status_playing">Playing</string>
+  <string name="multiplayer_room_highest_accuracy">Highest accuracy</string>
+  <string name="multiplayer_room_maximum_combo">Maximum combo</string>
+  <string name="multiplayer_room_no_players">No players</string>
+  <string name="multiplayer_room_free_mods">Free mods</string>
+  <!-- All new strings should present below for better managing locals... -->
 </resources>

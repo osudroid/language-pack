@@ -78,34 +78,34 @@
 
 
 <!-- Multiplayer Lobby -->
-    <string name="multiplayer_lobby_back">Voltar</string>
-    <string name="multiplayer_lobby_create_room">Criar sala online</string>
-    <string name="multiplayer_lobby_create_room_accept">Criar</string>
-    <string name="multiplayer_lobby_create_room_cancel">Cancelar</string>
-    <string name="multiplayer_lobby_create_room_name_default">Sala de %s\'s</string>
-    <string name="multiplayer_lobby_refresh">Recarregar lobby</string>
-    <string name="multiplayer_lobby_no_rooms">Sem salas online, por que você não cria uma?</string>
-    <string name="multiplayer_lobby_no_results">Sem resultados de acordo com a pesquisa.</string>
-    <string name="multiplayer_lobby_fetch_error_toast">Falha ao carregar salas online: %s</string>
-    <string name="multiplayer_lobby_fetch_error">Falha ao carregar lobby</string>
-    <string name="multiplayer_lobby_room_name">Nome da Room</string>
-    <string name="multiplayer_lobby_room_password">Senha (vazio tornará a sala pública)</string>
-    <string name="multiplayer_lobby_room_capacity">Capacidade da room</string>
-    <string name="multiplayer_lobby_join_room">Entrar na sala</string>
-    <string name="multiplayer_lobby_join_room_accept">Entrar</string>
-    <string name="multiplayer_lobby_join_room_cancel">Cancelar</string>
-    <string name="multiplayer_room_head_to_head">Head to head (Um por um)</string>
-    <string name="multiplayer_room_team_versus">Team versus (Modo Team)</string>
-    <string name="multiplayer_room_players">Players</string>
-    <string name="multiplayer_room_score_v1">Score V1</string>
-    <string name="multiplayer_room_score_v2">Score V2</string>
-    <string name="multiplayer_room_status_idle">No lobby</string>
-    <string name="multiplayer_room_status_changing_beatmap">Mudando o beatmap</string>
-    <string name="multiplayer_room_status_playing">Jogando</string>
-    <string name="multiplayer_room_highest_accuracy">Accuracy (/Precisão) mais alta</string>
-    <string name="multiplayer_room_maximum_combo">Combo máximo</string>
-    <string name="multiplayer_room_no_players">Sem jogadores</string>
-    <string name="multiplayer_room_free_mods">Free Mods (Mods livres)</string>
+<string name="multiplayer_lobby_back">Voltar</string>
+<string name="multiplayer_lobby_create_room">Criar sala online</string>
+<string name="multiplayer_lobby_create_room_accept">Criar</string>
+<string name="multiplayer_lobby_create_room_cancel">Cancelar</string>
+<string name="multiplayer_lobby_create_room_name_default">Sala de %s\'s</string>
+<string name="multiplayer_lobby_refresh">Recarregar lobby</string>
+<string name="multiplayer_lobby_no_rooms">Sem salas online, por que você não cria uma?</string>
+<string name="multiplayer_lobby_no_results">Sem resultados de acordo com a pesquisa.</string>
+<string name="multiplayer_lobby_fetch_error_toast">Falha ao carregar salas online: %s</string>
+<string name="multiplayer_lobby_fetch_error">Falha ao carregar lobby</string>
+<string name="multiplayer_lobby_room_name">Nome da Room</string>
+<string name="multiplayer_lobby_room_password">Senha (vazio tornará a sala pública)</string>
+<string name="multiplayer_lobby_room_capacity">Capacidade da room</string>
+<string name="multiplayer_lobby_join_room">Entrar na sala</string>
+<string name="multiplayer_lobby_join_room_accept">Entrar</string>
+<string name="multiplayer_lobby_join_room_cancel">Cancelar</string>
+<string name="multiplayer_room_head_to_head">Head to head (Um por um)</string>
+<string name="multiplayer_room_team_versus">Team versus (Modo Team)</string>
+<string name="multiplayer_room_players">Players</string>
+<string name="multiplayer_room_score_v1">Score V1</string>
+<string name="multiplayer_room_score_v2">Score V2</string>
+<string name="multiplayer_room_status_idle">No lobby</string>
+<string name="multiplayer_room_status_changing_beatmap">Mudando o beatmap</string>
+<string name="multiplayer_room_status_playing">Jogando</string>
+<string name="multiplayer_room_highest_accuracy">Accuracy (/Precisão) mais alta</string>
+<string name="multiplayer_room_maximum_combo">Combo máximo</string>
+<string name="multiplayer_room_no_players">Sem jogadores</string>
+<string name="multiplayer_room_free_mods">Free Mods (Mods livres)</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
