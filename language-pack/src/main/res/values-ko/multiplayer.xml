@@ -78,34 +78,34 @@
 
 
 <!-- Multiplayer Lobby -->
-    <string name="multiplayer_lobby_back">Back</string>
-    <string name="multiplayer_lobby_create_room">Create room</string>
-    <string name="multiplayer_lobby_create_room_accept">Create</string>
-    <string name="multiplayer_lobby_create_room_cancel">Cancel</string>
-    <string name="multiplayer_lobby_create_room_name_default">%s\'s room</string>
-    <string name="multiplayer_lobby_refresh">Refresh</string>
-    <string name="multiplayer_lobby_no_rooms">No rooms available, create a new one!</string>
-    <string name="multiplayer_lobby_no_results">No results found for the current search.</string>
-    <string name="multiplayer_lobby_fetch_error_toast">Failed to obtain rooms: %s</string>
-    <string name="multiplayer_lobby_fetch_error">Failed to obtain rooms</string>
-    <string name="multiplayer_lobby_room_name">Room name</string>
-    <string name="multiplayer_lobby_room_password">Room password</string>
-    <string name="multiplayer_lobby_room_capacity">Room capacity</string>
-    <string name="multiplayer_lobby_join_room">Join room</string>
-    <string name="multiplayer_lobby_join_room_accept">Join</string>
-    <string name="multiplayer_lobby_join_room_cancel">Cancel</string>
-    <string name="multiplayer_room_head_to_head">Head to head</string>
-    <string name="multiplayer_room_team_versus">Team versus</string>
-    <string name="multiplayer_room_players">Players</string>
+    <string name="multiplayer_lobby_back">뒤로</string>
+    <string name="multiplayer_lobby_create_room">방 만들기</string>
+    <string name="multiplayer_lobby_create_room_accept">만들기</string>
+    <string name="multiplayer_lobby_create_room_cancel">취소</string>
+    <string name="multiplayer_lobby_create_room_name_default">%s\의 방</string>
+    <string name="multiplayer_lobby_refresh">새로고침</string>
+    <string name="multiplayer_lobby_no_rooms">이용 가능한 방이 없습니다, 새로운 방을 만드세요!</string>
+    <string name="multiplayer_lobby_no_results">현재 검색 결과가 없습니다.</string>
+    <string name="multiplayer_lobby_fetch_error_toast">방을 얻어오는데 실패하였습니다.: %s</string>
+    <string name="multiplayer_lobby_fetch_error">방을 얻어오는데 실패하였습니다.</string>
+    <string name="multiplayer_lobby_room_name">방 이름</string>
+    <string name="multiplayer_lobby_room_password">방 비밀번호</string>
+    <string name="multiplayer_lobby_room_capacity">방 용량</string>
+    <string name="multiplayer_lobby_join_room">방 입장</string>
+    <string name="multiplayer_lobby_join_room_accept">입장</string>
+    <string name="multiplayer_lobby_join_room_cancel">취소</string>
+    <string name="multiplayer_room_head_to_head">Head to Head</string>
+    <string name="multiplayer_room_team_versus">팀 대</string>
+    <string name="multiplayer_room_players">플레이어</string>
     <string name="multiplayer_room_score_v1">Score V1</string>
     <string name="multiplayer_room_score_v2">Score V2</string>
-    <string name="multiplayer_room_status_idle">Idle</string>
-    <string name="multiplayer_room_status_changing_beatmap">Changing beatmap</string>
-    <string name="multiplayer_room_status_playing">Playing</string>
-    <string name="multiplayer_room_highest_accuracy">Highest accuracy</string>
-    <string name="multiplayer_room_maximum_combo">Maximum combo</string>
-    <string name="multiplayer_room_no_players">No players</string>
-    <string name="multiplayer_room_free_mods">Free mods</string>
+    <string name="multiplayer_room_status_idle">유휴(Idle)</string>
+    <string name="multiplayer_room_status_changing_beatmap">비트맵을 변경하는 중</string>
+    <string name="multiplayer_room_status_playing">플레이 중</string>
+    <string name="multiplayer_room_highest_accuracy">가장 높은 정확도</string>
+    <string name="multiplayer_room_maximum_combo">최대 콤보</string>
+    <string name="multiplayer_room_no_players">플레이어가 없습니다.</string>
+    <string name="multiplayer_room_free_mods">자유 모드</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
