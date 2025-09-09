@@ -5,13 +5,13 @@
     <string name="mp_room_category_details">Свойства</string>
 
     <string name="mp_room_name_title">Название комнаты</string>
-    <string name="mp_room_name_summary">Измените название комнаты.</string>
+    <string name="mp_room_name_summary">Измените название комнаты</string>
 
     <string name="mp_room_password_title">Пароль комнаты</string>
-    <string name="mp_room_password_summary">Установите пароль для входа в комнату.</string>
+    <string name="mp_room_password_summary">Установите пароль для входа в комнату</string>
 
     <string name="mp_room_max_players_title">Максимум игроков</string>
-    <string name="mp_room_max_players_summary">Ограничьте количество игроков, которые могут зайти к вам в комнату.</string>
+    <string name="mp_room_max_players_summary">Ограничьте число игроков, которые могут зайти к вам в комнату</string>
 
     <!-- Variables -->
     <string name="mp_room_category_variables">Настройки</string>
@@ -20,7 +20,7 @@
     <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды за исключением модов, влияющих на скорость карты</string>
 
     <string name="mp_room_versus_mode_title">Режим игры</string>
-    <string name="mp_room_versus_mode_summary">Измените режим игры в комнате.</string>
+    <string name="mp_room_versus_mode_summary">Измените режим игры в комнате</string>
     <string-array name="mp_team_versus_names">
         <item>Head to Head</item>
         <item>Team vs Team</item>
@@ -31,7 +31,7 @@
     </string-array>
 
     <string name="mp_room_win_condition_title">Условие победы</string>
-    <string name="mp_room_win_condition_summary">Измените условие победы в комнате.</string>
+    <string name="mp_room_win_condition_summary">Измените условие победы в комнате</string>
     <string-array name="mp_win_condition_names">
         <item>Score V1</item>
         <item>Точность</item>
@@ -57,7 +57,7 @@
     <string name="mp_room_category_teams">Команда</string>
 
     <string name="mp_room_category_teams_title">Команда</string>
-    <string name="mp_room_category_teams_summary">Смените свою команду.</string>
+    <string name="mp_room_category_teams_summary">Смените свою команду</string>
     <string-array name="mp_team_names">
         <item>Красная</item>
         <item>Синяя</item>
@@ -72,41 +72,41 @@
 
     <string name="mp_room_enable_score_submission_title">Отправка результатов на сервер</string>
     <!-- это надо поменять -->
-    <string name="mp_room_enable_score_submission_summary">После прохождения карты ваш скор отправится на сервер.</string>
+    <string name="mp_room_enable_score_submission_summary">После прохождения карты ваш результат отправится на сервер.</string>
 
     <string name="mp_room_nightcore_title">Использовать NightCore</string>
     <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>
 
 
 <!-- Multiplayer Lobby -->
-    <string name="multiplayer_lobby_back">Back</string>
-    <string name="multiplayer_lobby_create_room">Create room</string>
-    <string name="multiplayer_lobby_create_room_accept">Create</string>
-    <string name="multiplayer_lobby_create_room_cancel">Cancel</string>
+    <string name="multiplayer_lobby_back">Назад</string>
+    <string name="multiplayer_lobby_create_room">Создать комнату</string>
+    <string name="multiplayer_lobby_create_room_accept">Создать</string>
+    <string name="multiplayer_lobby_create_room_cancel">Отменить</string>
     <string name="multiplayer_lobby_create_room_name_default">%s\'s room</string>
-    <string name="multiplayer_lobby_refresh">Refresh</string>
-    <string name="multiplayer_lobby_no_rooms">No rooms available, create a new one!</string>
-    <string name="multiplayer_lobby_no_results">No results found for the current search.</string>
-    <string name="multiplayer_lobby_fetch_error_toast">Failed to obtain rooms: %s</string>
-    <string name="multiplayer_lobby_fetch_error">Failed to obtain rooms</string>
-    <string name="multiplayer_lobby_room_name">Room name</string>
-    <string name="multiplayer_lobby_room_password">Room password</string>
-    <string name="multiplayer_lobby_room_capacity">Room capacity</string>
-    <string name="multiplayer_lobby_join_room">Join room</string>
-    <string name="multiplayer_lobby_join_room_accept">Join</string>
-    <string name="multiplayer_lobby_join_room_cancel">Cancel</string>
+    <string name="multiplayer_lobby_refresh">Обновить</string>
+    <string name="multiplayer_lobby_no_rooms">Нет доступных комнат. Создайте первую!</string>
+    <string name="multiplayer_lobby_no_results">Не удалось найти комнаты по вашему запросу.</string>
+    <string name="multiplayer_lobby_fetch_error_toast">Не удалось найти комнату: %s</string>
+    <string name="multiplayer_lobby_fetch_error">Не удалось найти комнаты</string>
+    <string name="multiplayer_lobby_room_name">Название комнаты</string>
+    <string name="multiplayer_lobby_room_password">Пароль комнаты</string>
+    <string name="multiplayer_lobby_room_capacity">Размер комнаты</string>
+    <string name="multiplayer_lobby_join_room">Присоединиться к комнате</string>
+    <string name="multiplayer_lobby_join_room_accept">Присоединиться</string>
+    <string name="multiplayer_lobby_join_room_cancel">Отменить</string>
     <string name="multiplayer_room_head_to_head">Head to head</string>
     <string name="multiplayer_room_team_versus">Team versus</string>
-    <string name="multiplayer_room_players">Players</string>
+    <string name="multiplayer_room_players">Игроки</string>
     <string name="multiplayer_room_score_v1">Score V1</string>
     <string name="multiplayer_room_score_v2">Score V2</string>
-    <string name="multiplayer_room_status_idle">Idle</string>
-    <string name="multiplayer_room_status_changing_beatmap">Changing beatmap</string>
-    <string name="multiplayer_room_status_playing">Playing</string>
-    <string name="multiplayer_room_highest_accuracy">Highest accuracy</string>
-    <string name="multiplayer_room_maximum_combo">Maximum combo</string>
-    <string name="multiplayer_room_no_players">No players</string>
-    <string name="multiplayer_room_free_mods">Free mods</string>
+    <string name="multiplayer_room_status_idle">Простаивает</string>
+    <string name="multiplayer_room_status_changing_beatmap">Смена карты</string>
+    <string name="multiplayer_room_status_playing">Игра в процессе</string>
+    <string name="multiplayer_room_highest_accuracy">Наибольшая точность</string>
+    <string name="multiplayer_room_maximum_combo">Максимум комбо</string>
+    <string name="multiplayer_room_no_players">Нет игроков</string>
+    <string name="multiplayer_room_free_mods">Свободные моды</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

@@ -16,7 +16,7 @@
     <string name="opt_loadavatar_summary">Если включено, вы увидите аватарки игроков в лидерборде карты.</string>
 
     <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Режим таблицы лидеров карты</string>
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Выберите режим отображения результатов в таблице лидеров карты.</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Выберите режим отображения результатов в лидерборде карты.</string>
     <string-array name="global_beatmap_leaderboard_scoring_mode_names">
         <item>Очки</item>
         <item>ПП</item>
@@ -27,7 +27,7 @@
     </string-array>
 
     <string name="difficulty_algorithm_title">Алгоритм сложности</string>
-    <string name="difficulty_algorithm_summary">Выберите режим, в котором будет отображаться старрейт и PP карты</string>
+    <string name="difficulty_algorithm_summary">Выберите режим, в котором будут отображаться старрейт и PP карты</string>
     <string-array name="difficulty_algorithm_names">
         <item>osu!droid</item>
         <item>osu!standard</item>
@@ -51,7 +51,7 @@
     <!-- Community-->
     <string name="opt_category_community">Сообщество</string>
     <string name="opt_receive_announcements_title">Получать анонсы</string>
-    <string name="opt_receive_announcements_summary">Получайте уведомления о анонсах, событиях и т.д.</string>
+    <string name="opt_receive_announcements_summary">Получать уведомления о анонсах, событиях и т.д.</string>
 
     <!-- Updates -->
     <string name="opt_category_updates">Обновления</string>
@@ -73,10 +73,10 @@
     <!-- Skin -->
     <string name="opt_category_skin">Скин</string>
     <string name="opt_skinpath_title">Скин</string>
-    <string name="opt_skinpath_summary">Выбор скина.</string>
+    <string name="opt_skinpath_summary">Выбор скина</string>
 
     <string name="opt_spinner_style_title">Стиль спиннера</string>
-    <string name="opt_spinner_style_summary">Смена стиля спиннера. При некорректном отображении смените стиль на противоположный.</string>
+    <string name="opt_spinner_style_summary">Смена стиля спиннера</string>
     <string-array name="spinner_style_names">
         <item>Современный</item>
         <item>Классический</item>
@@ -87,17 +87,17 @@
     </string-array>
 
     <string name="opt_skin_title">Скин карты</string>
-    <string name="opt_skin_summary">Игра будет использовать скин карты, если доступен.</string>
+    <string name="opt_skin_summary">Игра будет использовать скин карты, если доступен</string>
 
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Объекты</string>
     <string name="opt_show_first_approach_circle_title">Первый круг сужения при игре в Hidden</string>
-    <string name="opt_show_first_approach_circle_summary">Approach-circle первого объекта при игре с HD не будет скрыт.</string>
+    <string name="opt_show_first_approach_circle_summary">Сужающийся круг (approach-circle) первого объекта при игре с Hidden будет отображён</string>
 
     <!-- Background -->
     <string name="opt_category_background">Задний фон</string>
     <string name="opt_bgbrightness_title">Яркость фона</string>
-    <string name="opt_bgbrightness_summary">Настройте яркость заднего фона во время игры.</string>
+    <string name="opt_bgbrightness_summary">Настройте яркость заднего фона во время игры</string>
 
     <string name="opt_keep_background_aspect_ratio_title">Учитывать соотношение сторон фона</string>
     <string name="opt_keep_background_aspect_ratio_summary">Если эта функция включена, фон и сториборд не будут масштабироваться для заполнения границ экрана во время игры</string>
@@ -110,13 +110,13 @@
     <string name="opt_category_hud">Интерфейс</string>
 
     <string name="opt_hudEditor_title">Редактор HUD</string>
-    <string name="opt_hudEditor_summary">Сделайте интерфейс таким, какой вам захочется</string>
+    <string name="opt_hudEditor_summary">Сделайте интерфейс таким, каким захотите</string>
 
     <string name="opt_hide_ingame_ui_title">Отключить игровой интерфейс</string>
-    <string name="opt_hide_ingame_ui_summary">HUD будет полностью отключен во время игры.</string>
+    <string name="opt_hide_ingame_ui_summary">Интерфейс будет полностью отключен во время игры.</string>
 
     <string name="opt_hide_replay_marquee_title">Убрать вотермарку реплея</string>
-    <string name="opt_hide_replay_marquee_summary">Плавающая надпись во время просмотра реплея будет отключена.</string>
+    <string name="opt_hide_replay_marquee_summary">Плавающий текст во время просмотра реплея будет скрыт.</string>
 
     <string name="opt_fps_title">Показать FPS</string>
     <string name="opt_fps_summary">FPS будет отображён в нижнем правом углу.</string>
@@ -133,20 +133,20 @@
     <string name="opt_setplayfield_title">Изменить размер</string>
     <string name="opt_setplayfield_summary">Изменить размер игрового поля</string>
 
-    <string name="opt_display_playfield_border_title">Display playfield border</string>
-    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+    <string name="opt_display_playfield_border_title">Отобразить границы плейфилда (игрового поля)</string>
+    <string name="opt_display_playfield_border_summary">Вокруг плейфилда будет отображена рамка.</string>
 
-    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
-    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+    <string name="opt_playfieldHorizontalPosition_title">Горизонтальная позиция</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Установите позицию плейфилда (в процентах) по горизонтали от левой границы экрана</string>
 
     <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
-    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+    <string name="opt_playfieldVerticalPosition_summary">Установите позицию плейфилда (в процентах) по вертикали от верхней границы экрана</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
     <string name="opt_category_cursor">Курсор</string>
     <string name="opt_showcursor_title">Включить курсор</string>
-    <string name="opt_showcursor_summary">Курсор будет отображаться в месте нажатий.</string>
+    <string name="opt_showcursor_summary">Курсор будет отображён в месте нажатий</string>
 
     <string name="opt_cursor_size">Размер курсора</string>
     <string name="opt_cursor_size_summary">Настройте размер курсора</string>
@@ -166,30 +166,30 @@
     <string name="opt_largeimages_summary">В начале карты будет отображаться отсчёт, если создатель карты его включил.</string>
 
     <string name="opt_animate_follow_circle_title">Анимировать круг следования (followcircle) на слайдерах</string>
-    <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать.</string>
+    <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать</string>
 
     <string name="opt_animate_combo_text_title">Анимировать текст комбо</string>
-    <string name="opt_animate_combo_text_summary">Комбо будет изменяться с анимацией.</string>
+    <string name="opt_animate_combo_text_summary">Будет включена анимация при изменении счёта комбо</string>
 
     <string name="opt_snakingInSliders_title">Выдвигающиеся слайдеры</string>
-    <string name="opt_snakingInSliders_summary">Слайдеры будут "выползать" вместо обычного появления.</string>
+    <string name="opt_snakingInSliders_summary">Вместо обычного появления слайдеры будут выдвигаться</string>
 
     <string name="opt_snakingOutSliders_title">Задвигающиеся слайдеры</string>
-    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться, пока вы их проводите.</string>
+    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться по мере проведения</string>
 
     <string name="opt_noChangeDimInBreaks_title">Зафиксировать яркость фона</string>
-    <string name="opt_noChangeDimInBreaks_summary">Яркость заднего фона не будет изменяться во время перерывов.</string>
+    <string name="opt_noChangeDimInBreaks_summary">Яркость заднего фона не будет изменяться во время перерывов</string>
 
     <string name="opt_bursts_title">Эффект попадания</string>
-    <string name="opt_bursts_summary">Вместо моментального исчезновения нота будет исчезать с небольшим эффектом.</string>
+    <string name="opt_bursts_summary">Вместо моментального исчезновения нота будет исчезать с небольшим эффектом</string>
 
     <string name="opt_hitlighting_title">Вспышки от нот</string>
-    <string name="opt_hitlighting_summary">После попадания в ноту от неё ненадолго останется освещение.</string>
+    <string name="opt_hitlighting_summary">При попадании в ноту она оставит от себя свечение</string>
 
     <!-- Display -->
     <string name="opt_category_display">Дисплей</string>
     <string name="opt_hide_navibar_title">Скрыть панель навигации</string>
-    <string name="opt_hide_navibar_summary">Пока вы играете, панель навигации будет скрыта.</string>
+    <string name="opt_hide_navibar_summary">Пока вы играете, панель навигации будет скрыта</string>
 
 <!-- Audio -->
     <!-- Volume -->
@@ -205,13 +205,13 @@
     <string name="opt_offset_title">Глобальный оффсет</string>
     <string name="opt_offset_summary">Смещение музыки относительно карты</string>
 
-    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
-    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+    <string name="opt_gameAudioSynchronizationThreshold_title">Минимальный предел синхронизации</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">Минимальная разница во времени (в миллисекундах) между игровым процессом и звуком, необходимая для попытки синхронизации игрового процесса со звуком. Низкое значение увеличивает частоту попыток синхронизации. Если предпочтителен постоянный оффсет, используйте более высокое значение.</string>
 
     <!-- Metronome -->
     <string name="opt_category_metronome">Метроном</string>
     <string name="opt_metronome_switch_title">Метроном</string>
-    <string name="opt_metronome_switch_summary">Настройте поведение метронома.</string>
+    <string name="opt_metronome_switch_summary">Настройте поведение метронома</string>
     <string-array name="metronome_switch_names">
         <item>Выключен</item>
         <item>Только в Nightcore</item>
@@ -226,39 +226,39 @@
     <!-- Miscellaneous -->
     <string name="opt_category_miscellaneous">Дополнительно</string>
     <string name="opt_sound_title">Хитсаунды карты</string>
-    <string name="opt_sound_summary">Будут использоваться звуки из карты.</string>
+    <string name="opt_sound_summary">Будут использоваться звуки из карты, если доступны</string>
 
     <string name="opt_musicpreview_title">Включить музыку во время выбора карты</string>
-    <string name="opt_musicpreview_summary">При выборе карты у вас будет играть её саундтрек.</string>
+    <string name="opt_musicpreview_summary">При выборе карты у вас будет играть её саундтрек</string>
 
     <!-- Effect -->
     <string name="opt_category_effect">Эффекты</string>
 
     <string name="opt_shiftPitchInRateChange_title">Сдвигать тон при смене скорости карты</string>
-    <string name="opt_shiftPitchInRateChange_summary">Если вы изменили скорость карты, тон трека подстроится под неё.</string>
+    <string name="opt_shiftPitchInRateChange_summary">Тон трека будет динамически подстраиваться под скорость карты</string>
 
 <!-- Library -->
     <!-- Import -->
     <string name="opt_category_import">Импорт</string>
-    <string name="opt_deleteosz_title">Удалять OSZ после импорта</string>
-    <string name="opt_deleteosz_summary">После импорта карты её файл будет удалён.</string>
+    <string name="opt_deleteosz_title">Удалять .osz после импорта</string>
+    <string name="opt_deleteosz_summary">После импорта карты её файл будет удалён</string>
 
     <string name="opt_scandownload_title">Сканировать загрузки</string>
-    <string name="opt_scandownload_summary">При запуске игры будут импортироваться скины и карты, находящиеся в корне загрузок.</string>
+    <string name="opt_scandownload_summary">Игра будет импортировать карты и скины, находящиеся в загрузках (может не работать с SD-картой)</string>
 
     <string name="opt_deleteUnimportedBeatmaps_title">Удалять неимпортируемые карты</string>
-    <string name="opt_deleteUnimportedBeatmaps_summary">Карты, которые не удалось импортировать, будут удалены.</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">Карты, которые не удалось импортировать, удалятся</string>
 
     <string name="opt_delete_unsupported_videos_title">Удалять неподдерживаемые видео</string>
-    <string name="opt_delete_unsupported_videos_summary">Видео, форматы которых не поддерживаются игрой (.avi и .flv), удалятся.</string>
+    <string name="opt_delete_unsupported_videos_summary">Видео, форматы которых не поддерживаются игрой (.avi и .flv), удалятся</string>
 
     <string name="opt_import_replay_title">Импортировать реплей</string>
-    <string name="opt_import_replay_summary">Импорт реплеев .odr и .edr. Поддерживается импорт реплеев с версии 1.6.7.</string>
+    <string name="opt_import_replay_summary">Импорт реплеев (.odr) и экспортированных реплеев (.edr). Реплеи ODR поддерживаются с версии 1.6.7 и новее</string>
 
     <!-- Metadata -->
     <string name="opt_category_metadata">Метаданные</string>
     <string name="force_romanized">Названия на английском</string>
-    <string name="force_romanized_summary">Использовать только латинские символы для названий карт в случае, если названия из иероглифов нечитаемы.</string>
+    <string name="force_romanized_summary">Использовать только латинские символы для названий карт в случае, если названия из иероглифов нечитаемы</string>
 
     <!-- Storage -->
     <string name="opt_category_storage">Хранилище</string>
@@ -266,23 +266,23 @@
     <string name="opt_clear_summary">Очистить кэш библиотеки.</string>
 
     <string name="opt_clearprops_title">Очистить настройки карт</string>
-    <string name="opt_clearprops_summary">Сбросить настройки всех карт (например, смещение трека).</string>
+    <string name="opt_clearprops_summary">Сбросить настройки всех карт (например, смещение трека)</string>
 
 <!-- Input -->
     <!-- Gameplay -->
     <string name="opt_category_gameplay">Геймплей</string>
 
     <string name="block_area_preference_title">Настройки области блокировки нажатий</string>
-    <string name="block_area_preference_summary">Добавьте область, которая не будет реагировать на нажатия.</string>
+    <string name="block_area_preference_summary">Добавьте область, которая будет игнорировать нажатия</string>
 
     <string name="opt_remove_sliderlock_spinnerlock_title">2B Mode (не на рейтинг)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Блокировка нажатий во время активных слайдеров будет снята. Карты стиля 2B и Aspire будут играбельны, но ваш рекорд не будет отправлен на сервер.</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">Нотлок во время активных слайдеров и спиннеров будет отключен. Карты стиля 2B теперь играбельны, но без отправки рекордов на сервер.</string>
 
     <string name="opt_backButtonPressTime_title">Задержка кнопки паузы</string>
-    <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания.</string>
+    <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Мощность вибрации</string>
-    <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундах.</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундах</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>
@@ -304,7 +304,7 @@
 
     <!-- Miscellaneous -->
     <string name="opt_force_max_refresh_rate_title">Выставлять максимальную частоту обновления экрана</string>
-    <string name="opt_force_max_refresh_rate_summary">Попытка обойти ограничение Android на максимальную частоту кадров в игре. Отключите, если наблюдается мерцание экрана.</string>
+    <string name="opt_force_max_refresh_rate_summary">Попытка использовать максимальную частоту обновления экрана устройства. Отключите, если наблюдается мерцание экрана.</string>
 
     <string name="opt_safe_beatmap_bg_title">Использовать фон скина как фон карт</string>
     <string name="opt_safe_beatmap_bg_summary">Вместо фона карт будет использоваться menu-background из скина.</string>

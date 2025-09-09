@@ -17,7 +17,7 @@
     <string name="menu_deletescore_delete">Удалить скор</string>
     <string name="menu_deletescore_delete_success">Скор успешно удален</string>
 
-    <string name="menu_search_filter">Искать: </string>
+    <string name="menu_search_filter">Найти: </string>
     <string name="menu_search_sort_title">Название</string>
     <string name="menu_search_sort_date">Дата</string>
     <string name="menu_search_sort_creator">Создатель</string>
