@@ -92,7 +92,7 @@
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Объекты</string>
     <string name="opt_show_first_approach_circle_title">Первый круг сужения при игре в Hidden</string>
-    <string name="opt_show_first_approach_circle_summary">Сужающийся круг (approach-circle) первого объекта при игре с Hidden будет отображён</string>
+    <string name="opt_show_first_approach_circle_summary">Сужающийся круг (approach-circle) первого объекта при игре с Hidden не будет скрыт</string>
 
     <!-- Background -->
     <string name="opt_category_background">Задний фон</string>
