@@ -83,7 +83,7 @@
     </string-array>
 
     <string name="opt_skin_title">Skins de beatmaps</string>
-    <string name="opt_skin_summary">Carrega beatmaps que tem uma  skin em seu diretório</string>
+    <string name="opt_skin_summary">Carrega beatmaps que tem uma skin em seu diretório</string>
 
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Objetos tocáveis</string>
