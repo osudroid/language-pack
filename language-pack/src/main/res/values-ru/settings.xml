@@ -92,7 +92,7 @@
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Объекты</string>
     <string name="opt_show_first_approach_circle_title">Первый круг сужения при игре в Hidden</string>
-    <string name="opt_show_first_approach_circle_summary">Сужающийся круг (approach-circle) первого объекта при игре с Hidden не будет скрыт</string>
+    <string name="opt_show_first_approach_circle_summary">Сужающийся круг (approach-circle) первого объекта при игре с Hidden будет отображён</string>
 
     <!-- Background -->
     <string name="opt_category_background">Задний фон</string>
@@ -152,7 +152,7 @@
     <string name="opt_cursor_size_summary">Настройте размер курсора</string>
 
     <string name="opt_particles_title">След курсора</string>
-    <string name="opt_particles_summary">Будут отображены эффекты курсора, например cursor-trail</string>
+    <string name="opt_particles_summary">Будут отображены эффекты курсора, например cursor-trail.</string>
 
     <!-- Animations and Effects -->
     <string name="opt_category_animations">Анимации и эффекты</string>
@@ -163,33 +163,33 @@
     <string name="opt_combo_burst_summary">Показывать комбо-всплески (всплески звёзд).</string>
 
     <string name="opt_largeimages_title">Обратный отсчет</string>
-    <string name="opt_largeimages_summary">В начале карты будет отображаться отсчёт, если включен создателем карты.</string>
+    <string name="opt_largeimages_summary">В начале карты будет отображаться отсчёт, если создатель карты его включил.</string>
 
     <string name="opt_animate_follow_circle_title">Анимировать круг следования (followcircle) на слайдерах</string>
-    <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать.</string>
+    <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать</string>
 
     <string name="opt_animate_combo_text_title">Анимировать текст комбо</string>
-    <string name="opt_animate_combo_text_summary">Изменение счёта комбо будет анимировано.</string>
+    <string name="opt_animate_combo_text_summary">Будет включена анимация при изменении счёта комбо</string>
 
     <string name="opt_snakingInSliders_title">Выдвигающиеся слайдеры</string>
-    <string name="opt_snakingInSliders_summary">Вместо обычного появления слайдеры будут выдвигаться.</string>
+    <string name="opt_snakingInSliders_summary">Вместо обычного появления слайдеры будут выдвигаться</string>
 
     <string name="opt_snakingOutSliders_title">Задвигающиеся слайдеры</string>
-    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться по мере проведения.</string>
+    <string name="opt_snakingOutSliders_summary">Слайдеры будут задвигаться по мере проведения</string>
 
     <string name="opt_noChangeDimInBreaks_title">Зафиксировать яркость фона</string>
-    <string name="opt_noChangeDimInBreaks_summary">Яркость заднего фона не будет изменяться во время перерывов.</string>
+    <string name="opt_noChangeDimInBreaks_summary">Яркость заднего фона не будет изменяться во время перерывов</string>
 
     <string name="opt_bursts_title">Эффект попадания</string>
-    <string name="opt_bursts_summary">Вместо моментального исчезновения нота будет исчезать с небольшим эффектом.</string>
+    <string name="opt_bursts_summary">Вместо моментального исчезновения нота будет исчезать с небольшим эффектом</string>
 
     <string name="opt_hitlighting_title">Вспышки от нот</string>
-    <string name="opt_hitlighting_summary">При попадании в ноту она оставит от себя свечение.</string>
+    <string name="opt_hitlighting_summary">При попадании в ноту она оставит от себя свечение</string>
 
     <!-- Display -->
     <string name="opt_category_display">Дисплей</string>
     <string name="opt_hide_navibar_title">Скрыть панель навигации</string>
-    <string name="opt_hide_navibar_summary">Пока вы играете, панель навигации будет скрыта.</string>
+    <string name="opt_hide_navibar_summary">Пока вы играете, панель навигации будет скрыта</string>
 
 <!-- Audio -->
     <!-- Volume -->
@@ -211,7 +211,7 @@
     <!-- Metronome -->
     <string name="opt_category_metronome">Метроном</string>
     <string name="opt_metronome_switch_title">Метроном</string>
-    <string name="opt_metronome_switch_summary">Настройте поведение метронома.</string>
+    <string name="opt_metronome_switch_summary">Настройте поведение метронома</string>
     <string-array name="metronome_switch_names">
         <item>Выключен</item>
         <item>Только в Nightcore</item>
@@ -226,16 +226,16 @@
     <!-- Miscellaneous -->
     <string name="opt_category_miscellaneous">Дополнительно</string>
     <string name="opt_sound_title">Хитсаунды карты</string>
-    <string name="opt_sound_summary">Будут использоваться звуки из карты, если доступны.</string>
+    <string name="opt_sound_summary">Будут использоваться звуки из карты, если доступны</string>
 
     <string name="opt_musicpreview_title">Включить музыку во время выбора карты</string>
-    <string name="opt_musicpreview_summary">При выборе карты у вас будет играть её саундтрек.</string>
+    <string name="opt_musicpreview_summary">При выборе карты у вас будет играть её саундтрек</string>
 
     <!-- Effect -->
     <string name="opt_category_effect">Эффекты</string>
 
     <string name="opt_shiftPitchInRateChange_title">Сдвигать тон при смене скорости карты</string>
-    <string name="opt_shiftPitchInRateChange_summary">Тон трека будет динамически подстраиваться под скорость карты.</string>
+    <string name="opt_shiftPitchInRateChange_summary">Тон трека будет динамически подстраиваться под скорость карты</string>
 
 <!-- Library -->
     <!-- Import -->
@@ -279,10 +279,10 @@
     <string name="opt_remove_sliderlock_spinnerlock_summary">Нотлок во время активных слайдеров и спиннеров будет отключен. Карты стиля 2B теперь играбельны, но без отправки рекордов на сервер.</string>
 
     <string name="opt_backButtonPressTime_title">Задержка кнопки паузы</string>
-    <string name="opt_backButtonPressTime_summary">Настройте время удержания кнопки в миллисекундах для её срабатывания.</string>
+    <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Мощность вибрации</string>
-    <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундахю</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундах</string>
 
     <!-- Synchronisation  -->
     <string name="opt_category_synchronization">Синхронизация</string>
