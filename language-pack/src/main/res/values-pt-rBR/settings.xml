@@ -101,7 +101,7 @@
     <string name="opt_enableStoryboard_title">Ativa os storyboards</string>
 
     <string name="opt_video_title">Vídeo no background</string>
-    <string name="opt_video_summary">Exibe um vídeo do beatmap caso tenha. O osu!droid apenas carrega os formatos de vídeo .3gp, .mp4, .mkv, e .webm, e carrega corretamente apenas o codec H.264.</string>
+    <string name="opt_video_summary">Exibe um vídeo do beatmap caso tenha. O osu!droid apenas carrega os formatos de vídeo .3gp, .mp4, .mkv, e .webm.</string>
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
