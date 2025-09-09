@@ -61,9 +61,9 @@
     <!-- Config Backup -->
     <string name="opt_category_config_backup">Backup</string>
     <string name="opt_config_backup_title">Exportar arquivo de opções</string>
-    <string name="opt_config_backup_summary">Exporta suas configurações não sensitivas para "osudroid.cfg" na pasta principal do osu!droid no seu armazenamento</string>
+    <string name="opt_config_backup_summary">Exporta suas configurações não sensíveis para "osudroid.cfg" na pasta principal do osu!droid no seu armazenamento</string>
     <string name="opt_config_backup_restore_title">Importar arquivo de opções</string>
-    <string name="opt_config_backup_restore_summary">Importa as configurações não sensitivas de "osudroid.cfg" na pasta principal do osu!droid</string>
+    <string name="opt_config_backup_restore_summary">Importa as configurações não sensíveis de "osudroid.cfg" na pasta principal do osu!droid</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
@@ -83,7 +83,7 @@
     </string-array>
 
     <string name="opt_skin_title">Skins de beatmaps</string>
-    <string name="opt_skin_summary">Carrega skins de beatmaps que tem uma skin em seu diretório</string>
+    <string name="opt_skin_summary">Carrega beatmaps que tem uma skin em seu diretório</string>
 
     <!-- Hit Objects-->
     <string name="opt_category_hit_objects">Objetos tocáveis</string>
@@ -123,21 +123,21 @@
 
     <!-- Combo Colors-->
     <string name="opt_combo_colors_title">Cores dos hitcircles</string>
-    <string name="opt_combo_colors_summary">Usa 4 cores de hitcircles customizadas (como  você quiser!)</string>
+    <string name="opt_combo_colors_summary">Usa 4 cores de hitcircles customizadas (como você quiser!)</string>
 
     <!-- Playfield -->
     <string name="opt_category_playfield">Playfield (Zona de jogo)</string>
     <string name="opt_setplayfield_title">Selecionar tamanho do playfield</string>
     <string name="opt_setplayfield_summary">Mude o tamanho do seu playfield</string>
 
-    <string name="opt_display_playfield_border_title">Display playfield border</string>
-    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+    <string name="opt_display_playfield_border_title">Mostrar bordas do playfield</string>
+    <string name="opt_display_playfield_border_summary">Mostra uma borda em volta do playfield</string>
 
-    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
-    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+    <string name="opt_playfieldHorizontalPosition_title">Posição horizontal</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Bote a posição horizontal (em porcentagem) do playfield a partir do canto esquerdo da tela</string>
 
     <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
-    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+    <string name="opt_playfieldVerticalPosition_summary">Bote a posição vertical (Em porcentagem) do playfield a partir do topo da tela</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
@@ -202,8 +202,8 @@
     <string name="opt_offset_title">Offset global</string>
     <string name="opt_offset_summary">Offset da música em ms. (Valores positivos indicam clicks mais adiantados)</string>
 
-    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
-    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+    <string name="opt_gameAudioSynchronizationThreshold_title">Limite mínimo de sincronização</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">A diferença de tempo mínima (em milissegundos) entre o beatmap e o áudio para a gameplay como uma tentativa de sincronizar o áudio.\n\nUm limite pequeno aumenta a frequência da tentativa de sincronização. Se preferir um offset constante, use um limite alto.</string>
 
     <!-- Metronome -->
     <string name="opt_category_metronome">Metrônomo</string>
