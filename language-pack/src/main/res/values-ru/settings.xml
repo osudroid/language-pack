@@ -139,7 +139,7 @@
     <string name="opt_playfieldHorizontalPosition_title">Горизонтальная позиция</string>
     <string name="opt_playfieldHorizontalPosition_summary">Установите позицию плейфилда (в процентах) по горизонтали от левой границы экрана</string>
 
-    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_title">Вертикальная позиция</string>
     <string name="opt_playfieldVerticalPosition_summary">Установите позицию плейфилда (в процентах) по вертикали от верхней границы экрана</string>
 
 <!-- Graphics -->
@@ -157,13 +157,13 @@
     <!-- Animations and Effects -->
     <string name="opt_category_animations">Анимации и эффекты</string>
     <string name="opt_dim_hit_objects_title">Включить осветление нот</string>
-    <string name="opt_dim_hit_objects_summary">Ноты будут осветляться в момент, когда их можно нажать.</string>
+    <string name="opt_dim_hit_objects_summary">Ноты будут осветляться в момент, когда их можно нажать</string>
 
     <string name="opt_combo_burst_title">Комбо-всплески</string>
-    <string name="opt_combo_burst_summary">Показывать комбо-всплески (всплески звёзд).</string>
+    <string name="opt_combo_burst_summary">Показывать комбо-всплески (всплески звёзд)</string>
 
     <string name="opt_largeimages_title">Обратный отсчет</string>
-    <string name="opt_largeimages_summary">В начале карты будет отображаться отсчёт, если создатель карты его включил.</string>
+    <string name="opt_largeimages_summary">В начале карты будет отображаться отсчёт, если включен создателем карты</string>
 
     <string name="opt_animate_follow_circle_title">Анимировать круг следования (followcircle) на слайдерах</string>
     <string name="opt_animate_follow_circle_summary">При нажатии и отпускании слайдера круг следования будет плавно появляться и исчезать</string>
@@ -184,7 +184,7 @@
     <string name="opt_bursts_summary">Вместо моментального исчезновения нота будет исчезать с небольшим эффектом</string>
 
     <string name="opt_hitlighting_title">Вспышки от нот</string>
-    <string name="opt_hitlighting_summary">При попадании в ноту она оставит от себя свечение</string>
+    <string name="opt_hitlighting_summary">При попадании в ноту она ненадолго оставит эффект свечения</string>
 
     <!-- Display -->
     <string name="opt_category_display">Дисплей</string>
