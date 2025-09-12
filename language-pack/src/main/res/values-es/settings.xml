@@ -38,7 +38,7 @@
     </string-array>
 
     <!-- Account -->
-    <string name="opt_category_account">Account</string>
+    <string name="opt_category_account">Cuenta</string>
     <string name="opt_login_title">Nombre de usuario</string>
     <string name="opt_login_summary">Tu nombre de usuario</string>
 
@@ -49,7 +49,7 @@
     <string name="opt_register_summary">Crea una cuenta para enviar puntuaciones, y más!</string>
 
     <!-- Community-->
-    <string name="opt_category_community">Community</string>
+    <string name="opt_category_community">Comunidad</string>
     <string name="opt_receive_announcements_title">Recibir notificaciones</string>
     <string name="opt_receive_announcements_summary">Activa las notificaciones de anuncios sobre el juego, eventos, etc.</string>
 
@@ -130,14 +130,14 @@
     <string name="opt_setplayfield_title">Tamaño del campo de juego</string>
     <string name="opt_setplayfield_summary">Cambia el tamaño del campo de juego</string>
 
-    <string name="opt_display_playfield_border_title">Display playfield border</string>
-    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+    <string name="opt_display_playfield_border_title">Mostrar borde del campo de juego</string>
+    <string name="opt_display_playfield_border_summary">Muestra un borde alrededor del campo de juego</string>
 
-    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
-    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+    <string name="opt_playfieldHorizontalPosition_title">Posición horizontal</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Establece la posición horizontal (en porcentaje) del campo de juego desde la esquina izquierda de la pantalla.</string>
 
-    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
-    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+    <string name="opt_playfieldVerticalPosition_title">Posición vertical</string>
+    <string name="opt_playfieldVerticalPosition_summary">Establece la posición vertical (en porcentaje) del campo de juego desde la parte superior de la pantalla.</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
@@ -202,8 +202,8 @@
     <string name="opt_offset_title">Configurar offset</string>
     <string name="opt_offset_summary">Offset de la música en ms (valores positivos indican golpes más tempranos)</string>
 
-    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
-    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+    <string name="opt_gameAudioSynchronizationThreshold_title">Límite mínimo de sincronización</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">La diferencia de tiempo mínima (en milisegundos) entre el juego y el audio para que el juego intente sincronizarse con el audio.\n\nUn límite inferior aumenta la frecuencia de los intentos de sincronización. Si se prefiere un desfase constante, utilice un límite superior.</string>
 
     <!-- Metronome -->
     <string name="opt_category_metronome">Metronomo</string>

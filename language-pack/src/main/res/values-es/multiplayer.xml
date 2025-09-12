@@ -78,34 +78,34 @@
 
 
 <!-- Multiplayer Lobby -->
-    <string name="multiplayer_lobby_back">Back</string>
-    <string name="multiplayer_lobby_create_room">Create room</string>
-    <string name="multiplayer_lobby_create_room_accept">Create</string>
-    <string name="multiplayer_lobby_create_room_cancel">Cancel</string>
-    <string name="multiplayer_lobby_create_room_name_default">%s\'s room</string>
-    <string name="multiplayer_lobby_refresh">Refresh</string>
-    <string name="multiplayer_lobby_no_rooms">No rooms available, create a new one!</string>
-    <string name="multiplayer_lobby_no_results">No results found for the current search.</string>
-    <string name="multiplayer_lobby_fetch_error_toast">Failed to obtain rooms: %s</string>
-    <string name="multiplayer_lobby_fetch_error">Failed to obtain rooms</string>
-    <string name="multiplayer_lobby_room_name">Room name</string>
-    <string name="multiplayer_lobby_room_password">Room password</string>
-    <string name="multiplayer_lobby_room_capacity">Room capacity</string>
-    <string name="multiplayer_lobby_join_room">Join room</string>
-    <string name="multiplayer_lobby_join_room_accept">Join</string>
-    <string name="multiplayer_lobby_join_room_cancel">Cancel</string>
-    <string name="multiplayer_room_head_to_head">Head to head</string>
-    <string name="multiplayer_room_team_versus">Team versus</string>
-    <string name="multiplayer_room_players">Players</string>
+    <string name="multiplayer_lobby_back">Volver</string>
+    <string name="multiplayer_lobby_create_room">Crear sala</string>
+    <string name="multiplayer_lobby_create_room_accept">Crear</string>
+    <string name="multiplayer_lobby_create_room_cancel">Cancelar</string>
+    <string name="multiplayer_lobby_create_room_name_default">Sala de %s</string>
+    <string name="multiplayer_lobby_refresh">Recargar</string>
+    <string name="multiplayer_lobby_no_rooms">No hay ninguna sala disponible, ¡Crea tu propia sala!</string>
+    <string name="multiplayer_lobby_no_results">No se han encontrado resultados para tu búsqueda.</string>
+    <string name="multiplayer_lobby_fetch_error_toast">Error al obtener salas: %s</string>
+    <string name="multiplayer_lobby_fetch_error">Error al obtener salas</string>
+    <string name="multiplayer_lobby_room_name">Nombre de la sala</string>
+    <string name="multiplayer_lobby_room_password">Contraseña de la sala</string>
+    <string name="multiplayer_lobby_room_capacity">Capacidad de la sala</string>
+    <string name="multiplayer_lobby_join_room">Unirse a la sala</string>
+    <string name="multiplayer_lobby_join_room_accept">Unirse</string>
+    <string name="multiplayer_lobby_join_room_cancel">Cancelar</string>
+    <string name="multiplayer_room_head_to_head">Todos contra todos</string>
+    <string name="multiplayer_room_team_versus">Equipo vs Equipo</string>
+    <string name="multiplayer_room_players">Jugadores</string>
     <string name="multiplayer_room_score_v1">Score V1</string>
     <string name="multiplayer_room_score_v2">Score V2</string>
     <string name="multiplayer_room_status_idle">Idle</string>
-    <string name="multiplayer_room_status_changing_beatmap">Changing beatmap</string>
-    <string name="multiplayer_room_status_playing">Playing</string>
-    <string name="multiplayer_room_highest_accuracy">Highest accuracy</string>
-    <string name="multiplayer_room_maximum_combo">Maximum combo</string>
-    <string name="multiplayer_room_no_players">No players</string>
-    <string name="multiplayer_room_free_mods">Free mods</string>
+    <string name="multiplayer_room_status_changing_beatmap">Cambiando mapa...</string>
+    <string name="multiplayer_room_status_playing">Jugando</string>
+    <string name="multiplayer_room_highest_accuracy">Mayor precisión</string>
+    <string name="multiplayer_room_maximum_combo">Combo máximo</string>
+    <string name="multiplayer_room_no_players">Sin jugadores</string>
+    <string name="multiplayer_room_free_mods">Mods libres</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
