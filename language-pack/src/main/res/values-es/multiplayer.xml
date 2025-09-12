@@ -78,7 +78,7 @@
 
 
 <!-- Multiplayer Lobby -->
-    <string name="multiplayer_lobby_back">Atrás</string>
+    <string name="multiplayer_lobby_back">Volver</string>
     <string name="multiplayer_lobby_create_room">Crear sala</string>
     <string name="multiplayer_lobby_create_room_accept">Crear</string>
     <string name="multiplayer_lobby_create_room_cancel">Cancelar</string>
@@ -94,7 +94,7 @@
     <string name="multiplayer_lobby_join_room">Unirse a la sala</string>
     <string name="multiplayer_lobby_join_room_accept">Unirse</string>
     <string name="multiplayer_lobby_join_room_cancel">Cancelar</string>
-    <string name="multiplayer_room_head_to_head">Cara a Cara</string>
+    <string name="multiplayer_room_head_to_head">Todos contra todos</string>
     <string name="multiplayer_room_team_versus">Equipo vs Equipo</string>
     <string name="multiplayer_room_players">Jugadores</string>
     <string name="multiplayer_room_score_v1">Score V1</string>
