@@ -21,6 +21,11 @@
     <string name="hudEditor_discarded">Изменения отменены</string>
     <string name="hudEditor_reset">HUD сброшен к настройкам по умолчанию!</string>
 
+    <string name="config_backup_info_success">Конфиг успешно экспортирован!</string>
+    <string name="config_backup_info_fail">Во время экспорта конфига произошла ошибка.</string>
+    <string name="config_backup_restore_info_success">Конфиг успешно импортирован!</string>
+    <string name="config_backup_restore_info_fail">Во время импорта конфига произошла ошибка.</string>
+
 <!-- All new strings should present below for better managing locals... -->
 
 </resources>

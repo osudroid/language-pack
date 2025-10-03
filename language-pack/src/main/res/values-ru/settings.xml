@@ -64,10 +64,6 @@
     <string name="opt_config_backup_summary">Экспортировать параметры в файл "osudroid.cfg" в главном каталоге osu!droid</string>
     <string name="opt_config_backup_restore_title">Импортировать конфиг</string>
     <string name="opt_config_backup_restore_summary">Импортировать параметры из файла "osudroid.cfg" в главном каталоге osu!droid</string>
-    <string name="config_backup_info_success">Конфиг успешно экспортирован!</string>
-    <string name="config_backup_info_fail">Во время экспорта конфига произошла ошибка.</string>
-    <string name="config_backup_restore_info_success">Конфиг успешно импортирован!</string>
-    <string name="config_backup_restore_info_fail">Во время импорта конфига произошла ошибка.</string>
 
     <!-- Localization -->
     <string name="opt_category_localization">Localization</string>
