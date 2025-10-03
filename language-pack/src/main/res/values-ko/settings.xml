@@ -277,9 +277,6 @@
     <string name="block_area_preference_title">입력 블록 영역 관리</string>
     <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">슬라이더 및 스피너 잠금 해제(언랭크)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">슬라이더 및 스피너 잠금을 해제합니다. 2B 스타일 플레이가 가능합니다.</string>
-
     <string name="opt_backButtonPressTime_title">뒤로가기 버튼 누르는 시간</string>
     <string name="opt_backButtonPressTime_summary">화면 뒤로가기 버튼을 작동시키는 데 필요한 시간을 설정합니다.(밀리초)</string>
 

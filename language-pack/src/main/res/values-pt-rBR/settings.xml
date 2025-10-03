@@ -277,9 +277,6 @@
     <string name="block_area_preference_title">Gerenciar áreas bloqueadas</string>
     <string name="block_area_preference_summary">Gerencie lugares da sua tela que quando tocados serão ignorados durante sua gameplay</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remover o "slider lock" e o "spinner lock"</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Tenta remover o "Slider Lock" e "Spinner Lock". O estilo 2B é jogável agora. (UNRANKED [NÃO RANKEADO])</string>
-
     <string name="opt_backButtonPressTime_title">Tempo ao pressionar "Back"</string>
     <string name="opt_backButtonPressTime_summary">Tempo em milissegundos para o botão "Back" ter efeito</string>
 

@@ -212,8 +212,6 @@
   <string name="opt_category_gameplay">游戏玩法</string>
   <string name="block_area_preference_title">Manage input block areas</string>
   <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
-  <string name="opt_remove_sliderlock_spinnerlock_title">移除滑条锁和转盘锁（不计入排名）</string>
-  <string name="opt_remove_sliderlock_spinnerlock_summary">尝试移除滑条锁和转盘锁，现在可以游玩 2B 风格</string>
   <string name="opt_backButtonPressTime_title">退出按钮按压延迟</string>
   <string name="opt_backButtonPressTime_summary">触发游玩时退出按钮所需的触发毫秒数</string>
   <string name="opt_seekBarVibrateIntensity_title">设置震动强度</string>

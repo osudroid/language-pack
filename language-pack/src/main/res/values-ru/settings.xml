@@ -276,9 +276,6 @@
     <string name="block_area_preference_title">Настройки области блокировки нажатий</string>
     <string name="block_area_preference_summary">Добавьте область, которая будет игнорировать нажатия</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">2B Mode (не на рейтинг)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Нотлок во время активных слайдеров и спиннеров будет отключен. Карты стиля 2B теперь играбельны, но без отправки рекордов на сервер.</string>
-
     <string name="opt_backButtonPressTime_title">Задержка кнопки паузы</string>
     <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания</string>
 

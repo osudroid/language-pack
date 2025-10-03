@@ -277,9 +277,6 @@
     <string name="block_area_preference_title">入力無視エリア</string>
     <string name="block_area_preference_summary">プレイ中タッチ入力を無視するエリアを設定します。</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">スライダー・スピナーロックの解除 (ランク無効)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">スライダー・スピナーロックを解除します。</string>
-
     <string name="opt_backButtonPressTime_title">Back button press time</string>
     <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
 

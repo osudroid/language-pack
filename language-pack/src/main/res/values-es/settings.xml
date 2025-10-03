@@ -277,9 +277,6 @@
     <string name="block_area_preference_title">Administra zonas bloqueadas de la pantalla</string>
     <string name="block_area_preference_summary">Administra ciertas zonas en las que presionar será ignorado por el juego.</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">Eliminar el bloqueo de slider y spinner (unranked)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Intenta quitar el bloqueo del slider y del spinner. Ahora puedes jugar mapas de estilo 2b.</string>
-
     <string name="opt_backButtonPressTime_title">Tiempo de presion del boton de retroceso</string>
     <string name="opt_backButtonPressTime_summary">Tiempo necesario en milisegundos para accionar el botón de retroceso en pantalla</string>
 

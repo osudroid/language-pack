@@ -277,9 +277,6 @@
     <string name="block_area_preference_title">Manage input block areas</string>
     <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
 
-    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider lock and spinner lock (unrank)</string>
-    <string name="opt_remove_sliderlock_spinnerlock_summary">Try to remove slider lock and spinner lock. 2b style is playable now.</string>
-
     <string name="opt_backButtonPressTime_title">Back button press time</string>
     <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
 
