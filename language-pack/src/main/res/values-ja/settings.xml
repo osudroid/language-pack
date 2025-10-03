@@ -65,6 +65,11 @@
     <string name="opt_config_backup_restore_title">Import options file</string>
     <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
 
+    <!-- Localization -->
+    <string name="opt_category_localization">Localization</string>
+    <string name="opt_language_title">Language</string>
+    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">スキン</string>

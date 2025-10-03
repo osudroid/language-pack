@@ -106,6 +106,7 @@
     <string name="multiplayer_room_maximum_combo">Combo máximo</string>
     <string name="multiplayer_room_no_players">Sem jogadores</string>
     <string name="multiplayer_room_free_mods">Free Mods (Mods livres)</string>
+    <string name="multiplayer_lobby_search_rooms">Search rooms...</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

@@ -65,6 +65,11 @@
     <string name="opt_config_backup_restore_title">설정 파일 가져오기</string>
     <string name="opt_config_backup_restore_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 가져옵니다.</string>
 
+    <!-- Localization -->
+    <string name="opt_category_localization">Localization</string>
+    <string name="opt_language_title">Language</string>
+    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">스킨</string>

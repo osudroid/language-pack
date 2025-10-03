@@ -106,6 +106,7 @@
     <string name="multiplayer_room_maximum_combo">최대 콤보</string>
     <string name="multiplayer_room_no_players">플레이어가 없습니다.</string>
     <string name="multiplayer_room_free_mods">자유 모드</string>
+    <string name="multiplayer_lobby_search_rooms">Search rooms...</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

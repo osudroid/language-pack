@@ -69,6 +69,11 @@
     <string name="config_backup_restore_info_success">Конфиг успешно импортирован!</string>
     <string name="config_backup_restore_info_fail">Во время импорта конфига произошла ошибка.</string>
 
+    <!-- Localization -->
+    <string name="opt_category_localization">Localization</string>
+    <string name="opt_language_title">Language</string>
+    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+
 <!-- Gameplay -->
     <!-- Skin -->
     <string name="opt_category_skin">Скин</string>

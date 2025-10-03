@@ -53,6 +53,10 @@
   <string name="opt_config_backup_summary">将普通游戏选项导出到 osu!droid 根目录文件夹下的 osudroid.cfg 文件内</string>
   <string name="opt_config_backup_restore_title">导入配置文件</string>
   <string name="opt_config_backup_restore_summary">将 osu!droid 根目录文件夹下的 osudroid.cfg 文件记录的普通游戏选项导入至游戏</string>
+  <!-- Localization -->
+  <string name="opt_category_localization">Localization</string>
+  <string name="opt_language_title">Language</string>
+  <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
   <!-- Gameplay -->
   <!-- Skin -->
   <string name="opt_category_skin">皮肤</string>
