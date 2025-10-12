@@ -66,9 +66,9 @@
     <string name="opt_config_backup_restore_summary">Importa as configurações não sensíveis de "osudroid.cfg" na pasta principal do osu!droid</string>
 
     <!-- Localization -->
-    <string name="opt_category_localization">Localization</string>
-    <string name="opt_language_title">Language</string>
-    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+    <string name="opt_category_localization">Idioma (Localization)</string>
+    <string name="opt_language_title">Idioma</string>
+    <string name="opt_language_summary">Muda o idioma usado no osu!droid. (REINICIE PARA TER EFEITO/MUDANÇAS)</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
@@ -141,7 +141,7 @@
     <string name="opt_playfieldHorizontalPosition_title">Posição horizontal</string>
     <string name="opt_playfieldHorizontalPosition_summary">Bote a posição horizontal (em porcentagem) do playfield a partir do canto esquerdo da tela</string>
 
-    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
+    <string name="opt_playfieldVerticalPosition_title">Posição vertical</string>
     <string name="opt_playfieldVerticalPosition_summary">Bote a posição vertical (Em porcentagem) do playfield a partir do topo da tela</string>
 
 <!-- Graphics -->
@@ -162,7 +162,7 @@
     <string name="opt_dim_hit_objects_summary">Objetos tocáveis serão escurecidos quando estiverem prontos para serem pressionados</string>
 
     <string name="opt_combo_burst_title">Série de acertos (Combo Burst)</string>
-    <string name="opt_combo_burst_summary">Desliga ou liga o Combo Burst (caso ligado, quando você atingir uma série de acertos o seu osu!droid mostrará uma imagem nas laterais da sua tela, dependendo da sua skin)</string>
+    <string name="opt_combo_burst_summary">Desliga ou liga o Combo Burst (caso ligado, quando você atingir uma série de acertos, o seu osu!droid mostrará uma imagem nas laterais da sua tela, dependendo da sua skin)</string>
 
     <string name="opt_largeimages_title">Contagem regressiva</string>
     <string name="opt_largeimages_summary">Mostra uma contagem regressiva no inicio dos beatmaps (Pode não dar em alguns beatmaps, como os não puláveis [skipáveis])</string>
@@ -200,7 +200,7 @@
     <string name="opt_bgm_volume_summary">Volume da música de fundo (0 a 100)</string>
 
     <string name="opt_sound_volume_title">Volume dos efeitos</string>
-    <string name="opt_sound_volume_summary">Volume dos efeitos (hitsounds) (0 a 100), Você precisa reiniciar o jogo para surgir algum efeito! (ou as vezes não!)</string>
+    <string name="opt_sound_volume_summary">Volume dos efeitos (hitsounds). Você precisa reiniciar o jogo para surgir algum efeito! (ou as vezes não!)</string>
 
     <!-- Offset-->
     <string name="opt_category_offset">Offset</string>
@@ -243,7 +243,7 @@
     <!-- Import -->
     <string name="opt_category_import">Importar</string>
     <string name="opt_deleteosz_title">Deletar arquivos .osz</string>
-    <string name="opt_deleteosz_summary">Deletar arquivos .osz após o jogo os importar</string>
+    <string name="opt_deleteosz_summary">Deletar arquivos .osz após o osu!droid importar para a pasta de músicas.</string>
 
     <string name="opt_scandownload_title">Escanear "Downloads"</string>
     <string name="opt_scandownload_summary">Escaneia o diretório "Downloads" por novos beatmaps (no formato .osz).</string>
