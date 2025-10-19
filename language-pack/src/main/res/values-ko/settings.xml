@@ -61,14 +61,14 @@
     <!-- Config Backup -->
     <string name="opt_category_config_backup">백업</string>
     <string name="opt_config_backup_title">설정 파일 내보내기</string>
-    <string name="opt_config_backup_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 내보냅니다.</string>
+    <string name="opt_config_backup_summary">민감하지 않은 설정을 osu!droid의 기본 디렉터리에 있는 \"osudroid.cfg\"로 내보냅니다.</string>
     <string name="opt_config_backup_restore_title">설정 파일 가져오기</string>
-    <string name="opt_config_backup_restore_summary">민감하지 않은 설정을 osu!droid의 기본 디렉토리에 있는 \"osudroid.cfg\"로 가져옵니다.</string>
+    <string name="opt_config_backup_restore_summary">민감하지 않은 설정을 osu!droid의 기본 디렉터리에 있는 \"osudroid.cfg\"로 가져옵니다.</string>
 
     <!-- Localization -->
-    <string name="opt_category_localization">Localization</string>
-    <string name="opt_language_title">Language</string>
-    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+    <string name="opt_category_localization">현지화</string>
+    <string name="opt_language_title">언어</string>
+    <string name="opt_language_summary">게임 언어를 변경합니다. 재시작이 필요합니다.</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
