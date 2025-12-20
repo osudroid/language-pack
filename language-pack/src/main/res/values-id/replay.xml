@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Import -->
-    <string name="act_import_replay">Import replay into osu!droid</string>
-    <string name="invalid_edr_file">Invalid repay!</string>
-    <string name="failed_to_import_edr">Failed to import replay!</string>
-    <string name="failed_to_import_edr_with_err" formatted="true">Failed to import replay: %s</string>
-    <string name="import_edr_successfully">Import replay successfully!</string>
+    <string name="act_import_replay">Impor replay ke osu!droid</string>
+    <string name="invalid_edr_file">Replay tidak valid!</string>
+    <string name="failed_to_import_edr">Gagal mengimpor replay!</string>
+    <string name="failed_to_import_edr_with_err" formatted="true">Gagal mengimpor replay: %s</string>
+    <string name="import_edr_successfully">Replay berhasil diimpor!</string>
 
-    <string name="replay_import_result">Imported %d out of %d replay(s)!</string>
-    <string name="replay_import_error">Unable to import %s: %s</string>
+    <string name="replay_import_result">Berhasil mengimpor %d dari %d replay!</string>
+    <string name="replay_import_error">Gagal mengimpor %s: %s</string>
 
     <!-- Save -->
-    <string name="message_save_replay_successful">Save failed replay success!</string>
-    <string name="message_save_replay_failed">Save replay failed</string>
+    <string name="message_save_replay_successful">Simpan replay gagal berhasil!</string>
+    <string name="message_save_replay_failed">Simpan replay gagal</string>
 
-    <string name="replay_invalid">Cannot load replay</string>
-    <string name="replay_cantdownload">Cannot download replay</string>
-    <string name="replay_wrongmap">Replay doesn\'t match the map</string>
-    <string name="replay_corrupted">Replay file is corrupted</string>
+    <string name="replay_invalid">Tidak dapat memuat replay</string>
+    <string name="replay_cantdownload">Tidak dapat mengunduh replay</string>
+    <string name="replay_wrongmap">Replay tidak cocok dengan map</string>
+    <string name="replay_corrupted">File replay rusak</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

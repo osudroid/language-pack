@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="markdown_title">Markdown Title</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="markdown_title">Judul Markdown</string>
+    <string name="changelog_title">Catatan rilis</string>
 
-    <string name="message_info_multitouch">Multitouch may not be supported by your device</string>
-    <string name="message_low_storage_space">Storage space is low. Free Storage: %s GB. This may cause replay/score submission bugs.</string>
+    <string name="message_info_multitouch">Multitouch mungkin tidak didukung oleh perangkat Anda</string>
+    <string name="message_low_storage_space">Ruang penyimpanan rendah. Ruang bebas: %s GB. Ini dapat menyebabkan masalah pada replay/submisi skor.</string>
 
-    <string name="message_error">Error: %s</string>
-    <string name="message_error_open">Cannot open %s</string>
-    <string name="message_error_createdir">Cannot create %s</string>
-    <string name="message_error_sdcard">External storage is not mounted</string>
-    <string name="message_error_sdcardread">External storage is read only</string>
-    <string name="message_video_custom_speed_unsupported">Custom video playback speed is not supported in this device</string>
+    <string name="message_error">Kesalahan: %s</string>
+    <string name="message_error_open">Tidak dapat membuka %s</string>
+    <string name="message_error_createdir">Tidak dapat membuat %s</string>
+    <string name="message_error_sdcard">Penyimpanan eksternal tidak terpasang</string>
+    <string name="message_error_sdcardread">Penyimpanan eksternal hanya bisa dibaca</string>
+    <string name="message_video_custom_speed_unsupported">Kecepatan pemutaran video kustom tidak didukung di perangkat ini</string>
 
     <!-- Crash -->
-    <string name="crash">Sorry, the game encountered an unexpected error and needs to close.</string>
+    <string name="crash">Maaf, permainan mengalami kesalahan tak terduga dan harus ditutup.</string>
 
     <!-- Accessibility -->
-    <string name="accessibility_detector_title">Disable Accessibility Services</string>
-    <string name="accessibility_detector_message">The following accessibility services must be disabled in order to play:</string>
-    <string name="accessibility_detector_settings">Go to accessibility settings</string>
-    <string name="accessibility_detector_exit">Exit game</string>
+    <string name="accessibility_detector_title">Nonaktifkan Layanan Aksesibilitas</string>
+    <string name="accessibility_detector_message">Layanan aksesibilitas berikut harus dinonaktifkan agar dapat bermain:</string>
+    <string name="accessibility_detector_settings">Buka pengaturan aksesibilitas</string>
+    <string name="accessibility_detector_exit">Keluar dari game</string>
 
     <!-- Online -->
-    <string name="online_loadrecord">Loading record details...</string>
-    <string name="multiplayer_not_online">You must be logged in to the server to play multiplayer!</string>
+    <string name="online_loadrecord">Memuat detail rekor...</string>
+    <string name="multiplayer_not_online">Anda harus masuk ke server untuk bermain multiplayer!</string>
 
     <!-- Color Picker -->
-    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="press_color_to_apply">Tekan warna untuk menerapkan</string>
 
     <!-- Beatmap downloader -->
-    <string name="beatmap_downloader_cancel">Cancel</string>
-    <string name="beatmap_downloader_connecting">Connecting to server...</string>
-    <string name="beatmap_downloader_downloading">Downloading beatmap %s...</string>
-    <string name="beatmap_downloader_importing">Importing beatmap %s...</string>
+    <string name="beatmap_downloader_cancel">Batal</string>
+    <string name="beatmap_downloader_connecting">Menghubungkan ke server...</string>
+    <string name="beatmap_downloader_downloading">Mengunduh beatmap %s...</string>
+    <string name="beatmap_downloader_importing">Mengimpor beatmap %s...</string>
 
     <!-- Ranked status -->
     <string name="ranked_status_ranked"><font color="#41FF64">Ranked</font></string>
-    <string name="ranked_status_approved"><font color="#41FF64">Approved</font></string>
-    <string name="ranked_status_qualified"><font color="#64F2FF">Qualified</font></string>
-    <string name="ranked_status_loved"><font color="#FA64FF">Loved</font></string>
-    <string name="ranked_status_pending"><font color="#FFAC64">Pending</font></string>
-    <string name="ranked_status_wip"><font color="#FFAC64">Work in Progress</font></string>
-    <string name="ranked_status_graveyard"><font color="#FFFFFF">Graveyard</font></string>
+    <string name="ranked_status_approved"><font color="#41FF64">Disetujui</font></string>
+    <string name="ranked_status_qualified"><font color="#64F2FF">Qualifikasi</font></string>
+    <string name="ranked_status_loved"><font color="#FA64FF">Disukai</font></string>
+    <string name="ranked_status_pending"><font color="#FFAC64">Menunggu</font></string>
+    <string name="ranked_status_wip"><font color="#FFAC64">Sedang dikerjakan</font></string>
+    <string name="ranked_status_graveyard"><font color="#FFFFFF">Pemakaman</font></string>
 
     <!-- Library -->
-    <string name="library_cleared">Cache cleared</string>
-    <string name="library_importing">Importing beatmap...</string>
-    <string name="library_importing_several">Found %s archived beatmaps. Importing...</string>
-    <string name="library_skin_importing_several">Found %s archived skins. Importing...</string>
-    <string name="library_imported">\"%s\" has been imported!</string>
-    <string name="message_loaded_skin">Successfully applied new skin!</string>
-    <string name="message_error_dir_not_found">Directory is not found</string>
-    <string name="file_integrity_tampered">File integrity check failed. Aborting gameplay.</string>
+    <string name="library_cleared">Cache berhasil dibersihkan</string>
+    <string name="library_importing">Mengimpor beatmap...</string>
+    <string name="library_importing_several">Ditemukan %s beatmap terarsip. Mengimpor...</string>
+    <string name="library_skin_importing_several">Ditemukan %s tema terarsip. Mengimpor...</string>
+    <string name="library_imported">\"%s\" telah berhasil diimpor!</string>
+    <string name="message_loaded_skin">Tema baru berhasil diterapkan!</string>
+    <string name="message_error_dir_not_found">Direktori tidak ditemukan</string>
+    <string name="file_integrity_tampered">Pemeriksaan integritas file gagal. Permainan dihentikan.</string>
 
     <!-- Parser -->
-    <string name="beatmap_parser_cannot_open_file" formatted="false">Failed loading %s: Could not open beatmap file</string>
+    <string name="beatmap_parser_cannot_open_file" formatted="false">Gagal memuat %s: Tidak dapat membuka file beatmap</string>
 
     <!-- Block area manager fragment -->
-    <string name="block_area_editor_fragment_add">Add area</string>
-    <string name="block_area_editor_fragment_reset">Reset</string>
-    <string name="block_area_editor_fragment_done">Done</string>
+    <string name="block_area_editor_fragment_add">Tambah area</string>
+    <string name="block_area_editor_fragment_reset">Atur ulang</string>
+    <string name="block_area_editor_fragment_done">Selesai</string>
 
     <!-- Updater -->
-    <string name="update_dialog_message">There is a new update available</string>
-    <string name="update_dialog_button_update">Update Now</string>
-    <string name="update_info_checking">Checking for new updates...</string>
-    <string name="update_info_check_failed">Failed to check for updates. The server or your internet connection may not be available.</string>
-    <string name="update_info_downloading">Downloading updates... %d%%</string>
-    <string name="update_info_download_canceled">Download cancelled.</string>
-    <string name="update_info_download_failed">Download failed, check your internet connection.</string>
-    <string name="update_info_updated">Update successfully installed!</string>
-    <string name="update_info_latest">No new updates available</string>
+    <string name="update_dialog_message">Tersedia pembaruan baru</string>
+    <string name="update_dialog_button_update">Perbarui Sekarang</string>
+    <string name="update_info_checking">Memeriksa pembaruan baru...</string>
+    <string name="update_info_check_failed">Gagal memeriksa pembaruan. Server atau koneksi internet Anda mungkin tidak tersedia.</string>
+    <string name="update_info_downloading">Mengunduh pembaruan... %d%%</string>
+    <string name="update_info_download_canceled">Unduhan dibatalkan.</string>
+    <string name="update_info_download_failed">Unduhan gagal, periksa koneksi internet Anda.</string>
+    <string name="update_info_updated">Pembaruan berhasil diinstal!</string>
+    <string name="update_info_latest">Tidak ada pembaruan baru tersedia</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

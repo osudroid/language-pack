@@ -9,25 +9,25 @@
 <!-- General -->
     <!-- Online-->
     <string name="opt_category_online">Online</string>
-    <string name="opt_stayonline_title">Koneksi server</string>
+    <string name="opt_stayonline_title">Koneksi Server</string>
     <string name="opt_stayonline_summary">Sambungkan ke server osu!droid</string>
 
-    <string name="opt_loadavatar_title">Muat avatar</string>
+    <string name="opt_loadavatar_title">Muat Avatar</string>
     <string name="opt_loadavatar_summary">Muat tanpa koneksi Wi-Fi</string>
 
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Global beatmap leaderboard scoring mode</string>
-    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Choose the scoring mode for global beatmap leaderboards</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_title">Mode penilaian papan peringkat beatmap global</string>
+    <string name="opt_global_beatmap_leaderboard_scoring_mode_summary">Pilih mode penilaian untuk papan peringkat beatmap global</string>
     <string-array name="global_beatmap_leaderboard_scoring_mode_names">
-        <item>Score</item>
-        <item>Performance Points</item>
+        <item>Skor</item>
+        <item>Poin Performa</item>
     </string-array>
     <string-array name="global_beatmap_leaderboard_scoring_mode_values">
         <item>0</item>
         <item>1</item>
     </string-array>
 
-    <string name="difficulty_algorithm_title">Difficulty algorithm</string>
-    <string name="difficulty_algorithm_summary">Choose the algorithm used to calculate difficulty and performance points</string>
+    <string name="difficulty_algorithm_title">Algoritma kesulitan</string>
+    <string name="difficulty_algorithm_summary">Pilih algoritma yang digunakan untuk menghitung tingkat kesulitan dan poin performa</string>
     <string-array name="difficulty_algorithm_names">
         <item>osu!droid</item>
         <item>osu!standard</item>
@@ -38,45 +38,45 @@
     </string-array>
 
     <!-- Account -->
-    <string name="opt_category_account">Account</string>
+    <string name="opt_category_account">Akun</string>
     <string name="opt_login_title">Masuk</string>
-    <string name="opt_login_summary">Nama daring Anda</string>
+    <string name="opt_login_summary">Nama pengguna Anda</string>
 
-    <string name="opt_password_title">Kata sandi</string>
+    <string name="opt_password_title">Kata Sandi</string>
     <string name="opt_password_summary">Kata sandi akun Anda</string>
 
     <string name="opt_register_title">Daftar</string>
-    <string name="opt_register_summary">Daftarkan akun baru (Anda hanya boleh membuat satu akun untuk setiap perangkat)</string>
+    <string name="opt_register_summary">Daftarkan akun baru (Anda hanya bisa membuat satu akun per perangkat)</string>
 
     <!-- Community-->
-    <string name="opt_category_community">Community</string>
+    <string name="opt_category_community">Komunitas</string>
     <string name="opt_receive_announcements_title">Receive announcements</string>
     <string name="opt_receive_announcements_summary">Receive notifications of announcements, events, etc.</string>
 
     <!-- Updates -->
-    <string name="opt_category_updates">Updates</string>
-    <string name="opt_update_title">Cek untuk pembaruan</string>
-    <string name="opt_update_summary">Cek untuk pembaruan yang ada</string>
+    <string name="opt_category_updates">Pembaruan</string>
+    <string name="opt_update_title">Periksa pembaruan</string>
+    <string name="opt_update_summary">Cek apakah ada pembaruan yang tersedia</string>
 
     <!-- Config Backup -->
-    <string name="opt_category_config_backup">Backup</string>
-    <string name="opt_config_backup_title">Export options file</string>
-    <string name="opt_config_backup_summary">Exports non-sensitive options to \"osudroid.cfg\" in osu!droid\'s main directory</string>
-    <string name="opt_config_backup_restore_title">Import options file</string>
-    <string name="opt_config_backup_restore_summary">Imports non-sensitive options from \"osudroid.cfg\" in osu!droid\'s main directory</string>
+    <string name="opt_category_config_backup">Cadangan</string>
+    <string name="opt_config_backup_title">Ekspor file opsi</string>
+    <string name="opt_config_backup_summary">Ekspor opsi non-sensitif ke file "osudroid.cfg" di direktori utama osu!droid</string>
+    <string name="opt_config_backup_restore_title">Impor file opsi</string>
+    <string name="opt_config_backup_restore_summary">Impor opsi non-sensitif dari file "osudroid.cfg" di direktori utama osu!droid</string>
 
     <!-- Localization -->
-    <string name="opt_category_localization">Localization</string>
-    <string name="opt_language_title">Language</string>
-    <string name="opt_language_summary">Change the language of the game. Requires a restart.</string>
+    <string name="opt_category_localization">Lokalisasi</string>
+    <string name="opt_language_title">Bahasa</string>
+    <string name="opt_language_summary">Ubah bahasa permainan. Perlu restart.</string>
 
 <!-- Gameplay -->
     <!-- Skin -->
-    <string name="opt_category_skin">Skin</string>
-    <string name="opt_skinpath_title">Pilih tema</string>
-    <string name="opt_skinpath_summary">Pilih tema dari direktori tema di atas</string>
+    <string name="opt_category_skin">Tema</string>
+    <string name="opt_skinpath_title">Pilih Tema</string>
+    <string name="opt_skinpath_summary">Pilih tema dari direktori tema yang tersedia</string>
 
-    <string name="opt_spinner_style_title">Model spinner</string>
+    <string name="opt_spinner_style_title">Gaya Spinner</string>
     <string name="opt_spinner_style_summary">Ubah model spinner</string>
     <string-array name="spinner_style_names">
         <item>Modern</item>
@@ -87,133 +87,133 @@
         <item>0</item>
     </string-array>
 
-    <string name="opt_skin_title">Tema beatmap</string>
-    <string name="opt_skin_summary">Muat tema spesifik dalam beatmap jika ada</string>
+    <string name="opt_skin_title">Tema Beatmap</string>
+    <string name="opt_skin_summary">Muat tema khusus pada beatmap jika tersedia</string>
 
     <!-- Hit Objects-->
-    <string name="opt_category_hit_objects">Hit objects</string>
-    <string name="opt_show_first_approach_circle_title">Perlihatkan approach circle pertama</string>
-    <string name="opt_show_first_approach_circle_summary">Jangan sembunyikan approach circle pertama dalam mod Hidden</string>
+    <string name="opt_category_hit_objects">Objek Pukulan</string>
+    <string name="opt_show_first_approach_circle_title">Tampilkan lingkaran pendekatan pertama</string>
+    <string name="opt_show_first_approach_circle_summary">Jangan sembunyikan lingkaran pendekatan pertama saat menggunakan mod Hidden</string>
 
     <!-- Background -->
-    <string name="opt_category_background">Background</string>
-    <string name="opt_bgbrightness_title">Pencerahan latar belakang</string>
-    <string name="opt_bgbrightness_summary">Ubah kecerahan gambar latar belakang</string>
+    <string name="opt_category_background">Latar Belakang</string>
+    <string name="opt_bgbrightness_title">Kecerahan Latar Belakang</string>
+    <string name="opt_bgbrightness_summary">Atur kecerahan gambar latar belakang</string>
 
-    <string name="opt_keep_background_aspect_ratio_title">Keep background aspect ratio</string>
-    <string name="opt_keep_background_aspect_ratio_summary">When enabled, the background (and storyboard) will not be scaled to fill screen bounds during gameplay</string>
+    <string name="opt_keep_background_aspect_ratio_title">Pertahankan rasio aspek latar belakang</string>
+    <string name="opt_keep_background_aspect_ratio_summary">Bila diaktifkan, latar belakang (dan storyboard) tidak akan diperbesar untuk mengisi batas layar selama permainan.</string>
 
-    <string name="opt_enableStoryboard_title">Aktifkan storyboard</string>
+    <string name="opt_enableStoryboard_title">Aktifkan Storyboard</string>
 
-    <string name="opt_video_title">Background Video</string>
-    <string name="opt_video_summary">Display video playback during gameplay. Only supports .3gp, .mp4, .mkv, and .webm video formats</string>
+    <string name="opt_video_title">Video Latar Belakang</string>
+    <string name="opt_video_summary">Tampilkan pemutaran video selama permainan. Mendukung format .3gp, .mp4, .mkv, dan .webm</string>
 
     <!-- HUD -->
     <string name="opt_category_hud">HUD</string>
 
-    <string name="opt_hudEditor_title">HUD Editor</string>
-    <string name="opt_hudEditor_summary">Edit the HUD layout as you like</string>
+    <string name="opt_hudEditor_title">Editor HUD</string>
+    <string name="opt_hudEditor_summary">Sesuaikan tata letak HUD sesuai keinginan</string>
 
-    <string name="opt_hide_ingame_ui_title">Hide gameplay UI</string>
-    <string name="opt_hide_ingame_ui_summary">Hide the counters and other UIs during gameplay</string>
+    <string name="opt_hide_ingame_ui_title">Sembunyikan antarmuka permainan</string>
+    <string name="opt_hide_ingame_ui_summary">Sembunyikan indikator dan elemen antarmuka lainnya selama permainan</string>
 
-    <string name="opt_hide_replay_marquee_title">Hide replay marquee</string>
-    <string name="opt_hide_replay_marquee_summary">Hide the scrolling text when watching replays</string>
+    <string name="opt_hide_replay_marquee_title">Sembunyikan marquee replay</string>
+    <string name="opt_hide_replay_marquee_summary">Sembunyikan teks bergulir saat menonton replay</string>
 
     <string name="opt_fps_title">FPS</string>
-    <string name="opt_fps_summary">Tampilkan FPS sewaktu bermain</string>
+    <string name="opt_fps_summary">Tampilkan FPS selama bermain</string>
 
-    <string name="opt_display_score_statistics_title">Display score statistics</string>
-    <string name="opt_display_score_statistics_summary">Displays score statistics (star rating, PP, and more) in result screen</string>
+    <string name="opt_display_score_statistics_title">Tampilkan statistik skor</string>
+    <string name="opt_display_score_statistics_summary">Menampilkan statistik skor (peringkat bintang, PP, dan lainnya) pada layar hasil</string>
 
     <!-- Combo Colors-->
-    <string name="opt_combo_colors_title">Warna kombo</string>
-    <string name="opt_combo_colors_summary">Gunakan warna kombo yang telah ditentukan</string>
+    <string name="opt_combo_colors_title">Warna Combo</string>
+    <string name="opt_combo_colors_summary">Gunakan warna combo yang telah ditentukan</string>
 
     <!-- Playfield -->
-    <string name="opt_category_playfield">Playfield</string>
-    <string name="opt_setplayfield_title">Set playfield size</string>
-    <string name="opt_setplayfield_summary">Change the size of the playfield</string>
+    <string name="opt_category_playfield">Bidang Permainan</string>
+    <string name="opt_setplayfield_title">Atur ukuran bidang permainan</string>
+    <string name="opt_setplayfield_summary">Ubah ukuran bidang permainan</string>
 
-    <string name="opt_display_playfield_border_title">Display playfield border</string>
-    <string name="opt_display_playfield_border_summary">Displays a border around the playfield</string>
+    <string name="opt_display_playfield_border_title">Tampilkan batas bidang permainan</string>
+    <string name="opt_display_playfield_border_summary">Menampilkan garis batas di sekitar bidang permainan</string>
 
-    <string name="opt_playfieldHorizontalPosition_title">Horizontal position</string>
-    <string name="opt_playfieldHorizontalPosition_summary">Set the horizontal position (in percentage) of the playfield from the left corner of the screen</string>
+    <string name="opt_playfieldHorizontalPosition_title">Posisi horizontal</string>
+    <string name="opt_playfieldHorizontalPosition_summary">Atur posisi horizontal (dalam persentase) bidang permainan dari sudut kiri layar</string>
 
-    <string name="opt_playfieldVerticalPosition_title">Vertical position</string>
-    <string name="opt_playfieldVerticalPosition_summary">Set the vertical position (in percentage) of the playfield from the top of the screen</string>
+    <string name="opt_playfieldVerticalPosition_title">Posisi vertikal</string>
+    <string name="opt_playfieldVerticalPosition_summary">Atur posisi vertikal (dalam persentase) bidang permainan dari bagian atas layar</string>
 
 <!-- Graphics -->
     <!-- Cursor -->
-    <string name="opt_category_cursor">Cursor</string>
-    <string name="opt_showcursor_title">Perlihatkan kursor</string>
-    <string name="opt_showcursor_summary">Perlihatkan kursor di bawah jari saat permainan berlangsung</string>
+    <string name="opt_category_cursor">Kursor</string>
+    <string name="opt_showcursor_title">Tampilkan kursor</string>
+    <string name="opt_showcursor_summary">Tampilkan kursor di bawah jari saat permainan berlangsung</string>
 
     <string name="opt_cursor_size">Ukuran kursor</string>
-    <string name="opt_cursor_size_summary">Atur ukuran kursor (25 - 300, standar 100)</string>
+    <string name="opt_cursor_size_summary">Atur ukuran kursor (25 - 300; standar: 100)</string>
 
     <string name="opt_particles_title">Efek partikel</string>
-    <string name="opt_particles_summary">Perlihatkan efek berbasis partikel seperti jejak kursor</string>
+    <string name="opt_particles_summary">Tampilkan efek berbasis partikel seperti jejak kursor</string>
 
     <!-- Animations and Effects -->
-    <string name="opt_category_animations">Animations and effects</string>
-    <string name="opt_dim_hit_objects_title">Enable hit objects dim</string>
-    <string name="opt_dim_hit_objects_summary">Dim hit objects when they are ready to be hit.</string>
+    <string name="opt_category_animations">Animasi dan efek</string>
+    <string name="opt_dim_hit_objects_title">Redup objek pukulan</string>
+    <string name="opt_dim_hit_objects_summary">Redup objek pukulan saat siap untuk dipukul.</string>
 
-    <string name="opt_combo_burst_title">Burst kombo</string>
-    <string name="opt_combo_burst_summary">Aktifkan atau nonaktifkan burst kombo</string>
+    <string name="opt_combo_burst_title">Ledakan combo</string>
+    <string name="opt_combo_burst_summary">Aktifkan atau nonaktifkan ledakan combo</string>
 
     <string name="opt_largeimages_title">Hitung mundur</string>
-    <string name="opt_largeimages_summary">Tunjukkan hitung mundur dari awal map jika tersedia</string>
+    <string name="opt_largeimages_summary">Tampilkan hitung mundur dari awal map jika tersedia</string>
 
-    <string name="opt_animate_follow_circle_title">Animate follow circle</string>
-    <string name="opt_animate_follow_circle_summary">Enable slider follow circle animations when hitting/releasing follow circle.</string>
+    <string name="opt_animate_follow_circle_title">Animasikan lingkaran ikuti</string>
+    <string name="opt_animate_follow_circle_summary">Aktifkan animasi lingkaran ikuti slider saat memukul/melepaskan lingkaran ikuti.</string>
 
-    <string name="opt_animate_combo_text_title">Animate combo text</string>
-    <string name="opt_animate_combo_text_summary">Enable combo text shadow animation when increasing combo.</string>
+    <string name="opt_animate_combo_text_title">Animasikan teks combo</string>
+    <string name="opt_animate_combo_text_summary">Aktifkan animasi bayangan teks combo saat meningkatkan combo.</string>
 
-    <string name="opt_snakingInSliders_title">Use snaking in sliders</string>
-    <string name="opt_snakingInSliders_summary">Enable sliders gradually snaking from start</string>
+    <string name="opt_snakingInSliders_title">Gunakan gerakan gelombang pada slider</string>
+    <string name="opt_snakingInSliders_summary">Aktifkan slider secara bertahap bergerak meliuk dari awal</string>
 
-    <string name="opt_snakingOutSliders_title">Use snaking out sliders</string>
-    <string name="opt_snakingOutSliders_summary">Enable sliders gradually snaking disappearing from one node</string>
+    <string name="opt_snakingOutSliders_title">Gunakan gerakan gelombang keluar pada slider</string>
+    <string name="opt_snakingOutSliders_summary">Aktifkan slider secara bertahap bergerak meliuk keluar dari satu titik</string>
 
-    <string name="opt_noChangeDimInBreaks_title">Don\'t change background dim level during breaks</string>
-    <string name="opt_noChangeDimInBreaks_summary">When enabled, background dim level will not change during breaks.</string>
+    <string name="opt_noChangeDimInBreaks_title">Jangan ubah tingkat redup latar belakang selama istirahat</string>
+    <string name="opt_noChangeDimInBreaks_summary">Bila diaktifkan, tingkat redup latar belakang tidak akan berubah selama istirahat.</string>
 
-    <string name="opt_bursts_title">Efek meledak</string>
-    <string name="opt_bursts_summary">Perlihatkan efek meledak saat hit lingkaran atau slider</string>
+    <string name="opt_bursts_title">Efek ledakan</string>
+    <string name="opt_bursts_summary">Tampilkan efek ledakan saat memukul lingkaran atau slider</string>
 
-    <string name="opt_hitlighting_title">Pencahayaan hit</string>
-    <string name="opt_hitlighting_summary">Tambahkan cahaya halus yang menerangi area bermain di belakang ledakan hit</string>
+    <string name="opt_hitlighting_title">Pencahayaan pukulan</string>
+    <string name="opt_hitlighting_summary">Tambahkan cahaya lembut yang menerangi area permainan di belakang ledakan pukulan</string>
 
     <!-- Display -->
-    <string name="opt_category_display">Display</string>
+    <string name="opt_category_display">Tampilan</string>
     <string name="opt_hide_navibar_title">Bilah navigasi</string>
-    <string name="opt_hide_navibar_summary">Sembunyikan bilah navigasi ketika bermain</string>
+    <string name="opt_hide_navibar_summary">Sembunyikan bilah navigasi saat bermain</string>
 
 <!-- Audio -->
     <!-- Volume -->
     <string name="opt_category_volume">Volume</string>
-    <string name="opt_bgm_volume_title">BGM volume</string>
-    <string name="opt_bgm_volume_summary">Volume of the background music</string>
+    <string name="opt_bgm_volume_title">Volume BGM</string>
+    <string name="opt_bgm_volume_summary">Volume musik latar</string>
 
-    <string name="opt_sound_volume_title">Volume suara hit</string>
-    <string name="opt_sound_volume_summary">Besar volume suara hit (0-100)</string>
+    <string name="opt_sound_volume_title">Volume suara pukulan</string>
+    <string name="opt_sound_volume_summary">Besarnya volume suara pukulan (0–100)</string>
 
     <!-- Offset-->
     <string name="opt_category_offset">Offset</string>
-    <string name="opt_offset_title">Global offset</string>
-    <string name="opt_offset_summary">Offset musik dari ms (nilai positif berarti lebih awal)</string>
+    <string name="opt_offset_title">Offset global</string>
+    <string name="opt_offset_summary">Offset musik dari milidetik (nilai positif berarti lebih awal)</string>
 
-    <string name="opt_gameAudioSynchronizationThreshold_title">Minimum Synchronization Limit</string>
-    <string name="opt_gameAudioSynchronizationThreshold_summary">The minimum time difference (in milliseconds) between gameplay and audio for gameplay to attempt to synchronize with audio.\n\nA lower limit increases the frequency of the syncing attempt. If constant offset is preferred, use a higher limit.</string>
+    <string name="opt_gameAudioSynchronizationThreshold_title">Batas Sinkronisasi Minimum</string>
+    <string name="opt_gameAudioSynchronizationThreshold_summary">Batas perbedaan waktu minimum (dalam milidetik) antara gameplay dan audio agar gameplay mencoba menyinkronkan dengan audio.\n\nNilai yang lebih rendah meningkatkan frekuensi upaya penyinkronan. Jika offset konstan diinginkan, gunakan nilai yang lebih tinggi.</string>
 
     <!-- Metronome -->
-    <string name="opt_category_metronome">Metronome</string>
-    <string name="opt_metronome_switch_title">Metronome switch</string>
-    <string name="opt_metronome_switch_summary">Enable metronome sound effect</string>
+    <string name="opt_category_metronome">Metronom</string>
+    <string name="opt_metronome_switch_title">Sakelar metronom</string>
+    <string name="opt_metronome_switch_summary">Aktifkan efek suara metronom</string>
     <string-array name="metronome_switch_names">
         <item>Tidak aktif</item>
         <item>Hanya untuk mod NightCore</item>
@@ -226,87 +226,87 @@
     </string-array>
 
     <!-- Miscellaneous -->
-    <string name="opt_category_miscellaneous">Miscellaneous</string>
-    <string name="opt_sound_title">Beatmap sounds</string>
-    <string name="opt_sound_summary">Load beatmap-specific sounds if available</string>
+    <string name="opt_category_miscellaneous">Berbagai macam</string>
+    <string name="opt_sound_title">Suara beatmap</string>
+    <string name="opt_sound_summary">Muat suara spesifik beatmap jika tersedia</string>
 
-    <string name="opt_musicpreview_title">Tinjauan lagu</string>
-    <string name="opt_musicpreview_summary">Mainkan lagu ketika beatmap dipilih</string>
+    <string name="opt_musicpreview_title">Pratinjau lagu</string>
+    <string name="opt_musicpreview_summary">Putar lagu saat beatmap dipilih</string>
 
     <!-- Effect -->
-    <string name="opt_category_effect">Effect</string>
+    <string name="opt_category_effect">Efek</string>
 
-    <string name="opt_shiftPitchInRateChange_title">Shift pitch in rate-changing mods</string>
-    <string name="opt_shiftPitchInRateChange_summary">Shifts the pitch of the music when using rate-changing mods</string>
+    <string name="opt_shiftPitchInRateChange_title">Alihkan nada pada mod perubahan kecepatan</string>
+    <string name="opt_shiftPitchInRateChange_summary">Alihkan nada musik saat menggunakan mod perubahan kecepatan</string>
 
 <!-- Library -->
     <!-- Import -->
-    <string name="opt_category_import">Import</string>
+    <string name="opt_category_import">Impor</string>
     <string name="opt_deleteosz_title">Hapus .osz</string>
-    <string name="opt_deleteosz_summary">Hapus .osz setelah file diimpor</string>
+    <string name="opt_deleteosz_summary">Hapus file .osz setelah diimpor</string>
 
-    <string name="opt_scandownload_summary">Pindai direktori /Download untuk beatmap baru</string>
+    <string name="opt_scandownload_summary">Pindai direktori /Download untuk mencari beatmap baru</string>
     <string name="opt_scandownload_title">Pindai /Download</string>
 
-    <string name="opt_deleteUnimportedBeatmaps_title">Delete Unimported Beatmaps</string>
-    <string name="opt_deleteUnimportedBeatmaps_summary">Delete beatmaps that cannot be imported. Will apply in future beatmap import operations.</string>
+    <string name="opt_deleteUnimportedBeatmaps_title">Hapus beatmap yang tidak berhasil diimpor</string>
+    <string name="opt_deleteUnimportedBeatmaps_summary">Hapus beatmap yang tidak dapat diimpor. Akan diterapkan pada operasi impor beatmap selanjutnya.</string>
 
-    <string name="opt_delete_unsupported_videos_title">Delete unsupported videos</string>
-    <string name="opt_delete_unsupported_videos_summary">Delete videos with unsupported formats (.avi and .flv)</string>
+    <string name="opt_delete_unsupported_videos_title">Hapus video yang tidak didukung</string>
+    <string name="opt_delete_unsupported_videos_summary">Hapus video dengan format yang tidak didukung (.avi dan .flv)</string>
 
-    <string name="opt_import_replay_title">Import replay</string>
-    <string name="opt_import_replay_summary">Import a replay file (.odr) or an exported replay file (.edr). Only .odr files from osu!droid version 1.6.7 onwards are supported</string>
+    <string name="opt_import_replay_title">Impor replay</string>
+    <string name="opt_import_replay_summary">Impor file replay (.odr) atau file replay yang diekspor (.edr). Hanya file .odr dari versi osu!droid 1.6.7 ke atas yang didukung</string>
 
     <!-- Metadata -->
     <string name="opt_category_metadata">Metadata</string>
     <string name="force_romanized">Gunakan metadata yang diromanisasi</string>
-    <string name="force_romanized_summary">Penggunaan karakter roman untuk metadata, apabila judul dalam bahasa Jepang atau China tidak dapat dibaca</string>
+    <string name="force_romanized_summary">Gunakan karakter romaji untuk metadata, jika judul dalam bahasa Jepang atau Cina tidak dapat dibaca</string>
 
     <!-- Storage -->
-    <string name="opt_category_storage">Storage</string>
-    <string name="opt_clear_title">Bersihkan cache perpustakaan</string>
-    <string name="opt_clear_summary">Pembersihan cache perpustakaan secara paksa</string>
+    <string name="opt_category_storage">Penyimpanan</string>
+    <string name="opt_clear_title">Hapus cache perpustakaan</string>
+    <string name="opt_clear_summary">Hapus cache perpustakaan secara paksa</string>
 
-    <string name="opt_clearprops_title">Bersihkan data spesifik tiap map</string>
-    <string name="opt_clearprops_summary">Bersihkan seluruh map dengan data spesifik secara paksa (seperti offset tiap map)</string>
+    <string name="opt_clearprops_title">Hapus data khusus tiap map</string>
+    <string name="opt_clearprops_summary">Hapus semua data khusus tiap map secara paksa (seperti offset tiap map)</string>
 
 <!-- Input -->
     <!-- Gameplay -->
     <string name="opt_category_gameplay">Gameplay</string>
 
-    <string name="block_area_preference_title">Manage input block areas</string>
-    <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+    <string name="block_area_preference_title">Kelola area blok input</string>
+    <string name="block_area_preference_summary">Kelola area tertentu pada layar di mana tekanan akan diabaikan selama permainan</string>
 
-    <string name="opt_backButtonPressTime_title">Back button press time</string>
-    <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+    <string name="opt_backButtonPressTime_title">Waktu tekan tombol kembali</string>
+    <string name="opt_backButtonPressTime_summary">Waktu yang diperlukan (dalam milidetik) untuk menanggapi tombol kembali di layar</string>
 
-    <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
-    <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>
+    <string name="opt_seekBarVibrateIntensity_title">Atur intensitas getaran</string>
+    <string name="opt_seekBarVibrateIntensity_summary">Ubah intensitas getaran</string>
 
     <!-- Synchronisation  -->
-    <string name="opt_category_synchronization">Synchronization</string>
+    <string name="opt_category_synchronization">Sinkronisasi</string>
 
-    <string name="opt_fix_frame_offset_title">Perbaiki offset acak</string>
-    <string name="opt_fix_frame_offset_summary">Memperbaiki offset antara waktu input and waktu frame.</string>
+    <string name="opt_fix_frame_offset_title">Perbaiki offset frame</string>
+    <string name="opt_fix_frame_offset_summary">Memperbaiki offset antara waktu input dan waktu frame.</string>
 
 <!-- Advanced -->
     <!-- Directories -->
-    <string name="opt_category_directories">Directories</string>
+    <string name="opt_category_directories">Direktori</string>
     <string name="opt_corepath_title">Direktori utama</string>
     <string name="opt_corepath_summary">Direktori utama osu!droid</string>
 
-    <string name="opt_skin_top_path_title">Direktori skin</string>
-    <string name="opt_skin_top_path_summary">Jalan ke direktori berisi file tema (standar: /sdcard/osu!droid/Skin)</string>
+    <string name="opt_skin_top_path_title">Direktori tema</string>
+    <string name="opt_skin_top_path_summary">Jalur menuju direktori yang berisi file tema (standar: /sdcard/osu!droid/Skin)</string>
 
     <string name="opt_directory_title">Lokasi beatmap</string>
-    <string name="opt_directory_summary">Jalan menuju direktori berisi beatmap (standar: /mnt/sdcard/osu!droid/Songs)</string>
+    <string name="opt_directory_summary">Jalur menuju direktori yang berisi beatmap (standar: /mnt/sdcard/osu!droid/Songs)</string>
 
     <!-- Miscellaneous -->
-    <string name="opt_force_max_refresh_rate_title">Force maximum refresh rate</string>
-    <string name="opt_force_max_refresh_rate_summary">Attempts to force the maximum refresh rate of the device to be used. Disable if you experience screen flickering.</string>
+    <string name="opt_force_max_refresh_rate_title">Paksa kecepatan refresh maksimum</string>
+    <string name="opt_force_max_refresh_rate_summary">Mencoba memaksa penggunaan kecepatan refresh maksimum perangkat. Nonaktifkan jika mengalami kedip layar.</string>
 
-    <string name="opt_safe_beatmap_bg_title">Safe beatmap background</string>
-    <string name="opt_safe_beatmap_bg_summary">Change all of the beatmaps\' background to the menu-background image from your skin</string>
+    <string name="opt_safe_beatmap_bg_title">Latar belakang beatmap aman</string>
+    <string name="opt_safe_beatmap_bg_summary">Ubah semua latar belakang beatmap menjadi gambar latar belakang menu dari tema Anda</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
