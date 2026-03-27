@@ -283,9 +283,6 @@
     <string name="opt_highPrecisionInput_title">High precision input</string>
     <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
 
-    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
-    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
-
     <string name="opt_backButtonPressTime_title">Back button press time</string>
     <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
 
