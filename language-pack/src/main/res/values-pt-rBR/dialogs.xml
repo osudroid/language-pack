@@ -5,7 +5,7 @@
     <string name="dialog_exit_no">Não</string>
     <string name="dialog_exit_message">Você tem certeza de que quer sair do jogo?</string>
 
-    <string name="dialog_visit_osu_website">Você quer acessar o site oficial do osu!?</string>
+    <string name="dialog_visit_osu_website">Você quer acessar o site oficial do "osu!"?</string>
     <string name="dialog_visit_osudroid_profile_page">Você quer acessar sua página do seu perfil?</string>
     <string name="dialog_visit_osudroid_website">Você quer acessar o site oficial do osu!droid?</string>
 
@@ -18,16 +18,16 @@
     <string name="hudEditor_back_for_menu">Pressione "Voltar" denovo para sair do Editor de HUD</string>
     <string name="hudEditor_saving">Salvando alterações...</string>
     <string name="hudEditor_saved">Mudanças salvas!</string>
-    <string name="hudEditor_discarded">Mudanças descartadas.</string>
-    <string name="hudEditor_reset">HUD resetada para o padrão.</string>
+    <string name="hudEditor_discarded">Mudanças descartadas</string>
+    <string name="hudEditor_reset">HUD resetada para o padrão</string>
 
     <string name="config_backup_info_success">Arquivo de opções exportado com sucesso!</string>
     <string name="config_backup_info_fail">Falha ao exportar arquivo de opções.</string>
     <string name="config_backup_restore_info_success">Arquivo de opções importado com sucesso!</string>
     <string name="config_backup_restore_info_fail">Falha ao importar arquivo de opções.</string>
 
-    <string name="multi_mode_window_alert_title">Multi-window Mode</string>
-    <string name="multi_mode_window_alert_message">osu!droid does not support multi-window mode. Please switch back to single-window mode to continue playing.</string>
+    <string name="multi_mode_window_alert_title">Modo Multi-janela</string>
+    <string name="multi_mode_window_alert_message">osu!droid não suporta o modo multi-janela. Por favor, troque denovo para o modo de uma janela para continuar jogando.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 

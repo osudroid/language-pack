@@ -32,7 +32,7 @@
 
     <!-- Filter Menu -->
     <string name="favorite_default">Padrão</string>
-    <string name="favorite_new_folder">Criar nova pata</string>
+    <string name="favorite_new_folder">Criar nova pasta</string>
     <string name="favorite_ensure">Você tem certeza?</string>
     <string name="favorite_manage">Acessar pasta do beatmap</string>
 
@@ -53,7 +53,7 @@
 
     <!-- Game Loading -->
     <string name="opt_show_scoreboard_title">Mostrar placar dos scores</string>
-    <string name="epilepsy_warning">Esse beatmap contém cenas com luzes e cores rápidas. Tenha atenção caso você tem epilepsia.</string>
+    <string name="epilepsy_warning">Esse beatmap contém cenas com luzes e cores rápidas. Atenção caso você tenha epilepsia.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
