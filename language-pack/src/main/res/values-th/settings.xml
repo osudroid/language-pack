@@ -254,6 +254,9 @@
     <string name="opt_delete_unsupported_videos_title">Delete unsupported videos</string>
     <string name="opt_delete_unsupported_videos_summary">Delete videos with unsupported formats (.avi and .flv)</string>
 
+    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
+
     <string name="opt_import_replay_title">Import replay</string>
     <string name="opt_import_replay_summary">Import a replay file (.odr) or an exported replay file (.edr). Only .odr files from osu!droid version 1.6.7 onwards are supported</string>
 
@@ -276,6 +279,12 @@
 
     <string name="block_area_preference_title">Manage input block areas</string>
     <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+
+    <string name="opt_highPrecisionInput_title">High precision input</string>
+    <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
+
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
 
     <string name="opt_backButtonPressTime_title">Back button press time</string>
     <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>

@@ -254,6 +254,9 @@
     <string name="opt_delete_unsupported_videos_title">지원되지 않는 비디오 삭제</string>
     <string name="opt_delete_unsupported_videos_summary">지원되지 않는 형식(.avi 및 .flv)의 비디오를 삭제합니다.</string>
 
+    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
+
     <string name="opt_import_replay_title">리플레이 가져오기</string>
     <string name="opt_import_replay_summary">리플레이 파일(.odr) 또는 내보낸 리플레이 파일(.edr)을 가져옵니다. osu!droid의 버전이 1.6.7 이상의 .odr 파일만 지원됩니다.</string>
 
@@ -277,8 +280,14 @@
     <string name="block_area_preference_title">입력 블록 영역 관리</string>
     <string name="block_area_preference_summary">게임 플레이 중에 누르는 것이 무시되는 화면 내 특정 영역을 관리합니다.</string>
 
+    <string name="opt_highPrecisionInput_title">High precision input</string>
+    <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
+
     <string name="opt_backButtonPressTime_title">뒤로가기 버튼 누르는 시간</string>
     <string name="opt_backButtonPressTime_summary">화면 뒤로가기 버튼을 작동시키는 데 필요한 시간을 설정합니다.(밀리초)</string>
+
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
 
     <string name="opt_seekBarVibrateIntensity_title">강도 설정</string>
     <string name="opt_seekBarVibrateIntensity_summary">진동의 강도를 변경합니다.</string>

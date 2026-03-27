@@ -253,6 +253,9 @@
     <string name="opt_delete_unsupported_videos_title">Удалять неподдерживаемые видео</string>
     <string name="opt_delete_unsupported_videos_summary">Видео, форматы которых не поддерживаются игрой (.avi и .flv), удалятся</string>
 
+    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
+
     <string name="opt_import_replay_title">Импортировать реплей</string>
     <string name="opt_import_replay_summary">Импорт реплеев (.odr) и экспортированных реплеев (.edr). Реплеи ODR поддерживаются с версии 1.6.7 и новее</string>
 
@@ -276,8 +279,14 @@
     <string name="block_area_preference_title">Настройки области блокировки нажатий</string>
     <string name="block_area_preference_summary">Добавьте область, которая будет игнорировать нажатия</string>
 
+    <string name="opt_highPrecisionInput_title">High precision input</string>
+    <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
+
     <string name="opt_backButtonPressTime_title">Задержка кнопки паузы</string>
     <string name="opt_backButtonPressTime_summary">Настройте время удержания в миллисекундах для её срабатывания</string>
+
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Мощность вибрации</string>
     <string name="opt_seekBarVibrateIntensity_summary">Установите время вибрации в миллисекундах</string>

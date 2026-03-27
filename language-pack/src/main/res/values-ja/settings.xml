@@ -254,6 +254,9 @@
     <string name="opt_delete_unsupported_videos_title">対応しないビデオ削除</string>
     <string name="opt_delete_unsupported_videos_summary">読み込んだビートマップに含まれた対応外のビデオを削除 (.avi、.flv等)</string>
 
+    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
+
     <string name="opt_import_replay_title">リプレイ読み込み</string>
     <string name="opt_import_replay_summary">リプレイ(.odr)、若しくは保存されたリプレイファイル(.edr)を読み込みます。osu!droid バージョン1.6.7以降の.odrファイルのみ対応できます。</string>
 
@@ -277,8 +280,14 @@
     <string name="block_area_preference_title">入力無視エリア</string>
     <string name="block_area_preference_summary">プレイ中タッチ入力を無視するエリアを設定します。</string>
 
+    <string name="opt_highPrecisionInput_title">High precision input</string>
+    <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
+
     <string name="opt_backButtonPressTime_title">Back button press time</string>
     <string name="opt_backButtonPressTime_summary">Required time in milliseconds to action the on-screen back button</string>
+
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Set Intensity</string>
     <string name="opt_seekBarVibrateIntensity_summary">Change the intensity of the vibration</string>

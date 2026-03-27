@@ -195,6 +195,8 @@
   <string name="opt_deleteUnimportedBeatmaps_summary">删除无法导入的谱面，将在未来的谱面导入操作中应用</string>
   <string name="opt_delete_unsupported_videos_title">删除不支持的视频</string>
   <string name="opt_delete_unsupported_videos_summary">删除格式不受支持的视频（avi 和 flv）</string>
+  <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+  <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
   <string name="opt_import_replay_title">导入回放</string>
   <string name="opt_import_replay_summary">导入一个回放文件（odr）或一个已导出的回放文件（edr），仅支持 osu!droid 1.6.7 及以上版本的 odr 文件</string>
   <!-- Metadata -->
@@ -212,8 +214,12 @@
   <string name="opt_category_gameplay">游戏玩法</string>
   <string name="block_area_preference_title">Manage input block areas</string>
   <string name="block_area_preference_summary">Manage specific areas within the screen where presses will be ignored during gameplay</string>
+  <string name="opt_highPrecisionInput_title">High precision input</string>
+  <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
   <string name="opt_backButtonPressTime_title">退出按钮按压延迟</string>
   <string name="opt_backButtonPressTime_summary">触发游玩时退出按钮所需的触发毫秒数</string>
+  <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+  <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
   <string name="opt_seekBarVibrateIntensity_title">设置震动强度</string>
   <string name="opt_seekBarVibrateIntensity_summary">更改震动强度</string>
   <!-- Synchronisation  -->

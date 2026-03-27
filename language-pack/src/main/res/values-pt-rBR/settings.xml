@@ -254,6 +254,9 @@
     <string name="opt_delete_unsupported_videos_title">Deletar vídeos sem suporte</string>
     <string name="opt_delete_unsupported_videos_summary">Deleta vídeos com formatos sem suporte (.avi e .flv)</string>
 
+    <string name="opt_prefer_no_video_downloads_title">Prefer downloads without video</string>
+    <string name="opt_prefer_no_video_downloads_summary">Prefer downloading beatmaps without video in beatmap downloader if the selected beatmap mirror supports it</string>
+
     <string name="opt_import_replay_title">Importar replay</string>
     <string name="opt_import_replay_summary">Importa um arquivo de replay (.odr) ou um arquivo exportado (.edr). Apenas arquivos .odr da versão do osu!droid 1.6.7 pra cima são suportados.</string>
 
@@ -277,8 +280,14 @@
     <string name="block_area_preference_title">Gerenciar áreas bloqueadas</string>
     <string name="block_area_preference_summary">Gerencie lugares da sua tela que quando tocados serão ignorados durante sua gameplay</string>
 
+    <string name="opt_highPrecisionInput_title">High precision input</string>
+    <string name="opt_highPrecisionInput_summary">Use more touch samples for more accurate hit timing and cursor movement. May reduce performance</string>
+
     <string name="opt_backButtonPressTime_title">Tempo ao pressionar "Back"</string>
     <string name="opt_backButtonPressTime_summary">Tempo em milissegundos para o botão "Back" ter efeito</string>
+
+    <string name="opt_remove_sliderlock_spinnerlock_title">Remove slider and spinner lock</string>
+    <string name="opt_remove_sliderlock_spinnerlock_summary">[UNRANKED] Allow circles and sliders to be hittable when another slider or spinner is currently active.</string>
 
     <string name="opt_seekBarVibrateIntensity_title">Selecionar intensidade</string>
     <string name="opt_seekBarVibrateIntensity_summary">Muda a intensidade da vibração do seu dispositivo</string>
