@@ -2,29 +2,29 @@
 <resources>
     <!-- Song Select -->
     <string name="menu_score" formatted="false">Очки: %s (%dx)</string>
-    <string name="menu_performance" formatted="false">ПП: %spp (%dx)</string>
+    <string name="menu_performance" formatted="false">PP: %spp (%dx)</string>
     <string name="menu_creator">Создатель: %s</string>
 
     <string name="menu_mod_back">Назад</string>
     <string name="menu_mod_multiplier" formatted="false">Множитель %.2fx</string>
-    <string name="menu_mod_reset">Сбросить выбор модов</string>
+    <string name="menu_mod_reset">Сбросить все моды</string>
 
     <string name="menu_properties_title">Свойства песни</string>
     <string name="menu_properties_offset">Смещение песни:</string>
     <string name="menu_properties_tofavs">Добавить в избранное</string>
     <string name="menu_properties_delete">Удалить карту</string>
 
-    <string name="menu_deletescore_delete">Удалить скор</string>
-    <string name="menu_deletescore_delete_success">Скор успешно удален</string>
+    <string name="menu_deletescore_delete">Удалить рекорд</string>
+    <string name="menu_deletescore_delete_success">Рекорд успешно удален</string>
 
     <string name="menu_search_filter">Найти: </string>
     <string name="menu_search_sort_title">Название</string>
     <string name="menu_search_sort_date">Дата</string>
     <string name="menu_search_sort_creator">Создатель</string>
     <string name="menu_search_sort_artist">Артист</string>
-    <string name="menu_search_sort_bpm">БПМ</string>
-    <string name="menu_search_sort_droid_stars">osu!droid Stars</string>
-    <string name="menu_search_sort_standard_stars">osu!standard Stars</string>
+    <string name="menu_search_sort_bpm">BPM</string>
+    <string name="menu_search_sort_droid_stars">Звёзды osu!droid</string>
+    <string name="menu_search_sort_standard_stars">Звёзды osu!standard</string>
     <string name="menu_search_sort_length">Длина</string>
     <string name="binfoStr1" formatted="false">Длина: %s БПМ: %s Комбо: %d</string>
     <string name="binfoStr2" formatted="false">Ноты: %d Слайдеры: %d Спиннеры: %d (ID карты: %d)</string>
@@ -38,7 +38,7 @@
 
 
 <!-- Score Export/Import -->
-    <string name="frg_score_menu_title">Результат</string>
+    <string name="frg_score_menu_title">Рекорд</string>
     <string name="frg_score_menu_export_score">Экспортировать</string>
     <string name="frg_score_menu_export_failed">Не удалось экспортировать реплей.</string>
     <string name="frg_score_menu_export_succeed" formatted="true">Реплей сохранен по пути %s</string>
@@ -48,7 +48,7 @@
     <string name="mod_section_difficulty_increase">Усложнение игры</string>
     <string name="mod_section_difficulty_automation">Автоматизация</string>
     <string name="mod_section_difficulty_conversion">Конверсия</string>
-    <string name="mod_section_fun">Забава</string>
+    <string name="mod_section_fun">Развлечения</string>
     <string name="mod_section_system">Система</string>
 
     <!-- Game Loading -->

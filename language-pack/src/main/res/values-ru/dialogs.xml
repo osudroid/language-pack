@@ -9,25 +9,25 @@
     <string name="dialog_visit_osudroid_profile_page">Вы хотите перейти в профиль?</string>
     <string name="dialog_visit_osudroid_website">Вы хотите перейти на сайт osu!droid?</string>
 
-    <string name="hudEditor_modal_title">Редактор HUD</string>
+    <string name="hudEditor_modal_title">Редактор интерфейса</string>
     <string name="hudEditor_modal_save">Сохранить и выйти</string>
     <string name="hudEditor_modal_discard">Отменить изменения</string>
     <string name="hudEditor_modal_reset">Сбросить</string>
     <string name="hudEditor_modal_cancel">Вернуться к редактированию</string>
 
     <string name="hudEditor_back_for_menu">Нажмите назад для возврата в меню.</string>
-    <string name="hudEditor_saving">Сохраняем изменения</string>
-    <string name="hudEditor_saved">Успешно сохранено!</string>
-    <string name="hudEditor_discarded">Изменения отменены</string>
-    <string name="hudEditor_reset">HUD сброшен к настройкам по умолчанию!</string>
+    <string name="hudEditor_saving">Сохраняем изменения...</string>
+    <string name="hudEditor_saved">Изменения сохранены!</string>
+    <string name="hudEditor_discarded">Изменения отменены!</string>
+    <string name="hudEditor_reset">Интерфейс сброшен к настройкам по умолчанию!</string>
 
-    <string name="config_backup_info_success">Конфиг успешно экспортирован!</string>
-    <string name="config_backup_info_fail">Во время экспорта конфига произошла ошибка.</string>
+    <string name="config_backup_info_success">Конфиг успешно экспортирован</string>
+    <string name="config_backup_info_fail">Не удалось экспортировать конфиг.</string>
     <string name="config_backup_restore_info_success">Конфиг успешно импортирован!</string>
-    <string name="config_backup_restore_info_fail">Во время импорта конфига произошла ошибка.</string>
+    <string name="config_backup_restore_info_fail">Не удалось импортировать конфиг.</string>
 
-    <string name="multi_mode_window_alert_title">Multi-window Mode</string>
-    <string name="multi_mode_window_alert_message">osu!droid does not support multi-window mode. Please switch back to single-window mode to continue playing.</string>
+    <string name="multi_mode_window_alert_title">Мультиоконный режим</string>
+    <string name="multi_mode_window_alert_message">osu!droid не поддерживает мультиоконный режим. Пожалуйста, вернитесь в обычный режим, чтобы играть.</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
