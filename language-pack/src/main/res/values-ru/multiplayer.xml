@@ -8,19 +8,19 @@
     <string name="mp_room_name_summary">Измените название комнаты</string>
 
     <string name="mp_room_password_title">Пароль комнаты</string>
-    <string name="mp_room_password_summary">Установите пароль для входа в комнату</string>
+    <string name="mp_room_password_summary">Установите пароль для входа в комнату. Если пусто, комната будет публичной.</string>
 
     <string name="mp_room_max_players_title">Максимум игроков</string>
-    <string name="mp_room_max_players_summary">Ограничьте число игроков, которые могут зайти к вам в комнату</string>
+    <string name="mp_room_max_players_summary">Ограничьте количество игроков, которые могут зайти в комнату</string>
 
     <!-- Variables -->
     <string name="mp_room_category_variables">Настройки</string>
 
-    <string name="mp_room_free_mods_title">Свободный выбор модов (фримод)</string>
-    <string name="mp_room_free_mods_summary">Разрешить пользователям свободно выбирать моды за исключением модов, влияющих на скорость карты</string>
+    <string name="mp_room_free_mods_title">Свободный выбор модов</string>
+    <string name="mp_room_free_mods_summary">Разрешить игрокам свободно выбирать моды, кроме влияющих на скорость карты</string>
 
     <string name="mp_room_versus_mode_title">Режим игры</string>
-    <string name="mp_room_versus_mode_summary">Измените режим игры в комнате</string>
+    <string name="mp_room_versus_mode_summary">Измените режим игры в комнате.</string>
     <string-array name="mp_team_versus_names">
         <item>Head to Head</item>
         <item>Team vs Team</item>
@@ -31,7 +31,7 @@
     </string-array>
 
     <string name="mp_room_win_condition_title">Условие победы</string>
-    <string name="mp_room_win_condition_summary">Измените условие победы в комнате</string>
+    <string name="mp_room_win_condition_summary">Измените условие победы в комнате.</string>
     <string-array name="mp_win_condition_names">
         <item>Score V1</item>
         <item>Точность</item>
@@ -48,8 +48,8 @@
     <!-- Share -->
     <string name="mp_room_category_share">Поделиться</string>
 
-    <string name="mp_room_link_title">Получить пригласительную ссылку</string>
-    <string name="mp_room_link_summary">Скопировать пригласительную ссылку</string>
+    <string name="mp_room_link_title">Получить ссылку-приглашение</string>
+    <string name="mp_room_link_summary">Скопировать ссылку-приглашение в буфер обмена</string>
 
 
 <!-- Multiplayer Player Settings -->
@@ -57,7 +57,7 @@
     <string name="mp_room_category_teams">Команда</string>
 
     <string name="mp_room_category_teams_title">Команда</string>
-    <string name="mp_room_category_teams_summary">Смените свою команду</string>
+    <string name="mp_room_category_teams_summary">Смените свою команду.</string>
     <string-array name="mp_team_names">
         <item>Красная</item>
         <item>Синяя</item>
@@ -70,17 +70,17 @@
     <!-- In Game -->
     <string name="mp_room_category_in_game">В игре</string>
 
-    <string name="mp_room_enable_score_submission_title">Отправка результатов на сервер</string>
+    <string name="mp_room_enable_score_submission_title">Отправка рекордов на сервер</string>
     <!-- это надо поменять -->
-    <string name="mp_room_enable_score_submission_summary">После прохождения карты ваш результат отправится на сервер.</string>
+    <string name="mp_room_enable_score_submission_summary">Отправлять рекорд на сервер после прохождения карты, если вы не проиграли</string>
 
     <string name="mp_room_nightcore_title">Использовать NightCore</string>
     <string name="mp_room_nightcore_summary">Использовать NightCore вместо DoubleTime</string>
 
     <string name="mp_room_category_lobby">Lobby</string>
 
-    <string name="mp_room_prefer_mod_acronym_title">Prefer mod acronyms over icons</string>
-    <string name="mp_room_prefer_mod_acronym_summary">Replace mod icons in player cards with mod acronyms</string>
+    <string name="mp_room_prefer_mod_acronym_title">Использовать акронимы модов вместо иконок</string>
+    <string name="mp_room_prefer_mod_acronym_summary">Заменить иконки модов на карточках игроков акронимами модов</string>
 
 <!-- Multiplayer Lobby -->
     <string name="multiplayer_lobby_back">Назад</string>
@@ -91,7 +91,7 @@
     <string name="multiplayer_lobby_refresh">Обновить</string>
     <string name="multiplayer_lobby_no_rooms">Нет доступных комнат. Создайте первую!</string>
     <string name="multiplayer_lobby_no_results">Не удалось найти комнаты по вашему запросу.</string>
-    <string name="multiplayer_lobby_fetch_error_toast">Не удалось найти комнату: %s</string>
+    <string name="multiplayer_lobby_fetch_error_toast">Не удалось найти комнаты: %s</string>
     <string name="multiplayer_lobby_fetch_error">Не удалось найти комнаты</string>
     <string name="multiplayer_lobby_room_name">Название комнаты</string>
     <string name="multiplayer_lobby_room_password">Пароль комнаты</string>
@@ -107,57 +107,57 @@
     <string name="multiplayer_room_status_idle">Простаивает</string>
     <string name="multiplayer_room_status_changing_beatmap">Смена карты</string>
     <string name="multiplayer_room_status_playing">Игра в процессе</string>
-    <string name="multiplayer_room_highest_accuracy">Наибольшая точность</string>
-    <string name="multiplayer_room_maximum_combo">Максимум комбо</string>
+    <string name="multiplayer_room_highest_accuracy">Наивысшая точность</string>
+    <string name="multiplayer_room_maximum_combo">Максимальное комбо</string>
     <string name="multiplayer_room_no_players">Нет игроков</string>
     <string name="multiplayer_room_free_mods">Свободные моды</string>
-    <string name="multiplayer_lobby_search_rooms">Search rooms...</string>
+    <string name="multiplayer_lobby_search_rooms">Искать комнаты...</string>
 
-    <string name="multiplayer_room_beatmap">Beatmap</string>
-    <string name="multiplayer_room_change_beatmap">Change beatmap</string>
-    <string name="multiplayer_room_mods">Mods</string>
-    <string name="multiplayer_room_leave">Leave</string>
-    <string name="multiplayer_room_ready">Ready</string>
-    <string name="multiplayer_room_not_ready">Not ready</string>
-    <string name="multiplayer_room_unable_status">Cannot set ready!</string>
-    <string name="multiplayer_room_no_beatmap_selected">No beatmap selected.</string>
-    <string name="multiplayer_room_changing_beatmap">Room is changing beatmap...</string>
-    <string name="multiplayer_room_download_beatmap">Download</string>
-    <string name="multiplayer_room_not_available_beatmap">Not available</string>
-    <string name="multiplayer_room_start_game">Start game!</string>
-    <string name="multiplayer_room_force_start_game">Force start game! (%d/%d)</string>
-    <string name="multiplayer_room_must_select_beatmap">You must select a beatmap first.</string>
-    <string name="multiplayer_room_at_least_one_player_per_team">At least 1 player per team is needed to start a match!</string>
-    <string name="multiplayer_room_at_least_two_players_beatmap">At least 2 players need to have the beatmap!</string>
-    <string name="multiplayer_room_settings">Settings</string>
-    <string name="multiplayer_room_cannot_ready_changing_beatmap">Cannot set ready when room is changing beatmap!</string>
-    <string name="multiplayer_room_cannot_ready_no_team">You must select a team first!</string>
-    <string name="multiplayer_room_cannot_ready_missing_beatmap">Cannot set ready, missing beatmap!</string>
-    <string name="multiplayer_room_unable_download">Unable to download beatmap: %s</string>
-    <string name="multiplayer_room_beatmap_unavailable">This beatmap isn\'t available in the download mirror servers.</string>
-    <string name="multiplayer_room_welcome">Welcome to osu!droid multiplayer!</string>
-    <string name="multiplayer_room_reconnecting">Connection lost, trying to reconnect...</string>
-    <string name="multiplayer_room_new_host">Player %s is now the room host.</string>
-    <string name="multiplayer_room_player_joined">Player %s joined (UID: %d).</string>
-    <string name="multiplayer_room_player_left">Player %s left (UID: %d).</string>
-    <string name="multiplayer_room_player_kicked">Player %s was kicked (UID: %d).</string>
-    <string name="multiplayer_room_kicked_gameplay">You were kicked by the room host, but you can continue playing.</string>
-    <string name="multiplayer_room_kicked_title">Kicked</string>
-    <string name="multiplayer_room_kicked_message">You\'ve been kicked by room host.</string>
-    <string name="multiplayer_room_kicked_close">Close</string>
-    <string name="multiplayer_room_player_menu_view_profile">View profile</string>
-    <string name="multiplayer_room_player_menu_mute">Mute</string>
-    <string name="multiplayer_room_player_menu_unmute">Unmute</string>
-    <string name="multiplayer_room_player_menu_transfer_host">Transfer host</string>
-    <string name="multiplayer_room_player_menu_kick">Kick</string>
-    <string name="multiplayer_room_player_kick_dialog_title">Kick player %s</string>
-    <string name="multiplayer_room_player_kick_dialog_message">Are you sure?</string>
-    <string name="multiplayer_room_player_transfer_dialog_title">Transfer host to %s</string>
-    <string name="multiplayer_room_player_transfer_dialog_message">Are you sure?</string>
-    <string name="multiplayer_room_chat">Chat</string>
-    <string name="multiplayer_room_chat_system">System</string>
-    <string name="multiplayer_room_chat_send">Send</string>
-    <string name="multiplayer_room_chat_error">Error to send message: %s</string>
+    <string name="multiplayer_room_beatmap">Карты</string>
+    <string name="multiplayer_room_change_beatmap">Сменить карту</string>
+    <string name="multiplayer_room_mods">Моды</string>
+    <string name="multiplayer_room_leave">Покинуть комнату</string>
+    <string name="multiplayer_room_ready">Можно начинать</string>
+    <string name="multiplayer_room_not_ready">Мне нужно подготовиться</string>
+    <string name="multiplayer_room_unable_status">Невозможно изменить статус!</string>
+    <string name="multiplayer_room_no_beatmap_selected">Карта не выбрана.</string>
+    <string name="multiplayer_room_changing_beatmap">Хост меняет карту.</string>
+    <string name="multiplayer_room_download_beatmap">Скачать</string>
+    <string name="multiplayer_room_not_available_beatmap">Недоступно</string>
+    <string name="multiplayer_room_start_game">Начать игру</string>
+    <string name="multiplayer_room_force_start_game">Принудительно начать игру (%d/%d)</string>
+    <string name="multiplayer_room_must_select_beatmap">Сначала выберите карту.</string>
+    <string name="multiplayer_room_at_least_one_player_per_team">Для начала игры нужен как минимум 1 игрок из команды!</string>
+    <string name="multiplayer_room_at_least_two_players_beatmap">Для начала игры нужно как минимум 2 игрока с картой!</string>
+    <string name="multiplayer_room_settings">Настройки</string>
+    <string name="multiplayer_room_cannot_ready_changing_beatmap">Нельзя изменить статус, пока хост меняет карту</string>
+    <string name="multiplayer_room_cannot_ready_no_team">Для начала выберите команду</string>
+    <string name="multiplayer_room_cannot_ready_missing_beatmap">Нельзя изменить статус, пока у вас нет карты</string>
+    <string name="multiplayer_room_unable_download">Невозможно скачать карту: %s</string>
+    <string name="multiplayer_room_beatmap_unavailable">Карта недоступна для скачивания на серверах-зеркалах.</string>
+    <string name="multiplayer_room_welcome">Добро пожаловать в мультиплеер osu!droid!</string>
+    <string name="multiplayer_room_reconnecting">Подключение потеряно, пробуем восстановить...</string>
+    <string name="multiplayer_room_new_host">Игрок %s стал хостом.</string>
+    <string name="multiplayer_room_player_joined">Игрок %s подключился (UID: %d).</string>
+    <string name="multiplayer_room_player_left">Игрок %s вышел (UID: %d).</string>
+    <string name="multiplayer_room_player_kicked">Игрока %s выгнали (UID: %d).</string>
+    <string name="multiplayer_room_kicked_gameplay">Вас выгнали, но вы можете продолжить играть!</string>
+    <string name="multiplayer_room_kicked_title">Исключен</string>
+    <string name="multiplayer_room_kicked_message">Вас выгнал хост.</string>
+    <string name="multiplayer_room_kicked_close">Закрыть</string>
+    <string name="multiplayer_room_player_menu_view_profile">Открыть профиль</string>
+    <string name="multiplayer_room_player_menu_mute">Заглушить</string>
+    <string name="multiplayer_room_player_menu_unmute">Разрешить говорить</string>
+    <string name="multiplayer_room_player_menu_transfer_host">Передать хоста</string>
+    <string name="multiplayer_room_player_menu_kick">Выкинуть из комнаты</string>
+    <string name="multiplayer_room_player_kick_dialog_title">Выкинуть из комнаты %s</string>
+    <string name="multiplayer_room_player_kick_dialog_message">Вы уверены?</string>
+    <string name="multiplayer_room_player_transfer_dialog_title">Передать хоста %s</string>
+    <string name="multiplayer_room_player_transfer_dialog_message">Вы уверены?</string>
+    <string name="multiplayer_room_chat">Чат</string>
+    <string name="multiplayer_room_chat_system">Система</string>
+    <string name="multiplayer_room_chat_send">Отправить</string>
+    <string name="multiplayer_room_chat_error">Не удалось отправить сообщение: %s</string>
 
 <!-- All new strings should present below for better managing locals... -->
 
