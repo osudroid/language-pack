@@ -2,10 +2,10 @@
 <resources>
 
     <string name="markdown_title">Título do Markdown</string>
-    <string name="changelog_title">Changelog</string>
+    <string name="changelog_title">Changelog (Catálogo de Mudanças)</string>
 
     <string name="message_info_multitouch">Multitouch não é suportado no seu dispositivo</string>
-    <string name="message_low_storage_space">O espaço de armazenamento está baixo. Armazenamento livre: %s GB. Isso pode causar problemas ao postar scores/replays.</string>
+    <string name="message_low_storage_space">O espaço de armazenamento está baixo. Armazenamento livre: %s GB. Isso pode causar problemas ao postar scores ou ver replays.</string>
 
     <string name="message_error">Erro: %s</string>
     <string name="message_error_open">Impossível abrir %s</string>
@@ -54,12 +54,12 @@
     <string name="message_loaded_skin">Skin aplicada</string>
     <string name="message_error_dir_not_found">A pasta não existe</string>
     <string name="file_integrity_tampered">Checkagem de integridade dos arquivos falhada. Abortando gameplay</string>
-    <string name="library_skin_importing">Importing skin...</string>
-    <string name="import_failed_open_file">Failed to open file for import.</string>
+    <string name="library_skin_importing">Importando skin...</string>
+    <string name="import_failed_open_file">Falha ao abrir arquivo para importação.</string>
 
-    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
-    <string name="act_import_file">Import file into osu!droid</string>
-    <string name="act_import_skin">Import skin into osu!droid</string>
+    <string name="act_import_beatmap">Importar beatmap para o osu!droid</string>
+    <string name="act_import_file">Importar arquivo para o osu!droid</string>
+    <string name="act_import_skin">Importar skin para o osu!droid</string>
 
 
     <!-- Parser -->

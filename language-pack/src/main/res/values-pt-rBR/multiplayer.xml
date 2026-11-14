@@ -73,8 +73,8 @@
     <string name="mp_room_enable_score_submission_title">Ativar postagem do score</string>
     <string name="mp_room_enable_score_submission_summary">Posta seu score ao placar do beatmap se obviamente você não tiver falhado na gameplay.</string>
 
-    <string name="mp_room_nightcore_title">Usar NightCore</string>
-    <string name="mp_room_nightcore_summary">Ativa o NightCore, subsituindo o DoubleTime caso esteja ativado.</string>
+    <string name="mp_room_nightcore_title">Usar Nightcore</string>
+    <string name="mp_room_nightcore_summary">Ativa o Nightcore, subsituindo o Double Time caso esteja ativado.</string>
 
     <string name="mp_room_category_lobby">Lobby</string>
 
@@ -88,12 +88,12 @@
     <string name="multiplayer_lobby_create_room_cancel">Cancelar</string>
     <string name="multiplayer_lobby_create_room_name_default">Sala de %s\</string>
     <string name="multiplayer_lobby_refresh">Recarregar lobby</string>
-    <string name="multiplayer_lobby_no_rooms">Sem salas online, por que você não cria uma?</string>
+    <string name="multiplayer_lobby_no_rooms">Sem salas online. Por que você não cria uma?</string>
     <string name="multiplayer_lobby_no_results">Sem resultados de acordo com a pesquisa.</string>
     <string name="multiplayer_lobby_fetch_error_toast">Falha ao carregar salas online: %s</string>
     <string name="multiplayer_lobby_fetch_error">Falha ao carregar lobby</string>
     <string name="multiplayer_lobby_room_name">Nome da Room</string>
-    <string name="multiplayer_lobby_room_password">Senha (vazio tornará a sala pública)</string>
+    <string name="multiplayer_lobby_room_password">Senha</string>
     <string name="multiplayer_lobby_room_capacity">Capacidade da room</string>
     <string name="multiplayer_lobby_join_room">Entrar na sala</string>
     <string name="multiplayer_lobby_join_room_accept">Entrar</string>
@@ -106,7 +106,7 @@
     <string name="multiplayer_room_status_idle">No lobby</string>
     <string name="multiplayer_room_status_changing_beatmap">Mudando o beatmap</string>
     <string name="multiplayer_room_status_playing">Jogando</string>
-    <string name="multiplayer_room_highest_accuracy">Accuracy (/Precisão) mais alta</string>
+    <string name="multiplayer_room_highest_accuracy">Accuracy (Precisão) mais alta</string>
     <string name="multiplayer_room_maximum_combo">Combo máximo</string>
     <string name="multiplayer_room_no_players">Sem jogadores</string>
     <string name="multiplayer_room_free_mods">Free Mods (Mods livres)</string>
@@ -133,7 +133,7 @@
     <string name="multiplayer_room_cannot_ready_no_team">Você precisa selecionar um time!</string>
     <string name="multiplayer_room_cannot_ready_missing_beatmap">Baixe o beatmap antes de se preparar!</string>
     <string name="multiplayer_room_unable_download">Impossível baixar beatmap: %s</string>
-    <string name="multiplayer_room_beatmap_unavailable">Esse beatmap não está disponível nos servidores mirror.</string>
+    <string name="multiplayer_room_beatmap_unavailable">Esse beatmap não está disponível nos servidores de mirror.</string>
     <string name="multiplayer_room_welcome">Bem-vindo ao Multiplayer do osu!droid!</string>
     <string name="multiplayer_room_reconnecting">Conexão perdida, reconectando...</string>
     <string name="multiplayer_room_new_host">Jogador %s é agora o host da sala.</string>

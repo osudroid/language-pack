@@ -46,7 +46,7 @@
     <string name="opt_password_summary">A senha da sua conta online</string>
 
     <string name="opt_register_title">Registrar-se</string>
-    <string name="opt_register_summary">Registrar (Criar) uma nova conta (Você só pode criar uma conta por dispositivo!)</string>
+    <string name="opt_register_summary">Criar uma nova conta (Você só pode criar uma conta por dispositivo!)</string>
 
     <!-- Community-->
     <string name="opt_category_community">Comunidade</string>
@@ -56,7 +56,7 @@
     <!-- Updates -->
     <string name="opt_category_updates">Updates</string>
     <string name="opt_update_title">Procurar atualizações</string>
-    <string name="opt_update_summary">Procura por atualizações disponiveis</string>
+    <string name="opt_update_summary">Procura por atualizações disponíveis</string>
 
     <!-- Config Backup -->
     <string name="opt_category_config_backup">Backup</string>
@@ -165,10 +165,10 @@
     <string name="opt_combo_burst_summary">Desliga ou liga o Combo Burst (caso ligado, quando você atingir uma série de acertos, o seu osu!droid mostrará uma imagem nas laterais da sua tela, dependendo da sua skin)</string>
 
     <string name="opt_largeimages_title">Contagem regressiva</string>
-    <string name="opt_largeimages_summary">Mostra uma contagem regressiva no inicio dos beatmaps (Pode não dar em alguns beatmaps, como os não puláveis [skipáveis])</string>
+    <string name="opt_largeimages_summary">Mostra uma contagem regressiva no inicio dos beatmaps (Pode não dar em alguns beatmaps, como aqueles sem a opção de Skip)</string>
 
     <string name="opt_animate_follow_circle_title">Animar follow circle</string>
-    <string name="opt_animate_follow_circle_summary">Ativa animações do slider follow circle, quando você solta-o/segura-o.</string>
+    <string name="opt_animate_follow_circle_summary">Ativa animações do slider follow circle, quando você solta ou segura-o.</string>
 
     <string name="opt_animate_combo_text_title">Animar combo</string>
     <string name="opt_animate_combo_text_summary">Ativa efeitos no combo quando você aumenta ele.</string>
@@ -176,7 +176,7 @@
     <string name="opt_snakingInSliders_title">Usar snaking nos sliders</string>
     <string name="opt_snakingInSliders_summary">Ativar sliders gradualmente "snakeando" quando aparecem.</string>
 
-    <string name="opt_snakingOutSliders_title">Use snaking out sliders</string>
+    <string name="opt_snakingOutSliders_title">Usar snaking out nos sliders</string>
     <string name="opt_snakingOutSliders_summary">Ativar silders gradualmente "snakeando" e desaparecendo de um nó</string>
 
     <string name="opt_noChangeDimInBreaks_title">Não mudar brilho do background</string>
@@ -200,31 +200,31 @@
     <string name="opt_bgm_volume_summary">Volume da música de fundo (0 a 100)</string>
 
     <string name="opt_sound_volume_title">Volume dos efeitos</string>
-    <string name="opt_sound_volume_summary">Volume dos efeitos (hitsounds). Você precisa reiniciar o jogo para surgir algum efeito! (ou as vezes não!)</string>
+    <string name="opt_sound_volume_summary">Volume dos efeitos (hitsounds)</string>
 
     <!-- Offset-->
     <string name="opt_category_offset">Offset</string>
     <string name="opt_offset_title">Offset global</string>
-    <string name="opt_offset_summary">Offset da música em ms. (Valores positivos indicam clicks mais adiantados)</string>
-    <string name="opt_offset_calibration_title">Offset Calibration</string>
-    <string name="opt_offset_calibration_summary">Tap along with a metronome to measure your device\'s audio latency</string>
+    <string name="opt_offset_summary">Offset da música em ms (Valores positivos indicam clicks mais adiantados)</string>
+    <string name="opt_offset_calibration_title">Calibrar Offset</string>
+    <string name="opt_offset_calibration_summary">Clique junto de um metrônomo para calcular a latência de áudio do seu dispositivo</string>
 
-    <string name="opt_offset_calibration_tap_hint">TAP ALONG WITH THE BEAT</string>
-    <string name="opt_offset_calibration_calibration">CALIBRATION</string>
+    <string name="opt_offset_calibration_tap_hint">CLIQUE JUNTO DO BEAT</string>
+    <string name="opt_offset_calibration_calibration">CALIBRAÇÃO</string>
     <string name="opt_offset_calibration_offset">OFFSET</string>
-    <string name="opt_offset_calibration_reset">RESET</string>
-    <string name="opt_offset_calibration_set">SET</string>
-    <string name="opt_offset_calibration_settings">SETTINGS</string>
-    <string name="opt_offset_calibration_judgement_perfect">PERFECT</string>
-    <string name="opt_offset_calibration_judgement_good">GOOD</string>
+    <string name="opt_offset_calibration_reset">RESETAR</string>
+    <string name="opt_offset_calibration_set">PÔR</string>
+    <string name="opt_offset_calibration_settings">CONFIGURAÇÕES</string>
+    <string name="opt_offset_calibration_judgement_perfect">PERFEITO</string>
+    <string name="opt_offset_calibration_judgement_good">BOM</string>
     <string name="opt_offset_calibration_judgement_meh">MEH</string>
-    <string name="opt_offset_calibration_judgement_miss">MISS</string>
-    <string name="opt_offset_calibration_streak">Keep going! %sx combo</string>
-    <string name="opt_offset_calibration_streak_combo">%sx combo</string>
-    <string name="opt_offset_calibration_feedback_perfect">Perfect!</string>
-    <string name="opt_offset_calibration_feedback_late">Late</string>
-    <string name="opt_offset_calibration_feedback_early">Early</string>
-    <string name="opt_offset_calibration_feedback_tap_count">taps</string>
+    <string name="opt_offset_calibration_judgement_miss">ERRO</string>
+    <string name="opt_offset_calibration_streak">Continue assim! Combo: %sx</string>
+    <string name="opt_offset_calibration_streak_combo">Combo: %sx</string>
+    <string name="opt_offset_calibration_feedback_perfect">Perfeito!</string>
+    <string name="opt_offset_calibration_feedback_late">Atrasado</string>
+    <string name="opt_offset_calibration_feedback_early">Cedo</string>
+    <string name="opt_offset_calibration_feedback_tap_count">cliques</string>
 
 
     <string name="opt_gameAudioSynchronizationThreshold_title">Limite mínimo de sincronização</string>
@@ -265,8 +265,8 @@
     <string name="opt_deleteosz_title">Deletar arquivos .osz</string>
     <string name="opt_deleteosz_summary">Deletar arquivos .osz após o osu!droid importar para a pasta de beatmaps.</string>
 
-    <string name="opt_scandownload_title">Escanear "Downloads"</string>
-    <string name="opt_scandownload_summary">Escaneia o diretório "Downloads" por novos beatmaps (no formato .osz).</string>
+    <string name="opt_scandownload_title">Escanear \"Downloads\"</string>
+    <string name="opt_scandownload_summary">Escaneia o diretório \"Downloads\" por novos beatmaps (no formato .osz).</string>
 
     <string name="opt_deleteUnimportedBeatmaps_title">Deletar beatmaps não importados</string>
     <string name="opt_deleteUnimportedBeatmaps_summary">Deletar beatmaps que não podem ser importados (seja por erros, armazenamento, etc.). Se aplicará em futuras importações de beatmaps.</string>
